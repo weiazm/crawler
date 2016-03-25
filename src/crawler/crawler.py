@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        car crawler
-# Purpose:      get the baisc, test and wom information of the cars from autohome
-#
-# Author:      Xudong
-#
-# Created:     22/05/2015
-# Copyright:   (c) Xudong 2015
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 ###-*-encoding:utf-8-*-
 import requests
 import urllib2
