@@ -26,3 +26,86 @@ s=set([1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12])
 print s
 s_2=set([1,2,5])
 print s|s_2
+print abs(-2.5),cmp(1, 5),int(55.8),unicode(100),float(1),bool(0)
+a=abs
+print a(-5)
+
+def fuck(x):
+    if x>0:
+        return x
+    elif x==0:
+        return x
+    else:
+        return -x
+print fuck(-8.8)
+
+def no():
+    pass
+print no()
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
