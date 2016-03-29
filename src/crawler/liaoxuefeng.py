@@ -12,16 +12,16 @@ else:
 print r'"this donot need\"'
 print '''两
 行'''
-list=['fucking','asshole','shabi']
-print list
-list.insert(1 , 'd55')
-print list
-for li in list:
+lis=['fucking','asshole','shabi']
+print lis
+lis.insert(1 , 'd55')
+print lis
+for li in lis:
     print li
-tuple=('fucking','asshole','shabi')
-print tuple
-dict={'s':1,'a':2,'f':3}
-print dict['s']
+tupl=('fucking','asshole','shabi')
+print tupl
+dic={'s':1,'a':2,'f':3}
+print dic['s']
 s=set([1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12])
 print s
 s_2=set([1,2,5])
@@ -31,6 +31,8 @@ a=abs
 print a(-5)
 
 def fuck(x):
+    if not isinstance(x , (int,float)):
+        raise TypeError("他妈的类型不对")
     if x>0:
         return x
     elif x==0:
@@ -38,11 +40,26 @@ def fuck(x):
     else:
         return -x
 print fuck(-8.8)
+#print fuck("2")
 
 def no():
     pass
 print no()
-        
+
+def power(x,n=2):
+    if not isinstance(x, (int,float)):
+        raise TypeError("他妈的类型不对")
+    res=1
+    while n>0:
+        res=res*x
+        n-=1
+    return res
+
+print power(2),power(2, 3),power(55,13131)
+
+def func(a,b,*c,**d):
+    print(a,b,c,d)
+func("x","a","a","d",s="5555")
 
 
 
