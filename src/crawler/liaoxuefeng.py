@@ -59,7 +59,79 @@ print power(2),power(2, 3),power(55,13131)
 
 def func(a,b,*c,**d):
     print(a,b,c,d)
-func("x","a","a","d",s="5555ls")
+func("x","a","a","d","sdfs",s="5555ls",f="48565")
+
+def fact(a):
+    if a==1:
+        return 1
+    else:
+        return a*fact(a-1)
+print fact(10)
+#尾递归优化 然并卵
+def fac_t(n):
+    return wdg_fact(n,1)
+def wdg_fact(n,temp):
+    if n==1:
+        return temp
+    else:
+        return wdg_fact(n-1, n*temp)
+print fac_t(10)
+#切片
+L=range(100)
+print L[0:10:3]
+#迭代
+dick={'a':"aaa",'b':'bbb','d':"ddd"}
+print dick
+for key in dick:
+    print key
+for key in dick.itervalues():
+    print key
+for key,value in dick.iteritems():
+    print key+':'+value
+#列表生成器
+print [x*x for x in range(1,11)]
+#全排列呦
+print [m+n for m in "abcde" for n in "1234"]
+#列出文件名
+import os
+print [d for d in os.listdir('/home/why/workspace/crawler')]
+g=(x*x for x in range(20))
+print g
+print g.next()
+print g.next()
+for n in g:
+    print n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
