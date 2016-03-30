@@ -59,7 +59,7 @@ print power(2),power(2, 3),power(55,13131)
 
 def func(a,b,*c,**d):
     print(a,b,c,d)
-func("x","a","a","d",s="5555")
+func("x","a","a","d",s="5555ls")
 
 
 
