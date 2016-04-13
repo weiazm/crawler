@@ -3,6 +3,8 @@ import urllib
 import urllib2
 import zlib
 import MySQLdb
+import traceback
+import string
 from bs4 import BeautifulSoup
 
 def getUrlResponse(url, postDict={}, headerDict={}, timeout=0, useGzip=False) :
@@ -98,10 +100,9 @@ def getLinsFromNum(num):
     conn.commit()
     conn.close()
 
-nums=[442,982,2123,771,66,3589]
+#nums=[442,982,2123,771,66,3589]
 #for num in nums:
 #    getLinsFromNum(num)
-
 def selectLinkById(id,conn):
 
     #conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
@@ -117,15 +118,100 @@ def findTotlePages(str):
     #print posf,post
     return str[posf+2:post-1]
 
+#得到楼主的回复与个人信息
+def getF0Content(soup):
+    #f0的内容
+    soup = soup.find(id="topic_detail_main").find(class_="conmain").find(id="maxwrap-maintopic").find(class_="clearfix contstxt outer-section")
+    #返回楼主uid，楼层,发帖时间，帖子内容,回复楼层
+    return soup["uid"],0,soup["data-time"],soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt").find(class_="w740").get_text().strip(),0
+
+#得到其他楼层的信息的list
+def getAllFContentList(soup):
+    #除了楼主的内容
+    list = soup.find(id="topic_detail_main").find(class_="conmain").find(id="maxwrap-reply").find_all(class_="clearfix contstxt outer-section")
+    return list
+
+#将表情链接转为号码字符串
+def faceLinkConvertToNumStr(faces):
+    result = ""
+    for face in faces:
+        result=result + face["src"].split("/")[-1].split(".")[0]+"."
+    return result
+
+#将楼层汉字转为数字
+def hanziConvertToNum(str):
+    if str==u"主楼":
+        return 0
+    else:
+        str_list = list(str)
+        str_list.pop()
+        return "".join(str_list)
+
+#根据list内容得到需要的东西
+def getAllFContent(list):
+    result = []
+    for soup in list:
+        uid = soup["uid"]
+        dataTime = soup["data-time"]
+        floorNum = soup["rf"]
+        content = soup.find(class_="conright fl").find(class_="rconten").find(class_="x-reply font14").find(class_="w740")
+        content2 = None
+        face = None
+        if content == None:
+            content = BeautifulSoup("本楼已被管理员删除","lxml")
+        else:
+            content2 = content.find(class_="yy_reply_cont")
+        replyFloorNum = floorNum
+        if content2!= None:
+            face = content2.find_all("img")
+            face = faceLinkConvertToNumStr(face)
+            replyFloorNum = content.find(class_="relyhf").find(class_="relyhfcon").p.find_all("a")[1].get_text().strip()
+            replyFloorNum = hanziConvertToNum(replyFloorNum)
+            content = content2.get_text().strip()
+        else:
+            face = content.find_all("img")
+            face = faceLinkConvertToNumStr(face)
+            content = content.get_text().strip()
+        res = [uid,floorNum,dataTime,content,face,replyFloorNum]
+        result.append(res)
+    return result
+
+#得到标题
+def getTitle(soup):
+    if soup.find(class_="maxtitle") != None:
+        return soup.find(class_="maxtitle").get_text()
+    elif soup.find(class_="qa-maxtitle") != None:
+        return soup.find(class_="qa-maxtitle").get_text()
+
+#构造分页链接
+def makeLinkByPage(page,url):
+    links = []
+    parts = url.split("-")
+    bbsId = parts[3]
+    for x in range (1,string.atoi(page)+1):
+        link = parts[0]+"-"+parts[1]+"-"+parts[2]+"-"+parts[3]+"-"+str(x)+".html"
+        links.append(link)
+    return bbsId,links
+
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
-for x in range(924,990945):
+#for x in range(924,990945):
+for x in range(925, 926):
     url = selectLinkById(x,conn)
     html = getUrlRespHtml(url)
     print url
     #conn.close()
     soup = BeautifulSoup(html,"lxml")
-    if soup.find(class_="maxtitle")!=None:
-        print "title=",soup.find(class_="maxtitle").get_text()
-    if soup.find(class_="qa-maxtitle") != None:
-        print "qa-title=", soup.find(class_="qa-maxtitle").get_text()
-    print "page=",findTotlePages(soup.find(id="x-pages2").get_text())
+    title = getTitle(soup)
+    print title
+    print getF0Content(soup)
+    page = findTotlePages(soup.find(id="x-pages2").get_text()).strip()
+    print page
+    soups = []
+    links = makeLinkByPage(page,url);
+
+    for list in getAllFContent(getAllFContentList(soup)):
+        try:
+            print list[0],list[1],list[2],list[3],list[4],list[5]
+        except:
+            #traceback.print_exc()
+            continue
