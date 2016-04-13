@@ -123,7 +123,7 @@ def getF0Content(soup):
     #f0的内容
     soup = soup.find(id="topic_detail_main").find(class_="conmain").find(id="maxwrap-maintopic").find(class_="clearfix contstxt outer-section")
     #返回楼主uid，楼层,发帖时间，帖子内容,回复楼层
-    return soup["uid"],0,soup["data-time"],soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt").find(class_="w740").get_text().strip(),0
+    return soup["uid"],0,soup["data-time"],soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt").find(class_="w740").get_text().strip(),faceLinkConvertToNumStr(soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt").find(class_="w740").find_all("img")),0
 
 #得到其他楼层的信息的list
 def getAllFContentList(soup):
@@ -202,16 +202,18 @@ for x in range(925, 926):
     #conn.close()
     soup = BeautifulSoup(html,"lxml")
     title = getTitle(soup)
-    print title
-    print getF0Content(soup)
+    F0 = getF0Content(soup)
     page = findTotlePages(soup.find(id="x-pages2").get_text()).strip()
     print page
     soups = []
-    links = makeLinkByPage(page,url);
-
-    for list in getAllFContent(getAllFContentList(soup)):
-        try:
-            print list[0],list[1],list[2],list[3],list[4],list[5]
-        except:
-            #traceback.print_exc()
-            continue
+    links = makeLinkByPage(page,url)
+    print links[0],title,F0[0], F0[1], F0[2], F0[3], F0[4]
+    for link in links[1]:
+        soups.append(BeautifulSoup(getUrlRespHtml(link),"lxml"))
+    for soup in soups:
+        for lis in getAllFContent(getAllFContentList(soup)):
+            try:
+                print links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4],lis[5]
+            except:
+                #traceback.print_exc()
+                continue
