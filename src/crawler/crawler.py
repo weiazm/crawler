@@ -123,7 +123,10 @@ def getF0Content(soup):
     #f0的内容
     soup = soup.find(id="topic_detail_main").find(class_="conmain").find(id="maxwrap-maintopic").find(class_="clearfix contstxt outer-section")
     #返回楼主uid，楼层,发帖时间，帖子内容,回复楼层
-    return soup["uid"],0,soup["data-time"],soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt").find(class_="w740").get_text().strip(),faceLinkConvertToNumStr(soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt").find(class_="w740").find_all("img")),0
+    try:
+        return soup["uid"],0,soup["data-time"],soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt").find(class_="w740").get_text().strip(),0
+    except:
+        return soup["uid"],0,soup["data-time"],soup.find(class_="conright fr").find(class_="rconten").find(class_="conttxt tpt").get_text().strip(),1
 
 #得到其他楼层的信息的list
 def getAllFContentList(soup):
@@ -140,12 +143,21 @@ def faceLinkConvertToNumStr(faces):
 
 #将楼层汉字转为数字
 def hanziConvertToNum(str):
+    str = str.split(" ")[-1]
     if str==u"主楼":
         return 0
     else:
         str_list = list(str)
         str_list.pop()
-        return "".join(str_list)
+        res="".join(str_list)
+        if res==u"沙":
+            return 1
+        elif res==u"板":
+            return 2
+        elif res==u"地":
+            return 3
+        return res
+
 
 #根据list内容得到需要的东西
 def getAllFContent(list):
@@ -156,23 +168,28 @@ def getAllFContent(list):
         floorNum = soup["rf"]
         content = soup.find(class_="conright fl").find(class_="rconten").find(class_="x-reply font14").find(class_="w740")
         content2 = None
-        face = None
+        #face = None
         if content == None:
             content = BeautifulSoup("本楼已被管理员删除","lxml")
         else:
             content2 = content.find(class_="yy_reply_cont")
         replyFloorNum = floorNum
         if content2!= None:
-            face = content2.find_all("img")
-            face = faceLinkConvertToNumStr(face)
-            replyFloorNum = content.find(class_="relyhf").find(class_="relyhfcon").p.find_all("a")[1].get_text().strip()
-            replyFloorNum = hanziConvertToNum(replyFloorNum)
+            #face = content2.find_all("img")
+            #face = faceLinkConvertToNumStr(face)
+            #print content.find(class_="relyhf").find(class_="relyhfcon").p.find_all("a").get_text()
+            try:
+                replyFloorNum = content.find(class_="relyhf").find(class_="relyhfcon").p.get_text().strip()
+                replyFloorNum = hanziConvertToNum(replyFloorNum)
+            except:
+                pass
             content = content2.get_text().strip()
         else:
-            face = content.find_all("img")
-            face = faceLinkConvertToNumStr(face)
+            #face = content.find_all("img")
+            #face = faceLinkConvertToNumStr(face)
             content = content.get_text().strip()
-        res = [uid,floorNum,dataTime,content,face,replyFloorNum]
+        #res = [uid,floorNum,dataTime,content,face,replyFloorNum]
+        res = [uid, floorNum, dataTime, content, replyFloorNum]
         result.append(res)
     return result
 
@@ -195,10 +212,10 @@ def makeLinkByPage(page,url):
 
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
 #for x in range(924,990945):
-for x in range(925, 926):
+for x in range(1460, 1461):
     url = selectLinkById(x,conn)
     html = getUrlRespHtml(url)
-    print url
+    print url+" "+str(x)
     #conn.close()
     soup = BeautifulSoup(html,"lxml")
     title = getTitle(soup)
@@ -207,13 +224,13 @@ for x in range(925, 926):
     print page
     soups = []
     links = makeLinkByPage(page,url)
-    print links[0],title,F0[0], F0[1], F0[2], F0[3], F0[4]
+    print links[0],title,F0[0], F0[1], F0[2], F0[3]
     for link in links[1]:
         soups.append(BeautifulSoup(getUrlRespHtml(link),"lxml"))
     for soup in soups:
         for lis in getAllFContent(getAllFContentList(soup)):
             try:
-                print links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4],lis[5]
+                print links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4]
             except:
                 #traceback.print_exc()
                 continue
