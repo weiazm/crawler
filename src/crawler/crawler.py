@@ -74,7 +74,7 @@ def getLinsFromUrl(url):
     lins = set(lins)
     return lins
 
-def do(num):
+def getLinsFromNum(num):
     conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
     cursor = conn.cursor()
     n=1
@@ -99,5 +99,33 @@ def do(num):
     conn.close()
 
 nums=[442,982,2123,771,66,3589]
-for num in nums:
-    do(num)
+#for num in nums:
+#    getLinsFromNum(num)
+
+def selectLinkById(id,conn):
+
+    #conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
+    cursor = conn.cursor()
+    cursor.execute("select * from forum_lins where id=%s"%(id))
+    return "http://club.autohome.com.cn"+cursor.fetchall()[0][1]
+
+def findTotlePages(str):
+    char = '/'
+    char2 = u'页'
+    posf = str.index(char)
+    post = str.index(char2)
+    #print posf,post
+    return str[posf+2:post-1]
+
+conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
+for x in range(924,990945):
+    url = selectLinkById(x,conn)
+    html = getUrlRespHtml(url)
+    print url
+    #conn.close()
+    soup = BeautifulSoup(html,"lxml")
+    if soup.find(class_="maxtitle")!=None:
+        print "title=",soup.find(class_="maxtitle").get_text()
+    if soup.find(class_="qa-maxtitle") != None:
+        print "qa-title=", soup.find(class_="qa-maxtitle").get_text()
+    print "page=",findTotlePages(soup.find(id="x-pages2").get_text())
