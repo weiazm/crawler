@@ -5,6 +5,8 @@ import zlib
 import MySQLdb
 import traceback
 import string
+import logging
+import datetime
 from bs4 import BeautifulSoup
 
 def getUrlResponse(url, postDict={}, headerDict={}, timeout=0, useGzip=False) :
@@ -211,10 +213,15 @@ def makeLinkByPage(page,url):
     return bbsId,links
 
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
+logging.basicConfig(filename='log.log',level=logging.DEBUG)
 #for x in range(924,990945):
-for x in range(1527, 990945):
+for x in range(1691, 990945):
     url = selectLinkById(x,conn)
-    html = getUrlRespHtml(url)
+    try:
+        html = getUrlRespHtml(url)
+    except urllib2.HTTPError, e:
+        logging.error(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ' id=' + str(x) + ' HTTPError = ' + str(e.code)+" 帖子可能被删除")
+        continue
     print url+" "+str(x)
     #conn.close()
     soup = BeautifulSoup(html,"lxml")
