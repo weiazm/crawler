@@ -212,7 +212,7 @@ def makeLinkByPage(page,url):
 
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
 #for x in range(924,990945):
-for x in range(1460, 1461):
+for x in range(1527, 990945):
     url = selectLinkById(x,conn)
     html = getUrlRespHtml(url)
     print url+" "+str(x)
