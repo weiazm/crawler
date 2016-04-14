@@ -222,9 +222,9 @@ def insertIntoDatabase(conn,forum_lin_id,post_id,title,uid, from_floor, reply_ti
 
 
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler",charset="utf8")
-logging.basicConfig(filename='log.log',level=logging.DEBUG)
+logging.basicConfig(filename='log2.log',level=logging.DEBUG)
 #for x in range(924,990945):
-for x in range(7799, 20000):
+for x in range(24556, 30000):
     try:
         url = selectLinkById(x,conn)
         try:
