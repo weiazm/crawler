@@ -212,32 +212,43 @@ def makeLinkByPage(page,url):
         links.append(link)
     return bbsId,links
 
+def insertIntoDatabase(conn,forum_lin_id,post_id,title,uid, from_floor, reply_time, content,to_floor):
+    cursor = conn.cursor()
+    cursor.execute("insert into forum_content value(0,"+forum_lin_id+","+post_id+",\""+title+"\","+uid+"," +from_floor+"," +reply_time+",\""+ content+"\","+to_floor+")")
+
+
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
 logging.basicConfig(filename='log.log',level=logging.DEBUG)
 #for x in range(924,990945):
-for x in range(1691, 990945):
-    url = selectLinkById(x,conn)
+for x in range(924, 925):
     try:
-        html = getUrlRespHtml(url)
-    except urllib2.HTTPError, e:
-        logging.error(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ' id=' + str(x) + ' HTTPError = ' + str(e.code)+" 帖子可能被删除")
+        url = selectLinkById(x,conn)
+        try:
+            html = getUrlRespHtml(url)
+        except urllib2.HTTPError, e:
+            logging.error(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ' id=' + str(x) + ' HTTPError = ' + str(e.code)+u"帖子可能被删除:"+url)
+            continue
+        print url+" "+str(x)
+        #conn.close()
+        soup = BeautifulSoup(html,"lxml")
+        title = getTitle(soup)
+        F0 = getF0Content(soup)
+        page = findTotlePages(soup.find(id="x-pages2").get_text()).strip()
+        print page+u"页"
+        soups = []
+        links = makeLinkByPage(page,url)
+        print x,links[0],title,F0[0], F0[1], F0[2], F0[3],F0[4]
+        insertIntoDatabase(conn, str(x),str(links[0]),str(title),str(F0[0]), str(F0[1]), str(F0[2]), str(F0[3]),str(F0[4]))
+        for link in links[1]:
+            soups.append(BeautifulSoup(getUrlRespHtml(link),"lxml"))
+        for soup in soups:
+            for lis in getAllFContent(getAllFContentList(soup)):
+                print x,links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4]
+                insertIntoDatabase(conn, x,links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4])
+    except Exception,e:
+        logging.error(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ' id=' + str(x) + ' Error = ' + str(e) + u"未知错误发生:" + url)
+        conn.rollback()
+
         continue
-    print url+" "+str(x)
-    #conn.close()
-    soup = BeautifulSoup(html,"lxml")
-    title = getTitle(soup)
-    F0 = getF0Content(soup)
-    page = findTotlePages(soup.find(id="x-pages2").get_text()).strip()
-    print page
-    soups = []
-    links = makeLinkByPage(page,url)
-    print links[0],title,F0[0], F0[1], F0[2], F0[3]
-    for link in links[1]:
-        soups.append(BeautifulSoup(getUrlRespHtml(link),"lxml"))
-    for soup in soups:
-        for lis in getAllFContent(getAllFContentList(soup)):
-            try:
-                print links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4]
-            except:
-                #traceback.print_exc()
-                continue
+    else:
+        conn.commit()
