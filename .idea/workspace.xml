@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78d0db20-9934-4cd7-9b40-3747d678613a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/crawler/crawler2.py" />
+    <list default="true" id="78d0db20-9934-4cd7-9b40-3747d678613a" name="Default" comment="个人版本 运行done">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/crawler/log.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/crawler/log2.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crawler/crawler.py" afterPath="$PROJECT_DIR$/src/crawler/crawler.py" />
     </list>
     <ignored path="crawler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -461,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1460608297417</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="个人版本 运行done">
+      <created>1460622682871</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1460622682871</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -508,7 +515,8 @@
     <MESSAGE value="继续优化" />
     <MESSAGE value="添加except记录日志" />
     <MESSAGE value="运行代码 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="运行代码 done" />
+    <MESSAGE value="个人版本 运行done" />
+    <option name="LAST_COMMIT_MESSAGE" value="个人版本 运行done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

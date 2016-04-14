@@ -1,0 +1,4 @@
+ERROR:root:2016-04-14 13:57:23 id=22472 HTTPError = 404帖子可能被删除:http://club.autohome.com.cn/bbs/thread-c-3204-42587346-1.html
+ERROR:root:2016-04-14 13:57:41 id=22490 Error = 'NoneType' object has no attribute 'get_text'未知错误发生:http://club.autohome.com.cn/bbs/thread-c-3204-39360712-1.html
+ERROR:root:2016-04-14 14:20:49 id=23472 HTTPError = 404帖子可能被删除:http://club.autohome.com.cn/bbs/thread-c-3204-50218801-1.html
+ERROR:root:2016-04-14 14:36:36 id=24126 HTTPError = 404帖子可能被删除:http://club.autohome.com.cn/bbs/thread-c-3204-50437091-1.html
