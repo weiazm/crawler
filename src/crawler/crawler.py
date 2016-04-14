@@ -214,13 +214,17 @@ def makeLinkByPage(page,url):
 
 def insertIntoDatabase(conn,forum_lin_id,post_id,title,uid, from_floor, reply_time, content,to_floor):
     cursor = conn.cursor()
-    cursor.execute("insert into forum_content value(0,"+forum_lin_id+","+post_id+",\""+title+"\","+uid+"," +from_floor+"," +reply_time+",\""+ content+"\","+to_floor+")")
+    title = title.replace("\"","-")
+    content = content.replace("\"","-")
+    sql = "insert into forum_content value(0,"+forum_lin_id+","+post_id+",\""+title+"\","+uid+"," +from_floor+"," +reply_time+",\""+ content+"\","+to_floor+")"
+    #print sql
+    cursor.execute(sql)
 
 
-conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
+conn = MySQLdb.connect("localhost", "root", "1234", "crawler",charset="utf8")
 logging.basicConfig(filename='log.log',level=logging.DEBUG)
 #for x in range(924,990945):
-for x in range(924, 925):
+for x in range(1134, 2000):
     try:
         url = selectLinkById(x,conn)
         try:
@@ -237,18 +241,17 @@ for x in range(924, 925):
         print page+u"页"
         soups = []
         links = makeLinkByPage(page,url)
-        print x,links[0],title,F0[0], F0[1], F0[2], F0[3],F0[4]
-        insertIntoDatabase(conn, str(x),str(links[0]),str(title),str(F0[0]), str(F0[1]), str(F0[2]), str(F0[3]),str(F0[4]))
+        #print x,links[0],title,F0[0], F0[1], F0[2], F0[3],F0[4]
+        insertIntoDatabase(conn, unicode(x),unicode(links[0]),unicode(title),unicode(F0[0]), unicode(F0[1]), unicode(F0[2]), unicode(F0[3]),unicode(F0[4]))
         for link in links[1]:
             soups.append(BeautifulSoup(getUrlRespHtml(link),"lxml"))
         for soup in soups:
             for lis in getAllFContent(getAllFContentList(soup)):
-                print x,links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4]
-                insertIntoDatabase(conn, x,links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4])
+                #print x,links[0],title,lis[0],lis[1],lis[2],lis[3],lis[4]
+                insertIntoDatabase(conn, unicode(x),unicode(links[0]),unicode(title),unicode(lis[0]),unicode(lis[1]),unicode(lis[2]),unicode(lis[3]),unicode(lis[4]))
     except Exception,e:
         logging.error(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ' id=' + str(x) + ' Error = ' + str(e) + u"未知错误发生:" + url)
         conn.rollback()
-
         continue
     else:
         conn.commit()
