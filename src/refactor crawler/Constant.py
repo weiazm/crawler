@@ -23,4 +23,5 @@ class BBSContent(object):
         self.num_of_links=""
         self.num_of_words=""
         self.num_of_pictures=""
+        self.num_of_faces=""
         self.device=""

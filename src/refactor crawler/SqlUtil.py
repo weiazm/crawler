@@ -6,6 +6,12 @@ logging.basicConfig(filename='SqlUtil.log',level=logging.DEBUG)
 
 class MysqlOperator(object):
 
+    @classmethod
+    def updateTitleAndClickNum(cls,conn,id,clickNum,title):
+        cursor = conn.cursor()
+        cursor.execute('update forum_links set title =%s,click_num =%s where id =%s',[title,clickNum,id])
+        cursor.close()
+
     def __init__(self,connection):
         self.__conn = connection
 

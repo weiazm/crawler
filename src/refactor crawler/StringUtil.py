@@ -4,8 +4,8 @@ import logging
 class LinkOperator(object):
 
     @classmethod
-    def formatString(cls,str):
-        return str.replace('\t', ' ').replace('\n', ' ').replace('\"')
+    def formatString(cls,strd):
+        return unicode(strd.replace('\t', '').replace('\n', '').replace("'","''").strip())
 
     @classmethod
     def makeLinkByCarId(self,carId):
