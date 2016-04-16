@@ -9,4 +9,18 @@ headerDict = {
     'Referer':'http://www.autohome.com.cn/364/',
     'Upgrade-Insecure-Requests':'1',
     'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36'
-};
+}
+
+class BBSContent(object):
+    def __init__(self):
+        self.forum_link_id=""
+        self.bbs_id=""
+        self.uid=""
+        self.from_floor=""
+        self.to_floor=""
+        self.reply_time=""
+        self.content=""
+        self.num_of_links=""
+        self.num_of_words=""
+        self.num_of_pictures=""
+        self.device=""

@@ -13,6 +13,16 @@ class SoupOperator(object):
     def __init__(self,html):
         self.__soup = BeautifulSoup(html,'lxml')
 
+    def getTitle(self):
+        normal = self.__soup.find(class_="maxtitle")
+        qa = self.__soup.find(class_="qa-maxtitle")
+        if normal != None:
+            return True,normal.get_text()
+        elif qa != None:
+            return True,qa.get_text()
+        else:
+            return False,"noTitleFound"
+
     def getBBSPageNum(self):
         str = self.__soup.find(class_="pagearea").find(class_="fr").get_text()[1:][0:-1]
         return string.atoi(str)
@@ -37,15 +47,18 @@ class SoupOperator(object):
                     _clickNum =unicode('')
                     _lastReplyTime =unicode(s.find(class_="ttime").get_text())
                     _LastReplyUid =unicode(langs[6])
-                    res = [_carId,_bbsId,_link,_authorUid,_releaseTime,_replyNum,_clickNum,_lastReplyTime,_LastReplyUid]
+                    res = (_carId,_bbsId,_link,_authorUid,_releaseTime,_replyNum,_clickNum,_lastReplyTime,_LastReplyUid)
                     result.append(res)
             except Exception,e:
                 logging.error(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ' link=' + unicode(link) + ' Error = ' + unicode(e) + u"未知错误发生:" + unicode(s))
-        MysqlOperator(conn).insertForumLinks(set(result))
-
+        #MysqlOperator(conn).insertForumLinks(set(result))
+        return result
 
     @classmethod
     def getBBSLinksFromForumLink(self,linkList,conn):
+        setValue = []
         for link in linkList:
-            self.__getBBSLinkFromLink(link,conn)
-
+            result = self.__getBBSLinkFromLink(link,conn)
+            for res in result:
+                setValue.append(res)
+        MysqlOperator(conn).insertForumLinks(set(setValue))

@@ -27,9 +27,15 @@ class MysqlOperator(object):
             logging.error(
                 datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ' carIdAndLinks=' + str(c) + ' Error = ' + str(
                     e) + u"插入数据库发生异常:" )
-            cursor.rollback()
+            self.__conn.rollback()
         else:
             print u"插入数据库行数：" + unicode(cursor.rowcount)
-            cursor.commit()
+            self.__conn.commit()
         finally:
             cursor.close()
+
+    def selectLinkById(self,id):
+        cursor = self.__conn.cursor()
+        cursor.execute('select * from forum_links where id = %s',[id])
+        #return 'http://club.autohome.com.cn'+cursor.fetchall()[0]
+        return cursor.fetchall()[0]

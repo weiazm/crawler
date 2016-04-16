@@ -4,6 +4,10 @@ import logging
 class LinkOperator(object):
 
     @classmethod
+    def formatString(cls,str):
+        return str.replace('\t', ' ').replace('\n', ' ').replace('\"')
+
+    @classmethod
     def makeLinkByCarId(self,carId):
         return 'http://club.autohome.com.cn/bbs/forum-c-'+str(carId)+'-1.html?orderby=dateline&qaType=-1#pvareaid=101061'
 
