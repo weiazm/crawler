@@ -94,7 +94,7 @@ print [x*x for x in range(1,11)]
 print [m+n for m in "abcde" for n in "1234"]
 #列出文件名
 import os
-print [d for d in os.listdir('/home/why/workspace/pakage')]
+print [d for d in os.listdir('/home/why/workspace/test')]
 g=(x*x for x in range(20))
 print g
 print g.next()
