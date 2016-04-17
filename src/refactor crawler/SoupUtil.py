@@ -81,7 +81,7 @@ class SoupOperator(object):
     def __findGifNum(self, lis):
         n = 0
         for lin in lis:
-            if str(lin['src']).find('http://x.autoimg.cn/club/smiles/') and str(lin['src']).find('gif'):
+            if unicode(lin['src']).find('http://x.autoimg.cn/club/smiles/') and unicode(lin['src']).find('gif'):
                 n += 1
         return n
 
