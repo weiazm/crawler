@@ -1,19 +1,19 @@
-#-*-coding:utf-8-*-
+# -*-coding:utf-8-*-
 import logging
 import urllib
 import urllib2
 import zlib
 
-class HtmlCreator(object):
 
-    def __init__(self,url,postDict={}, headerDict={}, timeout=0, useGzip=True):
+class HtmlCreator(object):
+    def __init__(self, url, postDict={}, headerDict={}, timeout=0, useGzip=True):
         self.__url = url
         self.__postDict = postDict
         self.__headerDict = headerDict
         self.__timeout = timeout
         self.__useGzip = useGzip
 
-    def __getUrlResponse(self,url, postDict={}, headerDict={}, timeout=0, useGzip=False):
+    def __getUrlResponse(self, url, postDict={}, headerDict={}, timeout=0, useGzip=False):
         # makesure url is string, not unicode, otherwise urllib2.urlopen will error
         url = str(url);
 

@@ -25,3 +25,6 @@ class BBSContent(object):
         self.num_of_pictures=""
         self.num_of_faces=""
         self.device=""
+
+    def printContent(self):
+        print self.forum_link_id,self.bbs_id,self.uid,self.from_floor,self.to_floor,self.reply_time,self.content,self.num_of_links,self.num_of_words,self.num_of_pictures,self.num_of_faces,self.device
