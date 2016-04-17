@@ -10,11 +10,18 @@ from StringUtil import LinkOperator
 from SoupUtil import SoupOperator
 from Constant import BBSContent
 
-conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
+config = {'host': '172.17.23.70',
+          'user': 'why',
+          'password': '48152659-+',
+          'port': 3306,
+          'database': 'refactor_crawler',
+          'charset': 'unicode'
+          }
+conn = mysql.connector.connect(**config)
 logging.basicConfig(filename='log.log', level=logging.DEBUG)
 
 cur = conn.cursor()
-cur.execute('SELECT num FROM counter where id = 1')
+cur.execute('SELECT num FROM counter where id = 2')
 index = cur.fetchall()[0][0]
 #for x in range(1,1766627):
 while index<176626:
@@ -67,6 +74,6 @@ while index<176626:
         continue
     else:
         index+=1
-        cur.execute('update counter set num = %s where id = 1',[index])
+        cur.execute('update counter set num = %s where id = 2',[index])
         conn.commit()
 

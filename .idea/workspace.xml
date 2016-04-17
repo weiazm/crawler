@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78d0db20-9934-4cd7-9b40-3747d678613a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/crawler.iml" afterPath="$PROJECT_DIR$/.idea/crawler.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/log.log" afterPath="$PROJECT_DIR$/src/refactor crawler/log.log" />
     </list>
     <ignored path="crawler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="StringUtil.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/refactor crawler/StringUtil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="133">
               <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding>
                 <element signature="e#21#35#0" expanded="true" />
@@ -40,7 +41,7 @@
       <file leaf-file-name="crawler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/crawler/crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-518">
+            <state relative-caret-position="1406">
               <caret line="174" column="48" selection-start-line="174" selection-start-column="48" selection-end-line="174" selection-end-column="48" />
               <folding>
                 <element signature="e#20#33#0" expanded="true" />
@@ -60,7 +61,7 @@
       <file leaf-file-name="SoupUtil.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/refactor crawler/SoupUtil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="2831">
               <caret line="175" column="45" selection-start-line="175" selection-start-column="45" selection-end-line="175" selection-end-column="45" />
               <folding>
                 <element signature="e#21#35#0" expanded="true" />
@@ -73,7 +74,7 @@
       <file leaf-file-name="SqlUtil.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/refactor crawler/SqlUtil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="304">
               <caret line="19" column="34" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="34" />
               <folding>
                 <element signature="e#21#35#0" expanded="true" />
@@ -87,7 +88,7 @@
       <file leaf-file-name="log.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/refactor crawler/log.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="304">
               <caret line="16" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
               <folding />
             </state>
@@ -97,7 +98,7 @@
       <file leaf-file-name="Constant.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/refactor crawler/Constant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="513">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
@@ -107,21 +108,11 @@
       <file leaf-file-name="RunnableGetContent.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state relative-caret-position="269">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
               <folding>
                 <element signature="e#21#35#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connection.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/lib/python2.7/dist-packages/mysql/connector/connection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="721" column="0" selection-start-line="721" selection-start-column="0" selection-end-line="721" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -198,20 +189,13 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="crawler" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.11+ (/usr/bin/python2.7) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -276,11 +260,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WHYproject\crawler\src" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.RunnableGetContent">
     <configuration default="false" name="HtmlCreator" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -654,13 +644,12 @@
     <frame x="0" y="0" width="1366" height="732" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1724907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17185186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29707792" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="388" width="1366" height="344" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29695025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="388" width="1366" height="344" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1344411" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -668,6 +657,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -716,31 +706,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crawler/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#253#1664#0" expanded="false" />
-            <element signature="e#1749#2219#0" expanded="false" />
-            <element signature="e#2250#2521#0" expanded="false" />
-            <element signature="e#2552#3197#0" expanded="false" />
-            <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
-            <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crawler/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/crawler/crawler2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -760,15 +725,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#20#33#0" expanded="true" />
             <element signature="e#253#1664#0" expanded="false" />
             <element signature="e#1749#2219#0" expanded="false" />
             <element signature="e#2250#2521#0" expanded="false" />
             <element signature="e#2552#3197#0" expanded="false" />
             <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
+            <element signature="e#3559#3692#0" expanded="false" />
             <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
+            <element signature="e#6404#6609#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -799,26 +764,20 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#20#33#0" expanded="true" />
             <element signature="e#253#1664#0" expanded="false" />
             <element signature="e#1749#2219#0" expanded="false" />
             <element signature="e#2250#2521#0" expanded="false" />
             <element signature="e#2552#3197#0" expanded="false" />
             <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
+            <element signature="e#3559#3692#0" expanded="false" />
             <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
+            <element signature="e#6404#6609#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/bs4/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14280">
-          <caret line="957" column="0" selection-start-line="957" selection-start-column="0" selection-end-line="957" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/bs4/element.py" />
     <entry file="file://$PROJECT_DIR$/src/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -838,47 +797,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#20#33#0" expanded="true" />
             <element signature="e#253#1664#0" expanded="false" />
             <element signature="e#1749#2219#0" expanded="false" />
             <element signature="e#2250#2521#0" expanded="false" />
             <element signature="e#2552#3197#0" expanded="false" />
             <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
+            <element signature="e#3559#3692#0" expanded="false" />
             <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="12" selection-start-line="16" selection-start-column="0" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3045">
-          <caret line="216" column="35" selection-start-line="216" selection-start-column="35" selection-end-line="216" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crawler/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#253#1664#0" expanded="false" />
-            <element signature="e#1749#2219#0" expanded="false" />
-            <element signature="e#2250#2521#0" expanded="false" />
-            <element signature="e#2552#3197#0" expanded="false" />
-            <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
-            <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
+            <element signature="e#6404#6609#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -902,15 +829,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#20#33#0" expanded="true" />
             <element signature="e#253#1664#0" expanded="false" />
             <element signature="e#1749#2219#0" expanded="false" />
             <element signature="e#2250#2521#0" expanded="false" />
             <element signature="e#2552#3197#0" expanded="false" />
             <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
+            <element signature="e#3559#3692#0" expanded="false" />
             <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
+            <element signature="e#6404#6609#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -934,15 +861,47 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#20#33#0" expanded="true" />
             <element signature="e#253#1664#0" expanded="false" />
             <element signature="e#1749#2219#0" expanded="false" />
             <element signature="e#2250#2521#0" expanded="false" />
             <element signature="e#2552#3197#0" expanded="false" />
             <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
+            <element signature="e#3559#3692#0" expanded="false" />
             <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
+            <element signature="e#6404#6609#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="12" selection-start-line="16" selection-start-column="0" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3045">
+          <caret line="216" column="35" selection-start-line="216" selection-start-column="35" selection-end-line="216" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crawler/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#33#0" expanded="true" />
+            <element signature="e#253#1664#0" expanded="false" />
+            <element signature="e#1749#2219#0" expanded="false" />
+            <element signature="e#2250#2521#0" expanded="false" />
+            <element signature="e#2552#3197#0" expanded="false" />
+            <element signature="e#3309#3528#0" expanded="false" />
+            <element signature="e#3559#3692#0" expanded="false" />
+            <element signature="e#4530#4651#0" expanded="false" />
+            <element signature="e#6404#6609#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -959,40 +918,22 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#20#33#0" expanded="true" />
             <element signature="e#253#1664#0" expanded="false" />
             <element signature="e#1749#2219#0" expanded="false" />
             <element signature="e#2250#2521#0" expanded="false" />
             <element signature="e#2552#3197#0" expanded="false" />
             <element signature="e#3309#3528#0" expanded="false" />
-            <element signature="e#4306#4474#0" expanded="false" />
+            <element signature="e#3559#3692#0" expanded="false" />
             <element signature="e#4530#4651#0" expanded="false" />
-            <element signature="e#4696#5003#0" expanded="false" />
-            <element signature="e#6651#6885#0" expanded="false" />
+            <element signature="e#6404#6609#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.1/idea.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/urllib2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="555" column="0" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1247972723/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/idea.properties" />
+    <entry file="file:///usr/lib/python2.7/urllib2.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1247972723/datetime.py" />
     <entry file="file://$PROJECT_DIR$/src/test/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1035,61 +976,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/bs4/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="957" column="0" selection-start-line="957" selection-start-column="0" selection-end-line="957" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/bs4/element.py" />
     <entry file="file://$PROJECT_DIR$/src/test/liaoxuefeng.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor crawler/SqlUtil.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.log" />
+    <entry file="file://$PROJECT_DIR$/src/refactor crawler/SqlUtil.log" />
     <entry file="file://$PROJECT_DIR$/src/test/log.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python2.7/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1492">
-          <caret line="328" column="0" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/lib/python2.7/logging/__init__.py" />
     <entry file="file://$PROJECT_DIR$/src/test/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
-          <folding>
-            <element signature="e#24#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,9 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="107" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="107" />
-          <folding>
-            <element signature="e#20#34#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,10 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="e#21#35#0" expanded="true" />
-            <element signature="e#2025#2579#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1118,13 +1019,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="123" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/refactor crawler/StringUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="133">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
             <element signature="e#21#35#0" expanded="true" />
@@ -1134,7 +1034,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/refactor crawler/Constant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="513">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
@@ -1142,7 +1042,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/crawler/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-518">
+        <state relative-caret-position="1406">
           <caret line="174" column="48" selection-start-line="174" selection-start-column="48" selection-end-line="174" selection-end-column="48" />
           <folding>
             <element signature="e#20#33#0" expanded="true" />
@@ -1158,17 +1058,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python2.7/dist-packages/mysql/connector/connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="721" column="0" selection-start-line="721" selection-start-column="0" selection-end-line="721" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/mysql/connector/connection.py" />
     <entry file="file://$PROJECT_DIR$/src/refactor crawler/SqlUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="304">
           <caret line="19" column="34" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="34" />
           <folding>
             <element signature="e#21#35#0" expanded="true" />
@@ -1180,7 +1073,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/refactor crawler/SoupUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="2831">
           <caret line="175" column="45" selection-start-line="175" selection-start-column="45" selection-end-line="175" selection-end-column="45" />
           <folding>
             <element signature="e#21#35#0" expanded="true" />
@@ -1191,16 +1084,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/refactor crawler/log.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="304">
           <caret line="16" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor crawler/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/mysql/connector/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state relative-caret-position="269">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
           <folding>
             <element signature="e#21#35#0" expanded="true" />
           </folding>
