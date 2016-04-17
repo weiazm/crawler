@@ -24,7 +24,7 @@ cur = conn.cursor()
 cur.execute('SELECT num FROM counter where id = 2')
 index = cur.fetchall()[0][0]
 #for x in range(1,1766627):
-while index<176626:
+while index<1766626:
     x=index+1
     mo = MysqlOperator(conn)
     bbsContent = BBSContent()
