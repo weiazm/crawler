@@ -11,7 +11,7 @@ from SoupUtil import SoupOperator
 from Constant import BBSContent
 
 conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
-logging.basicConfig(filename='log2.log', level=logging.DEBUG)
+logging.basicConfig(filename='log.log', level=logging.DEBUG)
 
 cur = conn.cursor()
 cur.execute('SELECT num FROM counter where id = 2')
@@ -52,11 +52,8 @@ while index<799999:
         # bbs中所有页的链接
         links = LinkOperator.makeLinkByPage(pageNum, url)
         weihongyan = 0
-        weihongyanz = 0
         for link in links:
-            weihongyanz += 1
             soup = BeautifulSoup(HtmlCreator(link).getUrlRespHtml(), "lxml")
-            print weihongyanz, u'页soup Done！'
             allFList = SoupOperator.getAllFContentList(soup)
             for content in SoupOperator.getContents(allFList, x, bbs[2]):
                 # content.printContent()

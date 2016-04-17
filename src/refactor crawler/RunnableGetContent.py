@@ -52,11 +52,8 @@ while index<299999:
         # bbs中所有页的链接
         links = LinkOperator.makeLinkByPage(pageNum, url)
         weihongyan = 0
-        weihongyanz = 0
         for link in links:
-            weihongyanz += 1
             soup = BeautifulSoup(HtmlCreator(link).getUrlRespHtml(), "lxml")
-            print weihongyanz, u'页soup Done！'
             allFList = SoupOperator.getAllFContentList(soup)
             for content in SoupOperator.getContents(allFList, x, bbs[2]):
                 # content.printContent()

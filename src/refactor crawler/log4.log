@@ -1,6 +1,0 @@
-ERROR:root: id=1502152抓取信息时发生错误2016-04-17 20:26:13 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-37926767-1.html
-ERROR:root: id=1502341抓取信息时发生错误2016-04-17 20:31:11 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-37442630-1.html
-ERROR:root: id=1503698抓取信息时发生错误2016-04-17 21:18:40 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-43194515-1.html
-ERROR:root: id=1504530抓取信息时发生错误2016-04-17 21:48:49 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-42193543-1.html
-ERROR:root: id=1505122抓取信息时发生错误2016-04-17 22:05:42 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-43783171-1.html
-ERROR:root: id=1505378抓取信息时发生错误2016-04-17 22:14:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-39898329-1.html
