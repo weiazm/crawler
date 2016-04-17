@@ -14,11 +14,12 @@ conn = mysql.connector.connect(user='root', password='1234', database='refactor_
 logging.basicConfig(filename='log.log', level=logging.DEBUG)
 
 cur = conn.cursor()
-cur.execute('SELECT num FROM counter where id = 6')
+cur.execute('SELECT num FROM count where id = 6')
 index = cur.fetchall()[0][0]
 #for x in range(1,1766627):
 
-while index<999999:
+#while index<999999:
+while index < 804326:
     x=index+1
     mo = MysqlOperator(conn)
     bbsContent = BBSContent()
@@ -69,6 +70,6 @@ while index<999999:
         continue
     else:
         index+=1
-        cur.execute('update counter set num = %s where id = 6',[index])
+        cur.execute('update count set num = %s where id = 6',[index])
         conn.commit()
 
