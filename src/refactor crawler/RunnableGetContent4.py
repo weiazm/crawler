@@ -30,6 +30,7 @@ while index<1766626:
     except urllib2.HTTPError, e:
         logging.info(' id=' + str(x) + u"连接html发生HTTPError,帖子可能被删除" + datetime.datetime.now().strftime(
             '%Y-%m-%d %H:%M:%S') + ' HTTPError = ' + str(e) + '---' + url)
+        index += 1
         continue
     try:
         so = SoupOperator(html)
