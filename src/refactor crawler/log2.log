@@ -4,3 +4,7 @@ ERROR:root: id=500956抓取信息时发生错误2016-04-17 18:59:47 Error = 'Non
 ERROR:root: id=501107抓取信息时发生错误2016-04-17 19:02:40 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-44412860-1.html
 ERROR:root: id=501143抓取信息时发生错误2016-04-17 19:03:21 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-51242318-1.html
 ERROR:root: id=501393抓取信息时发生错误2016-04-17 19:08:59 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-40806620-1.html
+INFO:root: id=502073连接html发生HTTPError,帖子可能被删除2016-04-17 19:33:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2123-51505911-1.html
+ERROR:root: id=503007抓取信息时发生错误2016-04-17 19:58:32 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-35110732-1.html
+ERROR:root: id=503921抓取信息时发生错误2016-04-17 20:18:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-39613819-1.html
+ERROR:root: id=504463抓取信息时发生错误2016-04-17 20:32:47 Error = HTTP Error 504: Gateway Time-out---http://club.autohome.com.cn/bbs/thread-c-2123-46022403-1.html

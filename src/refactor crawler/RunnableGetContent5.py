@@ -11,14 +11,14 @@ from SoupUtil import SoupOperator
 from Constant import BBSContent
 
 conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
-logging.basicConfig(filename='log3.log', level=logging.DEBUG)
+logging.basicConfig(filename='log.log', level=logging.DEBUG)
 
 cur = conn.cursor()
-cur.execute('SELECT num FROM counter where id = 3')
+cur.execute('SELECT num FROM counter where id = 5')
 index = cur.fetchall()[0][0]
 #for x in range(1,1766627):
 
-while index<1299999:
+while index<499999:
     x=index+1
     mo = MysqlOperator(conn)
     bbsContent = BBSContent()
@@ -30,7 +30,7 @@ while index<1299999:
     except urllib2.HTTPError, e:
         logging.info(' id=' + str(x) + u"连接html发生HTTPError,帖子可能被删除" + datetime.datetime.now().strftime(
             '%Y-%m-%d %H:%M:%S') + ' HTTPError = ' + str(e) + '---' + url)
-        index += 1
+        index+=1
         continue
     try:
         so = SoupOperator(html)
@@ -69,6 +69,6 @@ while index<1299999:
         continue
     else:
         index+=1
-        cur.execute('update counter set num = %s where id = 3',[index])
+        cur.execute('update counter set num = %s where id = 5',[index])
         conn.commit()
 
