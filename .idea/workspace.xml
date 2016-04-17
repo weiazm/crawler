@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78d0db20-9934-4cd7-9b40-3747d678613a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/crawler.iml" afterPath="$PROJECT_DIR$/.idea/crawler.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/builder/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/builder/_html5lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/builder/_htmlparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/builder/_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/dammit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/test_builder_registry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/test_docs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/test_html5lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/test_htmlparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/test_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/test_soup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor crawler/bs4/tests/test_tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py" />
     </list>
     <ignored path="crawler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -628,7 +641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1460876807003</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="gtf电脑上运行版本">
+      <created>1460882257792</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1460882257792</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -644,7 +664,7 @@
     <frame x="0" y="0" width="1366" height="732" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17185186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17185186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -690,7 +710,8 @@
     <MESSAGE value="抓bbs内容" />
     <MESSAGE value="得到楼主信息 还未完成数据库操作" />
     <MESSAGE value="final version" />
-    <option name="LAST_COMMIT_MESSAGE" value="final version" />
+    <MESSAGE value="gtf电脑上运行版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="gtf电脑上运行版本" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
