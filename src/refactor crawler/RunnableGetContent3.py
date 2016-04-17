@@ -16,10 +16,10 @@ logging.basicConfig(filename='log3.log', level=logging.DEBUG)
 cur = conn.cursor()
 cur.execute('SELECT num FROM counter where id = 3')
 index = cur.fetchall()[0][0]
-#for x in range(1,1766627):
+# for x in range(1,1766627):
 
-while index<1299999:
-    x=index+1
+while index < 1299999:
+    x = index + 1
     mo = MysqlOperator(conn)
     bbsContent = BBSContent()
     bbs = mo.selectLinkById(x)
@@ -40,10 +40,10 @@ while index<1299999:
         clickNum = so.getBBSClickNum()
         # 更新链接表的标题内容
 
-        MysqlOperator.updateTitleAndClickNum(conn,x,clickNum,title)
+        MysqlOperator.updateTitleAndClickNum(conn, x, clickNum, title)
 
         pageNum = so.findTotlePageNum()
-        print pageNum+u'页： id='+unicode(x)+u' '+url
+        print pageNum + u'页： id=' + unicode(x) + u' ' + url
         # 楼主内容
         f0Content = so.getF0Content(x, bbs[2])
 
@@ -51,24 +51,26 @@ while index<1299999:
 
         # bbs中所有页的链接
         links = LinkOperator.makeLinkByPage(pageNum, url)
-        soups = []
+        weihongyan = 0
+        weihongyanz = 0
         for link in links:
-            soups.append(BeautifulSoup(HtmlCreator(link).getUrlRespHtml(), "lxml"))
-        for soup in soups:
-            # 一页的所有楼层
+            weihongyanz += 1
+            soup = BeautifulSoup(HtmlCreator(link).getUrlRespHtml(), "lxml")
+            print weihongyanz, u'页soup Done！'
             allFList = SoupOperator.getAllFContentList(soup)
             for content in SoupOperator.getContents(allFList, x, bbs[2]):
-                #content.printContent()
+                # content.printContent()
                 mo.insertBBSContent(content)
+            weihongyan += 1
+            print weihongyan, u'页 insert Done！'
 
     except Exception, e:
         logging.error(' id=' + str(x) + u"抓取信息时发生错误" + datetime.datetime.now().strftime(
             '%Y-%m-%d %H:%M:%S') + ' Error = ' + str(e) + '---' + url)
         conn.rollback()
-        index+=1
+        index += 1
         continue
     else:
-        index+=1
-        cur.execute('update counter set num = %s where id = 3',[index])
+        index += 1
+        cur.execute('update counter set num = %s where id = 3', [index])
         conn.commit()
-

@@ -51,15 +51,18 @@ while index<299999:
 
         # bbs中所有页的链接
         links = LinkOperator.makeLinkByPage(pageNum, url)
-        soups = []
+        weihongyan = 0
+        weihongyanz = 0
         for link in links:
-            soups.append(BeautifulSoup(HtmlCreator(link).getUrlRespHtml(), "lxml"))
-        for soup in soups:
-            # 一页的所有楼层
+            weihongyanz += 1
+            soup = BeautifulSoup(HtmlCreator(link).getUrlRespHtml(), "lxml")
+            print weihongyanz, u'页soup Done！'
             allFList = SoupOperator.getAllFContentList(soup)
             for content in SoupOperator.getContents(allFList, x, bbs[2]):
-                #content.printContent()
+                # content.printContent()
                 mo.insertBBSContent(content)
+            weihongyan += 1
+            print weihongyan, u'页 insert Done！'
 
     except Exception, e:
         logging.error(' id=' + str(x) + u"抓取信息时发生错误" + datetime.datetime.now().strftime(
