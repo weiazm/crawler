@@ -44,9 +44,12 @@ class SoupOperator(object):
 
     # 得到帖子点击数
     def getBBSClickNum(self):
-        clickNum = self.__soup.find(id="topic_detail_main").find(class_="conmain").find(id="maxwrap-maintopic").find(
-            class_="fr fon12").find(id="x-views")
-        return LinkOperator.formatString(clickNum.get_text())
+        try:
+            clickNum = self.__soup.find(id="topic_detail_main").find(class_="conmain").find(id="maxwrap-maintopic").find(
+                class_="fr fon12").find(id="x-views")
+            return LinkOperator.formatString(clickNum.get_text())
+        except:
+            return -1
 
     # 得到楼主内容
     def getF0Content(self, x, bbsId):
@@ -81,7 +84,7 @@ class SoupOperator(object):
     def __findGifNum(self, lis):
         n = 0
         for lin in lis:
-            if str(lin['src']).find('http://x.autoimg.cn/club/smiles/') and str(lin['src']).find('gif'):
+            if unicode(lin['src']).find('http://x.autoimg.cn/club/smiles/') and unicode(lin['src']).find('gif'):
                 n += 1
         return n
 
