@@ -1,0 +1,1 @@
+ERROR:root: id=500235抓取信息时发生错误2016-04-17 18:36:26 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-39413722-1.html

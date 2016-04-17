@@ -11,14 +11,14 @@ from SoupUtil import SoupOperator
 from Constant import BBSContent
 
 conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
-logging.basicConfig(filename='log.log', level=logging.DEBUG)
+logging.basicConfig(filename='log2.log', level=logging.DEBUG)
 
 cur = conn.cursor()
-cur.execute('SELECT num FROM counter where id = 1')
+cur.execute('SELECT num FROM counter where id = 2')
 index = cur.fetchall()[0][0]
 #for x in range(1,1766627):
 
-while index<499999:
+while index<1000000:
     x=index+1
     mo = MysqlOperator(conn)
     bbsContent = BBSContent()
@@ -68,6 +68,6 @@ while index<499999:
         continue
     else:
         index+=1
-        cur.execute('update counter set num = %s where id = 1',[index])
+        cur.execute('update counter set num = %s where id = 2',[index])
         conn.commit()
 
