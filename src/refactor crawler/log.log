@@ -13,3 +13,7 @@ ERROR:root: id=4539抓取信息时发生错误2016-04-17 17:00:25 Error = 'ascii
 ERROR:root: id=5174抓取信息时发生错误2016-04-17 17:14:35 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-36798974-1.html
 ERROR:root: id=5226抓取信息时发生错误2016-04-17 17:15:50 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-39358924-1.html
 
+ERROR:root: id=7445抓取信息时发生错误2016-04-17 18:47:16 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-50189672-1.html
+ERROR:root: id=8039抓取信息时发生错误2016-04-17 19:05:13 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-50392776-1.html
+ERROR:root: id=8194抓取信息时发生错误2016-04-17 19:09:01 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-44661649-1.html
+ERROR:root: id=8471抓取信息时发生错误2016-04-17 19:15:16 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-35996340-1.html
