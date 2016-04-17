@@ -15,7 +15,7 @@ config = {'host': '172.17.23.70',
           'password': '48152659-+',
           'port': 3306,
           'database': 'refactor_crawler',
-          'charset': 'unicode'
+          'charset': 'utf8'
           }
 conn = mysql.connector.connect(**config)
 logging.basicConfig(filename='log.log', level=logging.DEBUG)
