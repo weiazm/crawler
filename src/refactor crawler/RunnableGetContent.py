@@ -63,6 +63,7 @@ while index<176626:
         logging.error(' id=' + str(x) + u"抓取信息时发生错误" + datetime.datetime.now().strftime(
             '%Y-%m-%d %H:%M:%S') + ' Error = ' + str(e) + '---' + url)
         conn.rollback()
+        index+=1
         continue
     else:
         index+=1
