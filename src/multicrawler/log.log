@@ -648,3 +648,679 @@ ERROR:root: id=1510259抓取信息时发生错误2016-04-18 11:21:15 Error = 'No
 ERROR:root: id=307919抓取信息时发生错误2016-04-18 11:22:26 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-22052757-1.html
 ERROR:root: id=1008091抓取信息时发生错误2016-04-18 11:24:55 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-45386501-1.html
 ERROR:root: id=19619抓取信息时发生错误2016-04-18 11:25:10 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-38979486-1.html
+ERROR:root: id=807872抓取信息时发生错误2016-04-18 11:27:56 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-47216775-1.html
+ERROR:root: id=308189抓取信息时发生错误2016-04-18 11:29:11 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-29289093-1.html
+ERROR:root: id=200470抓取信息时发生错误2016-04-18 11:30:37 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-16183007-1.html
+ERROR:root: id=19867抓取信息时发生错误2016-04-18 11:31:00 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-37419110-1.html
+ERROR:root: id=513475抓取信息时发生错误2016-04-18 11:32:28 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-51482177-1.html
+ERROR:root: id=513531抓取信息时发生错误2016-04-18 11:34:01 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-34612417-1.html
+ERROR:root: id=513535抓取信息时发生错误2016-04-18 11:34:06 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-43203238-1.html
+ERROR:root: id=1510792抓取信息时发生错误2016-04-18 11:35:07 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-35196762-1.html
+ERROR:root: id=200749抓取信息时发生错误2016-04-18 11:38:34 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-32683084-1.html
+ERROR:root: id=1008589抓取信息时发生错误2016-04-18 11:38:42 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-47894697-1.html
+ERROR:root: id=1510981抓取信息时发生错误2016-04-18 11:40:14 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-44588335-1.html
+ERROR:root: id=200879抓取信息时发生错误2016-04-18 11:41:37 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-28210233-1.html
+ERROR:root: id=1511043抓取信息时发生错误2016-04-18 11:41:50 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-871-36836596-1.html
+INFO:root: id=1008804连接html发生HTTPError,帖子可能被删除2016-04-18 11:43:40 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-874-51521389-1.html
+ERROR:root: id=513979抓取信息时发生错误2016-04-18 11:44:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-33193362-1.html
+ERROR:root: id=20489抓取信息时发生错误2016-04-18 11:46:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-44231267-1.html
+ERROR:root: id=514055抓取信息时发生错误2016-04-18 11:47:09 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-37368640-1.html
+ERROR:root: id=808605抓取信息时发生错误2016-04-18 11:47:11 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-33981626-1.html
+ERROR:root: id=1307503抓取信息时发生错误2016-04-18 11:49:18 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-526-35147933-1.html
+ERROR:root: id=808725抓取信息时发生错误2016-04-18 11:50:38 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-33238096-1.html
+ERROR:root: id=1307658抓取信息时发生错误2016-04-18 11:52:58 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-526-42715101-1.html
+INFO:root: id=1307739连接html发生HTTPError,帖子可能被删除2016-04-18 11:55:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-526-50715481-1.html
+ERROR:root: id=20787抓取信息时发生错误2016-04-18 12:03:48 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-49219398-1.html
+INFO:root: id=400012连接html发生HTTPError,帖子可能被删除2016-04-18 12:03:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-44663242-1.html
+INFO:root: id=400017连接html发生HTTPError,帖子可能被删除2016-04-18 12:04:11 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43441692-1.html
+INFO:root: id=400120连接html发生HTTPError,帖子可能被删除2016-04-18 12:06:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51317263-1.html
+INFO:root: id=400228连接html发生HTTPError,帖子可能被删除2016-04-18 12:08:53 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45617996-1.html
+INFO:root: id=600169连接html发生HTTPError,帖子可能被删除2016-04-18 12:09:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3204-50933287-1.html
+INFO:root: id=400287连接html发生HTTPError,帖子可能被删除2016-04-18 12:10:31 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42529587-1.html
+INFO:root: id=400295连接html发生HTTPError,帖子可能被删除2016-04-18 12:10:40 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49067928-1.html
+INFO:root: id=400307连接html发生HTTPError,帖子可能被删除2016-04-18 12:10:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-47632238-1.html
+ERROR:root: id=21112抓取信息时发生错误2016-04-18 12:11:09 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-50118984-1.html
+INFO:root: id=400357连接html发生HTTPError,帖子可能被删除2016-04-18 12:11:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43642711-1.html
+INFO:root: id=400395连接html发生HTTPError,帖子可能被删除2016-04-18 12:12:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45386323-1.html
+INFO:root: id=400405连接html发生HTTPError,帖子可能被删除2016-04-18 12:13:18 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48024379-1.html
+INFO:root: id=400423连接html发生HTTPError,帖子可能被删除2016-04-18 12:13:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49406856-1.html
+ERROR:root: id=514915抓取信息时发生错误2016-04-18 12:14:14 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-42098514-1.html
+INFO:root: id=400470连接html发生HTTPError,帖子可能被删除2016-04-18 12:15:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42692884-1.html
+INFO:root: id=400549连接html发生HTTPError,帖子可能被删除2016-04-18 12:17:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44484629-1.html
+INFO:root: id=201923连接html发生HTTPError,帖子可能被删除2016-04-18 12:17:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2778-47472749-1.html
+INFO:root: id=400563连接html发生HTTPError,帖子可能被删除2016-04-18 12:17:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46771212-1.html
+ERROR:root: id=100375抓取信息时发生错误2016-04-18 12:18:06 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-34907202-1.html
+INFO:root: id=400594连接html发生HTTPError,帖子可能被删除2016-04-18 12:18:55 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49719660-1.html
+INFO:root: id=400647连接html发生HTTPError,帖子可能被删除2016-04-18 12:20:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42873973-1.html
+ERROR:root: id=21485抓取信息时发生错误2016-04-18 12:20:34 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-36257890-1.html
+INFO:root: id=400712连接html发生HTTPError,帖子可能被删除2016-04-18 12:21:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43134040-1.html
+INFO:root: id=400716连接html发生HTTPError,帖子可能被删除2016-04-18 12:22:00 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45933688-1.html
+INFO:root: id=400729连接html发生HTTPError,帖子可能被删除2016-04-18 12:22:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-49418466-1.html
+ERROR:root: id=21578抓取信息时发生错误2016-04-18 12:22:17 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-42450446-1.html
+INFO:root: id=400755连接html发生HTTPError,帖子可能被删除2016-04-18 12:22:48 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43387559-1.html
+INFO:root: id=400847连接html发生HTTPError,帖子可能被删除2016-04-18 12:25:00 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-46671862-1.html
+INFO:root: id=400875连接html发生HTTPError,帖子可能被删除2016-04-18 12:25:36 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44320620-1.html
+INFO:root: id=400903连接html发生HTTPError,帖子可能被删除2016-04-18 12:26:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43131505-1.html
+INFO:root: id=400908连接html发生HTTPError,帖子可能被删除2016-04-18 12:26:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43566979-1.html
+INFO:root: id=400951连接html发生HTTPError,帖子可能被删除2016-04-18 12:27:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46771284-1.html
+INFO:root: id=400953连接html发生HTTPError,帖子可能被删除2016-04-18 12:27:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51189753-1.html
+INFO:root: id=400954连接html发生HTTPError,帖子可能被删除2016-04-18 12:27:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43924720-1.html
+INFO:root: id=400959连接html发生HTTPError,帖子可能被删除2016-04-18 12:27:54 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43613517-1.html
+ERROR:root: id=515482抓取信息时发生错误2016-04-18 12:28:21 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-34540778-1.html
+INFO:root: id=400987连接html发生HTTPError,帖子可能被删除2016-04-18 12:28:27 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51031698-1.html
+INFO:root: id=401001连接html发生HTTPError,帖子可能被删除2016-04-18 12:28:50 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45384356-1.html
+INFO:root: id=401017连接html发生HTTPError,帖子可能被删除2016-04-18 12:29:11 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43362152-1.html
+INFO:root: id=401065连接html发生HTTPError,帖子可能被删除2016-04-18 12:30:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49033566-1.html
+INFO:root: id=401094连接html发生HTTPError,帖子可能被删除2016-04-18 12:31:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42561182-1.html
+INFO:root: id=401100连接html发生HTTPError,帖子可能被删除2016-04-18 12:31:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49953458-1.html
+INFO:root: id=202479连接html发生HTTPError,帖子可能被删除2016-04-18 12:31:38 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2778-34953044-1.html
+INFO:root: id=401123连接html发生HTTPError,帖子可能被删除2016-04-18 12:31:51 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42309410-1.html
+INFO:root: id=401124连接html发生HTTPError,帖子可能被删除2016-04-18 12:31:51 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43867143-1.html
+INFO:root: id=401126连接html发生HTTPError,帖子可能被删除2016-04-18 12:31:53 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43683075-1.html
+INFO:root: id=401137连接html发生HTTPError,帖子可能被删除2016-04-18 12:32:07 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-49421675-1.html
+INFO:root: id=401141连接html发生HTTPError,帖子可能被删除2016-04-18 12:32:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45867385-1.html
+INFO:root: id=401170连接html发生HTTPError,帖子可能被删除2016-04-18 12:32:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47636796-1.html
+INFO:root: id=401216连接html发生HTTPError,帖子可能被删除2016-04-18 12:33:49 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-48057344-1.html
+INFO:root: id=310623连接html发生HTTPError,帖子可能被删除2016-04-18 12:34:44 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2615-51432373-1.html
+INFO:root: id=401264连接html发生HTTPError,帖子可能被删除2016-04-18 12:35:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-47662118-1.html
+ERROR:root: id=701075抓取信息时发生错误2016-04-18 12:35:30 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-49771223-1.html
+ERROR:root: id=22106抓取信息时发生错误2016-04-18 12:36:37 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-39256199-1.html
+ERROR:root: id=701168抓取信息时发生错误2016-04-18 12:37:42 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-50129551-1.html
+INFO:root: id=401362连接html发生HTTPError,帖子可能被删除2016-04-18 12:37:42 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46390088-1.html
+ERROR:root: id=701181抓取信息时发生错误2016-04-18 12:37:58 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-51213061-1.html
+INFO:root: id=401390连接html发生HTTPError,帖子可能被删除2016-04-18 12:38:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43504328-1.html
+INFO:root: id=401400连接html发生HTTPError,帖子可能被删除2016-04-18 12:38:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-48937976-1.html
+INFO:root: id=401422连接html发生HTTPError,帖子可能被删除2016-04-18 12:38:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46084178-1.html
+INFO:root: id=401425连接html发生HTTPError,帖子可能被删除2016-04-18 12:38:53 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51070109-1.html
+INFO:root: id=401441连接html发生HTTPError,帖子可能被删除2016-04-18 12:39:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43476725-1.html
+ERROR:root: id=600938抓取信息时发生错误2016-04-18 12:39:59 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-33338905-1.html
+ERROR:root: id=310834抓取信息时发生错误2016-04-18 12:40:24 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-43190351-1.html
+INFO:root: id=401599连接html发生HTTPError,帖子可能被删除2016-04-18 12:44:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45327448-1.html
+ERROR:root: id=516114抓取信息时发生错误2016-04-18 12:44:44 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-42033232-1.html
+ERROR:root: id=22463抓取信息时发生错误2016-04-18 12:44:46 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-37754324-1.html
+INFO:root: id=401623连接html发生HTTPError,帖子可能被删除2016-04-18 12:44:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47444991-1.html
+INFO:root: id=401662连接html发生HTTPError,帖子可能被删除2016-04-18 12:45:40 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42566201-1.html
+INFO:root: id=401687连接html发生HTTPError,帖子可能被删除2016-04-18 12:46:18 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49371522-1.html
+INFO:root: id=401688连接html发生HTTPError,帖子可能被删除2016-04-18 12:46:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50403413-1.html
+INFO:root: id=401690连接html发生HTTPError,帖子可能被删除2016-04-18 12:46:20 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51551470-1.html
+INFO:root: id=401704连接html发生HTTPError,帖子可能被删除2016-04-18 12:46:33 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42870663-1.html
+INFO:root: id=401774连接html发生HTTPError,帖子可能被删除2016-04-18 12:48:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42966407-1.html
+ERROR:root: id=701535抓取信息时发生错误2016-04-18 12:48:12 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-45388317-1.html
+INFO:root: id=401799连接html发生HTTPError,帖子可能被删除2016-04-18 12:48:41 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-50831030-1.html
+INFO:root: id=401813连接html发生HTTPError,帖子可能被删除2016-04-18 12:48:51 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46709882-1.html
+ERROR:root: id=311181抓取信息时发生错误2016-04-18 12:49:58 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-32471265-1.html
+INFO:root: id=401864连接html发生HTTPError,帖子可能被删除2016-04-18 12:50:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51380825-1.html
+INFO:root: id=401869连接html发生HTTPError,帖子可能被删除2016-04-18 12:50:27 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49319493-1.html
+INFO:root: id=401890连接html发生HTTPError,帖子可能被删除2016-04-18 12:50:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48098373-1.html
+INFO:root: id=401969连接html发生HTTPError,帖子可能被删除2016-04-18 12:53:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-47499111-1.html
+INFO:root: id=401975连接html发生HTTPError,帖子可能被删除2016-04-18 12:53:07 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47383509-1.html
+ERROR:root: id=311345抓取信息时发生错误2016-04-18 12:54:10 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-40779928-1.html
+INFO:root: id=402070连接html发生HTTPError,帖子可能被删除2016-04-18 12:56:07 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50809986-1.html
+ERROR:root: id=601397抓取信息时发生错误2016-04-18 13:00:24 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-48497773-1.html
+INFO:root: id=402092连接html发生HTTPError,帖子可能被删除2016-04-18 13:01:55 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51521632-1.html
+ERROR:root: id=601521抓取信息时发生错误2016-04-18 13:04:40 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-31604356-1.html
+ERROR:root: id=702063抓取信息时发生错误2016-04-18 13:06:58 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-40873279-1.html
+ERROR:root: id=203763抓取信息时发生错误2016-04-18 13:09:11 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-23924531-1.html
+INFO:root: id=402335连接html发生HTTPError,帖子可能被删除2016-04-18 13:09:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48976328-1.html
+INFO:root: id=23408连接html发生HTTPError,帖子可能被删除2016-04-18 13:11:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3582-51434949-1.html
+ERROR:root: id=311994抓取信息时发生错误2016-04-18 13:11:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-24214427-1.html
+INFO:root: id=402445连接html发生HTTPError,帖子可能被删除2016-04-18 13:12:27 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44142124-1.html
+INFO:root: id=601858连接html发生HTTPError,帖子可能被删除2016-04-18 13:14:02 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3204-51484394-1.html
+ERROR:root: id=203965抓取信息时发生错误2016-04-18 13:14:56 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-17825715-1.html
+INFO:root: id=402566连接html发生HTTPError,帖子可能被删除2016-04-18 13:16:33 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42498646-1.html
+INFO:root: id=402568连接html发生HTTPError,帖子可能被删除2016-04-18 13:16:34 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51320240-1.html
+INFO:root: id=402597连接html发生HTTPError,帖子可能被删除2016-04-18 13:17:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45476033-1.html
+ERROR:root: id=312222抓取信息时发生错误2016-04-18 13:17:31 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-23957384-1.html
+INFO:root: id=402640连接html发生HTTPError,帖子可能被删除2016-04-18 13:18:11 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45470810-1.html
+ERROR:root: id=312253抓取信息时发生错误2016-04-18 13:18:16 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-28920929-1.html
+INFO:root: id=402682连接html发生HTTPError,帖子可能被删除2016-04-18 13:19:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45448621-1.html
+INFO:root: id=402792连接html发生HTTPError,帖子可能被删除2016-04-18 13:21:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43190240-1.html
+INFO:root: id=402825连接html发生HTTPError,帖子可能被删除2016-04-18 13:22:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47656802-1.html
+INFO:root: id=402857连接html发生HTTPError,帖子可能被删除2016-04-18 13:23:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43767026-1.html
+INFO:root: id=402865连接html发生HTTPError,帖子可能被删除2016-04-18 13:23:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50649602-1.html
+ERROR:root: id=517161抓取信息时发生错误2016-04-18 13:23:46 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-50009137-1.html
+ERROR:root: id=101482抓取信息时发生错误2016-04-18 13:24:55 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-39703661-1.html
+INFO:root: id=402915连接html发生HTTPError,帖子可能被删除2016-04-18 13:25:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47377347-1.html
+INFO:root: id=402921连接html发生HTTPError,帖子可能被删除2016-04-18 13:25:34 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42059064-1.html
+ERROR:root: id=517238抓取信息时发生错误2016-04-18 13:25:37 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-49401327-1.html
+INFO:root: id=402938连接html发生HTTPError,帖子可能被删除2016-04-18 13:26:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48766323-1.html
+INFO:root: id=402954连接html发生HTTPError,帖子可能被删除2016-04-18 13:26:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48489059-1.html
+INFO:root: id=403018连接html发生HTTPError,帖子可能被删除2016-04-18 13:27:48 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47980832-1.html
+INFO:root: id=403025连接html发生HTTPError,帖子可能被删除2016-04-18 13:27:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44329443-1.html
+ERROR:root: id=602368抓取信息时发生错误2016-04-18 13:28:20 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-38846981-1.html
+INFO:root: id=24045连接html发生HTTPError,帖子可能被删除2016-04-18 13:28:42 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3582-51485215-1.html
+ERROR:root: id=24068抓取信息时发生错误2016-04-18 13:29:12 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-50189517-1.html
+INFO:root: id=403076连接html发生HTTPError,帖子可能被删除2016-04-18 13:29:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43075460-1.html
+INFO:root: id=403083连接html发生HTTPError,帖子可能被删除2016-04-18 13:29:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42697203-1.html
+ERROR:root: id=517436抓取信息时发生错误2016-04-18 13:30:06 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-34489927-1.html
+ERROR:root: id=101705抓取信息时发生错误2016-04-18 13:30:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-45288724-1.html
+INFO:root: id=403178连接html发生HTTPError,帖子可能被删除2016-04-18 13:31:30 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44458276-1.html
+INFO:root: id=403187连接html发生HTTPError,帖子可能被删除2016-04-18 13:31:38 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45933894-1.html
+INFO:root: id=403216连接html发生HTTPError,帖子可能被删除2016-04-18 13:32:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44450271-1.html
+INFO:root: id=403219连接html发生HTTPError,帖子可能被删除2016-04-18 13:32:16 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-46455535-1.html
+INFO:root: id=403221连接html发生HTTPError,帖子可能被删除2016-04-18 13:32:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50224520-1.html
+INFO:root: id=403234连接html发生HTTPError,帖子可能被删除2016-04-18 13:32:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50779908-1.html
+INFO:root: id=403270连接html发生HTTPError,帖子可能被删除2016-04-18 13:33:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50067391-1.html
+ERROR:root: id=403277抓取信息时发生错误2016-04-18 13:33:36 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-48967538-1.html
+INFO:root: id=403307连接html发生HTTPError,帖子可能被删除2016-04-18 13:34:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44975336-1.html
+INFO:root: id=403311连接html发生HTTPError,帖子可能被删除2016-04-18 13:34:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51277431-1.html
+ERROR:root: id=101896抓取信息时发生错误2016-04-18 13:35:31 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-48806275-1.html
+ERROR:root: id=403368抓取信息时发生错误2016-04-18 13:35:36 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-48080517-1.html
+INFO:root: id=403386连接html发生HTTPError,帖子可能被删除2016-04-18 13:36:24 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46746559-1.html
+INFO:root: id=900224连接html发生HTTPError,帖子可能被删除2016-04-18 13:36:36 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-314-51456744-1.html
+INFO:root: id=403439连接html发生HTTPError,帖子可能被删除2016-04-18 13:37:34 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46183946-1.html
+INFO:root: id=403448连接html发生HTTPError,帖子可能被删除2016-04-18 13:37:42 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43766728-1.html
+ERROR:root: id=602749抓取信息时发生错误2016-04-18 13:37:45 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-31864145-1.html
+ERROR:root: id=602786抓取信息时发生错误2016-04-18 13:38:32 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-38511264-1.html
+INFO:root: id=403524连接html发生HTTPError,帖子可能被删除2016-04-18 13:40:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51251636-1.html
+ERROR:root: id=204849抓取信息时发生错误2016-04-18 13:41:06 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-27180213-1.html
+INFO:root: id=403614连接html发生HTTPError,帖子可能被删除2016-04-18 13:42:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49361998-1.html
+INFO:root: id=403648连接html发生HTTPError,帖子可能被删除2016-04-18 13:42:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42369539-1.html
+INFO:root: id=403669连接html发生HTTPError,帖子可能被删除2016-04-18 13:43:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-41548137-1.html
+ERROR:root: id=809411抓取信息时发生错误2016-04-18 13:43:47 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-39495867-1.html
+INFO:root: id=403704连接html发生HTTPError,帖子可能被删除2016-04-18 13:44:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47280886-1.html
+INFO:root: id=403722连接html发生HTTPError,帖子可能被删除2016-04-18 13:45:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51304881-1.html
+INFO:root: id=403727连接html发生HTTPError,帖子可能被删除2016-04-18 13:45:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47627706-1.html
+INFO:root: id=403732连接html发生HTTPError,帖子可能被删除2016-04-18 13:45:27 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44636357-1.html
+INFO:root: id=403734连接html发生HTTPError,帖子可能被删除2016-04-18 13:45:29 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51282324-1.html
+INFO:root: id=403750连接html发生HTTPError,帖子可能被删除2016-04-18 13:45:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49201039-1.html
+INFO:root: id=403759连接html发生HTTPError,帖子可能被删除2016-04-18 13:46:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49421463-1.html
+ERROR:root: id=809530抓取信息时发生错误2016-04-18 13:46:52 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-32783677-1.html
+INFO:root: id=403823连接html发生HTTPError,帖子可能被删除2016-04-18 13:47:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51283203-1.html
+ERROR:root: id=809578抓取信息时发生错误2016-04-18 13:48:10 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-39337719-1.html
+ERROR:root: id=518198抓取信息时发生错误2016-04-18 13:48:18 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-50884074-1.html
+ERROR:root: id=205045抓取信息时发生错误2016-04-18 13:48:29 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-18422991-1.html
+INFO:root: id=403878连接html发生HTTPError,帖子可能被删除2016-04-18 13:48:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51456247-1.html
+INFO:root: id=403881连接html发生HTTPError,帖子可能被删除2016-04-18 13:48:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48501764-1.html
+ERROR:root: id=313531抓取信息时发生错误2016-04-18 13:50:05 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2615-41461928-1.html
+INFO:root: id=403974连接html发生HTTPError,帖子可能被删除2016-04-18 13:51:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47878835-1.html
+INFO:root: id=403991连接html发生HTTPError,帖子可能被删除2016-04-18 13:51:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51251540-1.html
+INFO:root: id=403998连接html发生HTTPError,帖子可能被删除2016-04-18 13:51:31 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51275723-1.html
+INFO:root: id=404032连接html发生HTTPError,帖子可能被删除2016-04-18 13:52:38 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50780099-1.html
+INFO:root: id=404065连接html发生HTTPError,帖子可能被删除2016-04-18 13:53:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45752112-1.html
+INFO:root: id=404082连接html发生HTTPError,帖子可能被删除2016-04-18 13:53:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50067357-1.html
+INFO:root: id=404115连接html发生HTTPError,帖子可能被删除2016-04-18 13:54:24 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42461730-1.html
+INFO:root: id=703237连接html发生HTTPError,帖子可能被删除2016-04-18 13:55:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3677-50898138-1.html
+INFO:root: id=404169连接html发生HTTPError,帖子可能被删除2016-04-18 13:55:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42896204-1.html
+INFO:root: id=404173连接html发生HTTPError,帖子可能被删除2016-04-18 13:55:30 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44096073-1.html
+INFO:root: id=404206连接html发生HTTPError,帖子可能被删除2016-04-18 13:56:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44424032-1.html
+ERROR:root: id=703297抓取信息时发生错误2016-04-18 13:56:37 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-43416436-1.html
+ERROR:root: id=313854抓取信息时发生错误2016-04-18 13:57:38 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-26941739-1.html
+INFO:root: id=404264连接html发生HTTPError,帖子可能被删除2016-04-18 13:58:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46612980-1.html
+INFO:root: id=404315连接html发生HTTPError,帖子可能被删除2016-04-18 13:59:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-50155297-1.html
+INFO:root: id=901153连接html发生HTTPError,帖子可能被删除2016-04-18 13:59:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-314-50926211-1.html
+INFO:root: id=404421连接html发生HTTPError,帖子可能被删除2016-04-18 14:01:38 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50403981-1.html
+INFO:root: id=404431连接html发生HTTPError,帖子可能被删除2016-04-18 14:01:55 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45047917-1.html
+INFO:root: id=404467连接html发生HTTPError,帖子可能被删除2016-04-18 14:02:38 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45640204-1.html
+INFO:root: id=404533连接html发生HTTPError,帖子可能被删除2016-04-18 14:04:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46651550-1.html
+INFO:root: id=404538连接html发生HTTPError,帖子可能被删除2016-04-18 14:04:30 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49363315-1.html
+INFO:root: id=404564连接html发生HTTPError,帖子可能被删除2016-04-18 14:05:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48334609-1.html
+ERROR:root: id=810294抓取信息时发生错误2016-04-18 14:05:50 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-31143435-1.html
+ERROR:root: id=314212抓取信息时发生错误2016-04-18 14:06:54 Error = 'NoneType' object has no attribute 'find_all'---http://club.autohome.com.cn/bbs/thread-c-3013-6409127-1.html
+ERROR:root: id=603828抓取信息时发生错误2016-04-18 14:08:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-40844819-1.html
+ERROR:root: id=603834抓取信息时发生错误2016-04-18 14:09:03 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-40399785-1.html
+INFO:root: id=404719连接html发生HTTPError,帖子可能被删除2016-04-18 14:09:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48488247-1.html
+ERROR:root: id=901671抓取信息时发生错误2016-04-18 14:10:25 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-314-24654545-1.html
+ERROR:root: id=404777抓取信息时发生错误2016-04-18 14:10:30 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-47251279-1.html
+INFO:root: id=404832连接html发生HTTPError,帖子可能被删除2016-04-18 14:12:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43764174-1.html
+ERROR:root: id=404875抓取信息时发生错误2016-04-18 14:13:04 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-44670131-1.html
+ERROR:root: id=810642抓取信息时发生错误2016-04-18 14:14:16 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-46644233-1.html
+ERROR:root: id=1010158抓取信息时发生错误2016-04-18 14:14:32 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-29318027-1.html
+ERROR:root: id=103358抓取信息时发生错误2016-04-18 14:15:29 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-45424805-1.html
+INFO:root: id=404937连接html发生HTTPError,帖子可能被删除2016-04-18 14:15:35 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47629381-1.html
+INFO:root: id=404942连接html发生HTTPError,帖子可能被删除2016-04-18 14:15:41 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47022126-1.html
+ERROR:root: id=1010218抓取信息时发生错误2016-04-18 14:16:03 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-31342698-1.html
+ERROR:root: id=25109抓取信息时发生错误2016-04-18 14:16:22 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-48674552-1.html
+INFO:root: id=405004连接html发生HTTPError,帖子可能被删除2016-04-18 14:17:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50777745-1.html
+INFO:root: id=405009连接html发生HTTPError,帖子可能被删除2016-04-18 14:17:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-46579998-1.html
+INFO:root: id=405012连接html发生HTTPError,帖子可能被删除2016-04-18 14:17:16 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50945190-1.html
+INFO:root: id=405034连接html发生HTTPError,帖子可能被删除2016-04-18 14:17:38 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45356874-1.html
+INFO:root: id=405047连接html发生HTTPError,帖子可能被删除2016-04-18 14:17:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46182305-1.html
+INFO:root: id=405051连接html发生HTTPError,帖子可能被删除2016-04-18 14:18:02 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44715153-1.html
+ERROR:root: id=25236抓取信息时发生错误2016-04-18 14:19:14 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-37507138-1.html
+INFO:root: id=405174连接html发生HTTPError,帖子可能被删除2016-04-18 14:21:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51284587-1.html
+INFO:root: id=405204连接html发生HTTPError,帖子可能被删除2016-04-18 14:22:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50650141-1.html
+INFO:root: id=405207连接html发生HTTPError,帖子可能被删除2016-04-18 14:22:03 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46123839-1.html
+INFO:root: id=405208连接html发生HTTPError,帖子可能被删除2016-04-18 14:22:03 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43328748-1.html
+ERROR:root: id=405249抓取信息时发生错误2016-04-18 14:23:07 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-51056747-1.html
+INFO:root: id=405258连接html发生HTTPError,帖子可能被删除2016-04-18 14:23:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45343052-1.html
+ERROR:root: id=604320抓取信息时发生错误2016-04-18 14:23:20 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-41948731-1.html
+INFO:root: id=405268连接html发生HTTPError,帖子可能被删除2016-04-18 14:23:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51284510-1.html
+ERROR:root: id=314799抓取信息时发生错误2016-04-18 14:24:07 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-24761625-1.html
+INFO:root: id=405296连接html发生HTTPError,帖子可能被删除2016-04-18 14:24:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51250905-1.html
+
+weihongyan ： id = 1500845 出现bug 忽略
+
+
+ERROR:root: id=104476抓取信息时发生错误2016-04-18 15:02:52 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-36750037-1.html
+INFO:root: id=406797连接html发生HTTPError,帖子可能被删除2016-04-18 15:10:24 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45475820-1.html
+INFO:root: id=206978连接html发生HTTPError,帖子可能被删除2016-04-18 15:10:30 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2778-51486839-1.html
+INFO:root: id=406813连接html发生HTTPError,帖子可能被删除2016-04-18 15:10:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43794131-1.html
+INFO:root: id=406845连接html发生HTTPError,帖子可能被删除2016-04-18 15:16:24 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47599329-1.html
+INFO:root: id=406868连接html发生HTTPError,帖子可能被删除2016-04-18 15:16:53 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43276386-1.html
+INFO:root: id=406903连接html发生HTTPError,帖子可能被删除2016-04-18 15:17:41 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50155168-1.html
+INFO:root: id=406907连接html发生HTTPError,帖子可能被删除2016-04-18 15:17:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46389945-1.html
+ERROR:root: id=316536抓取信息时发生错误2016-04-18 15:18:16 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-37308366-1.html
+ERROR:root: id=812081抓取信息时发生错误2016-04-18 15:18:51 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-29439582-1.html
+ERROR:root: id=207129抓取信息时发生错误2016-04-18 15:19:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-27034835-1.html
+ERROR:root: id=605343抓取信息时发生错误2016-04-18 15:19:42 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-33095063-1.html
+ERROR:root: id=605344抓取信息时发生错误2016-04-18 15:19:43 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-40294664-1.html
+INFO:root: id=406979连接html发生HTTPError,帖子可能被删除2016-04-18 15:20:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46304887-1.html
+ERROR:root: id=104798抓取信息时发生错误2016-04-18 15:21:08 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-49139807-1.html
+INFO:root: id=407014连接html发生HTTPError,帖子可能被删除2016-04-18 15:21:16 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49934599-1.html
+ERROR:root: id=904272抓取信息时发生错误2016-04-18 15:21:48 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-314-39698161-1.html
+INFO:root: id=407036连接html发生HTTPError,帖子可能被删除2016-04-18 15:22:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47107144-1.html
+INFO:root: id=407100连接html发生HTTPError,帖子可能被删除2016-04-18 15:23:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42869579-1.html
+INFO:root: id=207298连接html发生HTTPError,帖子可能被删除2016-04-18 15:23:50 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2778-50494860-1.html
+INFO:root: id=605505连接html发生HTTPError,帖子可能被删除2016-04-18 15:24:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3204-51484004-1.html
+ERROR:root: id=316805抓取信息时发生错误2016-04-18 15:25:03 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-48924285-1.html
+INFO:root: id=407162连接html发生HTTPError,帖子可能被删除2016-04-18 15:25:31 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50403532-1.html
+ERROR:root: id=316836抓取信息时发生错误2016-04-18 15:26:40 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-31460885-1.html
+ERROR:root: id=904460抓取信息时发生错误2016-04-18 15:26:47 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-314-40031957-1.html
+ERROR:root: id=27579抓取信息时发生错误2016-04-18 15:29:09 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-36534932-1.html
+INFO:root: id=407281连接html发生HTTPError,帖子可能被删除2016-04-18 15:29:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45995965-1.html
+ERROR:root: id=706091抓取信息时发生错误2016-04-18 15:29:29 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-47630576-1.html
+INFO:root: id=407301连接html发生HTTPError,帖子可能被删除2016-04-18 15:30:03 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44236081-1.html
+INFO:root: id=407308连接html发生HTTPError,帖子可能被删除2016-04-18 15:30:10 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50395138-1.html
+INFO:root: id=407341连接html发生HTTPError,帖子可能被删除2016-04-18 15:30:55 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47506984-1.html
+ERROR:root: id=27731抓取信息时发生错误2016-04-18 15:32:20 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-48340391-1.html
+INFO:root: id=407412连接html发生HTTPError,帖子可能被删除2016-04-18 15:32:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43506275-1.html
+ERROR:root: id=317071抓取信息时发生错误2016-04-18 15:33:11 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-44383458-1.html
+ERROR:root: id=317086抓取信息时发生错误2016-04-18 15:33:27 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-38163112-1.html
+ERROR:root: id=904798抓取信息时发生错误2016-04-18 15:34:16 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-314-39275615-1.html
+ERROR:root: id=407468抓取信息时发生错误2016-04-18 15:34:20 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-46610753-1.html
+ERROR:root: id=407471抓取信息时发生错误2016-04-18 15:34:22 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-43405420-1.html
+INFO:root: id=407494连接html发生HTTPError,帖子可能被删除2016-04-18 15:34:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44360490-1.html
+ERROR:root: id=812748抓取信息时发生错误2016-04-18 15:35:12 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-30645037-1.html
+INFO:root: id=407529连接html发生HTTPError,帖子可能被删除2016-04-18 15:35:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50999086-1.html
+INFO:root: id=407542连接html发生HTTPError,帖子可能被删除2016-04-18 15:35:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49823258-1.html
+INFO:root: id=407546连接html发生HTTPError,帖子可能被删除2016-04-18 15:35:48 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-41941977-1.html
+ERROR:root: id=207720抓取信息时发生错误2016-04-18 15:37:25 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-45612384-1.html
+INFO:root: id=407607连接html发生HTTPError,帖子可能被删除2016-04-18 15:37:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48766823-1.html
+ERROR:root: id=27957抓取信息时发生错误2016-04-18 15:37:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-41327355-1.html
+INFO:root: id=407634连接html发生HTTPError,帖子可能被删除2016-04-18 15:38:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43714249-1.html
+ERROR:root: id=28002抓取信息时发生错误2016-04-18 15:38:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-47170763-1.html
+INFO:root: id=407654连接html发生HTTPError,帖子可能被删除2016-04-18 15:38:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46337259-1.html
+INFO:root: id=407661连接html发生HTTPError,帖子可能被删除2016-04-18 15:38:58 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-48021205-1.html
+ERROR:root: id=207800抓取信息时发生错误2016-04-18 15:39:25 Error = 'NoneType' object has no attribute 'find_all'---http://club.autohome.com.cn/bbs/thread-c-2778-15945041-1.html
+INFO:root: id=407715连接html发生HTTPError,帖子可能被删除2016-04-18 15:40:35 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44108289-1.html
+INFO:root: id=407716连接html发生HTTPError,帖子可能被删除2016-04-18 15:40:35 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-40912204-1.html
+INFO:root: id=407720连接html发生HTTPError,帖子可能被删除2016-04-18 15:40:40 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51092640-1.html
+INFO:root: id=407744连接html发生HTTPError,帖子可能被删除2016-04-18 15:41:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-47448932-1.html
+INFO:root: id=407749连接html发生HTTPError,帖子可能被删除2016-04-18 15:41:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50738110-1.html
+ERROR:root: id=606191抓取信息时发生错误2016-04-18 15:41:30 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-32434969-1.html
+INFO:root: id=407776连接html发生HTTPError,帖子可能被删除2016-04-18 15:42:27 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45330965-1.html
+INFO:root: id=407779连接html发生HTTPError,帖子可能被删除2016-04-18 15:42:29 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50167442-1.html
+INFO:root: id=407798连接html发生HTTPError,帖子可能被删除2016-04-18 15:42:58 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49926306-1.html
+ERROR:root: id=28198抓取信息时发生错误2016-04-18 15:43:20 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-40603220-1.html
+INFO:root: id=407817连接html发生HTTPError,帖子可能被删除2016-04-18 15:43:30 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51048735-1.html
+INFO:root: id=407818连接html发生HTTPError,帖子可能被删除2016-04-18 15:43:31 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-40483526-1.html
+INFO:root: id=407819连接html发生HTTPError,帖子可能被删除2016-04-18 15:43:31 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47347804-1.html
+INFO:root: id=407828连接html发生HTTPError,帖子可能被删除2016-04-18 15:43:43 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48122234-1.html
+INFO:root: id=407839连接html发生HTTPError,帖子可能被删除2016-04-18 15:44:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43567261-1.html
+ERROR:root: id=813100抓取信息时发生错误2016-04-18 15:44:59 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-50108217-1.html
+INFO:root: id=407865连接html发生HTTPError,帖子可能被删除2016-04-18 15:45:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42789475-1.html
+INFO:root: id=407878连接html发生HTTPError,帖子可能被删除2016-04-18 15:45:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44388073-1.html
+ERROR:root: id=207985抓取信息时发生错误2016-04-18 15:45:30 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-48090024-1.html
+INFO:root: id=407892连接html发生HTTPError,帖子可能被删除2016-04-18 15:45:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50516625-1.html
+INFO:root: id=407927连接html发生HTTPError,帖子可能被删除2016-04-18 15:46:31 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47984668-1.html
+INFO:root: id=407940连接html发生HTTPError,帖子可能被删除2016-04-18 15:46:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45807577-1.html
+INFO:root: id=407942连接html发生HTTPError,帖子可能被删除2016-04-18 15:46:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42762477-1.html
+ERROR:root: id=706615抓取信息时发生错误2016-04-18 15:47:11 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-45091554-1.html
+INFO:root: id=407950连接html发生HTTPError,帖子可能被删除2016-04-18 15:47:42 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49345811-1.html
+INFO:root: id=407957连接html发生HTTPError,帖子可能被删除2016-04-18 15:47:50 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43826156-1.html
+INFO:root: id=407970连接html发生HTTPError,帖子可能被删除2016-04-18 15:48:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43220952-1.html
+ERROR:root: id=1013262抓取信息时发生错误2016-04-18 15:48:08 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-28134551-1.html
+ERROR:root: id=522208抓取信息时发生错误2016-04-18 15:49:38 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-44780136-1.html
+INFO:root: id=408039连接html发生HTTPError,帖子可能被删除2016-04-18 15:50:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47176148-1.html
+ERROR:root: id=522265抓取信息时发生错误2016-04-18 15:51:02 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-44765611-1.html
+INFO:root: id=408077连接html发生HTTPError,帖子可能被删除2016-04-18 15:51:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49934669-1.html
+INFO:root: id=408110连接html发生HTTPError,帖子可能被删除2016-04-18 15:52:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-44741161-1.html
+INFO:root: id=408120连接html发生HTTPError,帖子可能被删除2016-04-18 15:52:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43240676-1.html
+INFO:root: id=408133连接html发生HTTPError,帖子可能被删除2016-04-18 15:52:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47017387-1.html
+INFO:root: id=813411连接html发生HTTPError,帖子可能被删除2016-04-18 15:54:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-656-51448880-1.html
+INFO:root: id=905594连接html发生HTTPError,帖子可能被删除2016-04-18 15:54:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-314-50904909-1.html
+INFO:root: id=408243连接html发生HTTPError,帖子可能被删除2016-04-18 15:55:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46710974-1.html
+INFO:root: id=408263连接html发生HTTPError,帖子可能被删除2016-04-18 15:56:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-44655639-1.html
+INFO:root: id=408298连接html发生HTTPError,帖子可能被删除2016-04-18 15:57:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-47429701-1.html
+ERROR:root: id=317934抓取信息时发生错误2016-04-18 15:57:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-36021105-1.html
+ERROR:root: id=707019抓取信息时发生错误2016-04-18 15:58:24 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-43930931-1.html
+INFO:root: id=408333连接html发生HTTPError,帖子可能被删除2016-04-18 15:58:40 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45277202-1.html
+INFO:root: id=408355连接html发生HTTPError,帖子可能被删除2016-04-18 15:59:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45276001-1.html
+INFO:root: id=408356连接html发生HTTPError,帖子可能被删除2016-04-18 15:59:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51512045-1.html
+ERROR:root: id=106108抓取信息时发生错误2016-04-18 15:59:09 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-44722076-1.html
+ERROR:root: id=522610抓取信息时发生错误2016-04-18 15:59:10 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-31760034-1.html
+INFO:root: id=408395连接html发生HTTPError,帖子可能被删除2016-04-18 15:59:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43803693-1.html
+INFO:root: id=408399连接html发生HTTPError,帖子可能被删除2016-04-18 16:00:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46742675-1.html
+INFO:root: id=408407连接html发生HTTPError,帖子可能被删除2016-04-18 16:00:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50094886-1.html
+ERROR:root: id=813682抓取信息时发生错误2016-04-18 16:00:26 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-32567601-1.html
+INFO:root: id=408433连接html发生HTTPError,帖子可能被删除2016-04-18 16:00:33 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43593214-1.html
+INFO:root: id=408449连接html发生HTTPError,帖子可能被删除2016-04-18 16:00:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50650322-1.html
+INFO:root: id=408497连接html发生HTTPError,帖子可能被删除2016-04-18 16:02:18 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45002695-1.html
+INFO:root: id=408503连接html发生HTTPError,帖子可能被删除2016-04-18 16:02:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46209924-1.html
+INFO:root: id=408507连接html发生HTTPError,帖子可能被删除2016-04-18 16:02:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47213378-1.html
+INFO:root: id=408535连接html发生HTTPError,帖子可能被删除2016-04-18 16:03:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47158065-1.html
+INFO:root: id=408568连接html发生HTTPError,帖子可能被删除2016-04-18 16:03:53 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43271250-1.html
+INFO:root: id=408608连接html发生HTTPError,帖子可能被删除2016-04-18 16:04:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45670108-1.html
+INFO:root: id=408620连接html发生HTTPError,帖子可能被删除2016-04-18 16:05:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51282122-1.html
+INFO:root: id=408674连接html发生HTTPError,帖子可能被删除2016-04-18 16:06:49 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47890667-1.html
+INFO:root: id=408678连接html发生HTTPError,帖子可能被删除2016-04-18 16:06:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51389464-1.html
+INFO:root: id=408698连接html发生HTTPError,帖子可能被删除2016-04-18 16:07:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48108075-1.html
+INFO:root: id=408705连接html发生HTTPError,帖子可能被删除2016-04-18 16:07:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49736618-1.html
+ERROR:root: id=607083抓取信息时发生错误2016-04-18 16:07:37 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-37904561-1.html
+ERROR:root: id=29186抓取信息时发生错误2016-04-18 16:07:39 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-46697897-1.html
+ERROR:root: id=1013777抓取信息时发生错误2016-04-18 16:08:51 Error = [Errno 104] Connection reset by peer---http://club.autohome.com.cn/bbs/thread-c-874-27239695-1.html
+ERROR:root: id=408732抓取信息时发生错误2016-04-18 16:08:52 Error = [Errno 104] Connection reset by peer---http://club.autohome.com.cn/bbs/thread-c-3691-43534229-1.html
+ERROR:root: id=1013796抓取信息时发生错误2016-04-18 16:09:14 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-43730765-1.html
+INFO:root: id=607135连接html发生HTTPError,帖子可能被删除2016-04-18 16:09:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3204-48273038-1.html
+INFO:root: id=408779连接html发生HTTPError,帖子可能被删除2016-04-18 16:10:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50844523-1.html
+ERROR:root: id=318401抓取信息时发生错误2016-04-18 16:10:21 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-48870402-1.html
+INFO:root: id=408798连接html发生HTTPError,帖子可能被删除2016-04-18 16:10:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42460880-1.html
+INFO:root: id=408801连接html发生HTTPError,帖子可能被删除2016-04-18 16:10:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44757957-1.html
+INFO:root: id=408831连接html发生HTTPError,帖子可能被删除2016-04-18 16:11:41 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45723560-1.html
+INFO:root: id=408849连接html发生HTTPError,帖子可能被删除2016-04-18 16:12:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44564606-1.html
+INFO:root: id=408850连接html发生HTTPError,帖子可能被删除2016-04-18 16:12:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45187765-1.html
+INFO:root: id=408856连接html发生HTTPError,帖子可能被删除2016-04-18 16:12:29 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46389988-1.html
+INFO:root: id=408870连接html发生HTTPError,帖子可能被删除2016-04-18 16:12:53 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43474076-1.html
+INFO:root: id=408878连接html发生HTTPError,帖子可能被删除2016-04-18 16:13:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49765810-1.html
+INFO:root: id=408908连接html发生HTTPError,帖子可能被删除2016-04-18 16:14:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48080712-1.html
+ERROR:root: id=707512抓取信息时发生错误2016-04-18 16:14:43 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-45605397-1.html
+INFO:root: id=408976连接html发生HTTPError,帖子可能被删除2016-04-18 16:16:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45132519-1.html
+INFO:root: id=408985连接html发生HTTPError,帖子可能被删除2016-04-18 16:16:29 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51152834-1.html
+ERROR:root: id=814212抓取信息时发生错误2016-04-18 16:16:39 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-41582391-1.html
+ERROR:root: id=106706抓取信息时发生错误2016-04-18 16:16:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-48688792-1.html
+ERROR:root: id=523209抓取信息时发生错误2016-04-18 16:17:05 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-33314916-1.html
+INFO:root: id=409033连接html发生HTTPError,帖子可能被删除2016-04-18 16:18:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46900241-1.html
+ERROR:root: id=29594抓取信息时发生错误2016-04-18 16:18:21 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-36914927-1.html
+INFO:root: id=409067连接html发生HTTPError,帖子可能被删除2016-04-18 16:19:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-48307056-1.html
+INFO:root: id=409068连接html发生HTTPError,帖子可能被删除2016-04-18 16:19:18 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48266861-1.html
+INFO:root: id=409086连接html发生HTTPError,帖子可能被删除2016-04-18 16:19:36 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46247722-1.html
+INFO:root: id=409088连接html发生HTTPError,帖子可能被删除2016-04-18 16:19:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48306569-1.html
+INFO:root: id=409105连接html发生HTTPError,帖子可能被删除2016-04-18 16:20:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50830991-1.html
+INFO:root: id=409114连接html发生HTTPError,帖子可能被删除2016-04-18 16:20:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48978388-1.html
+INFO:root: id=409156连接html发生HTTPError,帖子可能被删除2016-04-18 16:21:50 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50167763-1.html
+ERROR:root: id=318828抓取信息时发生错误2016-04-18 16:21:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-28188733-1.html
+INFO:root: id=409164连接html发生HTTPError,帖子可能被删除2016-04-18 16:22:03 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48086472-1.html
+INFO:root: id=409168连接html发生HTTPError,帖子可能被删除2016-04-18 16:22:11 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45277244-1.html
+ERROR:root: id=106892抓取信息时发生错误2016-04-18 16:22:33 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-50649651-1.html
+INFO:root: id=409200连接html发生HTTPError,帖子可能被删除2016-04-18 16:22:49 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44241617-1.html
+ERROR:root: id=409204抓取信息时发生错误2016-04-18 16:22:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-47701235-1.html
+ERROR:root: id=1014339抓取信息时发生错误2016-04-18 16:22:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-43583315-1.html
+INFO:root: id=1014349连接html发生HTTPError,帖子可能被删除2016-04-18 16:23:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-874-51531804-1.html
+INFO:root: id=409218连接html发生HTTPError,帖子可能被删除2016-04-18 16:23:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48704230-1.html
+ERROR:root: id=906790抓取信息时发生错误2016-04-18 16:23:32 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-314-33770357-1.html
+INFO:root: id=409233连接html发生HTTPError,帖子可能被删除2016-04-18 16:23:48 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49422024-1.html
+INFO:root: id=409268连接html发生HTTPError,帖子可能被删除2016-04-18 16:24:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45803515-1.html
+INFO:root: id=409280连接html发生HTTPError,帖子可能被删除2016-04-18 16:25:30 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43807041-1.html
+INFO:root: id=409293连接html发生HTTPError,帖子可能被删除2016-04-18 16:25:49 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47541194-1.html
+INFO:root: id=409335连接html发生HTTPError,帖子可能被删除2016-04-18 16:27:11 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44240396-1.html
+INFO:root: id=409349连接html发生HTTPError,帖子可能被删除2016-04-18 16:27:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47636705-1.html
+INFO:root: id=409351连接html发生HTTPError,帖子可能被删除2016-04-18 16:27:33 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43245211-1.html
+INFO:root: id=409356连接html发生HTTPError,帖子可能被删除2016-04-18 16:27:36 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51189885-1.html
+INFO:root: id=409379连接html发生HTTPError,帖子可能被删除2016-04-18 16:28:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51341424-1.html
+INFO:root: id=409415连接html发生HTTPError,帖子可能被删除2016-04-18 16:29:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43854982-1.html
+INFO:root: id=409455连接html发生HTTPError,帖子可能被删除2016-04-18 16:29:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45751201-1.html
+INFO:root: id=409457连接html发生HTTPError,帖子可能被删除2016-04-18 16:30:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-48084894-1.html
+ERROR:root: id=409458抓取信息时发生错误2016-04-18 16:30:01 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-47168963-1.html
+INFO:root: id=409481连接html发生HTTPError,帖子可能被删除2016-04-18 16:30:28 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49689120-1.html
+INFO:root: id=409512连接html发生HTTPError,帖子可能被删除2016-04-18 16:31:11 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43271849-1.html
+ERROR:root: id=814742抓取信息时发生错误2016-04-18 16:31:33 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-33368126-1.html
+ERROR:root: id=708091抓取信息时发生错误2016-04-18 16:32:48 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-43431133-1.html
+INFO:root: id=409618连接html发生HTTPError,帖子可能被删除2016-04-18 16:34:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51534717-1.html
+INFO:root: id=409620连接html发生HTTPError,帖子可能被删除2016-04-18 16:34:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47084956-1.html
+INFO:root: id=409626连接html发生HTTPError,帖子可能被删除2016-04-18 16:34:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47150753-1.html
+ERROR:root: id=1014739抓取信息时发生错误2016-04-18 16:34:28 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-51075165-1.html
+INFO:root: id=409643连接html发生HTTPError,帖子可能被删除2016-04-18 16:34:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51474081-1.html
+INFO:root: id=409670连接html发生HTTPError,帖子可能被删除2016-04-18 16:35:33 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50143034-1.html
+INFO:root: id=409694连接html发生HTTPError,帖子可能被删除2016-04-18 16:36:03 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42980818-1.html
+INFO:root: id=409726连接html发生HTTPError,帖子可能被删除2016-04-18 16:36:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50813418-1.html
+INFO:root: id=409735连接html发生HTTPError,帖子可能被删除2016-04-18 16:36:54 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51287915-1.html
+INFO:root: id=409738连接html发生HTTPError,帖子可能被删除2016-04-18 16:36:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-46366448-1.html
+INFO:root: id=209740连接html发生HTTPError,帖子可能被删除2016-04-18 16:37:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2778-40726810-1.html
+INFO:root: id=409745连接html发生HTTPError,帖子可能被删除2016-04-18 16:37:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49437698-1.html
+INFO:root: id=409746连接html发生HTTPError,帖子可能被删除2016-04-18 16:37:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46639779-1.html
+INFO:root: id=409752连接html发生HTTPError,帖子可能被删除2016-04-18 16:37:10 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-50946641-1.html
+INFO:root: id=409758连接html发生HTTPError,帖子可能被删除2016-04-18 16:37:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45187394-1.html
+ERROR:root: id=708271抓取信息时发生错误2016-04-18 16:37:30 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-49153629-1.html
+ERROR:root: id=608159抓取信息时发生错误2016-04-18 16:37:52 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-32824958-1.html
+INFO:root: id=409773连接html发生HTTPError,帖子可能被删除2016-04-18 16:38:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50303564-1.html
+INFO:root: id=409810连接html发生HTTPError,帖子可能被删除2016-04-18 16:39:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44054247-1.html
+ERROR:root: id=708344抓取信息时发生错误2016-04-18 16:39:09 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-46020366-1.html
+INFO:root: id=409817连接html发生HTTPError,帖子可能被删除2016-04-18 16:39:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42777274-1.html
+INFO:root: id=409852连接html发生HTTPError,帖子可能被删除2016-04-18 16:40:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43464130-1.html
+ERROR:root: id=319449抓取信息时发生错误2016-04-18 16:40:20 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-26719042-1.html
+INFO:root: id=409882连接html发生HTTPError,帖子可能被删除2016-04-18 16:40:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50167599-1.html
+INFO:root: id=409902连接html发生HTTPError,帖子可能被删除2016-04-18 16:41:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45151118-1.html
+INFO:root: id=409902连接html发生HTTPError,帖子可能被删除2016-04-18 16:41:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45151118-1.html
+INFO:root: id=409910连接html发生HTTPError,帖子可能被删除2016-04-18 16:41:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-48339946-1.html
+ERROR:root: id=409912抓取信息时发生错误2016-04-18 16:41:26 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-40200040-1.html
+INFO:root: id=409916连接html发生HTTPError,帖子可能被删除2016-04-18 16:41:34 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48494687-1.html
+ERROR:root: id=209894抓取信息时发生错误2016-04-18 16:41:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-21597290-1.html
+INFO:root: id=409951连接html发生HTTPError,帖子可能被删除2016-04-18 16:42:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43276097-1.html
+INFO:root: id=409964连接html发生HTTPError,帖子可能被删除2016-04-18 16:42:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42936509-1.html
+INFO:root: id=608343连接html发生HTTPError,帖子可能被删除2016-04-18 16:43:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3204-51349360-1.html
+INFO:root: id=409989连接html发生HTTPError,帖子可能被删除2016-04-18 16:43:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45061970-1.html
+ERROR:root: id=410027抓取信息时发生错误2016-04-18 16:44:45 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-45579622-1.html
+INFO:root: id=410043连接html发生HTTPError,帖子可能被删除2016-04-18 16:45:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44955628-1.html
+ERROR:root: id=319601抓取信息时发生错误2016-04-18 16:45:30 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-43748076-1.html
+INFO:root: id=410058连接html发生HTTPError,帖子可能被删除2016-04-18 16:45:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43733873-1.html
+ERROR:root: id=319621抓取信息时发生错误2016-04-18 16:46:02 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-28226387-1.html
+ERROR:root: id=1015057抓取信息时发生错误2016-04-18 16:46:40 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-45241075-1.html
+INFO:root: id=410109连接html发生HTTPError,帖子可能被删除2016-04-18 16:47:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-41729602-1.html
+INFO:root: id=410113连接html发生HTTPError,帖子可能被删除2016-04-18 16:47:10 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-49363957-1.html
+INFO:root: id=410115连接html发生HTTPError,帖子可能被删除2016-04-18 16:47:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46933590-1.html
+INFO:root: id=410127连接html发生HTTPError,帖子可能被删除2016-04-18 16:48:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-49345985-1.html
+INFO:root: id=30724连接html发生HTTPError,帖子可能被删除2016-04-18 16:48:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3582-50884731-1.html
+INFO:root: id=410157连接html发生HTTPError,帖子可能被删除2016-04-18 16:48:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43526039-1.html
+ERROR:root: id=907784抓取信息时发生错误2016-04-18 16:48:58 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-314-24219052-1.html
+INFO:root: id=410185连接html发生HTTPError,帖子可能被删除2016-04-18 16:49:43 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45650801-1.html
+INFO:root: id=410189连接html发生HTTPError,帖子可能被删除2016-04-18 16:49:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49709961-1.html
+INFO:root: id=410208连接html发生HTTPError,帖子可能被删除2016-04-18 16:50:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42872845-1.html
+ERROR:root: id=30811抓取信息时发生错误2016-04-18 16:50:38 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-39416274-1.html
+INFO:root: id=410235连接html发生HTTPError,帖子可能被删除2016-04-18 16:50:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47450315-1.html
+ERROR:root: id=608620抓取信息时发生错误2016-04-18 16:51:06 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-31981363-1.html
+INFO:root: id=410242连接html发生HTTPError,帖子可能被删除2016-04-18 16:51:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43803398-1.html
+INFO:root: id=410330连接html发生HTTPError,帖子可能被删除2016-04-18 16:54:03 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46232654-1.html
+INFO:root: id=410342连接html发生HTTPError,帖子可能被删除2016-04-18 16:54:24 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46994127-1.html
+ERROR:root: id=210294抓取信息时发生错误2016-04-18 16:54:59 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-19857648-1.html
+INFO:root: id=410369连接html发生HTTPError,帖子可能被删除2016-04-18 16:55:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47222189-1.html
+INFO:root: id=410372连接html发生HTTPError,帖子可能被删除2016-04-18 16:55:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50067069-1.html
+ERROR:root: id=210333抓取信息时发生错误2016-04-18 16:56:13 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-20152262-1.html
+ERROR:root: id=210374抓取信息时发生错误2016-04-18 16:57:23 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-26572849-1.html
+ERROR:root: id=608830抓取信息时发生错误2016-04-18 16:57:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-31745026-1.html
+ERROR:root: id=524802抓取信息时发生错误2016-04-18 16:58:00 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-49347504-1.html
+INFO:root: id=410439连接html发生HTTPError,帖子可能被删除2016-04-18 16:58:02 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44597004-1.html
+INFO:root: id=410453连接html发生HTTPError,帖子可能被删除2016-04-18 16:58:54 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46389817-1.html
+INFO:root: id=410463连接html发生HTTPError,帖子可能被删除2016-04-18 16:59:07 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51284349-1.html
+INFO:root: id=410483连接html发生HTTPError,帖子可能被删除2016-04-18 16:59:54 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45638692-1.html
+ERROR:root: id=210472抓取信息时发生错误2016-04-18 17:00:40 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-21294883-1.html
+INFO:root: id=410507连接html发生HTTPError,帖子可能被删除2016-04-18 17:00:43 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50593975-1.html
+INFO:root: id=410511连接html发生HTTPError,帖子可能被删除2016-04-18 17:00:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49005655-1.html
+INFO:root: id=410546连接html发生HTTPError,帖子可能被删除2016-04-18 17:01:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-49363303-1.html
+INFO:root: id=815684连接html发生HTTPError,帖子可能被删除2016-04-18 17:03:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-656-51242163-1.html
+INFO:root: id=410606连接html发生HTTPError,帖子可能被删除2016-04-18 17:03:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50649576-1.html
+INFO:root: id=609027连接html发生HTTPError,帖子可能被删除2016-04-18 17:04:11 HTTPError = HTTP Error 504: Gateway Time-out---http://club.autohome.com.cn/bbs/thread-c-3204-45362222-1.html
+ERROR:root: id=709116抓取信息时发生错误2016-04-18 17:04:14 Error = HTTP Error 504: Gateway Time-out---http://club.autohome.com.cn/bbs/thread-c-3677-51120067-1.html
+INFO:root: id=410616连接html发生HTTPError,帖子可能被删除2016-04-18 17:04:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48090286-1.html
+INFO:root: id=410638连接html发生HTTPError,帖子可能被删除2016-04-18 17:04:44 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44758746-1.html
+INFO:root: id=410643连接html发生HTTPError,帖子可能被删除2016-04-18 17:04:48 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51295104-1.html
+ERROR:root: id=108282抓取信息时发生错误2016-04-18 17:05:05 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-45207825-1.html
+INFO:root: id=410674连接html发生HTTPError,帖子可能被删除2016-04-18 17:05:48 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46235621-1.html
+INFO:root: id=410682连接html发生HTTPError,帖子可能被删除2016-04-18 17:05:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50887693-1.html
+INFO:root: id=410690连接html发生HTTPError,帖子可能被删除2016-04-18 17:06:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43218796-1.html
+INFO:root: id=410694连接html发生HTTPError,帖子可能被删除2016-04-18 17:06:04 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51022443-1.html
+INFO:root: id=410707连接html发生HTTPError,帖子可能被删除2016-04-18 17:06:24 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-39715145-1.html
+INFO:root: id=410720连接html发生HTTPError,帖子可能被删除2016-04-18 17:06:43 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50599825-1.html
+INFO:root: id=410721连接html发生HTTPError,帖子可能被删除2016-04-18 17:06:43 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47977840-1.html
+ERROR:root: id=210653抓取信息时发生错误2016-04-18 17:07:16 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-26707120-1.html
+ERROR:root: id=108382抓取信息时发生错误2016-04-18 17:08:27 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-37601667-1.html
+INFO:root: id=410782连接html发生HTTPError,帖子可能被删除2016-04-18 17:08:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45753742-1.html
+INFO:root: id=410786连接html发生HTTPError,帖子可能被删除2016-04-18 17:08:40 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49089790-1.html
+INFO:root: id=410801连接html发生HTTPError,帖子可能被删除2016-04-18 17:09:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44016744-1.html
+INFO:root: id=410846连接html发生HTTPError,帖子可能被删除2016-04-18 17:10:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45496365-1.html
+INFO:root: id=410927连接html发生HTTPError,帖子可能被删除2016-04-18 17:12:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47173486-1.html
+INFO:root: id=410935连接html发生HTTPError,帖子可能被删除2016-04-18 17:13:07 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47184951-1.html
+INFO:root: id=410943连接html发生HTTPError,帖子可能被删除2016-04-18 17:13:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44617177-1.html
+ERROR:root: id=815891抓取信息时发生错误2016-04-18 17:13:23 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-30273562-1.html
+INFO:root: id=410949连接html发生HTTPError,帖子可能被删除2016-04-18 17:13:43 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-50247498-1.html
+INFO:root: id=410954连接html发生HTTPError,帖子可能被删除2016-04-18 17:13:48 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47635532-1.html
+INFO:root: id=410962连接html发生HTTPError,帖子可能被删除2016-04-18 17:14:10 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48713108-1.html
+INFO:root: id=410963连接html发生HTTPError,帖子可能被删除2016-04-18 17:14:10 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44641555-1.html
+ERROR:root: id=108596抓取信息时发生错误2016-04-18 17:15:21 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-50186473-1.html
+ERROR:root: id=210863抓取信息时发生错误2016-04-18 17:16:31 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-19763543-1.html
+INFO:root: id=411055连接html发生HTTPError,帖子可能被删除2016-04-18 17:17:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48421637-1.html
+ERROR:root: id=320573抓取信息时发生错误2016-04-18 17:17:34 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-26195705-1.html
+INFO:root: id=411078连接html发生HTTPError,帖子可能被删除2016-04-18 17:18:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45778196-1.html
+INFO:root: id=1015999连接html发生HTTPError,帖子可能被删除2016-04-18 17:18:43 HTTPError = HTTP Error 504: Gateway Time-out---http://club.autohome.com.cn/bbs/thread-c-874-27259310-1.html
+INFO:root: id=411100连接html发生HTTPError,帖子可能被删除2016-04-18 17:19:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45505991-1.html
+INFO:root: id=411114连接html发生HTTPError,帖子可能被删除2016-04-18 17:19:43 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42552451-1.html
+INFO:root: id=525499连接html发生HTTPError,帖子可能被删除2016-04-18 17:19:59 HTTPError = HTTP Error 504: Gateway Time-out---http://club.autohome.com.cn/bbs/threadqa-c-2123-44712538-1.html
+INFO:root: id=411121连接html发生HTTPError,帖子可能被删除2016-04-18 17:20:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-50067468-1.html
+INFO:root: id=411124连接html发生HTTPError,帖子可能被删除2016-04-18 17:20:16 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48967908-1.html
+ERROR:root: id=31811抓取信息时发生错误2016-04-18 17:20:27 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-39755188-1.html
+INFO:root: id=411148连接html发生HTTPError,帖子可能被删除2016-04-18 17:20:49 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47992541-1.html
+INFO:root: id=411165连接html发生HTTPError,帖子可能被删除2016-04-18 17:21:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45752505-1.html
+ERROR:root: id=108753抓取信息时发生错误2016-04-18 17:21:10 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-49910317-1.html
+ERROR:root: id=210965抓取信息时发生错误2016-04-18 17:21:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-21881616-1.html
+INFO:root: id=411209连接html发生HTTPError,帖子可能被删除2016-04-18 17:22:30 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-48080453-1.html
+INFO:root: id=411214连接html发生HTTPError,帖子可能被删除2016-04-18 17:22:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42553512-1.html
+INFO:root: id=411229连接html发生HTTPError,帖子可能被删除2016-04-18 17:22:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44805159-1.html
+INFO:root: id=411240连接html发生HTTPError,帖子可能被删除2016-04-18 17:23:07 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44579440-1.html
+INFO:root: id=411245连接html发生HTTPError,帖子可能被删除2016-04-18 17:23:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43244192-1.html
+INFO:root: id=411259连接html发生HTTPError,帖子可能被删除2016-04-18 17:23:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51389650-1.html
+INFO:root: id=411268连接html发生HTTPError,帖子可能被删除2016-04-18 17:23:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51318416-1.html
+INFO:root: id=411272连接html发生HTTPError,帖子可能被删除2016-04-18 17:23:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43772084-1.html
+ERROR:root: id=32079抓取信息时发生错误2016-04-18 17:27:43 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-37192990-1.html
+INFO:root: id=411381连接html发生HTTPError,帖子可能被删除2016-04-18 17:27:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46654863-1.html
+INFO:root: id=411430连接html发生HTTPError,帖子可能被删除2016-04-18 17:29:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50403292-1.html
+INFO:root: id=411453连接html发生HTTPError,帖子可能被删除2016-04-18 17:30:06 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46770284-1.html
+INFO:root: id=411458连接html发生HTTPError,帖子可能被删除2016-04-18 17:30:17 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50136513-1.html
+INFO:root: id=411460连接html发生HTTPError,帖子可能被删除2016-04-18 17:30:20 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45651035-1.html
+INFO:root: id=411463连接html发生HTTPError,帖子可能被删除2016-04-18 17:30:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50068209-1.html
+INFO:root: id=411478连接html发生HTTPError,帖子可能被删除2016-04-18 17:31:01 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42554166-1.html
+INFO:root: id=411502连接html发生HTTPError,帖子可能被删除2016-04-18 17:31:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44551171-1.html
+INFO:root: id=411507连接html发生HTTPError,帖子可能被删除2016-04-18 17:31:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48119719-1.html
+INFO:root: id=411527连接html发生HTTPError,帖子可能被删除2016-04-18 17:32:02 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50928703-1.html
+INFO:root: id=411551连接html发生HTTPError,帖子可能被删除2016-04-18 17:32:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50956392-1.html
+INFO:root: id=411567连接html发生HTTPError,帖子可能被删除2016-04-18 17:33:41 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46986293-1.html
+INFO:root: id=411577连接html发生HTTPError,帖子可能被删除2016-04-18 17:33:50 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47042259-1.html
+INFO:root: id=411584连接html发生HTTPError,帖子可能被删除2016-04-18 17:34:00 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47189819-1.html
+INFO:root: id=411585连接html发生HTTPError,帖子可能被删除2016-04-18 17:34:00 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45324025-1.html
+INFO:root: id=411604连接html发生HTTPError,帖子可能被删除2016-04-18 17:34:29 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51543294-1.html
+INFO:root: id=411614连接html发生HTTPError,帖子可能被删除2016-04-18 17:34:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49752542-1.html
+ERROR:root: id=109166抓取信息时发生错误2016-04-18 17:35:24 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3454-38547779-1.html
+ERROR:root: id=32386抓取信息时发生错误2016-04-18 17:36:41 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-45466142-1.html
+ERROR:root: id=211414抓取信息时发生错误2016-04-18 17:36:43 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-26599673-1.html
+INFO:root: id=411671连接html发生HTTPError,帖子可能被删除2016-04-18 17:36:47 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48696701-1.html
+INFO:root: id=411676连接html发生HTTPError,帖子可能被删除2016-04-18 17:36:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49153739-1.html
+ERROR:root: id=610077抓取信息时发生错误2016-04-18 17:37:22 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-45937263-1.html
+INFO:root: id=411726连接html发生HTTPError,帖子可能被删除2016-04-18 17:38:34 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51522295-1.html
+INFO:root: id=411732连接html发生HTTPError,帖子可能被删除2016-04-18 17:38:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51045614-1.html
+ERROR:root: id=1016666抓取信息时发生错误2016-04-18 17:38:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-33148901-1.html
+INFO:root: id=411742连接html发生HTTPError,帖子可能被删除2016-04-18 17:38:55 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51166194-1.html
+ERROR:root: id=32491抓取信息时发生错误2016-04-18 17:39:05 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-43749333-1.html
+INFO:root: id=411751连接html发生HTTPError,帖子可能被删除2016-04-18 17:39:05 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51473945-1.html
+INFO:root: id=411764连接html发生HTTPError,帖子可能被删除2016-04-18 17:39:20 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50195639-1.html
+INFO:root: id=411777连接html发生HTTPError,帖子可能被删除2016-04-18 17:39:42 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51222113-1.html
+INFO:root: id=411828连接html发生HTTPError,帖子可能被删除2016-04-18 17:41:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46064003-1.html
+INFO:root: id=411836连接html发生HTTPError,帖子可能被删除2016-04-18 17:41:25 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44319402-1.html
+ERROR:root: id=211597抓取信息时发生错误2016-04-18 17:41:51 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-23845446-1.html
+ERROR:root: id=816881抓取信息时发生错误2016-04-18 17:42:00 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-37313994-1.html
+ERROR:root: id=1016744抓取信息时发生错误2016-04-18 17:42:00 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-26719625-1.html
+ERROR:root: id=211611抓取信息时发生错误2016-04-18 17:42:07 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-20227925-1.html
+INFO:root: id=411880连接html发生HTTPError,帖子可能被删除2016-04-18 17:42:56 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51251937-1.html
+INFO:root: id=411909连接html发生HTTPError,帖子可能被删除2016-04-18 17:43:50 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42895905-1.html
+ERROR:root: id=411912抓取信息时发生错误2016-04-18 17:43:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-51453769-1.html
+INFO:root: id=411931连接html发生HTTPError,帖子可能被删除2016-04-18 17:44:33 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45893382-1.html
+INFO:root: id=411972连接html发生HTTPError,帖子可能被删除2016-04-18 17:45:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51280420-1.html
+ERROR:root: id=1016912抓取信息时发生错误2016-04-18 17:45:28 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-43734214-1.html
+INFO:root: id=411979连接html发生HTTPError,帖子可能被删除2016-04-18 17:45:33 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42591938-1.html
+INFO:root: id=411999连接html发生HTTPError,帖子可能被删除2016-04-18 17:45:55 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42301825-1.html
+INFO:root: id=412010连接html发生HTTPError,帖子可能被删除2016-04-18 17:46:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43247168-1.html
+INFO:root: id=412016连接html发生HTTPError,帖子可能被删除2016-04-18 17:46:15 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42897993-1.html
+INFO:root: id=412018连接html发生HTTPError,帖子可能被删除2016-04-18 17:46:16 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43579012-1.html
+INFO:root: id=412048连接html发生HTTPError,帖子可能被删除2016-04-18 17:46:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50749890-1.html
+INFO:root: id=412050连接html发生HTTPError,帖子可能被删除2016-04-18 17:46:58 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44319872-1.html
+INFO:root: id=412063连接html发生HTTPError,帖子可能被删除2016-04-18 17:47:18 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51190056-1.html
+ERROR:root: id=321516抓取信息时发生错误2016-04-18 17:47:25 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-38240161-1.html
+INFO:root: id=412096连接html发生HTTPError,帖子可能被删除2016-04-18 17:47:54 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44809439-1.html
+INFO:root: id=412111连接html发生HTTPError,帖子可能被删除2016-04-18 17:48:12 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49026411-1.html
+ERROR:root: id=321554抓取信息时发生错误2016-04-18 17:48:21 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-34354439-1.html
+ERROR:root: id=211865抓取信息时发生错误2016-04-18 17:48:31 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-26200572-1.html
+INFO:root: id=412136连接html发生HTTPError,帖子可能被删除2016-04-18 17:48:44 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50106785-1.html
+ERROR:root: id=817158抓取信息时发生错误2016-04-18 17:48:51 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-43355278-1.html
+ERROR:root: id=817188抓取信息时发生错误2016-04-18 17:49:33 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-32711372-1.html
+ERROR:root: id=321616抓取信息时发生错误2016-04-18 17:49:50 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-35352993-1.html
+INFO:root: id=412148连接html发生HTTPError,帖子可能被删除2016-04-18 17:50:16 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-49084752-1.html
+INFO:root: id=1017102连接html发生HTTPError,帖子可能被删除2016-04-18 17:50:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-874-51420329-1.html
+INFO:root: id=412161连接html发生HTTPError,帖子可能被删除2016-04-18 17:50:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51248122-1.html
+INFO:root: id=412187连接html发生HTTPError,帖子可能被删除2016-04-18 17:51:07 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49710556-1.html
+ERROR:root: id=817274抓取信息时发生错误2016-04-18 17:51:43 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-36915389-1.html
+INFO:root: id=412216连接html发生HTTPError,帖子可能被删除2016-04-18 17:51:46 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49418204-1.html
+INFO:root: id=412222连接html发生HTTPError,帖子可能被删除2016-04-18 17:51:51 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-51320402-1.html
+ERROR:root: id=33002抓取信息时发生错误2016-04-18 17:51:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-39362811-1.html
+INFO:root: id=412233连接html发生HTTPError,帖子可能被删除2016-04-18 17:52:02 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45894609-1.html
+INFO:root: id=412239连接html发生HTTPError,帖子可能被删除2016-04-18 17:52:08 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43379362-1.html
+INFO:root: id=412244连接html发生HTTPError,帖子可能被删除2016-04-18 17:52:14 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46218727-1.html
+ERROR:root: id=526886抓取信息时发生错误2016-04-18 17:55:37 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-34458423-1.html
+INFO:root: id=412379连接html发生HTTPError,帖子可能被删除2016-04-18 17:55:41 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44715838-1.html
+ERROR:root: id=909846抓取信息时发生错误2016-04-18 17:56:01 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-314-48707571-1.html
+INFO:root: id=412419连接html发生HTTPError,帖子可能被删除2016-04-18 17:56:36 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51307999-1.html
+INFO:root: id=412437连接html发生HTTPError,帖子可能被删除2016-04-18 17:57:10 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45062143-1.html
+INFO:root: id=412452连接html发生HTTPError,帖子可能被删除2016-04-18 17:57:32 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42526301-1.html
+INFO:root: id=412459连接html发生HTTPError,帖子可能被删除2016-04-18 17:57:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44235991-1.html
+INFO:root: id=412490连接html发生HTTPError,帖子可能被删除2016-04-18 17:58:23 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51190276-1.html
+INFO:root: id=412493连接html发生HTTPError,帖子可能被删除2016-04-18 17:58:24 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-41921540-1.html
+ERROR:root: id=610859抓取信息时发生错误2016-04-18 17:58:29 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-44080587-1.html
+ERROR:root: id=817570抓取信息时发生错误2016-04-18 17:59:28 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-32157063-1.html
+INFO:root: id=412535连接html发生HTTPError,帖子可能被删除2016-04-18 17:59:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48438034-1.html
+INFO:root: id=412543连接html发生HTTPError,帖子可能被删除2016-04-18 17:59:44 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44037373-1.html
+INFO:root: id=412573连接html发生HTTPError,帖子可能被删除2016-04-18 18:00:21 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51348825-1.html
+INFO:root: id=412615连接html发生HTTPError,帖子可能被删除2016-04-18 18:01:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42496073-1.html
+INFO:root: id=412622连接html发生HTTPError,帖子可能被删除2016-04-18 18:01:34 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-51221437-1.html
+INFO:root: id=412642连接html发生HTTPError,帖子可能被删除2016-04-18 18:01:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46713367-1.html
+INFO:root: id=110110连接html发生HTTPError,帖子可能被删除2016-04-18 18:02:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3454-35927625-1.html
+ERROR:root: id=527181抓取信息时发生错误2016-04-18 18:02:28 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2123-42551021-1.html
+INFO:root: id=212358连接html发生HTTPError,帖子可能被删除2016-04-18 18:02:35 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-2778-36113076-1.html
+INFO:root: id=412663连接html发生HTTPError,帖子可能被删除2016-04-18 18:02:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-45781352-1.html
+INFO:root: id=412670连接html发生HTTPError,帖子可能被删除2016-04-18 18:02:42 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43716456-1.html
+INFO:root: id=412734连接html发生HTTPError,帖子可能被删除2016-04-18 18:03:57 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43237602-1.html
+INFO:root: id=412777连接html发生HTTPError,帖子可能被删除2016-04-18 18:05:10 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46860207-1.html
+INFO:root: id=412779连接html发生HTTPError,帖子可能被删除2016-04-18 18:05:13 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50218425-1.html
+ERROR:root: id=710962抓取信息时发生错误2016-04-18 18:05:29 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-46755965-1.html
+INFO:root: id=412816连接html发生HTTPError,帖子可能被删除2016-04-18 18:06:29 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43889436-1.html
+INFO:root: id=412852连接html发生HTTPError,帖子可能被删除2016-04-18 18:07:16 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43383783-1.html
+INFO:root: id=412858连接html发生HTTPError,帖子可能被删除2016-04-18 18:07:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42466525-1.html
+INFO:root: id=412866连接html发生HTTPError,帖子可能被删除2016-04-18 18:07:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43070547-1.html
+INFO:root: id=412874连接html发生HTTPError,帖子可能被删除2016-04-18 18:07:52 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42535518-1.html
+INFO:root: id=412896连接html发生HTTPError,帖子可能被删除2016-04-18 18:08:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46986857-1.html
+INFO:root: id=412897连接html发生HTTPError,帖子可能被删除2016-04-18 18:08:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50167103-1.html
+INFO:root: id=412902连接html发生HTTPError,帖子可能被删除2016-04-18 18:08:31 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-47108305-1.html
+ERROR:root: id=212564抓取信息时发生错误2016-04-18 18:08:34 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-24848826-1.html
+INFO:root: id=412910连接html发生HTTPError,帖子可能被删除2016-04-18 18:08:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-42895703-1.html
+INFO:root: id=412941连接html发生HTTPError,帖子可能被删除2016-04-18 18:09:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-48579174-1.html
+INFO:root: id=412952连接html发生HTTPError,帖子可能被删除2016-04-18 18:09:59 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50904045-1.html
+INFO:root: id=412978连接html发生HTTPError,帖子可能被删除2016-04-18 18:10:36 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49060606-1.html
+INFO:root: id=412980连接html发生HTTPError,帖子可能被删除2016-04-18 18:10:37 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-44902553-1.html
+INFO:root: id=412992连接html发生HTTPError,帖子可能被删除2016-04-18 18:10:51 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/threadqa-c-3691-47671538-1.html
+ERROR:root: id=412997抓取信息时发生错误2016-04-18 18:10:57 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3691-40506938-1.html
+INFO:root: id=413019连接html发生HTTPError,帖子可能被删除2016-04-18 18:12:09 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-43380438-1.html
+INFO:root: id=413045连接html发生HTTPError,帖子可能被删除2016-04-18 18:12:39 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-46766066-1.html
+INFO:root: id=413057连接html发生HTTPError,帖子可能被删除2016-04-18 18:12:53 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50862553-1.html
+ERROR:root: id=321980抓取信息时发生错误2016-04-18 18:13:05 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3013-44335184-1.html
+INFO:root: id=413072连接html发生HTTPError,帖子可能被删除2016-04-18 18:13:22 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49697705-1.html
+INFO:root: id=413126连接html发生HTTPError,帖子可能被删除2016-04-18 18:14:26 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-50682275-1.html
+ERROR:root: id=212834抓取信息时发生错误2016-04-18 18:16:48 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-2778-29531995-1.html
+INFO:root: id=413269连接html发生HTTPError,帖子可能被删除2016-04-18 18:17:45 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-49790148-1.html
+INFO:root: id=413274连接html发生HTTPError,帖子可能被删除2016-04-18 18:17:50 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-3691-45450058-1.html
+ERROR:root: id=34129抓取信息时发生错误2016-04-18 18:18:49 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3582-41126369-1.html
+ERROR:root: id=818365抓取信息时发生错误2016-04-18 18:19:13 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-29393850-1.html
+ERROR:root: id=818572抓取信息时发生错误2016-04-18 18:25:08 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-40298122-1.html
+ERROR:root: id=611800抓取信息时发生错误2016-04-18 18:25:21 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-41193204-1.html
+ERROR:root: id=711629抓取信息时发生错误2016-04-18 18:25:24 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-45368803-1.html
+ERROR:root: id=818610抓取信息时发生错误2016-04-18 18:26:10 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-39452378-1.html
+ERROR:root: id=711676抓取信息时发生错误2016-04-18 18:26:53 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3677-47984754-1.html
+ERROR:root: id=818668抓取信息时发生错误2016-04-18 18:27:54 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-31472626-1.html
+ERROR:root: id=1018692抓取信息时发生错误2016-04-18 18:29:38 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-25844434-1.html
+ERROR:root: id=818757抓取信息时发生错误2016-04-18 18:30:04 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-29282463-1.html
+ERROR:root: id=611976抓取信息时发生错误2016-04-18 18:30:13 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-41096046-1.html

@@ -669,3 +669,4 @@ ERROR:root: id=808605抓取信息时发生错误2016-04-18 11:47:11 Error = 'Non
 ERROR:root: id=1307503抓取信息时发生错误2016-04-18 11:49:18 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-526-35147933-1.html
 ERROR:root: id=808725抓取信息时发生错误2016-04-18 11:50:38 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-33238096-1.html
 ERROR:root: id=1307658抓取信息时发生错误2016-04-18 11:52:58 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-526-42715101-1.html
+INFO:root: id=1307739连接html发生HTTPError,帖子可能被删除2016-04-18 11:55:19 HTTPError = HTTP Error 404: Not Found---http://club.autohome.com.cn/bbs/thread-c-526-50715481-1.html
