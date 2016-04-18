@@ -10,7 +10,8 @@ from StringUtil import LinkOperator
 from SoupUtil import SoupOperator
 from Constant import BBSContent
 
-conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
+import Constant
+conn = mysql.connector.connect(**Constant.config)
 logging.basicConfig(filename='log.log', level=logging.DEBUG)
 
 cur = conn.cursor()

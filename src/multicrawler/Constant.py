@@ -11,6 +11,14 @@ headerDict = {
     'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36'
 }
 
+config = {'host': '172.17.23.70',
+          'user': 'why',
+          'password': '48152659-+',
+          'port': 3306,
+          'database': 'refactor_crawler',
+          'charset': 'utf8'
+          }
+
 class BBSContent(object):
     def __init__(self):
         self.forum_link_id=""
