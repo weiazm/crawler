@@ -1324,3 +1324,4 @@ ERROR:root: id=818668抓取信息时发生错误2016-04-18 18:27:54 Error = 'Non
 ERROR:root: id=1018692抓取信息时发生错误2016-04-18 18:29:38 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-874-25844434-1.html
 ERROR:root: id=818757抓取信息时发生错误2016-04-18 18:30:04 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-656-29282463-1.html
 ERROR:root: id=611976抓取信息时发生错误2016-04-18 18:30:13 Error = 'NoneType' object has no attribute 'get_text'---http://club.autohome.com.cn/bbs/thread-c-3204-41096046-1.html
+

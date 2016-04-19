@@ -44,7 +44,7 @@ while index < 799999:
         MysqlOperator.updateTitleAndClickNum(conn, x, clickNum, title)
 
         pageNum = so.findTotlePageNum()
-        print pageNum + u'页： id=' + unicode(x) + u' ' + url
+        print pageNum , u'页： id=' + unicode(x) + u' ' + url
         # 楼主内容
         f0Content = so.getF0Content(x, bbs[2])
 

@@ -22,6 +22,9 @@ def compareList(indexsBefore, indexsAfter):
     else:
         return True,result
 
+def restart(crawlerId):
+	os.system(u"bash /home/why/桌面/restart.sh "+unicode(crawlerId))
+
 
 config = {'host': '172.17.23.70',
           'user': 'why',
@@ -40,7 +43,7 @@ conn.close()
 count = 1
 
 while 1:
-    time.sleep(90)#查询时间间隔
+    time.sleep(300)#查询时间间隔
     print '第',count,'次查询'
     conn = mysql.connector.connect(**config)
     cur2 = conn.cursor()
@@ -53,8 +56,10 @@ while 1:
     if result[0] == False:
         # 调用shell播放mp3
         os.system(u"play p.mp3")
-    	print 'before:', indexsBefore
+    	print ''#'before:', indexsBefore
     	print '错误id: ',result[1]
-    	print 'after:', indexsAfter
+    	for failId in result[1]:
+    		restart(failId)
+    	print ''#'after:', indexsAfter
     indexsBefore = indexsAfter
     count +=1
