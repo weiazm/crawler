@@ -1,10 +1,11 @@
-echo "------------------------------------------------------"
+echo "-------------------------------------------------------------------"
 echo "-------- starting all crawlers from 1 to 18 ---------- "
-echo ""
 i=1
 while(($i<19))
 do
-gnome-terminal -x bash -c "python /home/why/PycharmProjects/crawler/src/multicrawler/"$i"RunnableGetContent.py" --window
+bash restart.sh $i
 i=$(($i+1))
 done
-echo "Done!"
+echo "start all crawler done!"
+python monitor.py
+echo "start monitor done!"
