@@ -7,5 +7,5 @@ bash restart.sh $i
 i=$(($i+1))
 done
 echo "start all crawler done!"
-python monitor.py
+xfce4-terminal  --title monitor  -x bash -c "python monitor.py  ; exec bash" --window
 echo "start monitor done!"

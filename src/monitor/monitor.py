@@ -14,7 +14,12 @@ def compareList(indexsBefore, indexsAfter):
     x = 0
     result = []
     for index in afterList:
-        if index == beforeList[x]:
+    	#print str(index)[-4:]
+        if str(index)[-4:]=='9999':
+            pass
+        elif index ==1766626 :
+        	pass
+        elif index == beforeList[x]:
             result.append(x+1)
         x += 1
     if len(result)>0:
@@ -23,11 +28,11 @@ def compareList(indexsBefore, indexsAfter):
         return True,result
 
 def restart(crawlerId):
-	bashLine = "bash /home/why/桌面/restart.sh "+str(crawlerId)
+	bashLine = "bash /home/why/desktop/restart.sh "+str(crawlerId)
 	os.system(bashLine)
 
 
-config = {'host': '172.17.23.70',
+config = {'host': 'localhost',
           'user': 'why',
           'password': '48152659-+',
           'port': 3306,

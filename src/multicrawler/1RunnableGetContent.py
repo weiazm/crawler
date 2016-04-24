@@ -19,7 +19,7 @@ cur.execute('SELECT num FROM count where id = 1')
 index = cur.fetchall()[0][0]
 # for x in range(1,1766627):
 
-while index < 99999:
+while index < 1699999:
     x = index + 1
     mo = MysqlOperator(conn)
     bbsContent = BBSContent()
