@@ -1,5 +1,5 @@
 # -*-coding:utf-8-*-
-print 'this is a test', 'a', 'b'
+print 'this is a persionalTest', 'a', 'b'
 # name=raw_input('please input something:')
 # print 'you just input:',name
 a = 100
@@ -116,7 +116,7 @@ print [m + n for m in "abcde" for n in "1234"]
 # 列出文件名
 import os
 
-print [d for d in os.listdir('/home/why/workspace/test')]
+print [d for d in os.listdir('/home/why/workspace/persionalTest')]
 g = (x * x for x in range(20))
 print g
 print g.next()

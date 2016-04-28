@@ -8,13 +8,13 @@ import MySQLdb
 
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
 cursor = conn.cursor()
-cursor.execute("insert into test value(3,\"safaf\",1)")
+cursor.execute("insert into persionalTest value(3,\"safaf\",1)")
 conn.commit()
 conn.close()
 
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
 cursor = conn.cursor()
-cursor.execute("select * from test")
+cursor.execute("select * from persionalTest")
 for row in cursor.fetchall():
     print row
 print cursor.fetchall
@@ -23,7 +23,7 @@ conn.close()
 
 conn = MySQLdb.connect("localhost", "root", "1234", "crawler")
 cursor = conn.cursor()
-n = cursor.execute("delete from test where id=%s", "3")
+n = cursor.execute("delete from persionalTest where id=%s", "3")
 print n
 conn.commit()
 conn.close()
