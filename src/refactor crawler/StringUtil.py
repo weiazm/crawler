@@ -1,12 +1,11 @@
 # -*-coding:utf-8-*-
-import logging
 import string
 
-class LinkOperator(object):
 
+class LinkOperator(object):
     # 将楼层汉字转为数字
     @classmethod
-    def hanziConvertToNum(cls,str):
+    def hanziConvertToNum(cls, str):
         str = str.split(" ")[-1]
         if str == u"主楼":
             return 0
@@ -22,7 +21,7 @@ class LinkOperator(object):
                 return 3
             return res
 
-    #构造分页连接
+    # 构造分页连接
     @classmethod
     def makeLinkByPage(cls, page, url):
         links = []

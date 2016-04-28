@@ -1,14 +1,15 @@
 # -*-coding:utf-8-*-
-import logging
-import urllib2
 import datetime
+import logging
 import mysql.connector
+import urllib2
 from bs4 import BeautifulSoup
+
+from Constant import BBSContent
 from HtmlUtil import HtmlCreator
+from SoupUtil import SoupOperator
 from SqlUtil import MysqlOperator
 from StringUtil import LinkOperator
-from SoupUtil import SoupOperator
-from Constant import BBSContent
 
 conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
 logging.basicConfig(filename='log.log', level=logging.DEBUG)
@@ -16,10 +17,10 @@ logging.basicConfig(filename='log.log', level=logging.DEBUG)
 cur = conn.cursor()
 cur.execute('SELECT num FROM counter where id = 7')
 index = cur.fetchall()[0][0]
-#for x in range(1,1766627):
+# for x in range(1,1766627):
 
-while index<1499999:
-    x=index+1
+while index < 1499999:
+    x = index + 1
     mo = MysqlOperator(conn)
     bbsContent = BBSContent()
     bbs = mo.selectLinkById(x)
@@ -30,7 +31,7 @@ while index<1499999:
     except urllib2.HTTPError, e:
         logging.info(' id=' + str(x) + u"连接html发生HTTPError,帖子可能被删除" + datetime.datetime.now().strftime(
             '%Y-%m-%d %H:%M:%S') + ' HTTPError = ' + str(e) + '---' + url)
-        index+=1
+        index += 1
         continue
     try:
         so = SoupOperator(html)
@@ -40,10 +41,10 @@ while index<1499999:
         clickNum = so.getBBSClickNum()
         # 更新链接表的标题内容
 
-        MysqlOperator.updateTitleAndClickNum(conn,x,clickNum,title)
+        MysqlOperator.updateTitleAndClickNum(conn, x, clickNum, title)
 
         pageNum = so.findTotlePageNum()
-        print pageNum+u'页： id='+unicode(x)+u' '+url
+        print pageNum + u'页： id=' + unicode(x) + u' ' + url
         # 楼主内容
         f0Content = so.getF0Content(x, bbs[2])
 
@@ -65,10 +66,9 @@ while index<1499999:
         logging.error(' id=' + str(x) + u"抓取信息时发生错误" + datetime.datetime.now().strftime(
             '%Y-%m-%d %H:%M:%S') + ' Error = ' + str(e) + '---' + url)
         conn.rollback()
-        index+=1
+        index += 1
         continue
     else:
-        index+=1
-        cur.execute('update counter set num = %s where id = 7',[index])
+        index += 1
+        cur.execute('update counter set num = %s where id = 7', [index])
         conn.commit()
-

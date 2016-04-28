@@ -2,12 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a75aaf-7de2-4dce-a07f-dbc1805404af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/crawler.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crawler/crawler.py" afterPath="$PROJECT_DIR$/src/crawler/crawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crawler/crawler2.py" afterPath="$PROJECT_DIR$/src/crawler/crawler2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/monitor/monitor.py" afterPath="$PROJECT_DIR$/src/monitor/monitor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/10RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/10RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/11RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/11RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/12RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/12RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/13RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/13RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/14RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/14RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/15RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/15RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/16RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/16RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/17RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/17RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/18RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/18RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/2RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/2RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/3RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/3RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/4RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/4RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/5RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/5RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/6RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/6RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/7RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/7RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/8RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/8RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/9RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/multicrawler/9RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/Constant.py" afterPath="$PROJECT_DIR$/src/multicrawler/Constant.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/HtmlUtil.py" afterPath="$PROJECT_DIR$/src/multicrawler/HtmlUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/RunnableGetLinks.py" afterPath="$PROJECT_DIR$/src/multicrawler/RunnableGetLinks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/SoupUtil.py" afterPath="$PROJECT_DIR$/src/multicrawler/SoupUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/SqlUtil.py" afterPath="$PROJECT_DIR$/src/multicrawler/SqlUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/StringUtil.py" afterPath="$PROJECT_DIR$/src/multicrawler/StringUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/Constant.py" afterPath="$PROJECT_DIR$/src/refactor crawler/Constant.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/HtmlUtil.py" afterPath="$PROJECT_DIR$/src/refactor crawler/HtmlUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent2.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent3.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent4.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent5.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent6.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent6.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent7.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent7.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent8.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetContent8.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/RunnableGetLinks.py" afterPath="$PROJECT_DIR$/src/refactor crawler/RunnableGetLinks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/SoupUtil.py" afterPath="$PROJECT_DIR$/src/refactor crawler/SoupUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/SqlUtil.py" afterPath="$PROJECT_DIR$/src/refactor crawler/SqlUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/refactor crawler/StringUtil.py" afterPath="$PROJECT_DIR$/src/refactor crawler/StringUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/crawler.py" afterPath="$PROJECT_DIR$/src/test/crawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/liaoxuefeng.py" afterPath="$PROJECT_DIR$/src/test/liaoxuefeng.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/run.py" afterPath="$PROJECT_DIR$/src/test/run.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/student.py" afterPath="$PROJECT_DIR$/src/test/student.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/test.py" afterPath="$PROJECT_DIR$/src/test/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/user/RunnableGetUid.py" afterPath="$PROJECT_DIR$/src/user/RunnableGetUid.py" />
     </list>
     <ignored path="crawler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,13 +68,108 @@
   <component name="FavoritesManager">
     <favorites_list name="crawler" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="1RunnableGetContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+              <folding>
+                <element signature="e#21#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringUtil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/StringUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlUtil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/SqlUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11RunnableGetContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/11RunnableGetContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/log.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/Constant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlUtil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/HtmlUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#21#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoupUtil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multicrawler/SoupUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
+    <option name="x" value="45" />
     <option name="y" value="52" />
-    <option name="width" value="1323" />
+    <option name="width" value="1321" />
     <option name="height" value="716" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -97,6 +234,27 @@
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="115" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="122" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="129" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="914" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="115" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="122" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="129" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="914" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -237,6 +395,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a6a75aaf-7de2-4dce-a07f-dbc1805404af" name="Default" comment="" />
@@ -245,36 +406,331 @@
       <option name="presentableId" value="Default" />
       <updated>1461563439766</updated>
     </task>
+    <task id="LOCAL-00001" summary="删除工程文件">
+      <created>1461563500894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461563500894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="52" width="1323" height="716" extended-state="0" />
+    <frame x="45" y="52" width="1321" height="716" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494331" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20590462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除工程文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除工程文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/StringUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SqlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/11RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/Constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/HtmlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SoupUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/StringUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SqlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/11RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/Constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/HtmlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SoupUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/StringUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SqlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/11RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/Constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/HtmlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SoupUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/StringUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SqlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/11RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/HtmlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/SoupUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/Constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -1,5 +1,4 @@
 # -*-coding:utf-8-*-
-import logging
 import urllib
 import urllib2
 import zlib

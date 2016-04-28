@@ -1,14 +1,15 @@
 # -*-coding:utf-8-*-
-import logging
-import urllib2
 import datetime
+import logging
 import mysql.connector
+import urllib2
 from bs4 import BeautifulSoup
+
+from Constant import BBSContent
 from HtmlUtil import HtmlCreator
+from SoupUtil import SoupOperator
 from SqlUtil import MysqlOperator
 from StringUtil import LinkOperator
-from SoupUtil import SoupOperator
-from Constant import BBSContent
 
 conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
 logging.basicConfig(filename='log.log', level=logging.DEBUG)

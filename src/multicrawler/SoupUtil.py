@@ -1,12 +1,11 @@
 # -*-coding:utf-8-*-
-import logging
 import string
-import datetime
 from bs4 import BeautifulSoup
+
+from Constant import BBSContent
 from HtmlUtil import HtmlCreator
 from SqlUtil import MysqlOperator
 from StringUtil import LinkOperator
-from Constant import BBSContent
 
 
 class SoupOperator(object):
@@ -158,7 +157,7 @@ class SoupOperator(object):
         else:
             content2 = bb.content.find(class_="yy_reply_cont")
 
-        if content2 != None:#说明有回复楼层
+        if content2 != None:  # 说明有回复楼层
             try:
                 bb.to_floor = bb.content.find(class_="relyhf").find(class_="relyhfcon").p.get_text().strip()
                 bb.to_floor = LinkOperator.hanziConvertToNum(bb.to_floor)
@@ -173,16 +172,17 @@ class SoupOperator(object):
         # 特殊情况
         try:
             bb.device = LinkOperator.formatString(
-                soup.find(class_="conright fl").find(class_="plr26 rtopconnext").find_all(target="_blank")[-1].get_text())
+                soup.find(class_="conright fl").find(class_="plr26 rtopconnext").find_all(target="_blank")[
+                    -1].get_text())
         except Exception, e:
             bb.device = "noDevice"
         bb.num_of_links = bb.content.count('http://')
         bb.num_of_words = len(bb.content)
 
         # 计算图片表情数量 按有回复与无回复分类
-        if bb.content==u'本楼已被管理员删除':
+        if bb.content == u'本楼已被管理员删除':
             lis = []
-        elif bb.from_floor==bb.to_floor:
+        elif bb.from_floor == bb.to_floor:
             lis = soup.find(class_="conright fl").find(class_="rconten").find(class_="x-reply font14").find(
                 class_="w740").find_all('img')
         else:

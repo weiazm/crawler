@@ -1,16 +1,17 @@
 # -*-coding:utf-8-*-
-import logging
-import urllib2
 import datetime
+import logging
 import mysql.connector
+import urllib2
 from bs4 import BeautifulSoup
-from HtmlUtil import HtmlCreator
-from SqlUtil import MysqlOperator
-from StringUtil import LinkOperator
-from SoupUtil import SoupOperator
-from Constant import BBSContent
 
 import Constant
+from Constant import BBSContent
+from HtmlUtil import HtmlCreator
+from SoupUtil import SoupOperator
+from SqlUtil import MysqlOperator
+from StringUtil import LinkOperator
+
 conn = mysql.connector.connect(**Constant.config)
 logging.basicConfig(filename='log.log', level=logging.DEBUG)
 
@@ -44,7 +45,7 @@ while index < 699999:
         MysqlOperator.updateTitleAndClickNum(conn, x, clickNum, title)
 
         pageNum = so.findTotlePageNum()
-        print pageNum , u'页： id=' + unicode(x) + u' ' + url
+        print pageNum, u'页： id=' + unicode(x) + u' ' + url
         # 楼主内容
         f0Content = so.getF0Content(x, bbs[2])
 

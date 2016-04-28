@@ -1,7 +1,4 @@
 # -*-coding:utf-8-*-
-import logging
-import datetime
-import Constant
 
 
 class MysqlOperator(object):
@@ -47,10 +44,11 @@ class MysqlOperator(object):
         return cursor.fetchall()[0]
 
     def insertBBSContent(self, content):
-        #c = Constant.BBSContent
+        # c = Constant.BBSContent
         c = content
         cursor = self.__conn.cursor()
         cursor.execute(
             'insert into bbs_content(forum_link_id,bbs_id,uid,from_floor,to_floor,reply_time,content,num_of_links,num_of_words,num_of_pictures,num_of_faces,device) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)',
-            [c.forum_link_id,c.bbs_id,c.uid,c.from_floor,c.to_floor,c.reply_time,c.content,c.num_of_links,c.num_of_words,c.num_of_pictures,c.num_of_faces,c.device])
+            [c.forum_link_id, c.bbs_id, c.uid, c.from_floor, c.to_floor, c.reply_time, c.content, c.num_of_links,
+             c.num_of_words, c.num_of_pictures, c.num_of_faces, c.device])
         cursor.close()
