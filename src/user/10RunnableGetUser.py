@@ -58,7 +58,7 @@ while x < startEnd[1]:
         # user.printUser()
         MysqlOperator(conn).insertUser(user)
     except Exception, e:
-        if str(e) == "timed out" or str(e) == "<urlopen error timed out>":
+        if str(e) == "timed out" or str(e) == "<urlopen error timed out>" or str(e) == "HTTP Error 404: Not Found":
             conn.rollback()
             continue
         else:

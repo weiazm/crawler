@@ -219,13 +219,15 @@ class SoupOperator(object):
 
         u.follows = ''
         u.num_of_follows = filter(lambda x: x.isdigit(),
-                                  LinkOperator.formatString(followingSoup.find(class_="subdyn2").get_text()))
+                                  LinkOperator.formatString(
+                                      followingSoup.find(class_="subdyn2").get_text().split(u"关注")[1]))
         if len(u.num_of_follows) == 0:
             u.num_of_follows = 0
         u.fans = ""
 
         u.num_of_fans = filter(lambda x: x.isdigit(),
-                               LinkOperator.formatString(followersSoup.find(class_="subdyn2").get_text()))
+                               LinkOperator.formatString(
+                                   followersSoup.find(class_="subdyn2").get_text().split(u"关注")[0]))
         if len(u.num_of_fans) == 0:
             u.num_of_fans = 0
 
