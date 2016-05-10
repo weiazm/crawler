@@ -18,3 +18,68 @@ ERROR:root: id=17抓取user时发生错误2016-05-10 15:32:13 Error = 1366 (HY00
 ERROR:root: id=1抓取user时发生错误2016-05-10 15:34:44 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100010
 ERROR:root: id=1抓取user时发生错误2016-05-10 15:36:22 Error = 1048 (23000): Column 'num_of_reply' cannot be null---http://i.autohome.com.cn/100010
 ERROR:root: id=1抓取user时发生错误2016-05-10 15:37:59 Error = 1292 (22007): Incorrect datetime value: '' for column 'first_post_time' at row 1---http://i.autohome.com.cn/100010
+
+ERROR:root: id=5抓取user时发生错误2016-05-10 15:46:10 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_follows' at row 1---http://i.autohome.com.cn/100394
+ERROR:root: id=14抓取user时发生错误2016-05-10 15:47:25 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_follows' at row 1---http://i.autohome.com.cn/100582
+
+ERROR:root: id=27抓取user时发生错误2016-05-10 16:09:10 Error = [Errno 10060] ---http://i.autohome.com.cn/102201
+ERROR:root: id=53抓取user时发生错误2016-05-10 16:21:10 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/106947
+ERROR:root: id=125抓取user时发生错误2016-05-10 16:57:35 Error = timed out---http://i.autohome.com.cn/110057
+ERROR:root: id=126抓取user时发生错误2016-05-10 16:57:40 Error = timed out---http://i.autohome.com.cn/110073
+ERROR:root: id=127抓取user时发生错误2016-05-10 16:57:45 Error = timed out---http://i.autohome.com.cn/110177
+ERROR:root: id=130抓取user时发生错误2016-05-10 16:57:58 Error = timed out---http://i.autohome.com.cn/110246
+ERROR:root: id=134抓取user时发生错误2016-05-10 16:58:18 Error = timed out---http://i.autohome.com.cn/110584
+ERROR:root: id=137抓取user时发生错误2016-05-10 16:58:31 Error = timed out---http://i.autohome.com.cn/110662
+ERROR:root: id=147抓取user时发生错误2016-05-10 16:59:33 Error = <urlopen error timed out>---http://i.autohome.com.cn/110980
+ERROR:root: id=148抓取user时发生错误2016-05-10 16:59:39 Error = timed out---http://i.autohome.com.cn/111088
+ERROR:root: id=150抓取user时发生错误2016-05-10 16:59:46 Error = timed out---http://i.autohome.com.cn/111252
+ERROR:root: id=123抓取user时发生错误2016-05-10 19:54:16 Error = <urlopen error timed out>---http://i.autohome.com.cn/109955
+ERROR:root: id=126抓取user时发生错误2016-05-10 19:55:12 Error = <urlopen error timed out>---http://i.autohome.com.cn/110073
+ERROR:root: id=53抓取user时发生错误2016-05-10 20:11:59 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/106947
+ERROR:root: id=7017抓取user时发生错误2016-05-10 20:32:11 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/380095
+ERROR:root: id=4016抓取user时发生错误2016-05-10 20:32:13 Error = list index out of range---http://i.autohome.com.cn/264181
+ERROR:root: id=159抓取user时发生错误2016-05-10 20:33:37 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/111832
+ERROR:root: id=9010抓取user时发生错误2016-05-10 20:39:56 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/467339
+ERROR:root: id=4049抓取user时发生错误2016-05-10 20:40:41 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/265751
+ERROR:root: id=1075抓取user时发生错误2016-05-10 20:43:32 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/148923
+ERROR:root: id=1126抓取user时发生错误2016-05-10 21:07:21 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/150867
+ERROR:root: id=10068抓取user时发生错误2016-05-10 21:07:22 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/508796
+ERROR:root: id=262抓取user时发生错误2016-05-10 21:07:23 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/115941
+ERROR:root: id=3127抓取user时发生错误2016-05-10 21:07:24 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/228193
+ERROR:root: id=11068抓取user时发生错误2016-05-10 21:07:25 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/538721
+ERROR:root: id=4108抓取user时发生错误2016-05-10 21:07:25 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/267464
+ERROR:root: id=2116抓取user时发生错误2016-05-10 21:07:26 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/187999
+ERROR:root: id=8075抓取user时发生错误2016-05-10 21:07:26 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/422624
+ERROR:root: id=6070抓取user时发生错误2016-05-10 21:07:26 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/343671
+ERROR:root: id=3128抓取user时发生错误2016-05-10 21:07:27 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/228214
+ERROR:root: id=263抓取user时发生错误2016-05-10 21:07:27 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/116032
+ERROR:root: id=10069抓取user时发生错误2016-05-10 21:07:28 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/508848
+ERROR:root: id=8076抓取user时发生错误2016-05-10 21:07:29 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/422699
+ERROR:root: id=264抓取user时发生错误2016-05-10 21:07:30 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/116078
+ERROR:root: id=2117抓取user时发生错误2016-05-10 21:07:32 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/188032
+ERROR:root: id=11070抓取user时发生错误2016-05-10 21:07:35 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/538792
+ERROR:root: id=1136抓取user时发生错误2016-05-10 21:09:11 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/151125
+ERROR:root: id=2131抓取user时发生错误2016-05-10 21:09:31 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/188553
+ERROR:root: id=6081抓取user时发生错误2016-05-10 21:09:31 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/344078
+ERROR:root: id=5143抓取user时发生错误2016-05-10 21:12:10 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/310108
+ERROR:root: id=11101抓取user时发生错误2016-05-10 21:12:10 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/539895
+ERROR:root: id=10094抓取user时发生错误2016-05-10 21:12:17 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/509508
+ERROR:root: id=1160抓取user时发生错误2016-05-10 21:13:03 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/152074
+ERROR:root: id=1173抓取user时发生错误2016-05-10 21:14:59 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/152692
+ERROR:root: id=5158抓取user时发生错误2016-05-10 21:15:28 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/310727
+ERROR:root: id=4177抓取user时发生错误2016-05-10 21:18:46 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/269895
+ERROR:root: id=3199抓取user时发生错误2016-05-10 21:18:59 Error = [Errno 10054] ---http://i.autohome.com.cn/230842
+ERROR:root: id=7201抓取user时发生错误2016-05-10 21:20:56 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/386801
+ERROR:root: id=9164抓取user时发生错误2016-05-10 21:21:10 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/473684
+ERROR:root: id=4197抓取user时发生错误2016-05-10 21:22:43 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/270454
+ERROR:root: id=7215抓取user时发生错误2016-05-10 21:22:43 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/387040
+ERROR:root: id=11164抓取user时发生错误2016-05-10 21:22:47 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/541815
+ERROR:root: id=11165抓取user时发生错误2016-05-10 21:23:01 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/541846
+ERROR:root: id=8181抓取user时发生错误2016-05-10 21:24:37 Error = 1264 (22003): Out of range value for column 'num_of_follows' at row 1---http://i.autohome.com.cn/430606
+ERROR:root: id=9189抓取user时发生错误2016-05-10 21:42:20 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/474796
+ERROR:root: id=5214抓取user时发生错误2016-05-10 21:42:24 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/312607
+ERROR:root: id=10171抓取user时发生错误2016-05-10 21:42:25 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/511588
+ERROR:root: id=5215抓取user时发生错误2016-05-10 21:42:28 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/312637
+ERROR:root: id=9190抓取user时发生错误2016-05-10 21:42:29 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/474964
+ERROR:root: id=4212抓取user时发生错误2016-05-10 21:42:30 Error = HTTP Error 404: Not Found---http://i.autohome.com.cn/270845
+ERROR:root: id=4218抓取user时发生错误2016-05-10 21:44:08 Error = 1264 (22003): Out of range value for column 'num_of_fans' at row 1---http://i.autohome.com.cn/271078

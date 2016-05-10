@@ -220,9 +220,14 @@ class SoupOperator(object):
         u.follows = ''
         u.num_of_follows = filter(lambda x: x.isdigit(),
                                   LinkOperator.formatString(followingSoup.find(class_="subdyn2").get_text()))
+        if len(u.num_of_follows) == 0:
+            u.num_of_follows = 0
         u.fans = ""
+
         u.num_of_fans = filter(lambda x: x.isdigit(),
                                LinkOperator.formatString(followersSoup.find(class_="subdyn2").get_text()))
+        if len(u.num_of_fans) == 0:
+            u.num_of_fans = 0
 
         subTopic = topicSoup.find(class_="cl_m_item").find_all("ul")
         subTopicUl1 = subTopic[0].li.find_all("a")
@@ -231,8 +236,12 @@ class SoupOperator(object):
         u.num_of_main_bbs = filter(lambda x: x.isdigit(), subTopicUl1[0].get_text())
         u.num_of_elite_bbs = filter(lambda x: x.isdigit(), subTopicUl1[1].get_text())
         u.level = filter(lambda x: x.isdigit(), topicSoup.find(class_="cl_m_item").find(class_="lv-txt").get_text())
+        if len(u.level) == 0:
+            u.level = 0
         u.points = filter(lambda x: x.isdigit(),
                           topicSoup.find(class_="cl_m_item").find(class_="lv-curr").get_text().split(u'：')[-1])
+        if len(u.points) == 0:
+            u.points = 0
 
         u.num_of_reply = 0
         u.num_of_reply_self = 0
