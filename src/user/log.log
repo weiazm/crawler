@@ -1,0 +1,20 @@
+ERROR:root: id=1抓取user时发生错误2016-05-10 15:30:34 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100010
+ERROR:root: id=2抓取user时发生错误2016-05-10 15:30:38 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100344
+ERROR:root: id=3抓取user时发生错误2016-05-10 15:30:43 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100351
+ERROR:root: id=4抓取user时发生错误2016-05-10 15:30:51 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100375
+ERROR:root: id=5抓取user时发生错误2016-05-10 15:30:58 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_follows' at row 1---http://i.autohome.com.cn/100394
+ERROR:root: id=6抓取user时发生错误2016-05-10 15:31:05 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100406
+ERROR:root: id=7抓取user时发生错误2016-05-10 15:31:09 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100504
+ERROR:root: id=8抓取user时发生错误2016-05-10 15:31:14 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100526
+ERROR:root: id=9抓取user时发生错误2016-05-10 15:31:24 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100536
+ERROR:root: id=10抓取user时发生错误2016-05-10 15:31:28 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100545
+ERROR:root: id=11抓取user时发生错误2016-05-10 15:31:31 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100548
+ERROR:root: id=12抓取user时发生错误2016-05-10 15:31:35 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100568
+ERROR:root: id=13抓取user时发生错误2016-05-10 15:31:41 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100578
+ERROR:root: id=14抓取user时发生错误2016-05-10 15:31:55 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_follows' at row 1---http://i.autohome.com.cn/100582
+ERROR:root: id=15抓取user时发生错误2016-05-10 15:32:00 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100618
+ERROR:root: id=16抓取user时发生错误2016-05-10 15:32:09 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_follows' at row 1---http://i.autohome.com.cn/100620
+ERROR:root: id=17抓取user时发生错误2016-05-10 15:32:13 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100671
+ERROR:root: id=1抓取user时发生错误2016-05-10 15:34:44 Error = 1366 (HY000): Incorrect integer value: '' for column 'num_of_reply' at row 1---http://i.autohome.com.cn/100010
+ERROR:root: id=1抓取user时发生错误2016-05-10 15:36:22 Error = 1048 (23000): Column 'num_of_reply' cannot be null---http://i.autohome.com.cn/100010
+ERROR:root: id=1抓取user时发生错误2016-05-10 15:37:59 Error = 1292 (22007): Incorrect datetime value: '' for column 'first_post_time' at row 1---http://i.autohome.com.cn/100010

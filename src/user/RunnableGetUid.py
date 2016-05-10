@@ -3,7 +3,7 @@ import mysql.connector
 #database connetcion
 config = {'host': 'localhost',
           'user': 'root',
-          'password': '1234',
+          'password': '48152659-+',
           'port': 3306,
           'database': 'refactor_crawler',
           'charset': 'utf8'
@@ -18,7 +18,7 @@ while i < len(uids):
     uid = uids[i][0]
     cur.execute('insert into uid (uid) values (%s)', [uid])
     i += 1
-    if i % 10000 == 0:
+    if i % 100000 == 0:
         print i
         conn.commit()
 conn.commit()

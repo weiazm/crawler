@@ -1,8 +1,9 @@
 # -*-coding:utf-8-*-
 import string
+
 from bs4 import BeautifulSoup
 
-from Constant import BBSContent
+from Constant import BBSContent, User
 from HtmlUtil import HtmlCreator
 from SqlUtil import MysqlOperator
 from StringUtil import LinkOperator
@@ -192,3 +193,70 @@ class SoupOperator(object):
         bb.num_of_faces = cls.__findGifNum(lis)
         bb.num_of_pictures = len(lis) - bb.num_of_faces
         return bb
+
+    @classmethod
+    def getUser(cls, infoSoup, followingSoup, followersSoup, topicSoup, oilSoup, koubeiSoup, priceSoup, taskSoup,
+                index):
+        u = User()
+        u.uid = index
+
+        uData = infoSoup.find(class_="uData").get_text()
+        if LinkOperator.formatString(uData).split('  ')[1].split(':')[1] == u'男':
+            u.sex = 1
+        else:
+            u.sex = 0
+        u.nickname = LinkOperator.formatString(uData).split('  ')[0].split(':')[1]
+        u.location = LinkOperator.formatString(uData).split('  ')[-1].split(':')[1]
+
+        if_auth = taskSoup.find(class_="all-task").find(class_="all-task-top").find_all(class_="all-task-box")[3].find(
+            class_="task-sing-bom").get_text()
+        if if_auth == u"已完成":
+            u.auth = 1
+        else:
+            u.auth = 0
+
+        u.auth_cars = ""
+
+        u.follows = ''
+        u.num_of_follows = filter(lambda x: x.isdigit(),
+                                  LinkOperator.formatString(followingSoup.find(class_="subdyn2").get_text()))
+        u.fans = ""
+        u.num_of_fans = filter(lambda x: x.isdigit(),
+                               LinkOperator.formatString(followersSoup.find(class_="subdyn2").get_text()))
+
+        subTopic = topicSoup.find(class_="cl_m_item").find_all("ul")
+        subTopicUl1 = subTopic[0].li.find_all("a")
+        subTopicUl2 = subTopic[1]
+        u.create_time = subTopicUl2.li.span.get_text()
+        u.num_of_main_bbs = filter(lambda x: x.isdigit(), subTopicUl1[0].get_text())
+        u.num_of_elite_bbs = filter(lambda x: x.isdigit(), subTopicUl1[1].get_text())
+        u.level = filter(lambda x: x.isdigit(), topicSoup.find(class_="cl_m_item").find(class_="lv-txt").get_text())
+        u.points = filter(lambda x: x.isdigit(),
+                          topicSoup.find(class_="cl_m_item").find(class_="lv-curr").get_text().split(u'：')[-1])
+
+        u.num_of_reply = 0
+        u.num_of_reply_self = 0
+        u.num_of_reply_others = 0
+        u.first_post_time = "0001-01-01"
+        u.last_post_time = "0001-01-01"
+        u.avg_num_of_bbs = 0
+
+        if len(oilSoup.find(class_="modifyPwd").get_text()) > 100:
+            u.if_oil_consule = 1
+        else:
+            u.if_oil_consule = 0
+
+        if len(koubeiSoup.find(class_="classification favoriteBg").get_text()) > 40:
+            u.if_comment = 1
+        else:
+            u.if_comment = 0
+
+        if priceSoup.find(class_="price-item-bd") != None:
+            u.if_cost = 1
+        else:
+            u.if_cost = 0
+
+        u.post_bbs_category_text = ""
+        u.reply_bbs_category_text = ""
+
+        return u
