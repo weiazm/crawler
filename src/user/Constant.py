@@ -21,7 +21,7 @@ config = {'host': 'localhost',
           'charset': 'utf8'
           }
 
-timeout = 10
+timeout = 20
 
 class BBSContent(object):
     def __init__(self):

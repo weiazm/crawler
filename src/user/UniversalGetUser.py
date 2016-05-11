@@ -19,7 +19,6 @@ def run(id):
     id = id
     cur.execute('SELECT start,end from count where id = %s', [id])
     startEnd = cur.fetchall()[0]
-    print startEnd
     x = startEnd[0]
     while x < startEnd[1]:
         try:
@@ -66,7 +65,8 @@ def run(id):
             # user.printUser()
             MysqlOperator(conn).insertUser(user)
         except Exception, e:
-            if str(e) == "timed out" or str(e) == "<urlopen error timed out>" or str(e) == "HTTP Error 404: Not Found":
+            if str(e) == "timed out" or str(e) == "<urlopen error timed out>" or str(
+                    e) == "HTTP Error 404: Not Found" or str(e) == "[Errno 10054] ":
                 conn.rollback()
                 continue
             else:
