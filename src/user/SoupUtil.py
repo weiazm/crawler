@@ -237,8 +237,8 @@ class SoupOperator(object):
         subTopicUl1 = subTopic[0].li.find_all("a")
         subTopicUl2 = subTopic[1]
         u.create_time = subTopicUl2.li.span.get_text()
-        u.num_of_main_bbs = filter(lambda x: x.isdigit(), subTopicUl1[0].get_text())
-        u.num_of_elite_bbs = filter(lambda x: x.isdigit(), subTopicUl1[1].get_text())
+        u.num_of_main_bbs = filter(lambda x: x.isdigit(), subTopicUl1[1].get_text())
+        u.num_of_elite_bbs = filter(lambda x: x.isdigit(), subTopicUl1[0].get_text())
         u.level = filter(lambda x: x.isdigit(), topicSoup.find(class_="cl_m_item").find(class_="lv-txt").get_text())
         if len(u.level) == 0:
             u.level = 0
