@@ -7,6 +7,7 @@ import mysql.connector
 from bs4 import BeautifulSoup
 
 import Constant
+import statisticForUser
 from HtmlUtil import HtmlCreator
 from SoupUtil import SoupOperator
 from SqlUtil import MysqlOperator
@@ -26,6 +27,11 @@ def run(id):
             cur.execute('SELECT uid from uid where id = %s', [x])
             index = cur.fetchall()[0][0]
             # index = 1492838
+
+            cur.execute('SELECT * FROM refactor_crawler.bbs_content where uid = %s order by reply_time', [index, ])
+            contents = cur.fetchall()
+            result = statisticForUser.getStatistic(contents)
+
             timeout = Constant.timeout
             url = "http://i.autohome.com.cn/" + str(index)
             print x, url
@@ -62,6 +68,9 @@ def run(id):
             user = SoupOperator.getUser(infoSoup, followingSoup, followersSoup, topicSoup, oilSoup, koubeiSoup,
                                         priceSoup,
                                         taskSoup, index)
+            user.num_of_reply = result[0]
+            user.num_of_reply_self = result[1]
+            user.num_of_reply_others = result[2]
             # user.printUser()
             MysqlOperator(conn).insertUser(user)
         except Exception, e:
