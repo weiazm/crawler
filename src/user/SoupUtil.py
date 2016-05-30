@@ -4,9 +4,9 @@ import string
 from bs4 import BeautifulSoup
 
 from Constant import BBSContent, User
-from HtmlUtil import HtmlCreator
 from SqlUtil import MysqlOperator
 from StringUtil import LinkOperator
+from src.user.HtmlUtil import HtmlCreator
 
 
 class SoupOperator(object):
