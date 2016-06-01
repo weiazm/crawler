@@ -1,0 +1,2039 @@
+
+ERROR:root: id=270004抓取user时发生错误2016-05-31 14:24:36 Error = list index out of range---
+ERROR:root: id=300009抓取user时发生错误2016-05-31 14:25:36 Error = list index out of range---
+ERROR:root: id=310026抓取user时发生错误2016-05-31 14:26:48 Error = list index out of range---
+ERROR:root: id=280023抓取user时发生错误2016-05-31 14:28:06 Error = list index out of range---
+ERROR:root: id=50020抓取user时发生错误2016-05-31 14:28:09 Error = 1406 (22001): Data too long for column 'title' at row 1---
+ERROR:root: id=240022抓取user时发生错误2016-05-31 14:28:20 Error = 1406 (22001): Data too long for column 'title' at row 1---
+ERROR:root: id=260034抓取user时发生错误2016-05-31 14:29:28 Error = list index out of range---
+ERROR:root: id=270037抓取user时发生错误2016-05-31 14:29:31 Error = list index out of range---
+ERROR:root: id=270037抓取user时发生错误2016-05-31 14:31:10 Error = list index out of range---
+ERROR:root: id=290044抓取user时发生错误2016-05-31 14:32:04 Error = list index out of range---
+ERROR:root: id=310066抓取user时发生错误2016-05-31 14:32:58 Error = list index out of range---
+ERROR:root: id=280052抓取user时发生错误2016-05-31 14:32:58 Error = list index out of range---
+ERROR:root: id=270057抓取user时发生错误2016-05-31 14:34:31 Error = list index out of range---
+
+ERROR:root: id=310091抓取user时发生错误2016-05-31 14:36:06 Error = list index out of range---
+ERROR:root: id=290064抓取user时发生错误2016-05-31 14:37:16 Error = list index out of range---
+ERROR:root: id=280080抓取user时发生错误2016-05-31 14:39:53 Error = list index out of range---
+ERROR:root: id=270095抓取user时发生错误2016-05-31 14:40:15 Error = list index out of range---
+ERROR:root: id=290084抓取user时发生错误2016-05-31 14:40:24 Error = list index out of range---
+ERROR:root: id=260072抓取user时发生错误2016-05-31 14:40:49 Error = list index out of range---
+ERROR:root: id=270123抓取user时发生错误2016-05-31 14:46:16 Error = list index out of range---
+ERROR:root: id=310141抓取user时发生错误2016-05-31 14:46:43 Error = list index out of range---
+ERROR:root: id=270123抓取user时发生错误2016-05-31 14:47:35 Error = list index out of range---
+ERROR:root: id=290117抓取user时发生错误2016-05-31 14:48:42 Error = list index out of range---
+ERROR:root: id=280105抓取user时发生错误2016-05-31 14:49:14 Error = list index out of range---
+ERROR:root: id=270123抓取user时发生错误2016-05-31 14:51:31 Error = list index out of range---
+ERROR:root: id=310163抓取user时发生错误2016-05-31 14:53:59 Error = list index out of range---
+ERROR:root: id=290144抓取user时发生错误2016-05-31 14:57:30 Error = list index out of range---
+ERROR:root: id=310190抓取user时发生错误2016-05-31 14:59:21 Error = list index out of range---
+ERROR:root: id=310219抓取user时发生错误2016-05-31 15:04:20 Error = list index out of range---
+
+ERROR:root: id=270145抓取user时发生错误2016-05-31 15:07:50 Error = list index out of range---
+ERROR:root: id=280130抓取user时发生错误2016-05-31 15:08:14 Error = list index out of range---
+ERROR:root: id=10000抓取user时发生错误2016-05-31 15:08:31 Error = 1062 (23000): Duplicate entry '44322354' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=310241抓取user时发生错误2016-05-31 15:09:32 Error = list index out of range---
+ERROR:root: id=290211抓取user时发生错误2016-05-31 15:09:37 Error = list index out of range---
+ERROR:root: id=260129抓取user时发生错误2016-05-31 15:13:30 Error = list index out of range---
+ERROR:root: id=300165抓取user时发生错误2016-05-31 15:14:26 Error = list index out of range---
+ERROR:root: id=310275抓取user时发生错误2016-05-31 15:17:18 Error = list index out of range---
+ERROR:root: id=290248抓取user时发生错误2016-05-31 15:17:47 Error = list index out of range---
+ERROR:root: id=290278抓取user时发生错误2016-05-31 15:24:35 Error = list index out of range---
+ERROR:root: id=310307抓取user时发生错误2016-05-31 15:25:05 Error = list index out of range---
+ERROR:root: id=290304抓取user时发生错误2016-05-31 15:29:38 Error = list index out of range---
+ERROR:root: id=310331抓取user时发生错误2016-05-31 15:30:29 Error = list index out of range---
+ERROR:root: id=290323抓取user时发生错误2016-05-31 15:31:30 Error = list index out of range---
+ERROR:root: id=310359抓取user时发生错误2016-05-31 15:43:02 Error = list index out of range---
+ERROR:root: id=270171抓取user时发生错误2016-05-31 15:43:27 Error = list index out of range---
+ERROR:root: id=300183抓取user时发生错误2016-05-31 15:45:20 Error = list index out of range---
+ERROR:root: id=300183抓取user时发生错误2016-05-31 18:25:41 Error = list index out of range---
+ERROR:root: id=280168抓取user时发生错误2016-05-31 18:25:45 Error = list index out of range---
+ERROR:root: id=270190抓取user时发生错误2016-05-31 18:26:16 Error = list index out of range---
+ERROR:root: id=300210抓取user时发生错误2016-05-31 18:27:20 Error = list index out of range---
+ERROR:root: id=280194抓取user时发生错误2016-05-31 18:27:21 Error = list index out of range---
+ERROR:root: id=270215抓取user时发生错误2016-05-31 18:27:32 Error = list index out of range---
+ERROR:root: id=310387抓取user时发生错误2016-05-31 18:27:39 Error = list index out of range---
+ERROR:root: id=260214抓取user时发生错误2016-05-31 18:28:12 Error = list index out of range---
+ERROR:root: id=280223抓取user时发生错误2016-05-31 18:28:42 Error = list index out of range---
+ERROR:root: id=300242抓取user时发生错误2016-05-31 18:28:57 Error = list index out of range---
+ERROR:root: id=270255抓取user时发生错误2016-05-31 18:29:37 Error = list index out of range---
+ERROR:root: id=280248抓取user时发生错误2016-05-31 18:30:02 Error = list index out of range---
+ERROR:root: id=300260抓取user时发生错误2016-05-31 18:30:05 Error = list index out of range---
+ERROR:root: id=260249抓取user时发生错误2016-05-31 18:30:17 Error = list index out of range---
+ERROR:root: id=310446抓取user时发生错误2016-05-31 18:30:32 Error = list index out of range---
+ERROR:root: id=270285抓取user时发生错误2016-05-31 18:30:58 Error = list index out of range---
+ERROR:root: id=300292抓取user时发生错误2016-05-31 18:31:50 Error = list index out of range---
+ERROR:root: id=310478抓取user时发生错误2016-05-31 18:32:03 Error = list index out of range---
+ERROR:root: id=270311抓取user时发生错误2016-05-31 18:32:10 Error = list index out of range---
+ERROR:root: id=260307抓取user时发生错误2016-05-31 18:32:52 Error = list index out of range---
+ERROR:root: id=280276抓取user时发生错误2016-05-31 18:35:50 Error = list index out of range---
+ERROR:root: id=300320抓取user时发生错误2016-05-31 18:35:56 Error = list index out of range---
+ERROR:root: id=270338抓取user时发生错误2016-05-31 18:35:57 Error = list index out of range---
+ERROR:root: id=290456抓取user时发生错误2016-05-31 18:36:03 Error = list index out of range---
+ERROR:root: id=300320抓取user时发生错误2016-05-31 18:36:59 Error = list index out of range---
+ERROR:root: id=280315抓取user时发生错误2016-05-31 18:38:45 Error = list index out of range---
+ERROR:root: id=260349抓取user时发生错误2016-05-31 18:39:05 Error = list index out of range---
+ERROR:root: id=310552抓取user时发生错误2016-05-31 18:39:56 Error = list index out of range---
+ERROR:root: id=300378抓取user时发生错误2016-05-31 18:40:27 Error = list index out of range---
+ERROR:root: id=260381抓取user时发生错误2016-05-31 18:41:06 Error = list index out of range---
+ERROR:root: id=290545抓取user时发生错误2016-05-31 18:42:06 Error = list index out of range---
+ERROR:root: id=270418抓取user时发生错误2016-05-31 18:42:11 Error = list index out of range---
+ERROR:root: id=310591抓取user时发生错误2016-05-31 18:43:01 Error = list index out of range---
+ERROR:root: id=290575抓取user时发生错误2016-05-31 18:43:36 Error = list index out of range---
+ERROR:root: id=260417抓取user时发生错误2016-05-31 18:43:44 Error = list index out of range---
+ERROR:root: id=310619抓取user时发生错误2016-05-31 18:44:20 Error = list index out of range---
+ERROR:root: id=280400抓取user时发生错误2016-05-31 18:44:54 Error = list index out of range---
+ERROR:root: id=270454抓取user时发生错误2016-05-31 18:45:16 Error = list index out of range---
+ERROR:root: id=310647抓取user时发生错误2016-05-31 18:45:35 Error = list index out of range---
+ERROR:root: id=200305抓取user时发生错误2016-05-31 18:46:04 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=260451抓取user时发生错误2016-05-31 18:46:24 Error = list index out of range---
+ERROR:root: id=300449抓取user时发生错误2016-05-31 18:46:33 Error = list index out of range---
+ERROR:root: id=50225抓取user时发生错误2016-05-31 18:46:34 Error = list index out of range---
+ERROR:root: id=270493抓取user时发生错误2016-05-31 18:47:18 Error = list index out of range---
+ERROR:root: id=280438抓取user时发生错误2016-05-31 18:47:38 Error = list index out of range---
+ERROR:root: id=290655抓取user时发生错误2016-05-31 18:48:32 Error = list index out of range---
+ERROR:root: id=260482抓取user时发生错误2016-05-31 18:48:37 Error = list index out of range---
+ERROR:root: id=270516抓取user时发生错误2016-05-31 18:48:41 Error = list index out of range---
+ERROR:root: id=270543抓取user时发生错误2016-05-31 18:50:06 Error = list index out of range---
+ERROR:root: id=260519抓取user时发生错误2016-05-31 18:50:44 Error = list index out of range---
+ERROR:root: id=310752抓取user时发生错误2016-05-31 18:51:42 Error = list index out of range---
+ERROR:root: id=270578抓取user时发生错误2016-05-31 18:52:02 Error = list index out of range---
+ERROR:root: id=260562抓取user时发生错误2016-05-31 18:53:14 Error = list index out of range---
+ERROR:root: id=280517抓取user时发生错误2016-05-31 18:53:23 Error = list index out of range---
+ERROR:root: id=300521抓取user时发生错误2016-05-31 18:53:24 Error = list index out of range---
+ERROR:root: id=270617抓取user时发生错误2016-05-31 18:54:15 Error = list index out of range---
+ERROR:root: id=260586抓取user时发生错误2016-05-31 18:54:46 Error = list index out of range---
+ERROR:root: id=300544抓取user时发生错误2016-05-31 18:55:16 Error = list index out of range---
+ERROR:root: id=280554抓取user时发生错误2016-05-31 18:55:19 Error = list index out of range---
+ERROR:root: id=270649抓取user时发生错误2016-05-31 18:55:29 Error = list index out of range---
+ERROR:root: id=300562抓取user时发生错误2016-05-31 18:56:14 Error = list index out of range---
+ERROR:root: id=310765抓取user时发生错误2016-05-31 18:56:21 Error = list index out of range---
+ERROR:root: id=280582抓取user时发生错误2016-05-31 18:56:38 Error = list index out of range---
+ERROR:root: id=260612抓取user时发生错误2016-05-31 18:56:55 Error = list index out of range---
+ERROR:root: id=300590抓取user时发生错误2016-05-31 18:57:46 Error = list index out of range---
+ERROR:root: id=310788抓取user时发生错误2016-05-31 18:58:26 Error = list index out of range---
+ERROR:root: id=300616抓取user时发生错误2016-05-31 18:59:02 Error = list index out of range---
+ERROR:root: id=260642抓取user时发生错误2016-05-31 18:59:04 Error = list index out of range---
+ERROR:root: id=270691抓取user时发生错误2016-05-31 18:59:42 Error = list index out of range---
+ERROR:root: id=280632抓取user时发生错误2016-05-31 19:00:17 Error = list index out of range---
+ERROR:root: id=260669抓取user时发生错误2016-05-31 19:01:28 Error = list index out of range---
+ERROR:root: id=300652抓取user时发生错误2016-05-31 19:01:50 Error = list index out of range---
+ERROR:root: id=280665抓取user时发生错误2016-05-31 19:02:08 Error = list index out of range---
+ERROR:root: id=300681抓取user时发生错误2016-05-31 19:03:07 Error = list index out of range---
+ERROR:root: id=140256抓取user时发生错误2016-05-31 19:03:19 Error = 1366 (HY000): Incorrect string value: '\xF0\xA0\x86\xA2\xEF\xBC...' for column 'title' at row 1---
+ERROR:root: id=260697抓取user时发生错误2016-05-31 19:03:29 Error = list index out of range---
+ERROR:root: id=280693抓取user时发生错误2016-05-31 19:03:32 Error = list index out of range---
+ERROR:root: id=270749抓取user时发生错误2016-05-31 19:04:03 Error = list index out of range---
+ERROR:root: id=20321抓取user时发生错误2016-05-31 19:04:27 Error = 1062 (23000): Duplicate entry '39427597' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=280716抓取user时发生错误2016-05-31 19:04:38 Error = list index out of range---
+ERROR:root: id=300707抓取user时发生错误2016-05-31 19:04:40 Error = list index out of range---
+ERROR:root: id=190367抓取user时发生错误2016-05-31 19:05:25 Error = list index out of range---
+ERROR:root: id=270779抓取user时发生错误2016-05-31 19:05:44 Error = list index out of range---
+ERROR:root: id=310909抓取user时发生错误2016-05-31 19:06:01 Error = list index out of range---
+ERROR:root: id=280739抓取user时发生错误2016-05-31 19:06:03 Error = list index out of range---
+ERROR:root: id=300736抓取user时发生错误2016-05-31 19:06:09 Error = list index out of range---
+ERROR:root: id=290891抓取user时发生错误2016-05-31 19:06:33 Error = list index out of range---
+ERROR:root: id=290903抓取user时发生错误2016-05-31 19:07:10 Error = list index out of range---
+ERROR:root: id=260734抓取user时发生错误2016-05-31 19:07:33 Error = list index out of range---
+ERROR:root: id=270811抓取user时发生错误2016-05-31 19:07:39 Error = list index out of range---
+ERROR:root: id=280766抓取user时发生错误2016-05-31 19:07:45 Error = list index out of range---
+ERROR:root: id=310931抓取user时发生错误2016-05-31 19:08:00 Error = list index out of range---
+ERROR:root: id=300778抓取user时发生错误2016-05-31 19:08:35 Error = list index out of range---
+ERROR:root: id=290911抓取user时发生错误2016-05-31 19:08:47 Error = list index out of range---
+ERROR:root: id=270852抓取user时发生错误2016-05-31 19:09:46 Error = list index out of range---
+ERROR:root: id=290933抓取user时发生错误2016-05-31 19:10:15 Error = list index out of range---
+ERROR:root: id=280806抓取user时发生错误2016-05-31 19:10:31 Error = list index out of range---
+ERROR:root: id=300816抓取user时发生错误2016-05-31 19:10:54 Error = list index out of range---
+ERROR:root: id=310990抓取user时发生错误2016-05-31 19:11:11 Error = list index out of range---
+ERROR:root: id=310998抓取user时发生错误2016-05-31 19:11:43 Error = list index out of range---
+ERROR:root: id=270886抓取user时发生错误2016-05-31 19:11:59 Error = list index out of range---
+ERROR:root: id=311019抓取user时发生错误2016-05-31 19:12:35 Error = list index out of range---
+ERROR:root: id=311029抓取user时发生错误2016-05-31 19:13:12 Error = list index out of range---
+ERROR:root: id=300841抓取user时发生错误2016-05-31 19:13:20 Error = list index out of range---
+ERROR:root: id=270908抓取user时发生错误2016-05-31 19:13:27 Error = list index out of range---
+ERROR:root: id=311045抓取user时发生错误2016-05-31 19:14:03 Error = list index out of range---
+ERROR:root: id=260823抓取user时发生错误2016-05-31 19:14:37 Error = list index out of range---
+ERROR:root: id=270934抓取user时发生错误2016-05-31 19:14:53 Error = list index out of range---
+ERROR:root: id=260865抓取user时发生错误2016-05-31 19:16:44 Error = list index out of range---
+ERROR:root: id=280899抓取user时发生错误2016-05-31 19:16:48 Error = list index out of range---
+ERROR:root: id=270970抓取user时发生错误2016-05-31 19:17:00 Error = list index out of range---
+ERROR:root: id=291046抓取user时发生错误2016-05-31 19:17:03 Error = list index out of range---
+ERROR:root: id=311086抓取user时发生错误2016-05-31 19:17:11 Error = list index out of range---
+ERROR:root: id=300906抓取user时发生错误2016-05-31 19:17:27 Error = list index out of range---
+ERROR:root: id=280928抓取user时发生错误2016-05-31 19:18:17 Error = list index out of range---
+ERROR:root: id=260892抓取user时发生错误2016-05-31 19:18:34 Error = list index out of range---
+ERROR:root: id=300928抓取user时发生错误2016-05-31 19:18:43 Error = list index out of range---
+ERROR:root: id=311102抓取user时发生错误2016-05-31 19:18:52 Error = list index out of range---
+ERROR:root: id=280960抓取user时发生错误2016-05-31 19:20:10 Error = list index out of range---
+ERROR:root: id=300960抓取user时发生错误2016-05-31 19:20:11 Error = list index out of range---
+ERROR:root: id=311131抓取user时发生错误2016-05-31 19:20:24 Error = list index out of range---
+ERROR:root: id=260928抓取user时发生错误2016-05-31 19:20:27 Error = list index out of range---
+ERROR:root: id=271014抓取user时发生错误2016-05-31 19:20:42 Error = list index out of range---
+ERROR:root: id=300978抓取user时发生错误2016-05-31 19:21:07 Error = list index out of range---
+ERROR:root: id=271043抓取user时发生错误2016-05-31 19:22:07 Error = list index out of range---
+ERROR:root: id=291110抓取user时发生错误2016-05-31 19:22:14 Error = list index out of range---
+ERROR:root: id=311170抓取user时发生错误2016-05-31 19:23:09 Error = list index out of range---
+ERROR:root: id=281003抓取user时发生错误2016-05-31 19:23:19 Error = list index out of range---
+ERROR:root: id=260961抓取user时发生错误2016-05-31 19:23:42 Error = list index out of range---
+ERROR:root: id=271074抓取user时发生错误2016-05-31 19:23:43 Error = list index out of range---
+ERROR:root: id=311194抓取user时发生错误2016-05-31 19:24:25 Error = list index out of range---
+ERROR:root: id=311220抓取user时发生错误2016-05-31 19:25:48 Error = list index out of range---
+ERROR:root: id=281047抓取user时发生错误2016-05-31 19:25:48 Error = list index out of range---
+ERROR:root: id=271112抓取user时发生错误2016-05-31 19:26:37 Error = list index out of range---
+ERROR:root: id=311237抓取user时发生错误2016-05-31 19:26:41 Error = list index out of range---
+ERROR:root: id=130612抓取user时发生错误2016-05-31 19:26:48 Error = 1062 (23000): Duplicate entry '17185360' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311252抓取user时发生错误2016-05-31 19:27:18 Error = list index out of range---
+ERROR:root: id=271144抓取user时发生错误2016-05-31 19:28:08 Error = list index out of range---
+ERROR:root: id=301110抓取user时发生错误2016-05-31 19:29:33 Error = list index out of range---
+ERROR:root: id=291226抓取user时发生错误2016-05-31 19:30:06 Error = list index out of range---
+ERROR:root: id=261039抓取user时发生错误2016-05-31 19:32:21 Error = list index out of range---
+ERROR:root: id=301149抓取user时发生错误2016-05-31 19:32:28 Error = list index out of range---
+ERROR:root: id=271211抓取user时发生错误2016-05-31 19:32:49 Error = list index out of range---
+ERROR:root: id=281070抓取user时发生错误2016-05-31 19:33:00 Error = list index out of range---
+ERROR:root: id=311335抓取user时发生错误2016-05-31 19:33:53 Error = list index out of range---
+ERROR:root: id=261069抓取user时发生错误2016-05-31 19:33:57 Error = list index out of range---
+ERROR:root: id=271244抓取user时发生错误2016-05-31 19:34:54 Error = list index out of range---
+ERROR:root: id=291308抓取user时发生错误2016-05-31 19:35:24 Error = list index out of range---
+ERROR:root: id=301181抓取user时发生错误2016-05-31 19:35:45 Error = list index out of range---
+ERROR:root: id=311368抓取user时发生错误2016-05-31 19:35:48 Error = list index out of range---
+ERROR:root: id=291329抓取user时发生错误2016-05-31 19:36:45 Error = list index out of range---
+ERROR:root: id=271277抓取user时发生错误2016-05-31 19:36:51 Error = list index out of range---
+ERROR:root: id=281118抓取user时发生错误2016-05-31 19:37:12 Error = list index out of range---
+ERROR:root: id=311393抓取user时发生错误2016-05-31 19:37:28 Error = list index out of range---
+ERROR:root: id=301226抓取user时发生错误2016-05-31 19:38:13 Error = list index out of range---
+ERROR:root: id=261128抓取user时发生错误2016-05-31 19:38:17 Error = list index out of range---
+ERROR:root: id=291357抓取user时发生错误2016-05-31 19:38:41 Error = list index out of range---
+ERROR:root: id=311416抓取user时发生错误2016-05-31 19:38:55 Error = list index out of range---
+ERROR:root: id=301245抓取user时发生错误2016-05-31 19:39:06 Error = list index out of range---
+ERROR:root: id=271309抓取user时发生错误2016-05-31 19:39:23 Error = list index out of range---
+ERROR:root: id=311431抓取user时发生错误2016-05-31 19:39:36 Error = list index out of range---
+ERROR:root: id=281146抓取user时发生错误2016-05-31 19:39:40 Error = list index out of range---
+ERROR:root: id=311447抓取user时发生错误2016-05-31 19:40:15 Error = list index out of range---
+ERROR:root: id=301271抓取user时发生错误2016-05-31 19:40:20 Error = list index out of range---
+ERROR:root: id=271325抓取user时发生错误2016-05-31 19:40:42 Error = list index out of range---
+ERROR:root: id=291388抓取user时发生错误2016-05-31 19:40:49 Error = list index out of range---
+ERROR:root: id=261162抓取user时发生错误2016-05-31 19:40:57 Error = list index out of range---
+ERROR:root: id=291395抓取user时发生错误2016-05-31 19:41:44 Error = list index out of range---
+ERROR:root: id=281180抓取user时发生错误2016-05-31 19:42:29 Error = list index out of range---
+ERROR:root: id=311471抓取user时发生错误2016-05-31 19:42:46 Error = list index out of range---
+ERROR:root: id=281201抓取user时发生错误2016-05-31 19:43:13 Error = list index out of range---
+ERROR:root: id=291428抓取user时发生错误2016-05-31 19:43:16 Error = list index out of range---
+ERROR:root: id=261195抓取user时发生错误2016-05-31 19:43:18 Error = list index out of range---
+ERROR:root: id=281216抓取user时发生错误2016-05-31 19:44:19 Error = list index out of range---
+ERROR:root: id=10530抓取user时发生错误2016-05-31 19:44:24 Error = 1062 (23000): Duplicate entry '44654721' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=271401抓取user时发生错误2016-05-31 19:44:42 Error = list index out of range---
+ERROR:root: id=271420抓取user时发生错误2016-05-31 19:45:31 Error = list index out of range---
+ERROR:root: id=291464抓取user时发生错误2016-05-31 19:45:34 Error = list index out of range---
+ERROR:root: id=261229抓取user时发生错误2016-05-31 19:45:40 Error = list index out of range---
+ERROR:root: id=301356抓取user时发生错误2016-05-31 19:45:52 Error = list index out of range---
+ERROR:root: id=311521抓取user时发生错误2016-05-31 19:46:11 Error = list index out of range---
+ERROR:root: id=281248抓取user时发生错误2016-05-31 19:47:15 Error = list index out of range---
+ERROR:root: id=271455抓取user时发生错误2016-05-31 19:48:06 Error = list index out of range---
+ERROR:root: id=291508抓取user时发生错误2016-05-31 19:48:17 Error = list index out of range---
+ERROR:root: id=281271抓取user时发生错误2016-05-31 19:48:35 Error = list index out of range---
+ERROR:root: id=301423抓取user时发生错误2016-05-31 19:49:41 Error = list index out of range---
+ERROR:root: id=271485抓取user时发生错误2016-05-31 19:50:02 Error = list index out of range---
+ERROR:root: id=311581抓取user时发生错误2016-05-31 19:50:08 Error = list index out of range---
+ERROR:root: id=291533抓取user时发生错误2016-05-31 19:50:19 Error = list index out of range---
+ERROR:root: id=281303抓取user时发生错误2016-05-31 19:50:23 Error = list index out of range---
+ERROR:root: id=311600抓取user时发生错误2016-05-31 19:51:18 Error = list index out of range---
+ERROR:root: id=291561抓取user时发生错误2016-05-31 19:51:47 Error = list index out of range---
+ERROR:root: id=261333抓取user时发生错误2016-05-31 19:52:56 Error = list index out of range---
+ERROR:root: id=281337抓取user时发生错误2016-05-31 19:53:02 Error = list index out of range---
+ERROR:root: id=301485抓取user时发生错误2016-05-31 19:53:39 Error = list index out of range---
+ERROR:root: id=291592抓取user时发生错误2016-05-31 19:54:21 Error = list index out of range---
+ERROR:root: id=301497抓取user时发生错误2016-05-31 19:54:27 Error = list index out of range---
+ERROR:root: id=301508抓取user时发生错误2016-05-31 19:54:56 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=421611抓取user时发生错误2016-05-31 19:54:56 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=291603抓取user时发生错误2016-05-31 19:54:57 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=50623抓取user时发生错误2016-05-31 19:54:57 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=461631抓取user时发生错误2016-05-31 19:54:57 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=361710抓取user时发生错误2016-05-31 19:54:57 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=80703抓取user时发生错误2016-05-31 19:54:57 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=441737抓取user时发生错误2016-05-31 19:54:58 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=391677抓取user时发生错误2016-05-31 19:54:58 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=210835抓取user时发生错误2016-05-31 19:54:58 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=50624抓取user时发生错误2016-05-31 19:54:58 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=331787抓取user时发生错误2016-05-31 19:54:59 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=461632抓取user时发生错误2016-05-31 19:54:59 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=230788抓取user时发生错误2016-05-31 19:54:59 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=361711抓取user时发生错误2016-05-31 19:54:59 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=501595抓取user时发生错误2016-05-31 19:54:59 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=60811抓取user时发生错误2016-05-31 19:54:59 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=220786抓取user时发生错误2016-05-31 19:55:00 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=481867抓取user时发生错误2016-05-31 19:55:00 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=381674抓取user时发生错误2016-05-31 19:55:00 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=351834抓取user时发生错误2016-05-31 19:55:00 Error = 1292 (22007): Incorrect datetime value: '0000' for column 'release_time' at row 1---
+ERROR:root: id=80708抓取user时发生错误2016-05-31 19:55:23 Error = 1062 (23000): Duplicate entry '38045070' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=441745抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '44739716' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=431678抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '52053190' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=411865抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '34016808' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=401754抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '50782718' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=301512抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '36669798' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=230795抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '30822931' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=371632抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '43788144' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=120752抓取user时发生错误2016-05-31 19:55:24 Error = 1062 (23000): Duplicate entry '39018711' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=10607抓取user时发生错误2016-05-31 19:55:25 Error = 1062 (23000): Duplicate entry '24683801' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=321812抓取user时发生错误2016-05-31 19:55:25 Error = 1062 (23000): Duplicate entry '45035226' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=341771抓取user时发生错误2016-05-31 19:55:25 Error = 1062 (23000): Duplicate entry '51142253' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=50627抓取user时发生错误2016-05-31 19:55:25 Error = 1062 (23000): Duplicate entry '18378467' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311654抓取user时发生错误2016-05-31 19:55:25 Error = 1062 (23000): Duplicate entry '52769934' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=180746抓取user时发生错误2016-05-31 19:55:26 Error = 1062 (23000): Duplicate entry '38146640' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=271570抓取user时发生错误2016-05-31 19:55:26 Error = 1062 (23000): Duplicate entry '43350902' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=421623抓取user时发生错误2016-05-31 19:55:26 Error = 1062 (23000): Duplicate entry '44481708' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=120753抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '26674051' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=441746抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '46131153' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=10608抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '36408372' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=741抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '40973377' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=371634抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '46630340' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=351839抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '48939150' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=411866抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '38266654' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=381677抓取user时发生错误2016-05-31 19:55:27 Error = 1062 (23000): Duplicate entry '42853281' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=321813抓取user时发生错误2016-05-31 19:55:28 Error = 1062 (23000): Duplicate entry '52097766' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=190685抓取user时发生错误2016-05-31 19:55:28 Error = 1062 (23000): Duplicate entry '33961522' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=291613抓取user时发生错误2016-05-31 19:55:28 Error = 1062 (23000): Duplicate entry '25006645' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=220790抓取user时发生错误2016-05-31 19:55:28 Error = 1062 (23000): Duplicate entry '50959098' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=401755抓取user时发生错误2016-05-31 19:55:29 Error = 1062 (23000): Duplicate entry '39175562' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=60814抓取user时发生错误2016-05-31 19:55:29 Error = 1062 (23000): Duplicate entry '38045840' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=351840抓取user时发生错误2016-05-31 19:55:29 Error = 1062 (23000): Duplicate entry '49802551' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=261372抓取user时发生错误2016-05-31 19:55:30 Error = 1062 (23000): Duplicate entry '51319782' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=120754抓取user时发生错误2016-05-31 19:55:30 Error = 1062 (23000): Duplicate entry '42644930' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311656抓取user时发生错误2016-05-31 19:55:30 Error = 1062 (23000): Duplicate entry '43820167' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=291615抓取user时发生错误2016-05-31 19:55:30 Error = list index out of range---
+ERROR:root: id=20710抓取user时发生错误2016-05-31 19:55:30 Error = 1062 (23000): Duplicate entry '17785915' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=291614抓取user时发生错误2016-05-31 19:55:30 Error = 1062 (23000): Duplicate entry '42444767' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=291615抓取user时发生错误2016-05-31 19:55:30 Error = list index out of range---
+ERROR:root: id=461640抓取user时发生错误2016-05-31 19:55:31 Error = 1062 (23000): Duplicate entry '50356949' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=230797抓取user时发生错误2016-05-31 19:55:31 Error = 1062 (23000): Duplicate entry '44070387' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=411867抓取user时发生错误2016-05-31 19:55:31 Error = 1062 (23000): Duplicate entry '45955411' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=80709抓取user时发生错误2016-05-31 19:55:31 Error = 1062 (23000): Duplicate entry '46671444' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=150768抓取user时发生错误2016-05-31 19:55:31 Error = 1062 (23000): Duplicate entry '13853054' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=341772抓取user时发生错误2016-05-31 19:55:31 Error = 1062 (23000): Duplicate entry '44036138' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=140642抓取user时发生错误2016-05-31 19:55:32 Error = 1062 (23000): Duplicate entry '17169486' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=301515抓取user时发生错误2016-05-31 19:55:32 Error = 1062 (23000): Duplicate entry '52447848' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=60815抓取user时发生错误2016-05-31 19:55:32 Error = 1062 (23000): Duplicate entry '10078850' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=180747抓取user时发生错误2016-05-31 19:55:32 Error = 1062 (23000): Duplicate entry '48141864' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=491459抓取user时发生错误2016-05-31 19:55:33 Error = 1062 (23000): Duplicate entry '52831873' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=381678抓取user时发生错误2016-05-31 19:55:33 Error = 1062 (23000): Duplicate entry '48214951' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311657抓取user时发生错误2016-05-31 19:55:33 Error = 1062 (23000): Duplicate entry '31665265' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=130840抓取user时发生错误2016-05-31 19:55:33 Error = 1062 (23000): Duplicate entry '50855350' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=271572抓取user时发生错误2016-05-31 19:55:34 Error = 1062 (23000): Duplicate entry '52334189' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=10609抓取user时发生错误2016-05-31 19:55:34 Error = 1062 (23000): Duplicate entry '32685171' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=331798抓取user时发生错误2016-05-31 19:55:34 Error = 1062 (23000): Duplicate entry '51252725' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=371637抓取user时发生错误2016-05-31 19:55:34 Error = 1062 (23000): Duplicate entry '52280927' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=461641抓取user时发生错误2016-05-31 19:55:35 Error = 1062 (23000): Duplicate entry '34621564' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=150770抓取user时发生错误2016-05-31 19:55:36 Error = 1062 (23000): Duplicate entry '44045989' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=60816抓取user时发生错误2016-05-31 19:55:36 Error = 1062 (23000): Duplicate entry '39031364' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=351841抓取user时发生错误2016-05-31 19:55:36 Error = 1062 (23000): Duplicate entry '45253866' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=471648抓取user时发生错误2016-05-31 19:55:36 Error = 1062 (23000): Duplicate entry '50064801' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=180748抓取user时发生错误2016-05-31 19:55:36 Error = 1062 (23000): Duplicate entry '40898694' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=341773抓取user时发生错误2016-05-31 19:55:36 Error = 1062 (23000): Duplicate entry '50528261' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=481882抓取user时发生错误2016-05-31 19:55:36 Error = 1062 (23000): Duplicate entry '48764629' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=220792抓取user时发生错误2016-05-31 19:55:37 Error = 1062 (23000): Duplicate entry '45038312' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=391684抓取user时发生错误2016-05-31 19:55:37 Error = 1062 (23000): Duplicate entry '49624749' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=431683抓取user时发生错误2016-05-31 19:55:37 Error = 1062 (23000): Duplicate entry '44707867' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311658抓取user时发生错误2016-05-31 19:55:37 Error = 1062 (23000): Duplicate entry '52071247' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=140644抓取user时发生错误2016-05-31 19:55:38 Error = 1062 (23000): Duplicate entry '20207108' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=411870抓取user时发生错误2016-05-31 19:55:38 Error = 1062 (23000): Duplicate entry '43297547' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=190686抓取user时发生错误2016-05-31 19:55:38 Error = 1062 (23000): Duplicate entry '40743202' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=743抓取user时发生错误2016-05-31 19:55:39 Error = 1062 (23000): Duplicate entry '44206170' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=210840抓取user时发生错误2016-05-31 19:55:39 Error = 1062 (23000): Duplicate entry '39194311' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=251481抓取user时发生错误2016-05-31 19:55:40 Error = 1062 (23000): Duplicate entry '51910941' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=160681抓取user时发生错误2016-05-31 19:55:40 Error = 1062 (23000): Duplicate entry '49934731' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=461642抓取user时发生错误2016-05-31 19:55:40 Error = 1062 (23000): Duplicate entry '31727824' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=491461抓取user时发生错误2016-05-31 19:55:41 Error = 1062 (23000): Duplicate entry '52423770' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=180749抓取user时发生错误2016-05-31 19:55:41 Error = 1062 (23000): Duplicate entry '38083400' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=331800抓取user时发生错误2016-05-31 19:55:41 Error = 1062 (23000): Duplicate entry '26757978' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=411871抓取user时发生错误2016-05-31 19:55:41 Error = 1062 (23000): Duplicate entry '44529784' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=351842抓取user时发生错误2016-05-31 19:55:41 Error = 1062 (23000): Duplicate entry '49258211' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=361717抓取user时发生错误2016-05-31 19:55:41 Error = 1062 (23000): Duplicate entry '52953296' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=281377抓取user时发生错误2016-05-31 19:55:41 Error = 1062 (23000): Duplicate entry '49608536' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=441751抓取user时发生错误2016-05-31 19:55:42 Error = 1062 (23000): Duplicate entry '44145841' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=501605抓取user时发生错误2016-05-31 19:55:42 Error = 1062 (23000): Duplicate entry '51069263' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=30692抓取user时发生错误2016-05-31 19:55:42 Error = 1062 (23000): Duplicate entry '49062992' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311659抓取user时发生错误2016-05-31 19:55:42 Error = 1062 (23000): Duplicate entry '50838306' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=150771抓取user时发生错误2016-05-31 19:55:42 Error = 1062 (23000): Duplicate entry '35515662' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=321814抓取user时发生错误2016-05-31 19:55:42 Error = 1062 (23000): Duplicate entry '50349592' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=421624抓取user时发生错误2016-05-31 19:55:42 Error = 1062 (23000): Duplicate entry '52906543' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=341775抓取user时发生错误2016-05-31 19:55:43 Error = 1062 (23000): Duplicate entry '50611342' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=371638抓取user时发生错误2016-05-31 19:55:43 Error = 1062 (23000): Duplicate entry '50537536' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=210841抓取user时发生错误2016-05-31 19:55:44 Error = 1062 (23000): Duplicate entry '31621082' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=361718抓取user时发生错误2016-05-31 19:55:44 Error = 1062 (23000): Duplicate entry '51973844' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=301516抓取user时发生错误2016-05-31 19:55:44 Error = 1062 (23000): Duplicate entry '52897692' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=331801抓取user时发生错误2016-05-31 19:55:44 Error = 1062 (23000): Duplicate entry '42357322' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=10610抓取user时发生错误2016-05-31 19:55:44 Error = 1062 (23000): Duplicate entry '52593817' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=441752抓取user时发生错误2016-05-31 19:55:44 Error = 1062 (23000): Duplicate entry '52330065' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=431684抓取user时发生错误2016-05-31 19:55:45 Error = 1062 (23000): Duplicate entry '48473628' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=461643抓取user时发生错误2016-05-31 19:55:45 Error = 1062 (23000): Duplicate entry '50308832' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=220794抓取user时发生错误2016-05-31 19:55:45 Error = 1062 (23000): Duplicate entry '50128584' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=180750抓取user时发生错误2016-05-31 19:55:45 Error = 1062 (23000): Duplicate entry '51057971' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=190687抓取user时发生错误2016-05-31 19:55:45 Error = 1062 (23000): Duplicate entry '52877832' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=411872抓取user时发生错误2016-05-31 19:55:45 Error = 1062 (23000): Duplicate entry '51713190' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=251483抓取user时发生错误2016-05-31 19:55:45 Error = 1062 (23000): Duplicate entry '32061254' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=20711抓取user时发生错误2016-05-31 19:55:46 Error = 1062 (23000): Duplicate entry '47403770' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=471652抓取user时发生错误2016-05-31 19:55:46 Error = 1062 (23000): Duplicate entry '44770770' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=140645抓取user时发生错误2016-05-31 19:55:46 Error = 1062 (23000): Duplicate entry '52210861' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=291616抓取user时发生错误2016-05-31 19:55:46 Error = 1062 (23000): Duplicate entry '44111166' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=281379抓取user时发生错误2016-05-31 19:55:47 Error = 1062 (23000): Duplicate entry '49014342' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=501607抓取user时发生错误2016-05-31 19:55:47 Error = 1062 (23000): Duplicate entry '45017231' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=331802抓取user时发生错误2016-05-31 19:55:47 Error = 1062 (23000): Duplicate entry '39912662' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=421626抓取user时发生错误2016-05-31 19:55:47 Error = 1062 (23000): Duplicate entry '52526392' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=441753抓取user时发生错误2016-05-31 19:55:47 Error = 1062 (23000): Duplicate entry '47980112' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=70748抓取user时发生错误2016-05-31 19:55:47 Error = 1062 (23000): Duplicate entry '52373054' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=401759抓取user时发生错误2016-05-31 19:55:47 Error = 1062 (23000): Duplicate entry '51553098' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=351845抓取user时发生错误2016-05-31 19:55:48 Error = 1062 (23000): Duplicate entry '40998456' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=744抓取user时发生错误2016-05-31 19:55:48 Error = 1062 (23000): Duplicate entry '43568260' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=451783抓取user时发生错误2016-05-31 19:55:48 Error = 1062 (23000): Duplicate entry '52703240' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=471653抓取user时发生错误2016-05-31 19:55:48 Error = 1062 (23000): Duplicate entry '50204276' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=60817抓取user时发生错误2016-05-31 19:55:48 Error = 1062 (23000): Duplicate entry '28922803' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=100600抓取user时发生错误2016-05-31 19:55:49 Error = 1062 (23000): Duplicate entry '51727059' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=190688抓取user时发生错误2016-05-31 19:55:49 Error = 1062 (23000): Duplicate entry '26144849' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=361720抓取user时发生错误2016-05-31 19:55:49 Error = 1062 (23000): Duplicate entry '43794417' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311662抓取user时发生错误2016-05-31 19:55:49 Error = 1062 (23000): Duplicate entry '48545570' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=301518抓取user时发生错误2016-05-31 19:55:49 Error = 1062 (23000): Duplicate entry '34328645' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=411874抓取user时发生错误2016-05-31 19:55:49 Error = 1062 (23000): Duplicate entry '44417164' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=130841抓取user时发生错误2016-05-31 19:55:50 Error = 1062 (23000): Duplicate entry '25444378' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=30693抓取user时发生错误2016-05-31 19:55:50 Error = 1062 (23000): Duplicate entry '41115668' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=321817抓取user时发生错误2016-05-31 19:55:50 Error = 1062 (23000): Duplicate entry '51064365' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=200655抓取user时发生错误2016-05-31 19:55:50 Error = 1062 (23000): Duplicate entry '47515528' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=351846抓取user时发生错误2016-05-31 19:55:50 Error = 1062 (23000): Duplicate entry '46681151' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=421627抓取user时发生错误2016-05-31 19:55:51 Error = 1062 (23000): Duplicate entry '45956789' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=251484抓取user时发生错误2016-05-31 19:55:51 Error = 1062 (23000): Duplicate entry '48687951' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=70749抓取user时发生错误2016-05-31 19:55:51 Error = 1062 (23000): Duplicate entry '34286644' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=491465抓取user时发生错误2016-05-31 19:55:51 Error = 1062 (23000): Duplicate entry '52214953' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=391685抓取user时发生错误2016-05-31 19:55:51 Error = 1062 (23000): Duplicate entry '51022646' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=481888抓取user时发生错误2016-05-31 19:55:52 Error = 1062 (23000): Duplicate entry '50902520' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=100601抓取user时发生错误2016-05-31 19:55:52 Error = 1062 (23000): Duplicate entry '15524439' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=461645抓取user时发生错误2016-05-31 19:55:52 Error = 1062 (23000): Duplicate entry '49815335' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=341777抓取user时发生错误2016-05-31 19:55:52 Error = 1062 (23000): Duplicate entry '52886244' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=281380抓取user时发生错误2016-05-31 19:55:53 Error = 1062 (23000): Duplicate entry '48157267' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=381686抓取user时发生错误2016-05-31 19:55:53 Error = 1062 (23000): Duplicate entry '51591169' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=391686抓取user时发生错误2016-05-31 19:55:53 Error = 1062 (23000): Duplicate entry '27371676' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=200656抓取user时发生错误2016-05-31 19:55:53 Error = 1062 (23000): Duplicate entry '9738509' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=471655抓取user时发生错误2016-05-31 19:55:53 Error = 1062 (23000): Duplicate entry '33951104' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=130842抓取user时发生错误2016-05-31 19:55:54 Error = 1062 (23000): Duplicate entry '15134960' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=150772抓取user时发生错误2016-05-31 19:55:54 Error = 1062 (23000): Duplicate entry '40460158' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=481889抓取user时发生错误2016-05-31 19:55:55 Error = 1062 (23000): Duplicate entry '51087068' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=30694抓取user时发生错误2016-05-31 19:55:56 Error = 1062 (23000): Duplicate entry '35259870' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=251483抓取user时发生错误2016-05-31 19:56:07 Error = 1062 (23000): Duplicate entry '32061254' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=471655抓取user时发生错误2016-05-31 19:56:09 Error = 1062 (23000): Duplicate entry '33951104' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=271576抓取user时发生错误2016-05-31 19:56:10 Error = list index out of range---
+ERROR:root: id=251484抓取user时发生错误2016-05-31 19:56:11 Error = 1062 (23000): Duplicate entry '48687951' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=471656抓取user时发生错误2016-05-31 19:56:14 Error = 1062 (23000): Duplicate entry '45613228' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311665抓取user时发生错误2016-05-31 19:56:25 Error = list index out of range---
+ERROR:root: id=291640抓取user时发生错误2016-05-31 19:57:20 Error = list index out of range---
+ERROR:root: id=261384抓取user时发生错误2016-05-31 19:57:33 Error = list index out of range---
+ERROR:root: id=271604抓取user时发生错误2016-05-31 19:57:43 Error = list index out of range---
+ERROR:root: id=281407抓取user时发生错误2016-05-31 19:57:48 Error = list index out of range---
+ERROR:root: id=301566抓取user时发生错误2016-05-31 19:58:32 Error = list index out of range---
+ERROR:root: id=311689抓取user时发生错误2016-05-31 19:58:47 Error = list index out of range---
+ERROR:root: id=291668抓取user时发生错误2016-05-31 19:59:15 Error = list index out of range---
+ERROR:root: id=261415抓取user时发生错误2016-05-31 19:59:18 Error = list index out of range---
+ERROR:root: id=271633抓取user时发生错误2016-05-31 19:59:28 Error = list index out of range---
+ERROR:root: id=281450抓取user时发生错误2016-05-31 20:00:11 Error = list index out of range---
+ERROR:root: id=311730抓取user时发生错误2016-05-31 20:01:01 Error = list index out of range---
+ERROR:root: id=291705抓取user时发生错误2016-05-31 20:01:01 Error = list index out of range---
+ERROR:root: id=281487抓取user时发生错误2016-05-31 20:01:37 Error = list index out of range---
+ERROR:root: id=271675抓取user时发生错误2016-05-31 20:02:29 Error = list index out of range---
+ERROR:root: id=311752抓取user时发生错误2016-05-31 20:06:12 Error = list index out of range---
+ERROR:root: id=291730抓取user时发生错误2016-05-31 20:06:14 Error = list index out of range---
+ERROR:root: id=261481抓取user时发生错误2016-05-31 20:06:40 Error = list index out of range---
+ERROR:root: id=281514抓取user时发生错误2016-05-31 20:06:50 Error = list index out of range---
+ERROR:root: id=301653抓取user时发生错误2016-05-31 20:07:02 Error = list index out of range---
+ERROR:root: id=271707抓取user时发生错误2016-05-31 20:07:03 Error = list index out of range---
+ERROR:root: id=311790抓取user时发生错误2016-05-31 20:08:11 Error = list index out of range---
+ERROR:root: id=261507抓取user时发生错误2016-05-31 20:08:23 Error = list index out of range---
+ERROR:root: id=291762抓取user时发生错误2016-05-31 20:08:32 Error = list index out of range---
+ERROR:root: id=301676抓取user时发生错误2016-05-31 20:08:55 Error = list index out of range---
+ERROR:root: id=281542抓取user时发生错误2016-05-31 20:09:12 Error = list index out of range---
+ERROR:root: id=311817抓取user时发生错误2016-05-31 20:09:16 Error = list index out of range---
+ERROR:root: id=291778抓取user时发生错误2016-05-31 20:09:39 Error = list index out of range---
+ERROR:root: id=261544抓取user时发生错误2016-05-31 20:09:59 Error = list index out of range---
+ERROR:root: id=271750抓取user时发生错误2016-05-31 20:10:01 Error = list index out of range---
+ERROR:root: id=311840抓取user时发生错误2016-05-31 20:10:39 Error = list index out of range---
+ERROR:root: id=281581抓取user时发生错误2016-05-31 20:11:22 Error = list index out of range---
+ERROR:root: id=271773抓取user时发生错误2016-05-31 20:11:28 Error = list index out of range---
+ERROR:root: id=311857抓取user时发生错误2016-05-31 20:11:59 Error = list index out of range---
+ERROR:root: id=291818抓取user时发生错误2016-05-31 20:12:03 Error = list index out of range---
+ERROR:root: id=311880抓取user时发生错误2016-05-31 20:13:19 Error = list index out of range---
+ERROR:root: id=271810抓取user时发生错误2016-05-31 20:13:31 Error = list index out of range---
+ERROR:root: id=281612抓取user时发生错误2016-05-31 20:13:34 Error = list index out of range---
+ERROR:root: id=291842抓取user时发生错误2016-05-31 20:13:54 Error = list index out of range---
+ERROR:root: id=311892抓取user时发生错误2016-05-31 20:13:58 Error = list index out of range---
+ERROR:root: id=301748抓取user时发生错误2016-05-31 20:14:03 Error = list index out of range---
+ERROR:root: id=261598抓取user时发生错误2016-05-31 20:14:35 Error = list index out of range---
+ERROR:root: id=291872抓取user时发生错误2016-05-31 20:15:14 Error = list index out of range---
+ERROR:root: id=281648抓取user时发生错误2016-05-31 20:15:43 Error = list index out of range---
+WARNING:root: uid=4754693解析soup发生错误2016-05-31 20:16:04 Error = list index out of range---
+ERROR:root: id=180861抓取user时发生错误2016-05-31 20:16:05 Error = 1062 (23000): Duplicate entry '48268816' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=311922抓取user时发生错误2016-05-31 20:16:49 Error = list index out of range---
+ERROR:root: id=261628抓取user时发生错误2016-05-31 20:16:58 Error = list index out of range---
+ERROR:root: id=311935抓取user时发生错误2016-05-31 20:18:04 Error = list index out of range---
+ERROR:root: id=271883抓取user时发生错误2016-05-31 20:18:08 Error = list index out of range---
+ERROR:root: id=281683抓取user时发生错误2016-05-31 20:18:51 Error = list index out of range---
+ERROR:root: id=301811抓取user时发生错误2016-05-31 20:18:59 Error = list index out of range---
+ERROR:root: id=311957抓取user时发生错误2016-05-31 20:19:10 Error = list index out of range---
+ERROR:root: id=261665抓取user时发生错误2016-05-31 20:19:45 Error = list index out of range---
+ERROR:root: id=271919抓取user时发生错误2016-05-31 20:20:04 Error = list index out of range---
+ERROR:root: id=311973抓取user时发生错误2016-05-31 20:20:28 Error = list index out of range---
+ERROR:root: id=301841抓取user时发生错误2016-05-31 20:20:54 Error = list index out of range---
+ERROR:root: id=261693抓取user时发生错误2016-05-31 20:21:16 Error = list index out of range---
+ERROR:root: id=271947抓取user时发生错误2016-05-31 20:22:00 Error = list index out of range---
+ERROR:root: id=281730抓取user时发生错误2016-05-31 20:22:05 Error = list index out of range---
+ERROR:root: id=311993抓取user时发生错误2016-05-31 20:22:08 Error = list index out of range---
+ERROR:root: id=281748抓取user时发生错误2016-05-31 20:22:49 Error = list index out of range---
+ERROR:root: id=261729抓取user时发生错误2016-05-31 20:23:40 Error = list index out of range---
+ERROR:root: id=312012抓取user时发生错误2016-05-31 20:24:08 Error = list index out of range---
+ERROR:root: id=312028抓取user时发生错误2016-05-31 20:25:40 Error = list index out of range---
+ERROR:root: id=272001抓取user时发生错误2016-05-31 20:25:49 Error = list index out of range---
+ERROR:root: id=261764抓取user时发生错误2016-05-31 20:25:53 Error = list index out of range---
+ERROR:root: id=301876抓取user时发生错误2016-05-31 20:25:54 Error = list index out of range---
+ERROR:root: id=281798抓取user时发生错误2016-05-31 20:26:24 Error = list index out of range---
+ERROR:root: id=292052抓取user时发生错误2016-05-31 20:26:26 Error = list index out of range---
+ERROR:root: id=301903抓取user时发生错误2016-05-31 20:27:36 Error = list index out of range---
+ERROR:root: id=272039抓取user时发生错误2016-05-31 20:27:49 Error = list index out of range---
+ERROR:root: id=281826抓取user时发生错误2016-05-31 20:27:54 Error = list index out of range---
+ERROR:root: id=261798抓取user时发生错误2016-05-31 20:28:22 Error = list index out of range---
+ERROR:root: id=292076抓取user时发生错误2016-05-31 20:28:59 Error = list index out of range---
+ERROR:root: id=292092抓取user时发生错误2016-05-31 20:29:55 Error = list index out of range---
+ERROR:root: id=301942抓取user时发生错误2016-05-31 20:30:00 Error = list index out of range---
+ERROR:root: id=312100抓取user时发生错误2016-05-31 20:30:09 Error = list index out of range---
+ERROR:root: id=272075抓取user时发生错误2016-05-31 20:30:15 Error = list index out of range---
+ERROR:root: id=281856抓取user时发生错误2016-05-31 20:30:35 Error = list index out of range---
+ERROR:root: id=261829抓取user时发生错误2016-05-31 20:30:58 Error = list index out of range---
+ERROR:root: id=312119抓取user时发生错误2016-05-31 20:31:12 Error = list index out of range---
+ERROR:root: id=312137抓取user时发生错误2016-05-31 20:32:55 Error = list index out of range---
+ERROR:root: id=272106抓取user时发生错误2016-05-31 20:33:00 Error = list index out of range---
+ERROR:root: id=301996抓取user时发生错误2016-05-31 20:33:06 Error = list index out of range---
+ERROR:root: id=281890抓取user时发生错误2016-05-31 20:33:47 Error = list index out of range---
+ERROR:root: id=261872抓取user时发生错误2016-05-31 20:34:15 Error = list index out of range---
+WARNING:root: uid=4416386解析soup发生错误2016-05-31 20:34:56 Error = list index out of range---
+ERROR:root: id=281924抓取user时发生错误2016-05-31 20:35:35 Error = list index out of range---
+ERROR:root: id=261911抓取user时发生错误2016-05-31 20:36:08 Error = list index out of range---
+ERROR:root: id=181018抓取user时发生错误2016-05-31 20:36:14 Error = 1062 (23000): Duplicate entry '25874748' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=272160抓取user时发生错误2016-05-31 20:37:18 Error = list index out of range---
+ERROR:root: id=281964抓取user时发生错误2016-05-31 20:37:48 Error = list index out of range---
+ERROR:root: id=302070抓取user时发生错误2016-05-31 20:38:11 Error = list index out of range---
+ERROR:root: id=312237抓取user时发生错误2016-05-31 20:38:12 Error = list index out of range---
+ERROR:root: id=272191抓取user时发生错误2016-05-31 20:38:52 Error = list index out of range---
+ERROR:root: id=281982抓取user时发生错误2016-05-31 20:38:52 Error = list index out of range---
+ERROR:root: id=292201抓取user时发生错误2016-05-31 20:38:56 Error = list index out of range---
+ERROR:root: id=261952抓取user时发生错误2016-05-31 20:39:46 Error = list index out of range---
+ERROR:root: id=312260抓取user时发生错误2016-05-31 20:40:11 Error = list index out of range---
+ERROR:root: id=312273抓取user时发生错误2016-05-31 20:40:44 Error = list index out of range---
+ERROR:root: id=302126抓取user时发生错误2016-05-31 20:41:07 Error = list index out of range---
+ERROR:root: id=272223抓取user时发生错误2016-05-31 20:41:07 Error = list index out of range---
+ERROR:root: id=292233抓取user时发生错误2016-05-31 20:41:22 Error = list index out of range---
+ERROR:root: id=282018抓取user时发生错误2016-05-31 20:41:27 Error = list index out of range---
+ERROR:root: id=312294抓取user时发生错误2016-05-31 20:42:30 Error = list index out of range---
+ERROR:root: id=261991抓取user时发生错误2016-05-31 20:42:33 Error = list index out of range---
+ERROR:root: id=312304抓取user时发生错误2016-05-31 20:42:53 Error = list index out of range---
+ERROR:root: id=272254抓取user时发生错误2016-05-31 20:43:11 Error = list index out of range---
+ERROR:root: id=292277抓取user时发生错误2016-05-31 20:43:28 Error = list index out of range---
+ERROR:root: id=282055抓取user时发生错误2016-05-31 20:43:37 Error = list index out of range---
+ERROR:root: id=292301抓取user时发生错误2016-05-31 20:44:42 Error = list index out of range---
+ERROR:root: id=272282抓取user时发生错误2016-05-31 20:44:43 Error = list index out of range---
+ERROR:root: id=282089抓取user时发生错误2016-05-31 20:45:01 Error = list index out of range---
+ERROR:root: id=312334抓取user时发生错误2016-05-31 20:45:13 Error = list index out of range---
+ERROR:root: id=272307抓取user时发生错误2016-05-31 20:45:42 Error = list index out of range---
+ERROR:root: id=292324抓取user时发生错误2016-05-31 20:45:47 Error = list index out of range---
+ERROR:root: id=302211抓取user时发生错误2016-05-31 20:45:56 Error = list index out of range---
+ERROR:root: id=302221抓取user时发生错误2016-05-31 20:46:22 Error = list index out of range---
+ERROR:root: id=262034抓取user时发生错误2016-05-31 20:46:54 Error = list index out of range---
+ERROR:root: id=292366抓取user时发生错误2016-05-31 20:48:13 Error = list index out of range---
+ERROR:root: id=262068抓取user时发生错误2016-05-31 20:48:47 Error = list index out of range---
+ERROR:root: id=302280抓取user时发生错误2016-05-31 20:49:18 Error = list index out of range---
+ERROR:root: id=292391抓取user时发生错误2016-05-31 20:49:37 Error = list index out of range---
+ERROR:root: id=282144抓取user时发生错误2016-05-31 20:50:16 Error = list index out of range---
+ERROR:root: id=302301抓取user时发生错误2016-05-31 20:50:17 Error = list index out of range---
+ERROR:root: id=312414抓取user时发生错误2016-05-31 20:50:46 Error = list index out of range---
+ERROR:root: id=292425抓取user时发生错误2016-05-31 20:51:16 Error = list index out of range---
+ERROR:root: id=312431抓取user时发生错误2016-05-31 20:51:16 Error = list index out of range---
+ERROR:root: id=262111抓取user时发生错误2016-05-31 20:52:28 Error = list index out of range---
+ERROR:root: id=282172抓取user时发生错误2016-05-31 20:52:28 Error = list index out of range---
+ERROR:root: id=312454抓取user时发生错误2016-05-31 20:52:29 Error = list index out of range---
+ERROR:root: id=292448抓取user时发生错误2016-05-31 20:52:31 Error = list index out of range---
+ERROR:root: id=282188抓取user时发生错误2016-05-31 20:53:12 Error = list index out of range---
+ERROR:root: id=272454抓取user时发生错误2016-05-31 20:53:55 Error = list index out of range---
+ERROR:root: id=292471抓取user时发生错误2016-05-31 20:54:18 Error = list index out of range---
+ERROR:root: id=312497抓取user时发生错误2016-05-31 20:54:31 Error = list index out of range---
+ERROR:root: id=282226抓取user时发生错误2016-05-31 20:55:36 Error = list index out of range---
+ERROR:root: id=262145抓取user时发生错误2016-05-31 20:55:59 Error = list index out of range---
+ERROR:root: id=292508抓取user时发生错误2016-05-31 20:56:07 Error = list index out of range---
+ERROR:root: id=262177抓取user时发生错误2016-05-31 20:57:18 Error = list index out of range---
+ERROR:root: id=292532抓取user时发生错误2016-05-31 20:57:35 Error = list index out of range---
+ERROR:root: id=312570抓取user时发生错误2016-05-31 20:58:23 Error = list index out of range---
+ERROR:root: id=282273抓取user时发生错误2016-05-31 20:58:37 Error = list index out of range---
+ERROR:root: id=262210抓取user时发生错误2016-05-31 20:58:46 Error = list index out of range---
+ERROR:root: id=292559抓取user时发生错误2016-05-31 20:59:24 Error = list index out of range---
+ERROR:root: id=272558抓取user时发生错误2016-05-31 20:59:27 Error = list index out of range---
+ERROR:root: id=151178抓取user时发生错误2016-05-31 20:59:56 Error = 1062 (23000): Duplicate entry '37021715' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=262242抓取user时发生错误2016-05-31 21:00:07 Error = list index out of range---
+ERROR:root: id=282314抓取user时发生错误2016-05-31 21:00:16 Error = list index out of range---
+ERROR:root: id=302493抓取user时发生错误2016-05-31 21:00:37 Error = list index out of range---
+ERROR:root: id=292595抓取user时发生错误2016-05-31 21:00:45 Error = list index out of range---
+ERROR:root: id=302504抓取user时发生错误2016-05-31 21:01:16 Error = list index out of range---
+ERROR:root: id=312621抓取user时发生错误2016-05-31 21:01:38 Error = list index out of range---
+ERROR:root: id=262277抓取user时发生错误2016-05-31 21:01:51 Error = list index out of range---
+ERROR:root: id=302521抓取user时发生错误2016-05-31 21:02:03 Error = list index out of range---
+ERROR:root: id=272600抓取user时发生错误2016-05-31 21:02:08 Error = list index out of range---
+ERROR:root: id=292624抓取user时发生错误2016-05-31 21:02:13 Error = list index out of range---
+ERROR:root: id=312642抓取user时发生错误2016-05-31 21:03:01 Error = list index out of range---
+ERROR:root: id=302551抓取user时发生错误2016-05-31 21:03:06 Error = list index out of range---
+ERROR:root: id=452906抓取user时发生错误2016-05-31 21:03:26 Error = 1062 (23000): Duplicate entry '39484766' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=262310抓取user时发生错误2016-05-31 21:03:27 Error = list index out of range---
+ERROR:root: id=292652抓取user时发生错误2016-05-31 21:03:30 Error = list index out of range---
+ERROR:root: id=272634抓取user时发生错误2016-05-31 21:03:42 Error = list index out of range---
+ERROR:root: id=312663抓取user时发生错误2016-05-31 21:03:53 Error = list index out of range---
+ERROR:root: id=302577抓取user时发生错误2016-05-31 21:04:25 Error = list index out of range---
+ERROR:root: id=292675抓取user时发生错误2016-05-31 21:04:44 Error = list index out of range---
+ERROR:root: id=282382抓取user时发生错误2016-05-31 21:04:53 Error = list index out of range---
+ERROR:root: id=272665抓取user时发生错误2016-05-31 21:05:03 Error = list index out of range---
+ERROR:root: id=312698抓取user时发生错误2016-05-31 21:05:37 Error = list index out of range---
+ERROR:root: id=302611抓取user时发生错误2016-05-31 21:06:12 Error = list index out of range---
+ERROR:root: id=262343抓取user时发生错误2016-05-31 21:06:36 Error = list index out of range---
+ERROR:root: id=272701抓取user时发生错误2016-05-31 21:06:57 Error = list index out of range---
+ERROR:root: id=312733抓取user时发生错误2016-05-31 21:07:05 Error = list index out of range---
+ERROR:root: id=302635抓取user时发生错误2016-05-31 21:07:09 Error = list index out of range---
+ERROR:root: id=312746抓取user时发生错误2016-05-31 21:07:30 Error = list index out of range---
+ERROR:root: id=302654抓取user时发生错误2016-05-31 21:08:14 Error = list index out of range---
+ERROR:root: id=282434抓取user时发生错误2016-05-31 21:08:26 Error = list index out of range---
+ERROR:root: id=262384抓取user时发生错误2016-05-31 21:08:32 Error = list index out of range---
+ERROR:root: id=312772抓取user时发生错误2016-05-31 21:09:12 Error = list index out of range---
+ERROR:root: id=272735抓取user时发生错误2016-05-31 21:09:20 Error = list index out of range---
+ERROR:root: id=302682抓取user时发生错误2016-05-31 21:09:35 Error = list index out of range---
+ERROR:root: id=282467抓取user时发生错误2016-05-31 21:09:35 Error = list index out of range---
+ERROR:root: id=262418抓取user时发生错误2016-05-31 21:10:07 Error = list index out of range---
+ERROR:root: id=1241抓取user时发生错误2016-05-31 21:10:23 Error = 1364 (HY000): Field 'from_floor' doesn't have a default value---
+ERROR:root: id=1242抓取user时发生错误2016-05-31 21:10:24 Error = 1364 (HY000): Field 'from_floor' doesn't have a default value---
+ERROR:root: id=312788抓取user时发生错误2016-05-31 21:10:25 Error = list index out of range---
+ERROR:root: id=1244抓取user时发生错误2016-05-31 21:10:28 Error = 1364 (HY000): Field 'from_floor' doesn't have a default value---
+ERROR:root: id=282517抓取user时发生错误2016-05-31 21:11:32 Error = list index out of range---
+ERROR:root: id=272765抓取user时发生错误2016-05-31 21:11:52 Error = list index out of range---
+ERROR:root: id=262457抓取user时发生错误2016-05-31 21:12:12 Error = list index out of range---
+ERROR:root: id=292798抓取user时发生错误2016-05-31 21:13:09 Error = list index out of range---
+ERROR:root: id=272801抓取user时发生错误2016-05-31 21:13:26 Error = list index out of range---
+ERROR:root: id=282558抓取user时发生错误2016-05-31 21:13:38 Error = list index out of range---
+ERROR:root: id=262487抓取user时发生错误2016-05-31 21:13:38 Error = list index out of range---
+ERROR:root: id=302756抓取user时发生错误2016-05-31 21:14:05 Error = list index out of range---
+ERROR:root: id=272840抓取user时发生错误2016-05-31 21:15:11 Error = list index out of range---
+ERROR:root: id=262529抓取user时发生错误2016-05-31 21:15:42 Error = list index out of range---
+ERROR:root: id=302785抓取user时发生错误2016-05-31 21:16:51 Error = list index out of range---
+ERROR:root: id=272880抓取user时发生错误2016-05-31 21:17:28 Error = list index out of range---
+ERROR:root: id=292830抓取user时发生错误2016-05-31 21:18:22 Error = list index out of range---
+ERROR:root: id=262558抓取user时发生错误2016-05-31 21:18:29 Error = list index out of range---
+ERROR:root: id=312894抓取user时发生错误2016-05-31 21:18:52 Error = list index out of range---
+ERROR:root: id=272910抓取user时发生错误2016-05-31 21:19:18 Error = list index out of range---
+ERROR:root: id=292849抓取user时发生错误2016-05-31 21:19:31 Error = list index out of range---
+ERROR:root: id=312918抓取user时发生错误2016-05-31 21:22:06 Error = list index out of range---
+ERROR:root: id=292883抓取user时发生错误2016-05-31 21:22:32 Error = list index out of range---
+ERROR:root: id=272951抓取user时发生错误2016-05-31 21:24:16 Error = list index out of range---
+ERROR:root: id=312936抓取user时发生错误2016-05-31 21:24:22 Error = list index out of range---
+ERROR:root: id=292912抓取user时发生错误2016-05-31 21:25:31 Error = list index out of range---
+ERROR:root: id=262599抓取user时发生错误2016-05-31 21:28:00 Error = list index out of range---
+ERROR:root: id=272990抓取user时发生错误2016-05-31 21:28:07 Error = list index out of range---
+ERROR:root: id=302818抓取user时发生错误2016-05-31 21:29:55 Error = list index out of range---
+ERROR:root: id=282653抓取user时发生错误2016-05-31 21:30:20 Error = list index out of range---
+ERROR:root: id=262633抓取user时发生错误2016-05-31 21:31:07 Error = list index out of range---
+ERROR:root: id=273036抓取user时发生错误2016-05-31 21:32:49 Error = list index out of range---
+ERROR:root: id=282681抓取user时发生错误2016-05-31 21:33:13 Error = list index out of range---
+ERROR:root: id=293022抓取user时发生错误2016-05-31 21:39:35 Error = list index out of range---
+ERROR:root: id=262669抓取user时发生错误2016-05-31 21:40:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=61474抓取user时发生错误2016-05-31 21:40:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393213抓取user时发生错误2016-05-31 21:40:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393214抓取user时发生错误2016-05-31 21:40:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=453170抓取user时发生错误2016-05-31 21:40:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=151335抓取user时发生错误2016-05-31 21:40:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=293035抓取user时发生错误2016-05-31 21:40:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=101099抓取user时发生错误2016-05-31 21:40:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=221355抓取user时发生错误2016-05-31 21:40:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333399抓取user时发生错误2016-05-31 21:40:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333400抓取user时发生错误2016-05-31 21:40:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=443177抓取user时发生错误2016-05-31 21:40:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393216抓取user时发生错误2016-05-31 21:40:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282709抓取user时发生错误2016-05-31 21:40:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=483459抓取user时发生错误2016-05-31 21:40:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=413443抓取user时发生错误2016-05-31 21:40:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=302917抓取user时发生错误2016-05-31 21:40:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=302918抓取user时发生错误2016-05-31 21:40:19 Error = list index out of range---
+ERROR:root: id=453173抓取user时发生错误2016-05-31 21:40:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=91364抓取user时发生错误2016-05-31 21:40:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=433187抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=443181抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=433188抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=221356抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=121266抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241223抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282710抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282711抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=383160抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282712抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282713抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282714抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282715抓取user时发生错误2016-05-31 21:40:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282716抓取user时发生错误2016-05-31 21:40:21 Error = list index out of range---
+ERROR:root: id=343302抓取user时发生错误2016-05-31 21:40:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=191305抓取user时发生错误2016-05-31 21:40:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333403抓取user时发生错误2016-05-31 21:40:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333404抓取user时发生错误2016-05-31 21:40:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=302922抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333405抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=191307抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=302923抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=191308抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=81350抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262671抓取user时发生错误2016-05-31 21:40:22 Error = list index out of range---
+ERROR:root: id=191309抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262672抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=41301抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=221358抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=151336抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=151337抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=273040抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=293038抓取user时发生错误2016-05-31 21:40:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161142抓取user时发生错误2016-05-31 21:40:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393217抓取user时发生错误2016-05-31 21:40:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241224抓取user时发生错误2016-05-31 21:40:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=211610抓取user时发生错误2016-05-31 21:40:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393218抓取user时发生错误2016-05-31 21:40:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=11132抓取user时发生错误2016-05-31 21:40:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=151339抓取user时发生错误2016-05-31 21:40:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=492985抓取user时发生错误2016-05-31 21:40:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=353437抓取user时发生错误2016-05-31 21:40:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=353438抓取user时发生错误2016-05-31 21:40:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=313012抓取user时发生错误2016-05-31 21:40:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=302928抓取user时发生错误2016-05-31 21:40:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=483463抓取user时发生错误2016-05-31 21:40:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=423114抓取user时发生错误2016-05-31 21:40:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=483464抓取user时发生错误2016-05-31 21:40:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=252454抓取user时发生错误2016-05-31 21:40:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51163抓取user时发生错误2016-05-31 21:40:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=373178抓取user时发生错误2016-05-31 21:40:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333407抓取user时发生错误2016-05-31 21:40:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=151341抓取user时发生错误2016-05-31 21:40:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=141160抓取user时发生错误2016-05-31 21:40:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=423116抓取user时发生错误2016-05-31 21:40:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=141161抓取user时发生错误2016-05-31 21:40:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=101101抓取user时发生错误2016-05-31 21:40:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=61477抓取user时发生错误2016-05-31 21:40:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=11133抓取user时发生错误2016-05-31 21:40:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393220抓取user时发生错误2016-05-31 21:40:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=492989抓取user时发生错误2016-05-31 21:40:28 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393222抓取user时发生错误2016-05-31 21:40:28 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=231398抓取user时发生错误2016-05-31 21:40:28 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=231399抓取user时发生错误2016-05-31 21:40:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161144抓取user时发生错误2016-05-31 21:40:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=221360抓取user时发生错误2016-05-31 21:40:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161145抓取user时发生错误2016-05-31 21:40:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51165抓取user时发生错误2016-05-31 21:40:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=61478抓取user时发生错误2016-05-31 21:40:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262675抓取user时发生错误2016-05-31 21:40:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=61479抓取user时发生错误2016-05-31 21:40:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262676抓取user时发生错误2016-05-31 21:40:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=343307抓取user时发生错误2016-05-31 21:40:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=211612抓取user时发生错误2016-05-31 21:40:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201058抓取user时发生错误2016-05-31 21:40:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201059抓取user时发生错误2016-05-31 21:40:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=463190抓取user时发生错误2016-05-31 21:40:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=282718抓取user时发生错误2016-05-31 21:40:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=463192抓取user时发生错误2016-05-31 21:40:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=483466抓取user时发生错误2016-05-31 21:40:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=293042抓取user时发生错误2016-05-31 21:40:32 Error = list index out of range---
+ERROR:root: id=302933抓取user时发生错误2016-05-31 21:40:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262679抓取user时发生错误2016-05-31 21:40:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=373180抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=302934抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262680抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333411抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=373181抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=373182抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=443186抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333412抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=302936抓取user时发生错误2016-05-31 21:40:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=433192抓取user时发生错误2016-05-31 21:40:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333414抓取user时发生错误2016-05-31 21:40:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=121270抓取user时发生错误2016-05-31 21:40:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=121271抓取user时发生错误2016-05-31 21:40:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=423122抓取user时发生错误2016-05-31 21:40:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=21256抓取user时发生错误2016-05-31 21:40:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=211614抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=473085抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=293044抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262683抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=473086抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=252459抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=262684抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=293045抓取user时发生错误2016-05-31 21:40:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=313018抓取user时发生错误2016-05-31 21:41:06 Error = list index out of range---
+ERROR:root: id=273062抓取user时发生错误2016-05-31 21:41:32 Error = list index out of range---
+ERROR:root: id=282746抓取user时发生错误2016-05-31 21:42:37 Error = list index out of range---
+ERROR:root: id=313045抓取user时发生错误2016-05-31 21:42:42 Error = list index out of range---
+ERROR:root: id=293075抓取user时发生错误2016-05-31 21:42:53 Error = list index out of range---
+ERROR:root: id=302983抓取user时发生错误2016-05-31 21:43:09 Error = list index out of range---
+ERROR:root: id=262710抓取user时发生错误2016-05-31 21:43:28 Error = list index out of range---
+ERROR:root: id=282763抓取user时发生错误2016-05-31 21:43:31 Error = list index out of range---
+ERROR:root: id=303003抓取user时发生错误2016-05-31 21:43:58 Error = list index out of range---
+ERROR:root: id=293101抓取user时发生错误2016-05-31 21:44:02 Error = list index out of range---
+ERROR:root: id=313078抓取user时发生错误2016-05-31 21:44:21 Error = list index out of range---
+ERROR:root: id=282785抓取user时发生错误2016-05-31 21:44:52 Error = list index out of range---
+ERROR:root: id=303019抓取user时发生错误2016-05-31 21:46:05 Error = list index out of range---
+ERROR:root: id=273118抓取user时发生错误2016-05-31 21:46:20 Error = list index out of range---
+ERROR:root: id=262746抓取user时发生错误2016-05-31 21:47:02 Error = list index out of range---
+ERROR:root: id=303036抓取user时发生错误2016-05-31 21:47:20 Error = list index out of range---
+ERROR:root: id=313116抓取user时发生错误2016-05-31 21:47:33 Error = list index out of range---
+ERROR:root: id=282828抓取user时发生错误2016-05-31 21:47:40 Error = list index out of range---
+ERROR:root: id=293131抓取user时发生错误2016-05-31 21:47:55 Error = list index out of range---
+ERROR:root: id=293142抓取user时发生错误2016-05-31 21:48:57 Error = list index out of range---
+ERROR:root: id=262780抓取user时发生错误2016-05-31 21:49:09 Error = list index out of range---
+ERROR:root: id=313149抓取user时发生错误2016-05-31 21:49:51 Error = list index out of range---
+ERROR:root: id=293168抓取user时发生错误2016-05-31 21:50:10 Error = list index out of range---
+ERROR:root: id=282865抓取user时发生错误2016-05-31 21:50:15 Error = list index out of range---
+ERROR:root: id=262812抓取user时发生错误2016-05-31 21:52:06 Error = list index out of range---
+ERROR:root: id=293195抓取user时发生错误2016-05-31 21:52:16 Error = list index out of range---
+ERROR:root: id=282903抓取user时发生错误2016-05-31 21:53:14 Error = list index out of range---
+ERROR:root: id=273186抓取user时发生错误2016-05-31 21:54:10 Error = list index out of range---
+ERROR:root: id=282927抓取user时发生错误2016-05-31 21:54:46 Error = list index out of range---
+ERROR:root: id=262849抓取user时发生错误2016-05-31 21:55:19 Error = list index out of range---
+ERROR:root: id=273205抓取user时发生错误2016-05-31 21:55:44 Error = list index out of range---
+ERROR:root: id=191418抓取user时发生错误2016-05-31 21:56:14 Error = 1366 (HY000): Incorrect string value: '\xF0\xA3\x8A\xAC\xE9\x97...' for column 'title' at row 1---
+ERROR:root: id=273230抓取user时发生错误2016-05-31 21:57:28 Error = list index out of range---
+ERROR:root: id=313242抓取user时发生错误2016-05-31 21:57:46 Error = list index out of range---
+ERROR:root: id=262883抓取user时发生错误2016-05-31 21:59:16 Error = list index out of range---
+ERROR:root: id=282982抓取user时发生错误2016-05-31 21:59:26 Error = list index out of range---
+ERROR:root: id=313269抓取user时发生错误2016-05-31 22:00:36 Error = list index out of range---
+ERROR:root: id=273267抓取user时发生错误2016-05-31 22:00:57 Error = list index out of range---
+ERROR:root: id=262918抓取user时发生错误2016-05-31 22:01:00 Error = list index out of range---
+ERROR:root: id=293283抓取user时发生错误2016-05-31 22:01:42 Error = list index out of range---
+ERROR:root: id=313299抓取user时发生错误2016-05-31 22:02:35 Error = list index out of range---
+ERROR:root: id=283029抓取user时发生错误2016-05-31 22:03:01 Error = list index out of range---
+ERROR:root: id=273303抓取user时发生错误2016-05-31 22:04:02 Error = list index out of range---
+ERROR:root: id=262958抓取user时发生错误2016-05-31 22:04:12 Error = list index out of range---
+ERROR:root: id=262985抓取user时发生错误2016-05-31 22:06:50 Error = list index out of range---
+ERROR:root: id=283107抓取user时发生错误2016-05-31 22:09:16 Error = list index out of range---
+ERROR:root: id=263017抓取user时发生错误2016-05-31 22:09:27 Error = list index out of range---
+ERROR:root: id=303115抓取user时发生错误2016-05-31 22:10:17 Error = list index out of range---
+ERROR:root: id=273390抓取user时发生错误2016-05-31 22:10:28 Error = list index out of range---
+WARNING:root: uid=4101062解析soup发生错误2016-05-31 22:11:08 Error = list index out of range---
+ERROR:root: id=191449抓取user时发生错误2016-05-31 22:11:29 Error = 1062 (23000): Duplicate entry '47841177' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=313415抓取user时发生错误2016-05-31 22:11:49 Error = list index out of range---
+ERROR:root: id=273409抓取user时发生错误2016-05-31 22:11:50 Error = list index out of range---
+ERROR:root: id=283141抓取user时发生错误2016-05-31 22:12:04 Error = list index out of range---
+ERROR:root: id=263060抓取user时发生错误2016-05-31 22:12:27 Error = list index out of range---
+ERROR:root: id=303134抓取user时发生错误2016-05-31 22:12:59 Error = list index out of range---
+ERROR:root: id=283160抓取user时发生错误2016-05-31 22:13:34 Error = list index out of range---
+ERROR:root: id=303153抓取user时发生错误2016-05-31 22:13:58 Error = list index out of range---
+ERROR:root: id=91500抓取user时发生错误2016-05-31 22:15:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161292抓取user时发生错误2016-05-31 22:15:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=393699抓取user时发生错误2016-05-31 22:15:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161293抓取user时发生错误2016-05-31 22:15:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=303163抓取user时发生错误2016-05-31 22:15:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=1477抓取user时发生错误2016-05-31 22:15:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=221546抓取user时发生错误2016-05-31 22:15:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=323928抓取user时发生错误2016-05-31 22:15:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=191458抓取user时发生错误2016-05-31 22:15:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201214抓取user时发生错误2016-05-31 22:15:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=413950抓取user时发生错误2016-05-31 22:15:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=373669抓取user时发生错误2016-05-31 22:15:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=483798抓取user时发生错误2016-05-31 22:15:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333803抓取user时发生错误2016-05-31 22:15:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=473558抓取user时发生错误2016-05-31 22:15:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=443663抓取user时发生错误2016-05-31 22:15:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=31329抓取user时发生错误2016-05-31 22:15:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=231486抓取user时发生错误2016-05-31 22:15:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333806抓取user时发生错误2016-05-31 22:15:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333807抓取user时发生错误2016-05-31 22:15:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=231488抓取user时发生错误2016-05-31 22:15:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=101202抓取user时发生错误2016-05-31 22:15:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=111344抓取user时发生错误2016-05-31 22:15:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=403894抓取user时发生错误2016-05-31 22:15:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=493344抓取user时发生错误2016-05-31 22:15:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=273448抓取user时发生错误2016-05-31 22:15:19 Error = list index out of range---
+ERROR:root: id=463584抓取user时发生错误2016-05-31 22:15:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=61665抓取user时发生错误2016-05-31 22:15:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=383687抓取user时发生错误2016-05-31 22:15:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=333811抓取user时发生错误2016-05-31 22:15:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=313467抓取user时发生错误2016-05-31 22:15:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=191462抓取user时发生错误2016-05-31 22:15:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=353939抓取user时发生错误2016-05-31 22:15:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=231489抓取user时发生错误2016-05-31 22:15:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=141230抓取user时发生错误2016-05-31 22:15:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=293482抓取user时发生错误2016-05-31 22:15:36 Error = list index out of range---
+ERROR:root: id=303173抓取user时发生错误2016-05-31 22:16:14 Error = list index out of range---
+ERROR:root: id=283199抓取user时发生错误2016-05-31 22:16:18 Error = list index out of range---
+ERROR:root: id=263107抓取user时发生错误2016-05-31 22:17:07 Error = list index out of range---
+ERROR:root: id=313505抓取user时发生错误2016-05-31 22:17:30 Error = list index out of range---
+ERROR:root: id=303188抓取user时发生错误2016-05-31 22:17:59 Error = list index out of range---
+ERROR:root: id=313517抓取user时发生错误2016-05-31 22:18:10 Error = list index out of range---
+ERROR:root: id=283233抓取user时发生错误2016-05-31 22:18:13 Error = list index out of range---
+ERROR:root: id=303201抓取user时发生错误2016-05-31 22:18:49 Error = list index out of range---
+ERROR:root: id=263134抓取user时发生错误2016-05-31 22:18:53 Error = list index out of range---
+ERROR:root: id=313534抓取user时发生错误2016-05-31 22:19:22 Error = list index out of range---
+ERROR:root: id=283259抓取user时发生错误2016-05-31 22:19:40 Error = list index out of range---
+ERROR:root: id=283277抓取user时发生错误2016-05-31 22:20:21 Error = list index out of range---
+ERROR:root: id=273526抓取user时发生错误2016-05-31 22:20:47 Error = list index out of range---
+ERROR:root: id=263171抓取user时发生错误2016-05-31 22:21:00 Error = list index out of range---
+ERROR:root: id=303232抓取user时发生错误2016-05-31 22:21:00 Error = list index out of range---
+ERROR:root: id=313566抓取user时发生错误2016-05-31 22:21:27 Error = list index out of range---
+ERROR:root: id=293579抓取user时发生错误2016-05-31 22:22:19 Error = list index out of range---
+ERROR:root: id=303258抓取user时发生错误2016-05-31 22:23:00 Error = list index out of range---
+ERROR:root: id=273585抓取user时发生错误2016-05-31 22:23:08 Error = list index out of range---
+ERROR:root: id=313585抓取user时发生错误2016-05-31 22:23:10 Error = list index out of range---
+ERROR:root: id=313600抓取user时发生错误2016-05-31 22:23:41 Error = list index out of range---
+ERROR:root: id=303276抓取user时发生错误2016-05-31 22:24:12 Error = list index out of range---
+ERROR:root: id=293608抓取user时发生错误2016-05-31 22:24:35 Error = list index out of range---
+ERROR:root: id=313617抓取user时发生错误2016-05-31 22:24:48 Error = list index out of range---
+ERROR:root: id=283319抓取user时发生错误2016-05-31 22:24:55 Error = list index out of range---
+ERROR:root: id=293618抓取user时发生错误2016-05-31 22:25:06 Error = list index out of range---
+ERROR:root: id=273620抓取user时发生错误2016-05-31 22:25:14 Error = list index out of range---
+ERROR:root: id=313632抓取user时发生错误2016-05-31 22:25:32 Error = list index out of range---
+ERROR:root: id=263235抓取user时发生错误2016-05-31 22:25:33 Error = list index out of range---
+ERROR:root: id=293641抓取user时发生错误2016-05-31 22:26:21 Error = list index out of range---
+ERROR:root: id=283349抓取user时发生错误2016-05-31 22:26:28 Error = list index out of range---
+ERROR:root: id=303311抓取user时发生错误2016-05-31 22:27:06 Error = list index out of range---
+ERROR:root: id=263274抓取user时发生错误2016-05-31 22:27:50 Error = list index out of range---
+ERROR:root: id=273658抓取user时发生错误2016-05-31 22:27:59 Error = list index out of range---
+ERROR:root: id=303353抓取user时发生错误2016-05-31 22:29:43 Error = list index out of range---
+ERROR:root: id=313695抓取user时发生错误2016-05-31 22:29:53 Error = list index out of range---
+ERROR:root: id=263309抓取user时发生错误2016-05-31 22:30:20 Error = list index out of range---
+ERROR:root: id=293696抓取user时发生错误2016-05-31 22:30:20 Error = list index out of range---
+ERROR:root: id=273707抓取user时发生错误2016-05-31 22:31:26 Error = list index out of range---
+ERROR:root: id=303386抓取user时发生错误2016-05-31 22:31:46 Error = list index out of range---
+ERROR:root: id=293723抓取user时发生错误2016-05-31 22:32:02 Error = list index out of range---
+ERROR:root: id=313724抓取user时发生错误2016-05-31 22:32:55 Error = list index out of range---
+ERROR:root: id=283442抓取user时发生错误2016-05-31 22:33:46 Error = list index out of range---
+ERROR:root: id=293747抓取user时发生错误2016-05-31 22:34:12 Error = list index out of range---
+ERROR:root: id=263351抓取user时发生错误2016-05-31 22:34:31 Error = list index out of range---
+ERROR:root: id=273740抓取user时发生错误2016-05-31 22:34:35 Error = list index out of range---
+ERROR:root: id=283462抓取user时发生错误2016-05-31 22:34:37 Error = list index out of range---
+ERROR:root: id=303431抓取user时发生错误2016-05-31 22:34:49 Error = list index out of range---
+ERROR:root: id=313746抓取user时发生错误2016-05-31 22:35:38 Error = list index out of range---
+ERROR:root: id=303449抓取user时发生错误2016-05-31 22:35:40 Error = list index out of range---
+ERROR:root: id=263391抓取user时发生错误2016-05-31 22:36:28 Error = list index out of range---
+ERROR:root: id=273781抓取user时发生错误2016-05-31 22:37:07 Error = list index out of range---
+ERROR:root: id=293799抓取user时发生错误2016-05-31 22:37:27 Error = list index out of range---
+ERROR:root: id=283497抓取user时发生错误2016-05-31 22:37:30 Error = list index out of range---
+ERROR:root: id=303482抓取user时发生错误2016-05-31 22:37:33 Error = list index out of range---
+ERROR:root: id=263420抓取user时发生错误2016-05-31 22:37:50 Error = list index out of range---
+ERROR:root: id=293819抓取user时发生错误2016-05-31 22:38:18 Error = list index out of range---
+ERROR:root: id=273823抓取user时发生错误2016-05-31 22:38:46 Error = list index out of range---
+ERROR:root: id=313788抓取user时发生错误2016-05-31 22:38:52 Error = list index out of range---
+ERROR:root: id=263449抓取user时发生错误2016-05-31 22:39:28 Error = list index out of range---
+ERROR:root: id=283521抓取user时发生错误2016-05-31 22:39:28 Error = list index out of range---
+ERROR:root: id=293846抓取user时发生错误2016-05-31 22:39:29 Error = list index out of range---
+ERROR:root: id=273851抓取user时发生错误2016-05-31 22:40:25 Error = list index out of range---
+ERROR:root: id=303528抓取user时发生错误2016-05-31 22:40:59 Error = list index out of range---
+ERROR:root: id=283543抓取user时发生错误2016-05-31 22:41:12 Error = list index out of range---
+ERROR:root: id=273873抓取user时发生错误2016-05-31 22:42:09 Error = list index out of range---
+ERROR:root: id=303553抓取user时发生错误2016-05-31 22:42:42 Error = list index out of range---
+ERROR:root: id=263483抓取user时发生错误2016-05-31 22:42:49 Error = list index out of range---
+ERROR:root: id=313873抓取user时发生错误2016-05-31 22:43:30 Error = list index out of range---
+ERROR:root: id=273904抓取user时发生错误2016-05-31 22:44:04 Error = list index out of range---
+ERROR:root: id=273932抓取user时发生错误2016-05-31 22:45:33 Error = list index out of range---
+ERROR:root: id=313918抓取user时发生错误2016-05-31 22:46:02 Error = list index out of range---
+ERROR:root: id=293944抓取user时发生错误2016-05-31 22:46:29 Error = list index out of range---
+ERROR:root: id=303618抓取user时发生错误2016-05-31 22:46:43 Error = list index out of range---
+ERROR:root: id=313936抓取user时发生错误2016-05-31 22:46:54 Error = list index out of range---
+ERROR:root: id=263515抓取user时发生错误2016-05-31 22:47:10 Error = list index out of range---
+ERROR:root: id=273958抓取user时发生错误2016-05-31 22:47:16 Error = list index out of range---
+ERROR:root: id=293962抓取user时发生错误2016-05-31 22:47:40 Error = list index out of range---
+ERROR:root: id=283567抓取user时发生错误2016-05-31 22:48:25 Error = list index out of range---
+ERROR:root: id=273983抓取user时发生错误2016-05-31 22:48:36 Error = list index out of range---
+ERROR:root: id=313975抓取user时发生错误2016-05-31 22:49:17 Error = list index out of range---
+ERROR:root: id=293990抓取user时发生错误2016-05-31 22:49:25 Error = list index out of range---
+ERROR:root: id=263551抓取user时发生错误2016-05-31 22:49:41 Error = list index out of range---
+ERROR:root: id=294002抓取user时发生错误2016-05-31 22:50:06 Error = list index out of range---
+ERROR:root: id=283598抓取user时发生错误2016-05-31 22:50:14 Error = list index out of range---
+ERROR:root: id=303680抓取user时发生错误2016-05-31 22:50:15 Error = list index out of range---
+ERROR:root: id=294012抓取user时发生错误2016-05-31 22:50:40 Error = list index out of range---
+ERROR:root: id=274023抓取user时发生错误2016-05-31 22:51:06 Error = list index out of range---
+ERROR:root: id=314000抓取user时发生错误2016-05-31 22:51:32 Error = list index out of range---
+ERROR:root: id=263590抓取user时发生错误2016-05-31 22:53:05 Error = list index out of range---
+ERROR:root: id=181615抓取user时发生错误2016-05-31 22:53:22 Error = list index out of range---
+ERROR:root: id=274055抓取user时发生错误2016-05-31 22:53:34 Error = list index out of range---
+ERROR:root: id=294052抓取user时发生错误2016-05-31 22:53:36 Error = list index out of range---
+ERROR:root: id=314030抓取user时发生错误2016-05-31 22:53:55 Error = list index out of range---
+ERROR:root: id=303751抓取user时发生错误2016-05-31 22:54:14 Error = list index out of range---
+ERROR:root: id=263629抓取user时发生错误2016-05-31 22:55:39 Error = list index out of range---
+ERROR:root: id=294081抓取user时发生错误2016-05-31 22:56:00 Error = list index out of range---
+ERROR:root: id=283682抓取user时发生错误2016-05-31 22:57:09 Error = list index out of range---
+ERROR:root: id=294110抓取user时发生错误2016-05-31 22:57:44 Error = list index out of range---
+ERROR:root: id=263667抓取user时发生错误2016-05-31 22:57:47 Error = list index out of range---
+ERROR:root: id=274113抓取user时发生错误2016-05-31 22:57:51 Error = list index out of range---
+ERROR:root: id=303806抓取user时发生错误2016-05-31 22:58:02 Error = list index out of range---
+ERROR:root: id=294128抓取user时发生错误2016-05-31 22:58:56 Error = list index out of range---
+ERROR:root: id=294139抓取user时发生错误2016-05-31 22:59:33 Error = list index out of range---
+ERROR:root: id=274141抓取user时发生错误2016-05-31 23:00:30 Error = list index out of range---
+ERROR:root: id=263709抓取user时发生错误2016-05-31 23:00:35 Error = list index out of range---
+ERROR:root: id=283708抓取user时发生错误2016-05-31 23:00:54 Error = list index out of range---
+ERROR:root: id=274157抓取user时发生错误2016-05-31 23:01:44 Error = list index out of range---
+ERROR:root: id=294165抓取user时发生错误2016-05-31 23:01:54 Error = list index out of range---
+ERROR:root: id=314150抓取user时发生错误2016-05-31 23:02:11 Error = list index out of range---
+ERROR:root: id=303863抓取user时发生错误2016-05-31 23:02:22 Error = list index out of range---
+ERROR:root: id=263753抓取user时发生错误2016-05-31 23:02:57 Error = list index out of range---
+ERROR:root: id=283752抓取user时发生错误2016-05-31 23:03:42 Error = list index out of range---
+ERROR:root: id=314167抓取user时发生错误2016-05-31 23:04:01 Error = list index out of range---
+ERROR:root: id=294198抓取user时发生错误2016-05-31 23:04:07 Error = list index out of range---
+ERROR:root: id=294224抓取user时发生错误2016-05-31 23:05:19 Error = list index out of range---
+ERROR:root: id=263792抓取user时发生错误2016-05-31 23:05:43 Error = list index out of range---
+ERROR:root: id=283783抓取user时发生错误2016-05-31 23:06:21 Error = list index out of range---
+ERROR:root: id=314214抓取user时发生错误2016-05-31 23:06:24 Error = list index out of range---
+ERROR:root: id=303945抓取user时发生错误2016-05-31 23:07:12 Error = list index out of range---
+ERROR:root: id=294256抓取user时发生错误2016-05-31 23:07:15 Error = list index out of range---
+ERROR:root: id=274237抓取user时发生错误2016-05-31 23:07:19 Error = list index out of range---
+ERROR:root: id=314244抓取user时发生错误2016-05-31 23:07:59 Error = list index out of range---
+ERROR:root: id=283813抓取user时发生错误2016-05-31 23:08:05 Error = list index out of range---
+ERROR:root: id=263832抓取user时发生错误2016-05-31 23:08:27 Error = list index out of range---
+ERROR:root: id=303970抓取user时发生错误2016-05-31 23:08:40 Error = list index out of range---
+ERROR:root: id=283845抓取user时发生错误2016-05-31 23:10:03 Error = list index out of range---
+ERROR:root: id=263864抓取user时发生错误2016-05-31 23:10:32 Error = list index out of range---
+ERROR:root: id=294297抓取user时发生错误2016-05-31 23:10:37 Error = list index out of range---
+ERROR:root: id=303997抓取user时发生错误2016-05-31 23:10:39 Error = list index out of range---
+ERROR:root: id=314278抓取user时发生错误2016-05-31 23:10:44 Error = list index out of range---
+ERROR:root: id=283869抓取user时发生错误2016-05-31 23:11:41 Error = list index out of range---
+ERROR:root: id=274297抓取user时发生错误2016-05-31 23:11:57 Error = list index out of range---
+ERROR:root: id=294327抓取user时发生错误2016-05-31 23:12:21 Error = list index out of range---
+ERROR:root: id=263896抓取user时发生错误2016-05-31 23:12:43 Error = list index out of range---
+ERROR:root: id=283899抓取user时发生错误2016-05-31 23:13:02 Error = list index out of range---
+ERROR:root: id=274324抓取user时发生错误2016-05-31 23:13:07 Error = list index out of range---
+ERROR:root: id=304025抓取user时发生错误2016-05-31 23:13:15 Error = list index out of range---
+ERROR:root: id=314321抓取user时发生错误2016-05-31 23:13:37 Error = list index out of range---
+ERROR:root: id=294363抓取user时发生错误2016-05-31 23:14:27 Error = list index out of range---
+ERROR:root: id=274355抓取user时发生错误2016-05-31 23:15:15 Error = list index out of range---
+ERROR:root: id=263934抓取user时发生错误2016-05-31 23:15:16 Error = list index out of range---
+ERROR:root: id=304066抓取user时发生错误2016-05-31 23:15:40 Error = list index out of range---
+ERROR:root: id=294390抓取user时发生错误2016-05-31 23:16:04 Error = list index out of range---
+ERROR:root: id=274384抓取user时发生错误2016-05-31 23:16:36 Error = list index out of range---
+ERROR:root: id=283975抓取user时发生错误2016-05-31 23:17:21 Error = list index out of range---
+ERROR:root: id=294414抓取user时发生错误2016-05-31 23:18:04 Error = list index out of range---
+ERROR:root: id=304107抓取user时发生错误2016-05-31 23:18:28 Error = list index out of range---
+ERROR:root: id=274417抓取user时发生错误2016-05-31 23:18:51 Error = list index out of range---
+ERROR:root: id=314410抓取user时发生错误2016-05-31 23:19:06 Error = list index out of range---
+ERROR:root: id=263978抓取user时发生错误2016-05-31 23:19:52 Error = list index out of range---
+ERROR:root: id=284016抓取user时发生错误2016-05-31 23:20:03 Error = list index out of range---
+ERROR:root: id=274441抓取user时发生错误2016-05-31 23:20:12 Error = list index out of range---
+ERROR:root: id=314430抓取user时发生错误2016-05-31 23:20:43 Error = list index out of range---
+ERROR:root: id=284025抓取user时发生错误2016-05-31 23:20:49 Error = list index out of range---
+ERROR:root: id=294456抓取user时发生错误2016-05-31 23:21:00 Error = list index out of range---
+ERROR:root: id=274461抓取user时发生错误2016-05-31 23:21:02 Error = list index out of range---
+ERROR:root: id=264009抓取user时发生错误2016-05-31 23:21:40 Error = list index out of range---
+ERROR:root: id=304138抓取user时发生错误2016-05-31 23:21:46 Error = list index out of range---
+ERROR:root: id=284042抓取user时发生错误2016-05-31 23:22:15 Error = list index out of range---
+ERROR:root: id=284062抓取user时发生错误2016-05-31 23:23:46 Error = list index out of range---
+ERROR:root: id=264045抓取user时发生错误2016-05-31 23:23:46 Error = list index out of range---
+ERROR:root: id=284079抓取user时发生错误2016-05-31 23:24:31 Error = list index out of range---
+ERROR:root: id=284102抓取user时发生错误2016-05-31 23:26:49 Error = list index out of range---
+ERROR:root: id=264082抓取user时发生错误2016-05-31 23:27:02 Error = list index out of range---
+ERROR:root: id=304211抓取user时发生错误2016-05-31 23:28:07 Error = list index out of range---
+ERROR:root: id=314516抓取user时发生错误2016-05-31 23:28:25 Error = list index out of range---
+ERROR:root: id=294568抓取user时发生错误2016-05-31 23:28:30 Error = list index out of range---
+ERROR:root: id=264112抓取user时发生错误2016-05-31 23:28:46 Error = list index out of range---
+ERROR:root: id=304232抓取user时发生错误2016-05-31 23:29:11 Error = list index out of range---
+ERROR:root: id=274563抓取user时发生错误2016-05-31 23:29:33 Error = list index out of range---
+ERROR:root: id=294590抓取user时发生错误2016-05-31 23:30:39 Error = list index out of range---
+ERROR:root: id=274593抓取user时发生错误2016-05-31 23:31:24 Error = list index out of range---
+ERROR:root: id=304272抓取user时发生错误2016-05-31 23:31:25 Error = list index out of range---
+ERROR:root: id=294614抓取user时发生错误2016-05-31 23:33:04 Error = list index out of range---
+ERROR:root: id=314594抓取user时发生错误2016-05-31 23:33:10 Error = list index out of range---
+ERROR:root: id=284177抓取user时发生错误2016-05-31 23:33:38 Error = list index out of range---
+ERROR:root: id=274620抓取user时发生错误2016-05-31 23:33:41 Error = list index out of range---
+ERROR:root: id=304309抓取user时发生错误2016-05-31 23:34:33 Error = list index out of range---
+ERROR:root: id=294635抓取user时发生错误2016-05-31 23:34:41 Error = list index out of range---
+ERROR:root: id=314616抓取user时发生错误2016-05-31 23:34:56 Error = list index out of range---
+ERROR:root: id=264184抓取user时发生错误2016-05-31 23:35:12 Error = list index out of range---
+WARNING:root: uid=8971561解析soup发生错误2016-05-31 23:35:26 Error = list index out of range---
+ERROR:root: id=314637抓取user时发生错误2016-05-31 23:35:50 Error = list index out of range---
+ERROR:root: id=304341抓取user时发生错误2016-05-31 23:36:53 Error = list index out of range---
+ERROR:root: id=264222抓取user时发生错误2016-05-31 23:37:36 Error = list index out of range---
+ERROR:root: id=274655抓取user时发生错误2016-05-31 23:37:37 Error = list index out of range---
+ERROR:root: id=314672抓取user时发生错误2016-05-31 23:38:20 Error = list index out of range---
+ERROR:root: id=274684抓取user时发生错误2016-05-31 23:39:16 Error = list index out of range---
+ERROR:root: id=284265抓取user时发生错误2016-05-31 23:39:22 Error = list index out of range---
+WARNING:root: uid=8971561解析soup发生错误2016-05-31 23:40:02 Error = list index out of range---
+ERROR:root: id=264265抓取user时发生错误2016-05-31 23:40:18 Error = list index out of range---
+ERROR:root: id=394896抓取user时发生错误2016-05-31 23:40:41 Error = 1062 (23000): Duplicate entry '52935458' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=284285抓取user时发生错误2016-05-31 23:41:04 Error = list index out of range---
+ERROR:root: id=294707抓取user时发生错误2016-05-31 23:41:28 Error = list index out of range---
+ERROR:root: id=304415抓取user时发生错误2016-05-31 23:41:38 Error = list index out of range---
+ERROR:root: id=274730抓取user时发生错误2016-05-31 23:42:04 Error = list index out of range---
+ERROR:root: id=294724抓取user时发生错误2016-05-31 23:42:17 Error = list index out of range---
+ERROR:root: id=284311抓取user时发生错误2016-05-31 23:42:42 Error = list index out of range---
+ERROR:root: id=264302抓取user时发生错误2016-05-31 23:42:44 Error = list index out of range---
+ERROR:root: id=274763抓取user时发生错误2016-05-31 23:44:13 Error = list index out of range---
+ERROR:root: id=284337抓取user时发生错误2016-05-31 23:44:22 Error = list index out of range---
+ERROR:root: id=294751抓取user时发生错误2016-05-31 23:45:40 Error = list index out of range---
+ERROR:root: id=284377抓取user时发生错误2016-05-31 23:46:26 Error = list index out of range---
+ERROR:root: id=274792抓取user时发生错误2016-05-31 23:47:12 Error = list index out of range---
+ERROR:root: id=264369抓取user时发生错误2016-05-31 23:47:44 Error = list index out of range---
+ERROR:root: id=294780抓取user时发生错误2016-05-31 23:48:06 Error = list index out of range---
+ERROR:root: id=284413抓取user时发生错误2016-05-31 23:48:59 Error = list index out of range---
+ERROR:root: id=274824抓取user时发生错误2016-05-31 23:49:39 Error = list index out of range---
+ERROR:root: id=294807抓取user时发生错误2016-05-31 23:49:44 Error = list index out of range---
+ERROR:root: id=264401抓取user时发生错误2016-05-31 23:49:47 Error = list index out of range---
+ERROR:root: id=304524抓取user时发生错误2016-05-31 23:50:51 Error = list index out of range---
+ERROR:root: id=264437抓取user时发生错误2016-05-31 23:52:02 Error = list index out of range---
+ERROR:root: id=304546抓取user时发生错误2016-05-31 23:52:19 Error = list index out of range---
+ERROR:root: id=294859抓取user时发生错误2016-05-31 23:52:41 Error = list index out of range---
+ERROR:root: id=274866抓取user时发生错误2016-05-31 23:53:14 Error = list index out of range---
+ERROR:root: id=284454抓取user时发生错误2016-05-31 23:53:15 Error = list index out of range---
+ERROR:root: id=294875抓取user时发生错误2016-05-31 23:53:53 Error = list index out of range---
+ERROR:root: id=304576抓取user时发生错误2016-05-31 23:54:19 Error = list index out of range---
+ERROR:root: id=284478抓取user时发生错误2016-05-31 23:54:26 Error = list index out of range---
+ERROR:root: id=264474抓取user时发生错误2016-05-31 23:54:56 Error = list index out of range---
+ERROR:root: id=274898抓取user时发生错误2016-05-31 23:56:20 Error = list index out of range---
+ERROR:root: id=294909抓取user时发生错误2016-05-31 23:56:27 Error = list index out of range---
+ERROR:root: id=304599抓取user时发生错误2016-05-31 23:57:20 Error = list index out of range---
+ERROR:root: id=264505抓取user时发生错误2016-05-31 23:57:34 Error = list index out of range---
+ERROR:root: id=294934抓取user时发生错误2016-05-31 23:58:08 Error = list index out of range---
+ERROR:root: id=274930抓取user时发生错误2016-05-31 23:58:56 Error = list index out of range---
+ERROR:root: id=304625抓取user时发生错误2016-05-31 23:59:29 Error = list index out of range---
+ERROR:root: id=294966抓取user时发生错误2016-05-31 23:59:50 Error = list index out of range---
+ERROR:root: id=294971抓取user时发生错误2016-05-31 23:59:55 Error = list index out of range---
+ERROR:root: id=264538抓取user时发生错误2016-06-01 00:00:00 Error = list index out of range---
+ERROR:root: id=274951抓取user时发生错误2016-06-01 00:00:03 Error = list index out of range---
+ERROR:root: id=274951抓取user时发生错误2016-06-01 10:36:56 Error = list index out of range---
+ERROR:root: id=284566抓取user时发生错误2016-06-01 10:37:03 Error = list index out of range---
+ERROR:root: id=304658抓取user时发生错误2016-06-01 10:38:52 Error = list index out of range---
+ERROR:root: id=304674抓取user时发生错误2016-06-01 10:39:32 Error = list index out of range---
+ERROR:root: id=274984抓取user时发生错误2016-06-01 10:40:02 Error = list index out of range---
+ERROR:root: id=295015抓取user时发生错误2016-06-01 10:40:12 Error = list index out of range---
+ERROR:root: id=264580抓取user时发生错误2016-06-01 10:40:18 Error = list index out of range---
+ERROR:root: id=275024抓取user时发生错误2016-06-01 10:42:29 Error = list index out of range---
+ERROR:root: id=275053抓取user时发生错误2016-06-01 10:45:47 Error = list index out of range---
+ERROR:root: id=264652抓取user时发生错误2016-06-01 10:45:48 Error = list index out of range---
+ERROR:root: id=264688抓取user时发生错误2016-06-01 10:47:54 Error = list index out of range---
+ERROR:root: id=284658抓取user时发生错误2016-06-01 10:48:09 Error = list index out of range---
+ERROR:root: id=275088抓取user时发生错误2016-06-01 10:48:41 Error = list index out of range---
+ERROR:root: id=264718抓取user时发生错误2016-06-01 10:50:17 Error = list index out of range---
+ERROR:root: id=275125抓取user时发生错误2016-06-01 10:51:16 Error = list index out of range---
+ERROR:root: id=325838抓取user时发生错误2016-06-01 10:52:26 Error = 1366 (HY000): Incorrect string value: '\xF0\x9F\x90\x8E\xEF\xBC...' for column 'title' at row 1---
+ERROR:root: id=264760抓取user时发生错误2016-06-01 10:52:33 Error = list index out of range---
+ERROR:root: id=295091抓取user时发生错误2016-06-01 10:52:34 Error = list index out of range---
+ERROR:root: id=275161抓取user时发生错误2016-06-01 10:53:57 Error = list index out of range---
+ERROR:root: id=264797抓取user时发生错误2016-06-01 10:54:49 Error = list index out of range---
+ERROR:root: id=304795抓取user时发生错误2016-06-01 10:55:57 Error = list index out of range---
+ERROR:root: id=275195抓取user时发生错误2016-06-01 10:57:02 Error = list index out of range---
+ERROR:root: id=264830抓取user时发生错误2016-06-01 10:57:10 Error = list index out of range---
+ERROR:root: id=295163抓取user时发生错误2016-06-01 10:59:04 Error = list index out of range---
+ERROR:root: id=295187抓取user时发生错误2016-06-01 11:00:18 Error = list index out of range---
+ERROR:root: id=275230抓取user时发生错误2016-06-01 11:00:27 Error = list index out of range---
+ERROR:root: id=295201抓取user时发生错误2016-06-01 11:01:01 Error = list index out of range---
+ERROR:root: id=295215抓取user时发生错误2016-06-01 11:01:38 Error = list index out of range---
+ERROR:root: id=264863抓取user时发生错误2016-06-01 11:02:12 Error = list index out of range---
+ERROR:root: id=295245抓取user时发生错误2016-06-01 11:03:56 Error = list index out of range---
+ERROR:root: id=264891抓取user时发生错误2016-06-01 11:03:59 Error = list index out of range---
+ERROR:root: id=295267抓取user时发生错误2016-06-01 11:05:18 Error = list index out of range---
+ERROR:root: id=264918抓取user时发生错误2016-06-01 11:05:42 Error = list index out of range---
+ERROR:root: id=304831抓取user时发生错误2016-06-01 11:06:10 Error = list index out of range---
+ERROR:root: id=295286抓取user时发生错误2016-06-01 11:06:37 Error = list index out of range---
+ERROR:root: id=304852抓取user时发生错误2016-06-01 11:07:33 Error = list index out of range---
+ERROR:root: id=295308抓取user时发生错误2016-06-01 11:08:35 Error = list index out of range---
+ERROR:root: id=304875抓取user时发生错误2016-06-01 11:08:55 Error = list index out of range---
+ERROR:root: id=304902抓取user时发生错误2016-06-01 11:10:29 Error = list index out of range---
+ERROR:root: id=264948抓取user时发生错误2016-06-01 11:12:42 Error = list index out of range---
+ERROR:root: id=304931抓取user时发生错误2016-06-01 11:13:23 Error = list index out of range---
+ERROR:root: id=295398抓取user时发生错误2016-06-01 11:15:23 Error = list index out of range---
+ERROR:root: id=264982抓取user时发生错误2016-06-01 11:15:55 Error = list index out of range---
+ERROR:root: id=265011抓取user时发生错误2016-06-01 11:19:43 Error = list index out of range---
+ERROR:root: id=304993抓取user时发生错误2016-06-01 11:21:22 Error = list index out of range---
+ERROR:root: id=305013抓取user时发生错误2016-06-01 11:23:45 Error = list index out of range---
+ERROR:root: id=305021抓取user时发生错误2016-06-01 11:24:44 Error = list index out of range---
+ERROR:root: id=265045抓取user时发生错误2016-06-01 11:31:14 Error = list index out of range---
+ERROR:root: id=265077抓取user时发生错误2016-06-01 11:34:17 Error = list index out of range---
+ERROR:root: id=305104抓取user时发生错误2016-06-01 11:34:35 Error = list index out of range---
+ERROR:root: id=295544抓取user时发生错误2016-06-01 11:34:49 Error = list index out of range---
+ERROR:root: id=295567抓取user时发生错误2016-06-01 11:36:45 Error = list index out of range---
+ERROR:root: id=305135抓取user时发生错误2016-06-01 11:38:26 Error = list index out of range---
+ERROR:root: id=295583抓取user时发生错误2016-06-01 11:38:49 Error = list index out of range---
+ERROR:root: id=295599抓取user时发生错误2016-06-01 11:39:41 Error = list index out of range---
+ERROR:root: id=265112抓取user时发生错误2016-06-01 11:39:46 Error = list index out of range---
+ERROR:root: id=305158抓取user时发生错误2016-06-01 11:40:32 Error = list index out of range---
+ERROR:root: id=436028抓取user时发生错误2016-06-01 11:40:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132268抓取user时发生错误2016-06-01 11:40:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132269抓取user时发生错误2016-06-01 11:40:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152150抓取user时发生错误2016-06-01 11:40:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222450抓取user时发生错误2016-06-01 11:40:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455833抓取user时发生错误2016-06-01 11:40:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=254473抓取user时发生错误2016-06-01 11:40:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345910抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12001抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=82083抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406223抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406224抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406225抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161834抓取user时发生错误2016-06-01 11:40:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51977抓取user时发生错误2016-06-01 11:40:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345913抓取user时发生错误2016-06-01 11:41:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486258抓取user时发生错误2016-06-01 11:41:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212668抓取user时发生错误2016-06-01 11:41:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=82085抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12002抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375961抓取user时发生错误2016-06-01 11:41:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365476抓取user时发生错误2016-06-01 11:41:06 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284662抓取user时发生错误2016-06-01 11:41:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192247抓取user时发生错误2016-06-01 11:41:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212671抓取user时发生错误2016-06-01 11:41:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305164抓取user时发生错误2016-06-01 11:41:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142124抓取user时发生错误2016-06-01 11:41:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182222抓取user时发生错误2016-06-01 11:41:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385814抓取user时发生错误2016-06-01 11:41:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265130抓取user时发生错误2016-06-01 11:41:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345916抓取user时发生错误2016-06-01 11:41:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192248抓取user时发生错误2016-06-01 11:41:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486260抓取user时发生错误2016-06-01 11:41:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375962抓取user时发生错误2016-06-01 11:41:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395479抓取user时发生错误2016-06-01 11:41:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192250抓取user时发生错误2016-06-01 11:41:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336180抓取user时发生错误2016-06-01 11:41:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465743抓取user时发生错误2016-06-01 11:41:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326421抓取user时发生错误2016-06-01 11:41:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385817抓取user时发生错误2016-06-01 11:41:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305168抓取user时发生错误2016-06-01 11:41:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=32088抓取user时发生错误2016-06-01 11:41:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241828抓取user时发生错误2016-06-01 11:41:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336182抓取user时发生错误2016-06-01 11:41:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436032抓取user时发生错误2016-06-01 11:41:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336183抓取user时发生错误2016-06-01 11:41:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406226抓取user时发生错误2016-06-01 11:41:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112122抓取user时发生错误2016-06-01 11:41:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112123抓取user时发生错误2016-06-01 11:41:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365480抓取user时发生错误2016-06-01 11:41:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365481抓取user时发生错误2016-06-01 11:41:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365482抓取user时发生错误2016-06-01 11:41:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356257抓取user时发生错误2016-06-01 11:41:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=72320抓取user时发生错误2016-06-01 11:41:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416285抓取user时发生错误2016-06-01 11:41:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416286抓取user时发生错误2016-06-01 11:41:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465745抓取user时发生错误2016-06-01 11:41:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356259抓取user时发生错误2016-06-01 11:41:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406228抓取user时发生错误2016-06-01 11:41:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=62199抓取user时发生错误2016-06-01 11:41:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465747抓取user时发生错误2016-06-01 11:41:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305172抓取user时发生错误2016-06-01 11:41:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365483抓取user时发生错误2016-06-01 11:41:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465748抓取user时发生错误2016-06-01 11:41:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=315453抓取user时发生错误2016-06-01 11:41:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275268抓取user时发生错误2016-06-01 11:41:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222453抓取user时发生错误2016-06-01 11:41:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222454抓取user时发生错误2016-06-01 11:41:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201851抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201852抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=42080抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275270抓取user时发生错误2016-06-01 11:41:21 Error = list index out of range---
+ERROR:root: id=275271抓取user时发生错误2016-06-01 11:41:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112125抓取user时发生错误2016-06-01 11:41:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385820抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326424抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326425抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=62202抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=82088抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495725抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161838抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495726抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436035抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406231抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=62204抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12006抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425701抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336187抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336188抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425702抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=232278抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495727抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=82089抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375964抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425703抓取user时发生错误2016-06-01 11:41:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=82090抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495728抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=102033抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192252抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305174抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=102034抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192253抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142127抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406233抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192254抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142128抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406234抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436037抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201853抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201854抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436038抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132271抓取user时发生错误2016-06-01 11:41:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132272抓取user时发生错误2016-06-01 11:41:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446148抓取user时发生错误2016-06-01 11:41:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222456抓取user时发生错误2016-06-01 11:41:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222457抓取user时发生错误2016-06-01 11:41:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222458抓取user时发生错误2016-06-01 11:41:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92262抓取user时发生错误2016-06-01 11:41:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222459抓取user时发生错误2016-06-01 11:41:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275273抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51979抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275274抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51980抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12008抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22082抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475722抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486264抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375966抓取user时发生错误2016-06-01 11:41:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455839抓取user时发生错误2016-06-01 11:41:28 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455840抓取user时发生错误2016-06-01 11:41:28 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241832抓取user时发生错误2016-06-01 11:41:28 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455841抓取user时发生错误2016-06-01 11:41:28 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385824抓取user时发生错误2016-06-01 11:41:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=254478抓取user时发生错误2016-06-01 11:41:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=32090抓取user时发生错误2016-06-01 11:41:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12010抓取user时发生错误2016-06-01 11:41:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=315456抓取user时发生错误2016-06-01 11:41:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375968抓取user时发生错误2016-06-01 11:41:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=315457抓取user时发生错误2016-06-01 11:41:29 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=62207抓取user时发生错误2016-06-01 11:41:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345922抓取user时发生错误2016-06-01 11:41:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275276抓取user时发生错误2016-06-01 11:41:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192256抓取user时发生错误2016-06-01 11:41:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192257抓取user时发生错误2016-06-01 11:41:30 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365487抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455843抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365488抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455844抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365489抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455845抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326429抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12012抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375970抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365490抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416290抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326430抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495730抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395485抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455846抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326431抓取user时发生错误2016-06-01 11:41:31 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345924抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212678抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212679抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=232282抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356263抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295613抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265134抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265135抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265136抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=254480抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475724抓取user时发生错误2016-06-01 11:41:32 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265137抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475725抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416292抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486267抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416293抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486268抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486269抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112127抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416294抓取user时发生错误2016-06-01 11:41:33 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142130抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326433抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345926抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12014抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345927抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182228抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345928抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182229抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495732抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132274抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182230抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495733抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436042抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495734抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171728抓取user时发生错误2016-06-01 11:41:34 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495735抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=122145抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171729抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241835抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356265抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356266抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326435抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356267抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192259抓取user时发生错误2016-06-01 11:41:35 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192260抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395488抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2381抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436044抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395489抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2382抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336194抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2383抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=42081抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2384抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336195抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436045抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345930抓取user时发生错误2016-06-01 11:41:36 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486271抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2385抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336196抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486272抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336197抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436046抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486273抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132276抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336198抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436047抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132277抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486274抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486275抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495737抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455849抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436048抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=62209抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486276抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495738抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212682抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455850抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475727抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495739抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486277抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385828抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406238抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212683抓取user时发生错误2016-06-01 11:41:37 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385829抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212684抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385830抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375972抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385831抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375973抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=315461抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375974抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446154抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365494抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356269抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265140抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446155抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365495抓取user时发生错误2016-06-01 11:41:38 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425710抓取user时发生错误2016-06-01 11:41:39 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365496抓取user时发生错误2016-06-01 11:41:39 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182233抓取user时发生错误2016-06-01 11:41:39 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201856抓取user时发生错误2016-06-01 11:41:39 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436050抓取user时发生错误2016-06-01 11:41:39 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192262抓取user时发生错误2016-06-01 11:41:39 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295617抓取user时发生错误2016-06-01 11:41:39 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395491抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465751抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385833抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395492抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465752抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265142抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365498抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=102039抓取user时发生错误2016-06-01 11:41:40 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375976抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345932抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375977抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345933抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275281抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=232283抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375978抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475730抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192264抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345934抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241837抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284671抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475731抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275282抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=232284抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284672抓取user时发生错误2016-06-01 11:41:41 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385835抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152156抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475732抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22085抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152157抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275283抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22086抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201858抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22087抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152158抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22088抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51983抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22089抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152159抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305176抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22090抓取user时发生错误2016-06-01 11:41:42 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446157抓取user时发生错误2016-06-01 11:41:43 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356271抓取user时发生错误2016-06-01 11:41:43 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356272抓取user时发生错误2016-06-01 11:41:43 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112128抓取user时发生错误2016-06-01 11:41:43 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295619抓取user时发生错误2016-06-01 11:41:43 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326439抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295620抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475734抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295621抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92263抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295622抓取user时发生错误2016-06-01 11:41:44 Error = list index out of range---
+ERROR:root: id=122148抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92264抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295623抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92265抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=72326抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375980抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=72327抓取user时发生错误2016-06-01 11:41:44 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375981抓取user时发生错误2016-06-01 11:41:45 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=72328抓取user时发生错误2016-06-01 11:41:45 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406241抓取user时发生错误2016-06-01 11:41:45 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406242抓取user时发生错误2016-06-01 11:41:45 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=72329抓取user时发生错误2016-06-01 11:41:45 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455852抓取user时发生错误2016-06-01 11:41:45 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406243抓取user时发生错误2016-06-01 11:41:45 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305179抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182236抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92267抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182237抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345937抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416296抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365501抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375983抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385837抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182238抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495744抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142132抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446160抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375984抓取user时发生错误2016-06-01 11:41:46 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446161抓取user时发生错误2016-06-01 11:41:47 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446162抓取user时发生错误2016-06-01 11:41:47 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446163抓取user时发生错误2016-06-01 11:41:47 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=82095抓取user时发生错误2016-06-01 11:41:47 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356275抓取user时发生错误2016-06-01 11:41:47 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395497抓取user时发生错误2016-06-01 11:41:48 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416298抓取user时发生错误2016-06-01 11:41:48 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385839抓取user时发生错误2016-06-01 11:41:48 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375986抓取user时发生错误2016-06-01 11:41:48 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375987抓取user时发生错误2016-06-01 11:41:48 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385840抓取user时发生错误2016-06-01 11:41:48 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=232286抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12016抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=122150抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132279抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2388抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365503抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132280抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2389抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12017抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12018抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265143抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475736抓取user时发生错误2016-06-01 11:41:49 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=102040抓取user时发生错误2016-06-01 11:41:50 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=102041抓取user时发生错误2016-06-01 11:41:50 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=32092抓取user时发生错误2016-06-01 11:41:50 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446166抓取user时发生错误2016-06-01 11:41:50 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212688抓取user时发生错误2016-06-01 11:41:50 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365505抓取user时发生错误2016-06-01 11:41:50 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446167抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365506抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345939抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142134抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171730抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284675抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142135抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475738抓取user时发生错误2016-06-01 11:41:51 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275288抓取user时发生错误2016-06-01 11:41:52 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295624抓取user时发生错误2016-06-01 11:41:52 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395499抓取user时发生错误2016-06-01 11:41:52 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395500抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295625抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486284抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345941抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161843抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465756抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92269抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365508抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161844抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465757抓取user时发生错误2016-06-01 11:41:53 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385842抓取user时发生错误2016-06-01 11:41:54 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475740抓取user时发生错误2016-06-01 11:41:54 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241842抓取user时发生错误2016-06-01 11:41:54 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305183抓取user时发生错误2016-06-01 11:41:54 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495745抓取user时发生错误2016-06-01 11:41:54 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345943抓取user时发生错误2016-06-01 11:41:54 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12021抓取user时发生错误2016-06-01 11:41:54 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275290抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345945抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385844抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365511抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365512抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385845抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2390抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201860抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385846抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=62213抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265144抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112130抓取user时发生错误2016-06-01 11:41:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152161抓取user时发生错误2016-06-01 11:41:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112131抓取user时发生错误2016-06-01 11:41:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192266抓取user时发生错误2016-06-01 11:41:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152162抓取user时发生错误2016-06-01 11:41:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326441抓取user时发生错误2016-06-01 11:41:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326442抓取user时发生错误2016-06-01 11:41:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305184抓取user时发生错误2016-06-01 11:41:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=42084抓取user时发生错误2016-06-01 11:41:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92271抓取user时发生错误2016-06-01 11:41:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92272抓取user时发生错误2016-06-01 11:41:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265146抓取user时发生错误2016-06-01 11:41:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455857抓取user时发生错误2016-06-01 11:41:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495749抓取user时发生错误2016-06-01 11:41:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385848抓取user时发生错误2016-06-01 11:41:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305186抓取user时发生错误2016-06-01 11:41:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212690抓取user时发生错误2016-06-01 11:41:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152164抓取user时发生错误2016-06-01 11:41:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22093抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465760抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22094抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465761抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161847抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22095抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22096抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22097抓取user时发生错误2016-06-01 11:42:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182239抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22098抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416302抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22099抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22100抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416303抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406250抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416304抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475743抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385850抓取user时发生错误2016-06-01 11:42:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416305抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465763抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=72331抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465764抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465765抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465766抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465767抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171733抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425713抓取user时发生错误2016-06-01 11:42:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152165抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465768抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425714抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356278抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425715抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=192271抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265148抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336202抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336203抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241846抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336204抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241847抓取user时发生错误2016-06-01 11:42:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=436057抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446172抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395502抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395503抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132284抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142138抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2391抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395504抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132285抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142139抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=132286抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142140抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12025抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=406251抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416308抓取user时发生错误2016-06-01 11:42:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12026抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336206抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=152167抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305190抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336207抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385853抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356280抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356281抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51987抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356282抓取user时发生错误2016-06-01 11:42:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486290抓取user时发生错误2016-06-01 11:42:06 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495753抓取user时发生错误2016-06-01 11:42:06 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455858抓取user时发生错误2016-06-01 11:42:06 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=455859抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465770抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425717抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345948抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326449抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171736抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345949抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212691抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265150抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171737抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265151抓取user时发生错误2016-06-01 11:42:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265152抓取user时发生错误2016-06-01 11:42:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=102045抓取user时发生错误2016-06-01 11:42:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265153抓取user时发生错误2016-06-01 11:42:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=42087抓取user时发生错误2016-06-01 11:42:08 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182242抓取user时发生错误2016-06-01 11:42:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295630抓取user时发生错误2016-06-01 11:42:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295631抓取user时发生错误2016-06-01 11:42:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326451抓取user时发生错误2016-06-01 11:42:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=326452抓取user时发生错误2016-06-01 11:42:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385856抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51989抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265155抓取user时发生错误2016-06-01 11:42:10 Error = list index out of range---
+ERROR:root: id=395507抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275296抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385857抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51990抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265156抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356285抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265157抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275297抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425720抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425721抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=265158抓取user时发生错误2016-06-01 11:42:10 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486293抓取user时发生错误2016-06-01 11:42:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=122154抓取user时发生错误2016-06-01 11:42:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=122155抓取user时发生错误2016-06-01 11:42:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495756抓取user时发生错误2016-06-01 11:42:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241848抓取user时发生错误2016-06-01 11:42:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=495757抓取user时发生错误2016-06-01 11:42:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=72335抓取user时发生错误2016-06-01 11:42:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385860抓取user时发生错误2016-06-01 11:42:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385861抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385862抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=12029抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275299抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=385863抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345952抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182244抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275300抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142143抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161849抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=475747抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142144抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142145抓取user时发生错误2016-06-01 11:42:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=465774抓取user时发生错误2016-06-01 11:42:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=142146抓取user时发生错误2016-06-01 11:42:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486295抓取user时发生错误2016-06-01 11:42:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212694抓取user时发生错误2016-06-01 11:42:15 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112133抓取user时发生错误2016-06-01 11:42:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171740抓取user时发生错误2016-06-01 11:42:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=212696抓取user时发生错误2016-06-01 11:42:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161851抓取user时发生错误2016-06-01 11:42:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295636抓取user时发生错误2016-06-01 11:42:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345955抓取user时发生错误2016-06-01 11:42:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=295637抓取user时发生错误2016-06-01 11:42:18 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275302抓取user时发生错误2016-06-01 11:42:19 Error = list index out of range---
+ERROR:root: id=416311抓取user时发生错误2016-06-01 11:42:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=275303抓取user时发生错误2016-06-01 11:42:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201865抓取user时发生错误2016-06-01 11:42:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425724抓取user时发生错误2016-06-01 11:42:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395510抓取user时发生错误2016-06-01 11:42:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395511抓取user时发生错误2016-06-01 11:42:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365515抓取user时发生错误2016-06-01 11:42:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365516抓取user时发生错误2016-06-01 11:42:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365517抓取user时发生错误2016-06-01 11:42:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=365518抓取user时发生错误2016-06-01 11:42:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375993抓取user时发生错误2016-06-01 11:42:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=345958抓取user时发生错误2016-06-01 11:42:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=32094抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336210抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51992抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112135抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201867抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=446178抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=182246抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=122159抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=356288抓取user时发生错误2016-06-01 11:42:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=222465抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425727抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=92275抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425728抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=425729抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486300抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=486301抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51994抓取user时发生错误2016-06-01 11:42:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=305198抓取user时发生错误2016-06-01 11:42:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=22104抓取user时发生错误2016-06-01 11:42:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395513抓取user时发生错误2016-06-01 11:42:24 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=416313抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=232289抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=375996抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=161855抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284684抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=336213抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284685抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284686抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=2393抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284687抓取user时发生错误2016-06-01 11:42:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241852抓取user时发生错误2016-06-01 11:42:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=395515抓取user时发生错误2016-06-01 11:42:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=112138抓取user时发生错误2016-06-01 11:42:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=201869抓取user时发生错误2016-06-01 11:42:27 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=284699抓取user时发生错误2016-06-01 11:42:50 Error = list index out of range---
+ERROR:root: id=265191抓取user时发生错误2016-06-01 11:43:54 Error = list index out of range---
+ERROR:root: id=284727抓取user时发生错误2016-06-01 11:44:14 Error = list index out of range---
+ERROR:root: id=275340抓取user时发生错误2016-06-01 11:44:43 Error = list index out of range---
+ERROR:root: id=305235抓取user时发生错误2016-06-01 11:45:17 Error = list index out of range---
+ERROR:root: id=284761抓取user时发生错误2016-06-01 11:45:58 Error = list index out of range---
+ERROR:root: id=265226抓取user时发生错误2016-06-01 11:46:49 Error = list index out of range---
+ERROR:root: id=295702抓取user时发生错误2016-06-01 11:47:22 Error = list index out of range---
+ERROR:root: id=305266抓取user时发生错误2016-06-01 11:48:23 Error = list index out of range---
+ERROR:root: id=275384抓取user时发生错误2016-06-01 11:48:29 Error = list index out of range---
+ERROR:root: id=265256抓取user时发生错误2016-06-01 11:48:59 Error = list index out of range---
+ERROR:root: id=265281抓取user时发生错误2016-06-01 11:50:20 Error = list index out of range---
+ERROR:root: id=275422抓取user时发生错误2016-06-01 11:50:45 Error = list index out of range---
+ERROR:root: id=305302抓取user时发生错误2016-06-01 11:51:02 Error = list index out of range---
+ERROR:root: id=305307抓取user时发生错误2016-06-01 11:51:10 Error = list index out of range---
+ERROR:root: id=265308抓取user时发生错误2016-06-01 11:52:07 Error = list index out of range---
+ERROR:root: id=305334抓取user时发生错误2016-06-01 11:52:45 Error = list index out of range---
+ERROR:root: id=275451抓取user时发生错误2016-06-01 11:53:05 Error = list index out of range---
+ERROR:root: id=295798抓取user时发生错误2016-06-01 11:53:32 Error = list index out of range---
+ERROR:root: id=295820抓取user时发生错误2016-06-01 11:54:37 Error = list index out of range---
+ERROR:root: id=275479抓取user时发生错误2016-06-01 11:54:56 Error = list index out of range---
+ERROR:root: id=295838抓取user时发生错误2016-06-01 11:55:35 Error = list index out of range---
+ERROR:root: id=275505抓取user时发生错误2016-06-01 11:56:34 Error = list index out of range---
+ERROR:root: id=305397抓取user时发生错误2016-06-01 11:58:09 Error = list index out of range---
+ERROR:root: id=295881抓取user时发生错误2016-06-01 11:58:15 Error = list index out of range---
+ERROR:root: id=305419抓取user时发生错误2016-06-01 11:59:06 Error = list index out of range---
+ERROR:root: id=275541抓取user时发生错误2016-06-01 11:59:20 Error = list index out of range---
+ERROR:root: id=265429抓取user时发生错误2016-06-01 12:00:22 Error = list index out of range---
+ERROR:root: id=295920抓取user时发生错误2016-06-01 12:01:03 Error = list index out of range---
+ERROR:root: id=284949抓取user时发生错误2016-06-01 12:01:25 Error = list index out of range---
+ERROR:root: id=275580抓取user时发生错误2016-06-01 12:01:54 Error = list index out of range---
+ERROR:root: id=305445抓取user时发生错误2016-06-01 12:02:01 Error = list index out of range---
+ERROR:root: id=305467抓取user时发生错误2016-06-01 12:03:01 Error = list index out of range---
+ERROR:root: id=265470抓取user时发生错误2016-06-01 12:03:06 Error = list index out of range---
+ERROR:root: id=295951抓取user时发生错误2016-06-01 12:04:22 Error = list index out of range---
+ERROR:root: id=284992抓取user时发生错误2016-06-01 12:04:39 Error = list index out of range---
+ERROR:root: id=265500抓取user时发生错误2016-06-01 12:05:14 Error = list index out of range---
+ERROR:root: id=295973抓取user时发生错误2016-06-01 12:05:28 Error = list index out of range---
+ERROR:root: id=275630抓取user时发生错误2016-06-01 12:06:44 Error = list index out of range---
+ERROR:root: id=285022抓取user时发生错误2016-06-01 12:07:05 Error = list index out of range---
+ERROR:root: id=296000抓取user时发生错误2016-06-01 12:07:36 Error = list index out of range---
+ERROR:root: id=305524抓取user时发生错误2016-06-01 12:07:46 Error = list index out of range---
+ERROR:root: id=285043抓取user时发生错误2016-06-01 12:08:17 Error = list index out of range---
+ERROR:root: id=265535抓取user时发生错误2016-06-01 12:08:29 Error = list index out of range---
+ERROR:root: id=265567抓取user时发生错误2016-06-01 12:10:10 Error = list index out of range---
+ERROR:root: id=296031抓取user时发生错误2016-06-01 12:10:28 Error = list index out of range---
+ERROR:root: id=296049抓取user时发生错误2016-06-01 12:11:22 Error = list index out of range---
+ERROR:root: id=92422抓取user时发生错误2016-06-01 12:11:33 Error = 1062 (23000): Duplicate entry '44635794' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=296081抓取user时发生错误2016-06-01 12:12:56 Error = list index out of range---
+ERROR:root: id=285109抓取user时发生错误2016-06-01 12:12:59 Error = list index out of range---
+ERROR:root: id=265605抓取user时发生错误2016-06-01 12:13:26 Error = list index out of range---
+ERROR:root: id=296105抓取user时发生错误2016-06-01 12:14:27 Error = list index out of range---
+ERROR:root: id=265632抓取user时发生错误2016-06-01 12:14:32 Error = list index out of range---
+ERROR:root: id=285146抓取user时发生错误2016-06-01 12:15:29 Error = list index out of range---
+ERROR:root: id=265659抓取user时发生错误2016-06-01 12:16:29 Error = list index out of range---
+ERROR:root: id=296127抓取user时发生错误2016-06-01 12:16:54 Error = list index out of range---
+ERROR:root: id=285174抓取user时发生错误2016-06-01 12:17:27 Error = list index out of range---
+ERROR:root: id=296135抓取user时发生错误2016-06-01 12:17:52 Error = list index out of range---
+ERROR:root: id=296152抓取user时发生错误2016-06-01 12:18:42 Error = list index out of range---
+ERROR:root: id=265705抓取user时发生错误2016-06-01 12:19:31 Error = list index out of range---
+ERROR:root: id=296169抓取user时发生错误2016-06-01 12:19:42 Error = list index out of range---
+ERROR:root: id=285205抓取user时发生错误2016-06-01 12:20:24 Error = list index out of range---
+ERROR:root: id=296183抓取user时发生错误2016-06-01 12:20:48 Error = list index out of range---
+ERROR:root: id=265751抓取user时发生错误2016-06-01 12:22:17 Error = list index out of range---
+ERROR:root: id=285233抓取user时发生错误2016-06-01 12:22:39 Error = list index out of range---
+ERROR:root: id=296212抓取user时发生错误2016-06-01 12:22:52 Error = list index out of range---
+ERROR:root: id=305723抓取user时发生错误2016-06-01 12:23:42 Error = list index out of range---
+ERROR:root: id=296225抓取user时发生错误2016-06-01 12:23:49 Error = list index out of range---
+ERROR:root: id=265780抓取user时发生错误2016-06-01 12:24:30 Error = list index out of range---
+ERROR:root: id=275665抓取user时发生错误2016-06-01 12:24:59 Error = list index out of range---
+ERROR:root: id=285267抓取user时发生错误2016-06-01 12:25:15 Error = list index out of range---
+ERROR:root: id=265805抓取user时发生错误2016-06-01 12:25:53 Error = list index out of range---
+ERROR:root: id=305747抓取user时发生错误2016-06-01 12:26:19 Error = list index out of range---
+ERROR:root: id=305762抓取user时发生错误2016-06-01 12:27:15 Error = list index out of range---
+ERROR:root: id=275702抓取user时发生错误2016-06-01 12:27:55 Error = list index out of range---
+ERROR:root: id=296289抓取user时发生错误2016-06-01 12:28:16 Error = list index out of range---
+ERROR:root: id=265836抓取user时发生错误2016-06-01 12:28:25 Error = list index out of range---
+ERROR:root: id=275733抓取user时发生错误2016-06-01 12:29:18 Error = list index out of range---
+ERROR:root: id=285294抓取user时发生错误2016-06-01 12:29:23 Error = list index out of range---
+ERROR:root: id=265868抓取user时发生错误2016-06-01 12:30:40 Error = list index out of range---
+ERROR:root: id=305821抓取user时发生错误2016-06-01 12:30:57 Error = list index out of range---
+ERROR:root: id=52201抓取user时发生错误2016-06-01 12:31:48 Error = 1062 (23000): Duplicate entry '37877014' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=275771抓取user时发生错误2016-06-01 12:31:51 Error = list index out of range---
+ERROR:root: id=305840抓取user时发生错误2016-06-01 12:32:10 Error = list index out of range---
+ERROR:root: id=265896抓取user时发生错误2016-06-01 12:32:26 Error = list index out of range---
+WARNING:root: uid=5227218解析soup发生错误2016-06-01 12:33:10 Error = list index out of range---
+ERROR:root: id=275803抓取user时发生错误2016-06-01 12:33:53 Error = list index out of range---
+ERROR:root: id=305872抓取user时发生错误2016-06-01 12:34:00 Error = list index out of range---
+ERROR:root: id=265921抓取user时发生错误2016-06-01 12:34:04 Error = list index out of range---
+WARNING:root: uid=5227218解析soup发生错误2016-06-01 12:34:17 Error = 'ascii' codec can't encode characters in position 4-25: ordinal not in range(128)---
+WARNING:root: uid=5227218解析soup发生错误2016-06-01 12:34:23 Error = 'ascii' codec can't encode characters in position 26-33: ordinal not in range(128)---
+ERROR:root: id=296368抓取user时发生错误2016-06-01 12:34:27 Error = list index out of range---
+ERROR:root: id=285377抓取user时发生错误2016-06-01 12:34:32 Error = list index out of range---
+WARNING:root: uid=5227218解析soup发生错误2016-06-01 12:35:01 Error = list index out of range---
+ERROR:root: id=275826抓取user时发生错误2016-06-01 12:35:29 Error = list index out of range---
+ERROR:root: id=285399抓取user时发生错误2016-06-01 12:36:00 Error = list index out of range---
+ERROR:root: id=296391抓取user时发生错误2016-06-01 12:36:25 Error = list index out of range---
+WARNING:root: uid=3038582解析soup发生错误2016-06-01 12:36:33 Error = list index out of range---
+ERROR:root: id=305921抓取user时发生错误2016-06-01 12:36:40 Error = list index out of range---
+ERROR:root: id=32434抓取user时发生错误2016-06-01 12:37:01 Error = 1292 (22007): Incorrect datetime value: '00' for column 'release_time' at row 1---
+ERROR:root: id=142503抓取user时发生错误2016-06-01 12:37:17 Error = 1062 (23000): Duplicate entry '16107091' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=305938抓取user时发生错误2016-06-01 12:38:13 Error = list index out of range---
+ERROR:root: id=265951抓取user时发生错误2016-06-01 12:38:14 Error = list index out of range---
+ERROR:root: id=285432抓取user时发生错误2016-06-01 12:38:47 Error = list index out of range---
+ERROR:root: id=296419抓取user时发生错误2016-06-01 12:38:55 Error = list index out of range---
+ERROR:root: id=296437抓取user时发生错误2016-06-01 12:39:36 Error = list index out of range---
+ERROR:root: id=265980抓取user时发生错误2016-06-01 12:40:19 Error = list index out of range---
+ERROR:root: id=296463抓取user时发生错误2016-06-01 12:40:57 Error = list index out of range---
+ERROR:root: id=275910抓取user时发生错误2016-06-01 12:42:08 Error = list index out of range---
+ERROR:root: id=266020抓取user时发生错误2016-06-01 12:42:52 Error = list index out of range---
+ERROR:root: id=306005抓取user时发生错误2016-06-01 12:43:43 Error = list index out of range---
+ERROR:root: id=275941抓取user时发生错误2016-06-01 12:43:48 Error = list index out of range---
+ERROR:root: id=285485抓取user时发生错误2016-06-01 12:43:59 Error = list index out of range---
+ERROR:root: id=266046抓取user时发生错误2016-06-01 12:44:07 Error = list index out of range---
+ERROR:root: id=296484抓取user时发生错误2016-06-01 12:45:26 Error = list index out of range---
+ERROR:root: id=266072抓取user时发生错误2016-06-01 12:45:50 Error = list index out of range---
+ERROR:root: id=306039抓取user时发生错误2016-06-01 12:46:15 Error = list index out of range---
+ERROR:root: id=285518抓取user时发生错误2016-06-01 12:46:26 Error = list index out of range---
+ERROR:root: id=306053抓取user时发生错误2016-06-01 12:47:01 Error = list index out of range---
+ERROR:root: id=266109抓取user时发生错误2016-06-01 12:48:41 Error = list index out of range---
+ERROR:root: id=306082抓取user时发生错误2016-06-01 12:49:23 Error = list index out of range---
+ERROR:root: id=306106抓取user时发生错误2016-06-01 12:50:44 Error = list index out of range---
+ERROR:root: id=266144抓取user时发生错误2016-06-01 12:51:05 Error = list index out of range---
+ERROR:root: id=285564抓取user时发生错误2016-06-01 12:51:21 Error = list index out of range---
+ERROR:root: id=296570抓取user时发生错误2016-06-01 12:51:56 Error = list index out of range---
+ERROR:root: id=306123抓取user时发生错误2016-06-01 12:52:00 Error = list index out of range---
+ERROR:root: id=276089抓取user时发生错误2016-06-01 12:52:50 Error = list index out of range---
+ERROR:root: id=296595抓取user时发生错误2016-06-01 12:53:13 Error = list index out of range---
+ERROR:root: id=266185抓取user时发生错误2016-06-01 12:53:43 Error = list index out of range---
+ERROR:root: id=296613抓取user时发生错误2016-06-01 12:54:44 Error = list index out of range---
+ERROR:root: id=276127抓取user时发生错误2016-06-01 12:54:50 Error = list index out of range---
+ERROR:root: id=285643抓取user时发生错误2016-06-01 12:56:49 Error = list index out of range---
+ERROR:root: id=276163抓取user时发生错误2016-06-01 12:56:57 Error = list index out of range---
+ERROR:root: id=285663抓取user时发生错误2016-06-01 12:57:42 Error = list index out of range---
+ERROR:root: id=296665抓取user时发生错误2016-06-01 12:57:45 Error = list index out of range---
+ERROR:root: id=306202抓取user时发生错误2016-06-01 12:58:10 Error = list index out of range---
+ERROR:root: id=276193抓取user时发生错误2016-06-01 12:58:58 Error = list index out of range---
+ERROR:root: id=266248抓取user时发生错误2016-06-01 12:59:18 Error = list index out of range---
+ERROR:root: id=306221抓取user时发生错误2016-06-01 12:59:29 Error = list index out of range---
+ERROR:root: id=276212抓取user时发生错误2016-06-01 12:59:53 Error = list index out of range---
+ERROR:root: id=296703抓取user时发生错误2016-06-01 13:00:20 Error = list index out of range---
+ERROR:root: id=306248抓取user时发生错误2016-06-01 13:00:46 Error = list index out of range---
+ERROR:root: id=296720抓取user时发生错误2016-06-01 13:01:33 Error = list index out of range---
+ERROR:root: id=276241抓取user时发生错误2016-06-01 13:01:39 Error = list index out of range---
+ERROR:root: id=306263抓取user时发生错误2016-06-01 13:01:42 Error = list index out of range---
+ERROR:root: id=276276抓取user时发生错误2016-06-01 13:03:20 Error = list index out of range---
+ERROR:root: id=306287抓取user时发生错误2016-06-01 13:04:34 Error = list index out of range---
+ERROR:root: id=172211抓取user时发生错误2016-06-01 13:05:24 Error = 1366 (HY000): Incorrect string value: '\xF0\x9F\x88\xB6\xE5\x8A...' for column 'title' at row 1---
+ERROR:root: id=276310抓取user时发生错误2016-06-01 13:05:30 Error = list index out of range---
+ERROR:root: id=306306抓取user时发生错误2016-06-01 13:05:50 Error = list index out of range---
+ERROR:root: id=296752抓取user时发生错误2016-06-01 13:06:44 Error = list index out of range---
+ERROR:root: id=285707抓取user时发生错误2016-06-01 13:07:01 Error = list index out of range---
+ERROR:root: id=276346抓取user时发生错误2016-06-01 13:07:13 Error = list index out of range---
+ERROR:root: id=296764抓取user时发生错误2016-06-01 13:07:14 Error = list index out of range---
+ERROR:root: id=306335抓取user时发生错误2016-06-01 13:07:44 Error = list index out of range---
+ERROR:root: id=296784抓取user时发生错误2016-06-01 13:08:17 Error = list index out of range---
+ERROR:root: id=306356抓取user时发生错误2016-06-01 13:08:47 Error = list index out of range---
+ERROR:root: id=285739抓取user时发生错误2016-06-01 13:08:58 Error = list index out of range---
+ERROR:root: id=266310抓取user时发生错误2016-06-01 13:09:08 Error = list index out of range---
+ERROR:root: id=276384抓取user时发生错误2016-06-01 13:09:20 Error = list index out of range---
+ERROR:root: id=306375抓取user时发生错误2016-06-01 13:10:24 Error = list index out of range---
+ERROR:root: id=285772抓取user时发生错误2016-06-01 13:11:18 Error = list index out of range---
+ERROR:root: id=276419抓取user时发生错误2016-06-01 13:11:22 Error = list index out of range---
+ERROR:root: id=266342抓取user时发生错误2016-06-01 13:11:30 Error = list index out of range---
+ERROR:root: id=296843抓取user时发生错误2016-06-01 13:11:42 Error = list index out of range---
+ERROR:root: id=285810抓取user时发生错误2016-06-01 13:13:33 Error = list index out of range---
+ERROR:root: id=276448抓取user时发生错误2016-06-01 13:14:13 Error = list index out of range---
+ERROR:root: id=296884抓取user时发生错误2016-06-01 13:14:37 Error = list index out of range---
+ERROR:root: id=266387抓取user时发生错误2016-06-01 13:14:39 Error = list index out of range---
+ERROR:root: id=306445抓取user时发生错误2016-06-01 13:15:01 Error = list index out of range---
+ERROR:root: id=276483抓取user时发生错误2016-06-01 13:16:46 Error = list index out of range---
+ERROR:root: id=296916抓取user时发生错误2016-06-01 13:16:48 Error = list index out of range---
+ERROR:root: id=306473抓取user时发生错误2016-06-01 13:18:08 Error = list index out of range---
+ERROR:root: id=296942抓取user时发生错误2016-06-01 13:18:45 Error = list index out of range---
+ERROR:root: id=276512抓取user时发生错误2016-06-01 13:18:45 Error = list index out of range---
+ERROR:root: id=306496抓取user时发生错误2016-06-01 13:19:33 Error = list index out of range---
+ERROR:root: id=296964抓取user时发生错误2016-06-01 13:19:41 Error = list index out of range---
+ERROR:root: id=266460抓取user时发生错误2016-06-01 13:19:47 Error = list index out of range---
+ERROR:root: id=285897抓取user时发生错误2016-06-01 13:20:06 Error = list index out of range---
+ERROR:root: id=285924抓取user时发生错误2016-06-01 13:21:49 Error = list index out of range---
+ERROR:root: id=276566抓取user时发生错误2016-06-01 13:22:11 Error = list index out of range---
+ERROR:root: id=306530抓取user时发生错误2016-06-01 13:23:21 Error = list index out of range---
+ERROR:root: id=266516抓取user时发生错误2016-06-01 13:24:45 Error = list index out of range---
+ERROR:root: id=276608抓取user时发生错误2016-06-01 13:25:21 Error = list index out of range---
+ERROR:root: id=285944抓取user时发生错误2016-06-01 13:25:30 Error = list index out of range---
+ERROR:root: id=266563抓取user时发生错误2016-06-01 13:26:46 Error = list index out of range---
+ERROR:root: id=276634抓取user时发生错误2016-06-01 13:27:00 Error = list index out of range---
+ERROR:root: id=285975抓取user时发生错误2016-06-01 13:27:45 Error = list index out of range---
+ERROR:root: id=266592抓取user时发生错误2016-06-01 13:28:32 Error = list index out of range---
+ERROR:root: id=286002抓取user时发生错误2016-06-01 13:28:38 Error = list index out of range---
+ERROR:root: id=297106抓取user时发生错误2016-06-01 13:28:51 Error = list index out of range---
+ERROR:root: id=276664抓取user时发生错误2016-06-01 13:30:00 Error = list index out of range---
+ERROR:root: id=306635抓取user时发生错误2016-06-01 13:30:16 Error = list index out of range---
+ERROR:root: id=266627抓取user时发生错误2016-06-01 13:30:30 Error = list index out of range---
+ERROR:root: id=286044抓取user时发生错误2016-06-01 13:30:43 Error = list index out of range---
+ERROR:root: id=297131抓取user时发生错误2016-06-01 13:30:58 Error = list index out of range---
+ERROR:root: id=276693抓取user时发生错误2016-06-01 13:31:46 Error = list index out of range---
+ERROR:root: id=266657抓取user时发生错误2016-06-01 13:32:07 Error = list index out of range---
+ERROR:root: id=286071抓取user时发生错误2016-06-01 13:32:24 Error = list index out of range---
+ERROR:root: id=297159抓取user时发生错误2016-06-01 13:32:26 Error = list index out of range---
+ERROR:root: id=297169抓取user时发生错误2016-06-01 13:32:44 Error = list index out of range---
+ERROR:root: id=276724抓取user时发生错误2016-06-01 13:33:02 Error = list index out of range---
+ERROR:root: id=266683抓取user时发生错误2016-06-01 13:33:11 Error = list index out of range---
+ERROR:root: id=297183抓取user时发生错误2016-06-01 13:33:19 Error = list index out of range---
+ERROR:root: id=286094抓取user时发生错误2016-06-01 13:33:26 Error = list index out of range---
+ERROR:root: id=306702抓取user时发生错误2016-06-01 13:33:39 Error = list index out of range---
+ERROR:root: id=297202抓取user时发生错误2016-06-01 13:34:07 Error = list index out of range---
+ERROR:root: id=266715抓取user时发生错误2016-06-01 13:34:33 Error = list index out of range---
+ERROR:root: id=276752抓取user时发生错误2016-06-01 13:34:34 Error = list index out of range---
+ERROR:root: id=286127抓取user时发生错误2016-06-01 13:35:08 Error = list index out of range---
+ERROR:root: id=276782抓取user时发生错误2016-06-01 13:36:01 Error = list index out of range---
+ERROR:root: id=286151抓取user时发生错误2016-06-01 13:36:14 Error = list index out of range---
+ERROR:root: id=266750抓取user时发生错误2016-06-01 13:36:39 Error = list index out of range---
+ERROR:root: id=297258抓取user时发生错误2016-06-01 13:37:10 Error = list index out of range---
+ERROR:root: id=276810抓取user时发生错误2016-06-01 13:37:42 Error = list index out of range---
+ERROR:root: id=306791抓取user时发生错误2016-06-01 13:38:15 Error = list index out of range---
+ERROR:root: id=266779抓取user时发生错误2016-06-01 13:38:41 Error = list index out of range---
+ERROR:root: id=297296抓取user时发生错误2016-06-01 13:39:06 Error = list index out of range---
+ERROR:root: id=306810抓取user时发生错误2016-06-01 13:39:25 Error = list index out of range---
+ERROR:root: id=276852抓取user时发生错误2016-06-01 13:39:44 Error = list index out of range---
+ERROR:root: id=286225抓取user时发生错误2016-06-01 13:40:24 Error = list index out of range---
+ERROR:root: id=266826抓取user时发生错误2016-06-01 13:41:43 Error = list index out of range---
+ERROR:root: id=286265抓取user时发生错误2016-06-01 13:43:45 Error = list index out of range---
+ERROR:root: id=266855抓取user时发生错误2016-06-01 13:43:47 Error = list index out of range---
+ERROR:root: id=276945抓取user时发生错误2016-06-01 13:46:11 Error = list index out of range---
+ERROR:root: id=306885抓取user时发生错误2016-06-01 13:47:08 Error = list index out of range---
+ERROR:root: id=286295抓取user时发生错误2016-06-01 13:47:22 Error = list index out of range---
+ERROR:root: id=266899抓取user时发生错误2016-06-01 13:47:44 Error = list index out of range---
+ERROR:root: id=276980抓取user时发生错误2016-06-01 13:48:55 Error = list index out of range---
+ERROR:root: id=306932抓取user时发生错误2016-06-01 13:49:51 Error = list index out of range---
+ERROR:root: id=266931抓取user时发生错误2016-06-01 13:49:53 Error = list index out of range---
+ERROR:root: id=277030抓取user时发生错误2016-06-01 13:52:14 Error = list index out of range---
+ERROR:root: id=266964抓取user时发生错误2016-06-01 13:52:51 Error = list index out of range---
+ERROR:root: id=286379抓取user时发生错误2016-06-01 13:52:59 Error = list index out of range---
+ERROR:root: id=277055抓取user时发生错误2016-06-01 13:53:27 Error = list index out of range---
+ERROR:root: id=286400抓取user时发生错误2016-06-01 13:53:56 Error = list index out of range---
+ERROR:root: id=266998抓取user时发生错误2016-06-01 13:54:49 Error = list index out of range---
+ERROR:root: id=277083抓取user时发生错误2016-06-01 13:55:05 Error = list index out of range---
+ERROR:root: id=307012抓取user时发生错误2016-06-01 13:55:33 Error = list index out of range---
+ERROR:root: id=307027抓取user时发生错误2016-06-01 13:56:48 Error = list index out of range---
+ERROR:root: id=267032抓取user时发生错误2016-06-01 13:57:20 Error = list index out of range---
+ERROR:root: id=277140抓取user时发生错误2016-06-01 13:58:17 Error = list index out of range---
+ERROR:root: id=307055抓取user时发生错误2016-06-01 13:58:18 Error = list index out of range---
+ERROR:root: id=307078抓取user时发生错误2016-06-01 13:59:03 Error = list index out of range---
+ERROR:root: id=277163抓取user时发生错误2016-06-01 13:59:26 Error = list index out of range---
+ERROR:root: id=267077抓取user时发生错误2016-06-01 13:59:40 Error = list index out of range---
+ERROR:root: id=307094抓取user时发生错误2016-06-01 13:59:55 Error = list index out of range---
+ERROR:root: id=286455抓取user时发生错误2016-06-01 14:00:01 Error = list index out of range---
+ERROR:root: id=307121抓取user时发生错误2016-06-01 14:00:48 Error = list index out of range---
+ERROR:root: id=267106抓取user时发生错误2016-06-01 14:00:54 Error = list index out of range---
+ERROR:root: id=297351抓取user时发生错误2016-06-01 14:01:10 Error = list index out of range---
+ERROR:root: id=286485抓取user时发生错误2016-06-01 14:01:27 Error = list index out of range---
+ERROR:root: id=277204抓取user时发生错误2016-06-01 14:01:36 Error = list index out of range---
+ERROR:root: id=267135抓取user时发生错误2016-06-01 14:02:09 Error = list index out of range---
+ERROR:root: id=297389抓取user时发生错误2016-06-01 14:02:57 Error = list index out of range---
+ERROR:root: id=183023抓取user时发生错误2016-06-01 14:03:06 Error = 1062 (23000): Duplicate entry '19170149' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=277239抓取user时发生错误2016-06-01 14:03:22 Error = list index out of range---
+ERROR:root: id=267169抓取user时发生错误2016-06-01 14:03:47 Error = list index out of range---
+ERROR:root: id=297412抓取user时发生错误2016-06-01 14:04:19 Error = list index out of range---
+ERROR:root: id=277265抓取user时发生错误2016-06-01 14:04:49 Error = list index out of range---
+ERROR:root: id=267212抓取user时发生错误2016-06-01 14:06:22 Error = list index out of range---
+ERROR:root: id=277304抓取user时发生错误2016-06-01 14:06:28 Error = list index out of range---
+ERROR:root: id=297456抓取user时发生错误2016-06-01 14:07:17 Error = list index out of range---
+ERROR:root: id=286520抓取user时发生错误2016-06-01 14:07:40 Error = list index out of range---
+ERROR:root: id=307273抓取user时发生错误2016-06-01 14:08:05 Error = list index out of range---
+ERROR:root: id=277338抓取user时发生错误2016-06-01 14:08:24 Error = list index out of range---
+ERROR:root: id=267259抓取user时发生错误2016-06-01 14:08:46 Error = list index out of range---
+ERROR:root: id=286559抓取user时发生错误2016-06-01 14:09:25 Error = list index out of range---
+ERROR:root: id=277375抓取user时发生错误2016-06-01 14:10:00 Error = list index out of range---
+ERROR:root: id=267290抓取user时发生错误2016-06-01 14:10:06 Error = list index out of range---
+ERROR:root: id=297519抓取user时发生错误2016-06-01 14:10:16 Error = list index out of range---
+ERROR:root: id=286591抓取user时发生错误2016-06-01 14:50:54 Error = list index out of range---
+ERROR:root: id=307348抓取user时发生错误2016-06-01 14:51:32 Error = list index out of range---
+ERROR:root: id=297546抓取user时发生错误2016-06-01 14:52:10 Error = list index out of range---
+ERROR:root: id=286623抓取user时发生错误2016-06-01 14:53:28 Error = list index out of range---
+ERROR:root: id=297572抓取user时发生错误2016-06-01 14:54:17 Error = list index out of range---
+ERROR:root: id=307381抓取user时发生错误2016-06-01 14:54:33 Error = list index out of range---
+ERROR:root: id=297598抓取user时发生错误2016-06-01 14:56:22 Error = list index out of range---
+ERROR:root: id=307409抓取user时发生错误2016-06-01 14:57:08 Error = list index out of range---

@@ -1,0 +1,869 @@
+ERROR:root: id=310000抓取user时发生错误2016-05-31 21:14:44 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=170002抓取user时发生错误2016-05-31 21:14:56 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=80000抓取user时发生错误2016-05-31 21:18:55 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=60006抓取user时发生错误2016-05-31 21:18:57 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=180002抓取user时发生错误2016-05-31 21:19:06 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=100007抓取user时发生错误2016-05-31 21:19:07 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=300009抓取user时发生错误2016-05-31 21:19:10 Error = list index out of range---
+ERROR:root: id=160013抓取user时发生错误2016-05-31 21:19:16 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=390004抓取user时发生错误2016-05-31 21:19:18 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=410000抓取user时发生错误2016-05-31 21:19:18 Error = 1265 (01000): Data truncated for column 'to_floor' at row 1---
+ERROR:root: id=440011抓取user时发生错误2016-05-31 21:19:21 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=430013抓取user时发生错误2016-05-31 21:19:24 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=470004抓取user时发生错误2016-05-31 21:19:25 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=380012抓取user时发生错误2016-05-31 21:19:27 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=430015抓取user时发生错误2016-05-31 21:19:28 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=190008抓取user时发生错误2016-05-31 21:19:29 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=250001抓取user时发生错误2016-05-31 21:19:30 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=110001抓取user时发生错误2016-05-31 21:19:30 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=460012抓取user时发生错误2016-05-31 21:19:34 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=310016抓取user时发生错误2016-05-31 21:19:37 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=480008抓取user时发生错误2016-05-31 21:19:39 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=40013抓取user时发生错误2016-05-31 21:19:45 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=220014抓取user时发生错误2016-05-31 21:19:48 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=50007抓取user时发生错误2016-05-31 21:20:07 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=110014抓取user时发生错误2016-05-31 21:20:24 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=280023抓取user时发生错误2016-05-31 21:20:33 Error = list index out of range---
+ERROR:root: id=310026抓取user时发生错误2016-05-31 21:20:35 Error = list index out of range---
+ERROR:root: id=100013抓取user时发生错误2016-05-31 21:20:39 Error = 1292 (22007): Incorrect datetime value: '201605250910185100' for column 'reply_time' at row 1---
+ERROR:root: id=90015抓取user时发生错误2016-05-31 21:20:43 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=440018抓取user时发生错误2016-05-31 21:20:44 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=430020抓取user时发生错误2016-05-31 21:25:39 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=440018抓取user时发生错误2016-05-31 21:25:40 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=170003抓取user时发生错误2016-05-31 21:25:41 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=370019抓取user时发生错误2016-05-31 21:25:42 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=190024抓取user时发生错误2016-05-31 21:25:42 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=70014抓取user时发生错误2016-05-31 21:25:46 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=300027抓取user时发生错误2016-05-31 21:25:49 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=250003抓取user时发生错误2016-05-31 21:25:49 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=350017抓取user时发生错误2016-05-31 21:25:50 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=90015抓取user时发生错误2016-05-31 21:26:00 Error = Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type---
+ERROR:root: id=30028抓取user时发生错误2016-05-31 21:29:17 Error = an integer is required---
+ERROR:root: id=190027抓取user时发生错误2016-05-31 21:29:18 Error = an integer is required---
+ERROR:root: id=320019抓取user时发生错误2016-05-31 21:29:18 Error = an integer is required---
+ERROR:root: id=460028抓取user时发生错误2016-05-31 21:29:18 Error = an integer is required---
+ERROR:root: id=340011抓取user时发生错误2016-05-31 21:29:18 Error = an integer is required---
+ERROR:root: id=140009抓取user时发生错误2016-05-31 21:29:18 Error = an integer is required---
+ERROR:root: id=490020抓取user时发生错误2016-05-31 21:29:19 Error = an integer is required---
+ERROR:root: id=310033抓取user时发生错误2016-05-31 21:30:01 Error = an integer is required---
+ERROR:root: id=240015抓取user时发生错误2016-05-31 21:30:02 Error = an integer is required---
+ERROR:root: id=290025抓取user时发生错误2016-05-31 21:30:02 Error = an integer is required---
+ERROR:root: id=160028抓取user时发生错误2016-05-31 21:30:02 Error = an integer is required---
+ERROR:root: id=190027抓取user时发生错误2016-05-31 21:30:02 Error = an integer is required---
+ERROR:root: id=460028抓取user时发生错误2016-05-31 21:30:03 Error = an integer is required---
+ERROR:root: id=330025抓取user时发生错误2016-05-31 21:31:23 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=410008抓取user时发生错误2016-05-31 21:31:24 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=170003抓取user时发生错误2016-05-31 21:31:26 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=50007抓取user时发生错误2016-05-31 21:31:27 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=120016抓取user时发生错误2016-05-31 21:31:27 Error = 'ascii' codec can't encode characters in position 0-64: ordinal not in range(128)---
+ERROR:root: id=490020抓取user时发生错误2016-05-31 21:31:32 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=330035抓取user时发生错误2016-05-31 21:31:32 Error = 1366 (HY000): Incorrect integer value: '_ r i g h t " ) ;                                            x   =   x   -   2 5 7 ;                                    }   e ' for column 'to_floor' at row 1---
+ERROR:root: id=270002抓取user时发生错误2016-05-31 21:31:32 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=90015抓取user时发生错误2016-05-31 21:31:32 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=500041抓取user时发生错误2016-05-31 21:31:33 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=270004抓取user时发生错误2016-05-31 21:31:33 Error = list index out of range---
+ERROR:root: id=500041抓取user时发生错误2016-05-31 21:31:53 Error = 1292 (22007): Incorrect datetime value: '0018933111296012960000000403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=110026抓取user时发生错误2016-05-31 21:31:53 Error = 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)---
+ERROR:root: id=30031抓取user时发生错误2016-05-31 21:31:54 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=480021抓取user时发生错误2016-05-31 21:31:54 Error = 1292 (22007): Incorrect datetime value: '['3582', '3460', '3454', '2778', '2615', '3013', '3788', '3691', '2123', '3204', '3677', '656', '314', '874', '3413', '364', '98' for column 'reply_time' at row 1---
+ERROR:root: id=200033抓取user时发生错误2016-05-31 21:32:53 Error = 'ascii' codec can't encode characters in position 0-4: ordinal not in range(128)---
+ERROR:root: id=210022抓取user时发生错误2016-05-31 21:33:04 Error = 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)---
+ERROR:root: id=220030抓取user时发生错误2016-05-31 21:33:07 Error = 1265 (01000): Data truncated for column 'to_floor' at row 1---
+ERROR:root: id=260034抓取user时发生错误2016-05-31 21:33:12 Error = list index out of range---
+ERROR:root: id=420016抓取user时发生错误2016-05-31 21:33:24 Error = 'ascii' codec can't encode characters in position 0-19: ordinal not in range(128)---
+ERROR:root: id=100019抓取user时发生错误2016-05-31 21:33:48 Error = 'ascii' codec can't encode characters in position 0-4: ordinal not in range(128)---
+ERROR:root: id=230025抓取user时发生错误2016-05-31 21:33:55 Error = 'ascii' codec can't encode characters in position 0-21: ordinal not in range(128)---
+ERROR:root: id=130010抓取user时发生错误2016-05-31 21:33:58 Error = 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)---
+ERROR:root: id=200039抓取user时发生错误2016-05-31 21:34:05 Error = 1366 (HY000): Incorrect integer value: 'DYYX5833' for column 'to_floor' at row 1---
+ERROR:root: id=220033抓取user时发生错误2016-05-31 21:34:06 Error = 'ascii' codec can't encode characters in position 0-18: ordinal not in range(128)---
+ERROR:root: id=230030抓取user时发生错误2016-05-31 21:34:14 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=450024抓取user时发生错误2016-05-31 21:34:27 Error = 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)---
+ERROR:root: id=210037抓取user时发生错误2016-05-31 21:35:41 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=280052抓取user时发生错误2016-05-31 21:37:46 Error = list index out of range---
+ERROR:root: id=290044抓取user时发生错误2016-05-31 21:38:32 Error = list index out of range---
+ERROR:root: id=50040抓取user时发生错误2016-05-31 21:38:39 Error = 1366 (HY000): Incorrect integer value: 'gcjsz222' for column 'to_floor' at row 1---
+ERROR:root: id=190051抓取user时发生错误2016-05-31 21:41:05 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=190054抓取user时发生错误2016-05-31 21:41:29 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=210044抓取user时发生错误2016-05-31 21:41:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=270037抓取user时发生错误2016-05-31 21:41:36 Error = list index out of range---
+ERROR:root: id=450024抓取user时发生错误2016-05-31 21:41:39 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=150035抓取user时发生错误2016-05-31 21:41:41 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=110066抓取user时发生错误2016-05-31 21:41:44 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=400061抓取user时发生错误2016-05-31 21:41:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=370062抓取user时发生错误2016-05-31 21:42:04 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=270037抓取user时发生错误2016-05-31 21:43:58 Error = list index out of range---
+ERROR:root: id=180044抓取user时发生错误2016-05-31 21:44:06 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=240060抓取user时发生错误2016-05-31 21:44:07 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=240063抓取user时发生错误2016-05-31 21:44:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=300069抓取user时发生错误2016-05-31 21:44:33 Error = 1366 (HY000): Incorrect integer value: '' for column 'to_floor' at row 1---
+ERROR:root: id=460068抓取user时发生错误2016-05-31 21:45:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10053抓取user时发生错误2016-05-31 21:46:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=280080抓取user时发生错误2016-05-31 21:46:54 Error = list index out of range---
+ERROR:root: id=160069抓取user时发生错误2016-05-31 21:47:05 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=10061抓取user时发生错误2016-05-31 21:47:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=290063抓取user时发生错误2016-05-31 21:47:07 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=290064抓取user时发生错误2016-05-31 21:47:07 Error = list index out of range---
+ERROR:root: id=190059抓取user时发生错误2016-05-31 21:47:09 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=380076抓取user时发生错误2016-05-31 21:47:38 Error = 1292 (22007): Incorrect datetime value: '2016052920160530231600' for column 'reply_time' at row 1---
+ERROR:root: id=290084抓取user时发生错误2016-05-31 21:48:31 Error = list index out of range---
+ERROR:root: id=290084抓取user时发生错误2016-05-31 21:48:54 Error = list index out of range---
+ERROR:root: id=70109抓取user时发生错误2016-05-31 21:49:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=120080抓取user时发生错误2016-05-31 21:49:04 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=120080抓取user时发生错误2016-05-31 21:49:36 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=270057抓取user时发生错误2016-05-31 21:49:54 Error = list index out of range---
+ERROR:root: id=250102抓取user时发生错误2016-05-31 21:50:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=240104抓取user时发生错误2016-05-31 21:50:18 Error = 1366 (HY000): Incorrect integer value: 'a' for column 'bbs_id' at row 1---
+ERROR:root: id=200116抓取user时发生错误2016-05-31 21:51:48 Error = 1292 (22007): Incorrect datetime value: '003030100000637552972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=260072抓取user时发生错误2016-05-31 21:51:49 Error = list index out of range---
+ERROR:root: id=500140抓取user时发生错误2016-05-31 21:51:57 Error = 1292 (22007): Incorrect datetime value: '990287150404227100' for column 'reply_time' at row 1---
+ERROR:root: id=280105抓取user时发生错误2016-05-31 21:52:11 Error = list index out of range---
+ERROR:root: id=120096抓取user时发生错误2016-05-31 21:52:11 Error = 1292 (22007): Incorrect datetime value: '2016053120160525174800' for column 'reply_time' at row 1---
+ERROR:root: id=290117抓取user时发生错误2016-05-31 21:52:13 Error = list index out of range---
+ERROR:root: id=280130抓取user时发生错误2016-05-31 21:53:27 Error = list index out of range---
+ERROR:root: id=150100抓取user时发生错误2016-05-31 21:53:41 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=270095抓取user时发生错误2016-05-31 21:54:24 Error = list index out of range---
+ERROR:root: id=290144抓取user时发生错误2016-05-31 21:54:41 Error = list index out of range---
+ERROR:root: id=300165抓取user时发生错误2016-05-31 21:55:03 Error = list index out of range---
+ERROR:root: id=280168抓取user时发生错误2016-05-31 21:56:20 Error = list index out of range---
+ERROR:root: id=260129抓取user时发生错误2016-05-31 21:57:12 Error = list index out of range---
+ERROR:root: id=140108抓取user时发生错误2016-05-31 21:57:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=480180抓取user时发生错误2016-05-31 21:58:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=300183抓取user时发生错误2016-05-31 21:58:22 Error = list index out of range---
+ERROR:root: id=280194抓取user时发生错误2016-05-31 21:58:44 Error = list index out of range---
+ERROR:root: id=130抓取user时发生错误2016-05-31 21:58:50 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=440158抓取user时发生错误2016-05-31 21:58:54 Error = 1292 (22007): Incorrect datetime value: '2225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=120171抓取user时发生错误2016-05-31 21:59:25 Error = list index out of range---
+ERROR:root: id=290211抓取user时发生错误2016-05-31 22:00:00 Error = list index out of range---
+ERROR:root: id=270123抓取user时发生错误2016-05-31 22:00:13 Error = list index out of range---
+ERROR:root: id=280223抓取user时发生错误2016-05-31 22:00:59 Error = list index out of range---
+ERROR:root: id=300210抓取user时发生错误2016-05-31 22:01:15 Error = list index out of range---
+ERROR:root: id=310066抓取user时发生错误2016-05-31 22:01:58 Error = list index out of range---
+ERROR:root: id=151抓取user时发生错误2016-05-31 22:02:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=250199抓取user时发生错误2016-05-31 22:02:04 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=290248抓取user时发生错误2016-05-31 22:02:22 Error = list index out of range---
+ERROR:root: id=260214抓取user时发生错误2016-05-31 22:02:39 Error = list index out of range---
+ERROR:root: id=280248抓取user时发生错误2016-05-31 22:02:58 Error = list index out of range---
+ERROR:root: id=300242抓取user时发生错误2016-05-31 22:03:05 Error = list index out of range---
+ERROR:root: id=310091抓取user时发生错误2016-05-31 22:03:35 Error = list index out of range---
+ERROR:root: id=270145抓取user时发生错误2016-05-31 22:03:39 Error = list index out of range---
+ERROR:root: id=180170抓取user时发生错误2016-05-31 22:03:46 Error = 1366 (HY000): Incorrect integer value: 'a' for column 'bbs_id' at row 1---
+ERROR:root: id=300260抓取user时发生错误2016-05-31 22:03:54 Error = list index out of range---
+ERROR:root: id=500225抓取user时发生错误2016-05-31 22:04:10 Error = 1292 (22007): Incorrect datetime value: '20160329225312211300' for column 'reply_time' at row 1---
+ERROR:root: id=290278抓取user时发生错误2016-05-31 22:04:29 Error = list index out of range---
+ERROR:root: id=270171抓取user时发生错误2016-05-31 22:04:53 Error = list index out of range---
+ERROR:root: id=260237抓取user时发生错误2016-05-31 22:05:14 Error = 1292 (22007): Incorrect datetime value: '002972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=370248抓取user时发生错误2016-05-31 22:05:20 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=270190抓取user时发生错误2016-05-31 22:05:53 Error = list index out of range---
+ERROR:root: id=260249抓取user时发生错误2016-05-31 22:05:56 Error = list index out of range---
+ERROR:root: id=280276抓取user时发生错误2016-05-31 22:05:57 Error = list index out of range---
+ERROR:root: id=300292抓取user时发生错误2016-05-31 22:06:04 Error = list index out of range---
+ERROR:root: id=290304抓取user时发生错误2016-05-31 22:06:13 Error = list index out of range---
+ERROR:root: id=310141抓取user时发生错误2016-05-31 22:06:37 Error = list index out of range---
+ERROR:root: id=40104抓取user时发生错误2016-05-31 22:07:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=50225抓取user时发生错误2016-05-31 22:07:49 Error = list index out of range---
+ERROR:root: id=310163抓取user时发生错误2016-05-31 22:07:53 Error = list index out of range---
+ERROR:root: id=280315抓取user时发生错误2016-05-31 22:08:08 Error = list index out of range---
+ERROR:root: id=300320抓取user时发生错误2016-05-31 22:08:11 Error = list index out of range---
+ERROR:root: id=290323抓取user时发生错误2016-05-31 22:08:50 Error = list index out of range---
+ERROR:root: id=80254抓取user时发生错误2016-05-31 22:09:50 Error = 1292 (22007): Incorrect datetime value: '20160523661100000637552972225722101700' for column 'reply_time' at row 1---
+ERROR:root: id=150240抓取user时发生错误2016-05-31 22:10:13 Error = 1292 (22007): Incorrect datetime value: '000000403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=270215抓取user时发生错误2016-05-31 22:10:18 Error = list index out of range---
+ERROR:root: id=310175抓取user时发生错误2016-05-31 22:10:18 Error = 1292 (22007): Incorrect datetime value: '0000637552972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=170176抓取user时发生错误2016-05-31 22:11:06 Error = 1292 (22007): Incorrect datetime value: '20160320221750000' for column 'reply_time' at row 1---
+ERROR:root: id=180248抓取user时发生错误2016-05-31 22:11:30 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=300378抓取user时发生错误2016-05-31 22:12:19 Error = list index out of range---
+ERROR:root: id=310190抓取user时发生错误2016-05-31 22:12:28 Error = list index out of range---
+ERROR:root: id=200287抓取user时发生错误2016-05-31 22:12:38 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=260307抓取user时发生错误2016-05-31 22:12:54 Error = list index out of range---
+ERROR:root: id=280400抓取user时发生错误2016-05-31 22:13:38 Error = list index out of range---
+ERROR:root: id=270255抓取user时发生错误2016-05-31 22:13:44 Error = list index out of range---
+ERROR:root: id=310219抓取user时发生错误2016-05-31 22:14:10 Error = list index out of range---
+ERROR:root: id=270280抓取user时发生错误2016-05-31 22:15:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=250366抓取user时发生错误2016-05-31 22:15:09 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=350326抓取user时发生错误2016-05-31 22:15:11 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=250抓取user时发生错误2016-05-31 22:15:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=320236抓取user时发生错误2016-05-31 22:15:12 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=50267抓取user时发生错误2016-05-31 22:15:13 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=300419抓取user时发生错误2016-05-31 22:15:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=320238抓取user时发生错误2016-05-31 22:15:14 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=310232抓取user时发生错误2016-05-31 22:15:16 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=310233抓取user时发生错误2016-05-31 22:15:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=280429抓取user时发生错误2016-05-31 22:15:17 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=270285抓取user时发生错误2016-05-31 22:15:18 Error = list index out of range---
+ERROR:root: id=180253抓取user时发生错误2016-05-31 22:15:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=110310抓取user时发生错误2016-05-31 22:15:19 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=480416抓取user时发生错误2016-05-31 22:15:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=320241抓取user时发生错误2016-05-31 22:15:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=10292抓取user时发生错误2016-05-31 22:15:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=140295抓取user时发生错误2016-05-31 22:15:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=270288抓取user时发生错误2016-05-31 22:15:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=470303抓取user时发生错误2016-05-31 22:15:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=470304抓取user时发生错误2016-05-31 22:15:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=250373抓取user时发生错误2016-05-31 22:15:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=490163抓取user时发生错误2016-05-31 22:15:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=490164抓取user时发生错误2016-05-31 22:15:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=440251抓取user时发生错误2016-05-31 22:15:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=470306抓取user时发生错误2016-05-31 22:15:25 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=257抓取user时发生错误2016-05-31 22:15:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=480420抓取user时发生错误2016-05-31 22:15:26 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=110311抓取user时发生错误2016-05-31 22:15:30 Error = 1292 (22007): Incorrect datetime value: '2016041413472972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=360379抓取user时发生错误2016-05-31 22:15:39 Error = 1292 (22007): Incorrect datetime value: '661100000637552972225722101700' for column 'reply_time' at row 1---
+ERROR:root: id=280438抓取user时发生错误2016-05-31 22:15:41 Error = list index out of range---
+ERROR:root: id=310241抓取user时发生错误2016-05-31 22:15:46 Error = list index out of range---
+ERROR:root: id=260349抓取user时发生错误2016-05-31 22:15:48 Error = list index out of range---
+ERROR:root: id=360388抓取user时发生错误2016-05-31 22:16:01 Error = 1292 (22007): Incorrect datetime value: '2016052009450109230018933111296012960000000403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=460345抓取user时发生错误2016-05-31 22:16:54 Error = 1292 (22007): Incorrect datetime value: '2972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=270311抓取user时发生错误2016-05-31 22:16:57 Error = list index out of range---
+ERROR:root: id=310275抓取user时发生错误2016-05-31 22:17:05 Error = list index out of range---
+ERROR:root: id=190266抓取user时发生错误2016-05-31 22:17:23 Error = 1292 (22007): Incorrect datetime value: '52972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=20187抓取user时发生错误2016-05-31 22:18:13 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=110331抓取user时发生错误2016-05-31 22:18:33 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=500320抓取user时发生错误2016-05-31 22:18:33 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=460363抓取user时发生错误2016-05-31 22:18:34 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=300449抓取user时发生错误2016-05-31 22:18:38 Error = list index out of range---
+ERROR:root: id=40212抓取user时发生错误2016-05-31 22:18:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=410442抓取user时发生错误2016-05-31 22:19:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=470325抓取user时发生错误2016-05-31 22:19:28 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=310307抓取user时发生错误2016-05-31 22:19:41 Error = list index out of range---
+ERROR:root: id=260381抓取user时发生错误2016-05-31 22:20:02 Error = list index out of range---
+ERROR:root: id=310331抓取user时发生错误2016-05-31 22:20:38 Error = list index out of range---
+ERROR:root: id=270338抓取user时发生错误2016-05-31 22:20:39 Error = list index out of range---
+ERROR:root: id=290423抓取user时发生错误2016-05-31 22:21:27 Error = list index out of range---
+ERROR:root: id=260417抓取user时发生错误2016-05-31 22:21:30 Error = list index out of range---
+ERROR:root: id=280517抓取user时发生错误2016-05-31 22:21:55 Error = list index out of range---
+ERROR:root: id=310359抓取user时发生错误2016-05-31 22:22:01 Error = list index out of range---
+ERROR:root: id=130243抓取user时发生错误2016-05-31 22:22:57 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=290456抓取user时发生错误2016-05-31 22:23:04 Error = list index out of range---
+ERROR:root: id=260451抓取user时发生错误2016-05-31 22:23:14 Error = list index out of range---
+ERROR:root: id=280554抓取user时发生错误2016-05-31 22:25:00 Error = list index out of range---
+ERROR:root: id=260482抓取user时发生错误2016-05-31 22:25:21 Error = list index out of range---
+ERROR:root: id=310387抓取user时发生错误2016-05-31 22:26:21 Error = list index out of range---
+ERROR:root: id=300521抓取user时发生错误2016-05-31 22:26:30 Error = list index out of range---
+ERROR:root: id=490320抓取user时发生错误2016-05-31 22:27:25 Error = 1292 (22007): Incorrect datetime value: '2016050820160315104700' for column 'reply_time' at row 1---
+ERROR:root: id=260519抓取user时发生错误2016-05-31 22:27:40 Error = list index out of range---
+ERROR:root: id=300544抓取user时发生错误2016-05-31 22:27:47 Error = list index out of range---
+ERROR:root: id=290545抓取user时发生错误2016-05-31 22:29:12 Error = list index out of range---
+ERROR:root: id=90280抓取user时发生错误2016-05-31 22:30:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=160308抓取user时发生错误2016-05-31 22:30:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=290575抓取user时发生错误2016-05-31 22:30:36 Error = list index out of range---
+ERROR:root: id=300562抓取user时发生错误2016-05-31 22:30:51 Error = list index out of range---
+ERROR:root: id=180414抓取user时发生错误2016-05-31 22:31:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=260562抓取user时发生错误2016-05-31 22:31:25 Error = list index out of range---
+ERROR:root: id=300590抓取user时发生错误2016-05-31 22:31:58 Error = list index out of range---
+ERROR:root: id=280582抓取user时发生错误2016-05-31 22:32:03 Error = list index out of range---
+ERROR:root: id=260586抓取user时发生错误2016-05-31 22:32:39 Error = list index out of range---
+ERROR:root: id=260591抓取user时发生错误2016-05-31 22:32:57 Error = 1292 (22007): Incorrect datetime value: '0018933111296012960000000403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=300616抓取user时发生错误2016-05-31 22:33:09 Error = list index out of range---
+ERROR:root: id=50360抓取user时发生错误2016-05-31 22:33:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=270418抓取user时发生错误2016-05-31 22:33:22 Error = list index out of range---
+ERROR:root: id=260599抓取user时发生错误2016-05-31 22:33:23 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=260612抓取user时发生错误2016-05-31 22:34:59 Error = list index out of range---
+ERROR:root: id=280632抓取user时发生错误2016-05-31 22:35:12 Error = list index out of range---
+ERROR:root: id=300652抓取user时发生错误2016-05-31 22:35:40 Error = list index out of range---
+ERROR:root: id=270454抓取user时发生错误2016-05-31 22:35:42 Error = list index out of range---
+ERROR:root: id=260634抓取user时发生错误2016-05-31 22:36:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=300681抓取user时发生错误2016-05-31 22:36:47 Error = list index out of range---
+ERROR:root: id=310421抓取user时发生错误2016-05-31 22:37:15 Error = 1366 (HY000): Incorrect integer value: 'a' for column 'bbs_id' at row 1---
+ERROR:root: id=210370抓取user时发生错误2016-05-31 22:37:21 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=280665抓取user时发生错误2016-05-31 22:37:21 Error = list index out of range---
+ERROR:root: id=270493抓取user时发生错误2016-05-31 22:37:37 Error = list index out of range---
+ERROR:root: id=300707抓取user时发生错误2016-05-31 22:37:59 Error = list index out of range---
+ERROR:root: id=340522抓取user时发生错误2016-05-31 22:38:03 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=470419抓取user时发生错误2016-05-31 22:38:15 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=310446抓取user时发生错误2016-05-31 22:38:43 Error = list index out of range---
+ERROR:root: id=280693抓取user时发生错误2016-05-31 22:39:05 Error = list index out of range---
+ERROR:root: id=300736抓取user时发生错误2016-05-31 22:39:19 Error = list index out of range---
+ERROR:root: id=270516抓取user时发生错误2016-05-31 22:39:37 Error = list index out of range---
+ERROR:root: id=280716抓取user时发生错误2016-05-31 22:39:57 Error = list index out of range---
+ERROR:root: id=260642抓取user时发生错误2016-05-31 22:39:59 Error = list index out of range---
+ERROR:root: id=270543抓取user时发生错误2016-05-31 22:40:42 Error = list index out of range---
+ERROR:root: id=310478抓取user时发生错误2016-05-31 22:40:48 Error = list index out of range---
+ERROR:root: id=270544抓取user时发生错误2016-05-31 22:40:55 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=260669抓取user时发生错误2016-05-31 22:41:08 Error = list index out of range---
+ERROR:root: id=290655抓取user时发生错误2016-05-31 22:41:14 Error = list index out of range---
+ERROR:root: id=280739抓取user时发生错误2016-05-31 22:41:30 Error = list index out of range---
+ERROR:root: id=300778抓取user时发生错误2016-05-31 22:41:57 Error = list index out of range---
+ERROR:root: id=490449抓取user时发生错误2016-05-31 22:41:57 Error = 1292 (22007): Incorrect datetime value: '201603310000' for column 'reply_time' at row 1---
+ERROR:root: id=260697抓取user时发生错误2016-05-31 22:42:15 Error = list index out of range---
+ERROR:root: id=280766抓取user时发生错误2016-05-31 22:43:04 Error = list index out of range---
+ERROR:root: id=400791抓取user时发生错误2016-05-31 22:44:06 Error = 1292 (22007): Incorrect datetime value: '2972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=140473抓取user时发生错误2016-05-31 22:44:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=80532抓取user时发生错误2016-05-31 22:44:23 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=260734抓取user时发生错误2016-05-31 22:44:23 Error = list index out of range---
+ERROR:root: id=310552抓取user时发生错误2016-05-31 22:44:49 Error = list index out of range---
+ERROR:root: id=280806抓取user时发生错误2016-05-31 22:46:00 Error = list index out of range---
+ERROR:root: id=390643抓取user时发生错误2016-05-31 22:46:18 Error = 1292 (22007): Incorrect datetime value: '661100000637552972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=300816抓取user时发生错误2016-05-31 22:46:27 Error = list index out of range---
+ERROR:root: id=110593抓取user时发生错误2016-05-31 22:47:25 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=220530抓取user时发生错误2016-05-31 22:47:32 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=310591抓取user时发生错误2016-05-31 22:47:58 Error = list index out of range---
+ERROR:root: id=310619抓取user时发生错误2016-05-31 22:49:28 Error = list index out of range---
+ERROR:root: id=390647抓取user时发生错误2016-05-31 22:49:53 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=50446抓取user时发生错误2016-05-31 22:50:07 Error = 1292 (22007): Incorrect datetime value: '2016031014572972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=300841抓取user时发生错误2016-05-31 22:50:26 Error = list index out of range---
+ERROR:root: id=310647抓取user时发生错误2016-05-31 22:50:59 Error = list index out of range---
+ERROR:root: id=260823抓取user时发生错误2016-05-31 22:52:15 Error = list index out of range---
+ERROR:root: id=290741抓取user时发生错误2016-05-31 22:52:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=50471抓取user时发生错误2016-05-31 22:52:57 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=260865抓取user时发生错误2016-05-31 22:54:09 Error = list index out of range---
+ERROR:root: id=470601抓取user时发生错误2016-05-31 22:54:19 Error = 1292 (22007): Incorrect datetime value: '20160527122320160315104800' for column 'reply_time' at row 1---
+ERROR:root: id=120558抓取user时发生错误2016-05-31 22:54:50 Error = list index out of range---
+ERROR:root: id=480889抓取user时发生错误2016-05-31 22:55:44 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=280899抓取user时发生错误2016-05-31 22:56:17 Error = list index out of range---
+ERROR:root: id=260892抓取user时发生错误2016-05-31 22:56:19 Error = list index out of range---
+ERROR:root: id=80598抓取user时发生错误2016-05-31 22:56:27 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=70596抓取user时发生错误2016-05-31 22:56:30 Error = 1366 (HY000): Incorrect integer value: 'a' for column 'bbs_id' at row 1---
+ERROR:root: id=440519抓取user时发生错误2016-05-31 22:57:16 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=300906抓取user时发生错误2016-05-31 22:57:23 Error = list index out of range---
+ERROR:root: id=140591抓取user时发生错误2016-05-31 22:59:06 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=20471抓取user时发生错误2016-05-31 22:59:06 Error = 1292 (22007): Incorrect datetime value: '0109230403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=300928抓取user时发生错误2016-05-31 22:59:35 Error = list index out of range---
+ERROR:root: id=260928抓取user时发生错误2016-05-31 22:59:41 Error = list index out of range---
+ERROR:root: id=200601抓取user时发生错误2016-05-31 22:59:41 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=280928抓取user时发生错误2016-05-31 23:00:36 Error = list index out of range---
+ERROR:root: id=300960抓取user时发生错误2016-05-31 23:00:58 Error = list index out of range---
+ERROR:root: id=260961抓取user时发生错误2016-05-31 23:01:21 Error = list index out of range---
+ERROR:root: id=280960抓取user时发生错误2016-05-31 23:02:27 Error = list index out of range---
+ERROR:root: id=270578抓取user时发生错误2016-05-31 23:02:53 Error = list index out of range---
+ERROR:root: id=160460抓取user时发生错误2016-05-31 23:03:16 Error = 1292 (22007): Incorrect datetime value: '201603151653093600' for column 'reply_time' at row 1---
+ERROR:root: id=300978抓取user时发生错误2016-05-31 23:03:19 Error = list index out of range---
+ERROR:root: id=30716抓取user时发生错误2016-05-31 23:03:20 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=220706抓取user时发生错误2016-05-31 23:04:04 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=290891抓取user时发生错误2016-05-31 23:04:07 Error = list index out of range---
+ERROR:root: id=290903抓取user时发生错误2016-05-31 23:04:54 Error = list index out of range---
+ERROR:root: id=490660抓取user时发生错误2016-05-31 23:05:14 Error = 1292 (22007): Incorrect datetime value: '20160424003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=270617抓取user时发生错误2016-05-31 23:05:20 Error = list index out of range---
+ERROR:root: id=290911抓取user时发生错误2016-05-31 23:05:21 Error = list index out of range---
+ERROR:root: id=261039抓取user时发生错误2016-05-31 23:06:35 Error = list index out of range---
+ERROR:root: id=290933抓取user时发生错误2016-05-31 23:07:02 Error = list index out of range---
+ERROR:root: id=270649抓取user时发生错误2016-05-31 23:07:28 Error = list index out of range---
+ERROR:root: id=220720抓取user时发生错误2016-05-31 23:07:29 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=261069抓取user时发生错误2016-05-31 23:07:39 Error = list index out of range---
+ERROR:root: id=281002抓取user时发生错误2016-05-31 23:07:58 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=281003抓取user时发生错误2016-05-31 23:07:58 Error = list index out of range---
+ERROR:root: id=20530抓取user时发生错误2016-05-31 23:08:29 Error = 1366 (HY000): Incorrect integer value: 'o' for column 'bbs_id' at row 1---
+ERROR:root: id=170754抓取user时发生错误2016-05-31 23:09:08 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=310752抓取user时发生错误2016-05-31 23:10:48 Error = list index out of range---
+ERROR:root: id=30769抓取user时发生错误2016-05-31 23:11:06 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=481029抓取user时发生错误2016-05-31 23:11:19 Error = 1292 (22007): Incorrect datetime value: '20160324140420160301192800' for column 'reply_time' at row 1---
+ERROR:root: id=270691抓取user时发生错误2016-05-31 23:11:21 Error = list index out of range---
+ERROR:root: id=281047抓取user时发生错误2016-05-31 23:11:23 Error = list index out of range---
+ERROR:root: id=310765抓取user时发生错误2016-05-31 23:11:26 Error = list index out of range---
+ERROR:root: id=301110抓取user时发生错误2016-05-31 23:11:46 Error = list index out of range---
+ERROR:root: id=90521抓取user时发生错误2016-05-31 23:12:03 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=281070抓取user时发生错误2016-05-31 23:13:00 Error = list index out of range---
+ERROR:root: id=470818抓取user时发生错误2016-05-31 23:13:03 Error = 1292 (22007): Incorrect datetime value: '20160329142520160411130700' for column 'reply_time' at row 1---
+ERROR:root: id=690抓取user时发生错误2016-05-31 23:13:34 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=310788抓取user时发生错误2016-05-31 23:13:43 Error = list index out of range---
+ERROR:root: id=301149抓取user时发生错误2016-05-31 23:14:16 Error = list index out of range---
+ERROR:root: id=270749抓取user时发生错误2016-05-31 23:14:23 Error = list index out of range---
+ERROR:root: id=281118抓取user时发生错误2016-05-31 23:15:27 Error = list index out of range---
+ERROR:root: id=261128抓取user时发生错误2016-05-31 23:16:26 Error = list index out of range---
+ERROR:root: id=301181抓取user时发生错误2016-05-31 23:16:32 Error = list index out of range---
+ERROR:root: id=270779抓取user时发生错误2016-05-31 23:16:59 Error = list index out of range---
+ERROR:root: id=240758抓取user时发生错误2016-05-31 23:17:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=390922抓取user时发生错误2016-05-31 23:17:18 Error = 1292 (22007): Incorrect datetime value: '201604270000' for column 'reply_time' at row 1---
+ERROR:root: id=220821抓取user时发生错误2016-05-31 23:18:27 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=281146抓取user时发生错误2016-05-31 23:18:36 Error = list index out of range---
+ERROR:root: id=301226抓取user时发生错误2016-05-31 23:18:59 Error = list index out of range---
+ERROR:root: id=70702抓取user时发生错误2016-05-31 23:19:25 Error = 1292 (22007): Incorrect datetime value: '0020160411205900' for column 'reply_time' at row 1---
+ERROR:root: id=301245抓取user时发生错误2016-05-31 23:19:42 Error = list index out of range---
+ERROR:root: id=291046抓取user时发生错误2016-05-31 23:19:43 Error = list index out of range---
+ERROR:root: id=270811抓取user时发生错误2016-05-31 23:20:26 Error = list index out of range---
+ERROR:root: id=10868抓取user时发生错误2016-05-31 23:20:37 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=301271抓取user时发生错误2016-05-31 23:20:58 Error = list index out of range---
+ERROR:root: id=281180抓取user时发生错误2016-05-31 23:21:14 Error = list index out of range---
+ERROR:root: id=261162抓取user时发生错误2016-05-31 23:21:37 Error = list index out of range---
+ERROR:root: id=411021抓取user时发生错误2016-05-31 23:21:48 Error = 1292 (22007): Incorrect datetime value: '20160421003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=310909抓取user时发生错误2016-05-31 23:22:08 Error = list index out of range---
+ERROR:root: id=281201抓取user时发生错误2016-05-31 23:22:27 Error = list index out of range---
+ERROR:root: id=90637抓取user时发生错误2016-05-31 23:22:42 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=10897抓取user时发生错误2016-05-31 23:22:58 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=310931抓取user时发生错误2016-05-31 23:23:12 Error = list index out of range---
+ERROR:root: id=270852抓取user时发生错误2016-05-31 23:23:22 Error = list index out of range---
+ERROR:root: id=291110抓取user时发生错误2016-05-31 23:23:49 Error = list index out of range---
+ERROR:root: id=281208抓取user时发生错误2016-05-31 23:24:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=281216抓取user时发生错误2016-05-31 23:24:43 Error = list index out of range---
+ERROR:root: id=180786抓取user时发生错误2016-05-31 23:24:49 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=261195抓取user时发生错误2016-05-31 23:25:08 Error = list index out of range---
+ERROR:root: id=450727抓取user时发生错误2016-05-31 23:25:09 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=460991抓取user时发生错误2016-05-31 23:25:11 Error = 1292 (22007): Incorrect datetime value: '201603120000637552972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=450730抓取user时发生错误2016-05-31 23:25:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=270886抓取user时发生错误2016-05-31 23:25:28 Error = list index out of range---
+ERROR:root: id=261229抓取user时发生错误2016-05-31 23:27:11 Error = list index out of range---
+ERROR:root: id=10921抓取user时发生错误2016-05-31 23:27:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=461025抓取user时发生错误2016-05-31 23:27:56 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=301356抓取user时发生错误2016-05-31 23:28:46 Error = list index out of range---
+ERROR:root: id=281248抓取user时发生错误2016-05-31 23:29:01 Error = list index out of range---
+ERROR:root: id=310990抓取user时发生错误2016-05-31 23:29:08 Error = list index out of range---
+ERROR:root: id=847抓取user时发生错误2016-05-31 23:29:26 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=20713抓取user时发生错误2016-05-31 23:29:42 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=270908抓取user时发生错误2016-05-31 23:29:45 Error = list index out of range---
+ERROR:root: id=310998抓取user时发生错误2016-05-31 23:30:02 Error = list index out of range---
+ERROR:root: id=270934抓取user时发生错误2016-05-31 23:31:12 Error = list index out of range---
+ERROR:root: id=281271抓取user时发生错误2016-05-31 23:31:15 Error = list index out of range---
+ERROR:root: id=251227抓取user时发生错误2016-05-31 23:31:34 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=70797抓取user时发生错误2016-05-31 23:32:17 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=311019抓取user时发生错误2016-05-31 23:32:17 Error = list index out of range---
+ERROR:root: id=270970抓取user时发生错误2016-05-31 23:32:39 Error = list index out of range---
+ERROR:root: id=311029抓取user时发生错误2016-05-31 23:32:39 Error = list index out of range---
+ERROR:root: id=301423抓取user时发生错误2016-05-31 23:32:40 Error = list index out of range---
+ERROR:root: id=291226抓取user时发生错误2016-05-31 23:34:09 Error = list index out of range---
+ERROR:root: id=311045抓取user时发生错误2016-05-31 23:34:13 Error = list index out of range---
+ERROR:root: id=431135抓取user时发生错误2016-05-31 23:34:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=271001抓取user时发生错误2016-05-31 23:34:55 Error = list index out of range---
+ERROR:root: id=281303抓取user时发生错误2016-05-31 23:35:01 Error = list index out of range---
+ERROR:root: id=271014抓取user时发生错误2016-05-31 23:35:26 Error = list index out of range---
+ERROR:root: id=271043抓取user时发生错误2016-05-31 23:36:47 Error = list index out of range---
+ERROR:root: id=30955抓取user时发生错误2016-05-31 23:36:50 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=190831抓取user时发生错误2016-05-31 23:36:57 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=311086抓取user时发生错误2016-05-31 23:37:37 Error = list index out of range---
+ERROR:root: id=301485抓取user时发生错误2016-05-31 23:37:43 Error = list index out of range---
+ERROR:root: id=170970抓取user时发生错误2016-05-31 23:38:36 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=311102抓取user时发生错误2016-05-31 23:38:37 Error = list index out of range---
+ERROR:root: id=301497抓取user时发生错误2016-05-31 23:38:40 Error = list index out of range---
+ERROR:root: id=271074抓取user时发生错误2016-05-31 23:38:47 Error = list index out of range---
+ERROR:root: id=230739抓取user时发生错误2016-05-31 23:38:47 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=281337抓取user时发生错误2016-05-31 23:39:36 Error = list index out of range---
+ERROR:root: id=311131抓取user时发生错误2016-05-31 23:40:18 Error = list index out of range---
+ERROR:root: id=361039抓取user时发生错误2016-05-31 23:40:44 Error = 1292 (22007): Incorrect datetime value: '201603300719500' for column 'reply_time' at row 1---
+ERROR:root: id=421141抓取user时发生错误2016-05-31 23:41:21 Error = 1292 (22007): Incorrect datetime value: '637552972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=291308抓取user时发生错误2016-05-31 23:41:56 Error = list index out of range---
+ERROR:root: id=271112抓取user时发生错误2016-05-31 23:42:23 Error = list index out of range---
+ERROR:root: id=291329抓取user时发生错误2016-05-31 23:42:48 Error = list index out of range---
+ERROR:root: id=271144抓取user时发生错误2016-05-31 23:43:32 Error = list index out of range---
+ERROR:root: id=180972抓取user时发生错误2016-05-31 23:43:43 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=450924抓取user时发生错误2016-05-31 23:46:12 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=301566抓取user时发生错误2016-05-31 23:46:15 Error = list index out of range---
+ERROR:root: id=240958抓取user时发生错误2016-05-31 23:46:31 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=40884抓取user时发生错误2016-05-31 23:46:33 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=281407抓取user时发生错误2016-05-31 23:46:33 Error = list index out of range---
+ERROR:root: id=291357抓取user时发生错误2016-05-31 23:46:42 Error = list index out of range---
+ERROR:root: id=140966抓取user时发生错误2016-05-31 23:46:57 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=301580抓取user时发生错误2016-05-31 23:47:08 Error = 1292 (22007): Incorrect datetime value: '201603073000' for column 'reply_time' at row 1---
+ERROR:root: id=80944抓取user时发生错误2016-05-31 23:47:23 Error = 1366 (HY000): Incorrect integer value: 'a' for column 'bbs_id' at row 1---
+ERROR:root: id=271211抓取user时发生错误2016-05-31 23:47:36 Error = list index out of range---
+ERROR:root: id=311170抓取user时发生错误2016-05-31 23:48:39 Error = list index out of range---
+ERROR:root: id=281450抓取user时发生错误2016-05-31 23:48:51 Error = list index out of range---
+ERROR:root: id=230745抓取user时发生错误2016-05-31 23:49:07 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=291388抓取user时发生错误2016-05-31 23:49:33 Error = list index out of range---
+ERROR:root: id=311194抓取user时发生错误2016-05-31 23:49:59 Error = list index out of range---
+ERROR:root: id=291395抓取user时发生错误2016-05-31 23:49:59 Error = list index out of range---
+ERROR:root: id=281487抓取user时发生错误2016-05-31 23:50:21 Error = list index out of range---
+ERROR:root: id=261333抓取user时发生错误2016-05-31 23:51:07 Error = list index out of range---
+ERROR:root: id=271244抓取user时发生错误2016-05-31 23:51:25 Error = list index out of range---
+ERROR:root: id=291428抓取user时发生错误2016-05-31 23:51:47 Error = list index out of range---
+ERROR:root: id=311220抓取user时发生错误2016-05-31 23:52:05 Error = list index out of range---
+ERROR:root: id=281514抓取user时发生错误2016-05-31 23:52:26 Error = list index out of range---
+ERROR:root: id=371425抓取user时发生错误2016-05-31 23:52:39 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=311237抓取user时发生错误2016-05-31 23:52:44 Error = list index out of range---
+ERROR:root: id=311252抓取user时发生错误2016-05-31 23:53:29 Error = list index out of range---
+ERROR:root: id=71001抓取user时发生错误2016-05-31 23:53:46 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=271277抓取user时发生错误2016-05-31 23:53:54 Error = list index out of range---
+ERROR:root: id=90878抓取user时发生错误2016-05-31 23:54:04 Error = 1366 (HY000): Incorrect integer value: 'a' for column 'bbs_id' at row 1---
+ERROR:root: id=291464抓取user时发生错误2016-05-31 23:54:41 Error = list index out of range---
+ERROR:root: id=361166抓取user时发生错误2016-05-31 23:55:04 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=11126抓取user时发生错误2016-05-31 23:56:07 Error = list index out of range---
+ERROR:root: id=281542抓取user时发生错误2016-05-31 23:56:56 Error = list index out of range---
+ERROR:root: id=431374抓取user时发生错误2016-05-31 23:57:23 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=271309抓取user时发生错误2016-05-31 23:57:30 Error = list index out of range---
+ERROR:root: id=301653抓取user时发生错误2016-05-31 23:57:40 Error = list index out of range---
+ERROR:root: id=81067抓取user时发生错误2016-05-31 23:57:51 Error = 1292 (22007): Incorrect datetime value: '00637552972225722101700' for column 'reply_time' at row 1---
+ERROR:root: id=341304抓取user时发生错误2016-05-31 23:57:53 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=391225抓取user时发生错误2016-05-31 23:57:54 Error = 1292 (22007): Incorrect datetime value: '00637552972225722101700' for column 'reply_time' at row 1---
+ERROR:root: id=261384抓取user时发生错误2016-05-31 23:58:09 Error = list index out of range---
+ERROR:root: id=271325抓取user时发生错误2016-05-31 23:58:16 Error = list index out of range---
+ERROR:root: id=291508抓取user时发生错误2016-05-31 23:58:18 Error = list index out of range---
+ERROR:root: id=200680抓取user时发生错误2016-06-01 10:37:08 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=301676抓取user时发生错误2016-06-01 10:37:28 Error = list index out of range---
+ERROR:root: id=281581抓取user时发生错误2016-06-01 10:37:49 Error = list index out of range---
+ERROR:root: id=291533抓取user时发生错误2016-06-01 10:38:07 Error = list index out of range---
+ERROR:root: id=261415抓取user时发生错误2016-06-01 10:38:49 Error = list index out of range---
+ERROR:root: id=311335抓取user时发生错误2016-06-01 10:39:19 Error = list index out of range---
+ERROR:root: id=51047抓取user时发生错误2016-06-01 10:40:05 Error = 1292 (22007): Incorrect datetime value: '201605271637000' for column 'reply_time' at row 1---
+ERROR:root: id=281612抓取user时发生错误2016-06-01 10:40:34 Error = list index out of range---
+ERROR:root: id=271401抓取user时发生错误2016-06-01 10:40:35 Error = list index out of range---
+ERROR:root: id=311368抓取user时发生错误2016-06-01 10:41:34 Error = list index out of range---
+ERROR:root: id=271420抓取user时发生错误2016-06-01 10:41:34 Error = list index out of range---
+ERROR:root: id=291561抓取user时发生错误2016-06-01 10:41:49 Error = list index out of range---
+ERROR:root: id=491284抓取user时发生错误2016-06-01 10:42:52 Error = 1292 (22007): Incorrect datetime value: '201605241500' for column 'reply_time' at row 1---
+ERROR:root: id=281648抓取user时发生错误2016-06-01 10:43:00 Error = list index out of range---
+ERROR:root: id=291592抓取user时发生错误2016-06-01 10:43:56 Error = list index out of range---
+ERROR:root: id=271455抓取user时发生错误2016-06-01 10:45:04 Error = list index out of range---
+ERROR:root: id=291615抓取user时发生错误2016-06-01 10:45:44 Error = list index out of range---
+ERROR:root: id=341353抓取user时发生错误2016-06-01 10:46:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=311387抓取user时发生错误2016-06-01 11:17:22 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=301748抓取user时发生错误2016-06-01 11:17:59 Error = list index out of range---
+ERROR:root: id=311393抓取user时发生错误2016-06-01 11:18:03 Error = list index out of range---
+ERROR:root: id=271485抓取user时发生错误2016-06-01 11:19:30 Error = list index out of range---
+ERROR:root: id=291640抓取user时发生错误2016-06-01 11:20:03 Error = list index out of range---
+ERROR:root: id=261481抓取user时发生错误2016-06-01 11:20:03 Error = list index out of range---
+ERROR:root: id=281683抓取user时发生错误2016-06-01 11:20:05 Error = list index out of range---
+ERROR:root: id=311416抓取user时发生错误2016-06-01 11:21:21 Error = list index out of range---
+ERROR:root: id=81148抓取user时发生错误2016-06-01 11:21:25 Error = list index out of range---
+ERROR:root: id=311431抓取user时发生错误2016-06-01 11:22:43 Error = list index out of range---
+ERROR:root: id=291668抓取user时发生错误2016-06-01 11:23:05 Error = list index out of range---
+ERROR:root: id=261507抓取user时发生错误2016-06-01 11:24:00 Error = list index out of range---
+ERROR:root: id=311447抓取user时发生错误2016-06-01 11:24:03 Error = list index out of range---
+ERROR:root: id=301811抓取user时发生错误2016-06-01 11:25:41 Error = list index out of range---
+ERROR:root: id=471457抓取user时发生错误2016-06-01 11:25:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=281730抓取user时发生错误2016-06-01 11:26:01 Error = list index out of range---
+ERROR:root: id=311471抓取user时发生错误2016-06-01 11:26:15 Error = list index out of range---
+ERROR:root: id=281748抓取user时发生错误2016-06-01 11:27:22 Error = list index out of range---
+ERROR:root: id=261544抓取user时发生错误2016-06-01 11:28:08 Error = list index out of range---
+ERROR:root: id=291705抓取user时发生错误2016-06-01 11:28:27 Error = list index out of range---
+ERROR:root: id=11281抓取user时发生错误2016-06-01 11:28:50 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=301841抓取user时发生错误2016-06-01 11:29:09 Error = list index out of range---
+ERROR:root: id=271576抓取user时发生错误2016-06-01 11:36:12 Error = list index out of range---
+ERROR:root: id=231024抓取user时发生错误2016-06-01 11:36:21 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=291730抓取user时发生错误2016-06-01 11:36:33 Error = list index out of range---
+ERROR:root: id=321446抓取user时发生错误2016-06-01 11:37:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=171296抓取user时发生错误2016-06-01 11:37:03 Error = 1292 (22007): Incorrect datetime value: '0018933111296012960000000403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=351474抓取user时发生错误2016-06-01 11:37:34 Error = list index out of range---
+ERROR:root: id=311521抓取user时发生错误2016-06-01 11:38:02 Error = list index out of range---
+ERROR:root: id=271604抓取user时发生错误2016-06-01 11:38:36 Error = list index out of range---
+ERROR:root: id=211312抓取user时发生错误2016-06-01 11:38:55 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=161139抓取user时发生错误2016-06-01 11:38:57 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=301876抓取user时发生错误2016-06-01 11:39:00 Error = list index out of range---
+ERROR:root: id=281798抓取user时发生错误2016-06-01 11:39:24 Error = list index out of range---
+ERROR:root: id=261598抓取user时发生错误2016-06-01 11:40:12 Error = list index out of range---
+ERROR:root: id=291762抓取user时发生错误2016-06-01 11:40:18 Error = list index out of range---
+ERROR:root: id=271633抓取user时发生错误2016-06-01 11:40:34 Error = list index out of range---
+ERROR:root: id=121366抓取user时发生错误2016-06-01 11:40:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51157抓取user时发生错误2016-06-01 11:40:56 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=101324抓取user时发生错误2016-06-01 11:40:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=481758抓取user时发生错误2016-06-01 11:40:57 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=491462抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=341453抓取user时发生错误2016-06-01 11:40:58 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=401704抓取user时发生错误2016-06-01 11:40:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=271637抓取user时发生错误2016-06-01 11:40:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=221335抓取user时发生错误2016-06-01 11:40:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=191276抓取user时发生错误2016-06-01 11:40:59 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=491464抓取user时发生错误2016-06-01 11:41:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=491465抓取user时发生错误2016-06-01 11:41:00 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=141179抓取user时发生错误2016-06-01 11:41:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=1286抓取user时发生错误2016-06-01 11:41:01 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=81261抓取user时发生错误2016-06-01 11:41:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=331580抓取user时发生错误2016-06-01 11:41:02 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=21128抓取user时发生错误2016-06-01 11:41:03 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=21129抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=31386抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=71253抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=241203抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=1287抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=351504抓取user时发生错误2016-06-01 11:41:04 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=1288抓取user时发生错误2016-06-01 11:41:05 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=211332抓取user时发生错误2016-06-01 11:41:06 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=491468抓取user时发生错误2016-06-01 11:41:06 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=200908抓取user时发生错误2016-06-01 11:41:07 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=171328抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=341455抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=41121抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=251837抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=261613抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=111260抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=461617抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=181335抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=491468抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=111261抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=141182抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=1287抓取user时发生错误2016-06-01 11:41:20 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=321482抓取user时发生错误2016-06-01 11:41:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=501440抓取user时发生错误2016-06-01 11:41:21 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=321483抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=321484抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=391472抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=21130抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=391473抓取user时发生错误2016-06-01 11:41:22 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=21131抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=51161抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=371710抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=71253抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=471522抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=441265抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=71254抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=441266抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=71255抓取user时发生错误2016-06-01 11:41:23 Error = HTTP Error 503: Service Unavailable---
+ERROR:root: id=141187抓取user时发生错误2016-06-01 11:43:21 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=301903抓取user时发生错误2016-06-01 11:43:37 Error = list index out of range---
+ERROR:root: id=281808抓取user时发生错误2016-06-01 11:44:10 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=21140抓取user时发生错误2016-06-01 11:44:41 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=291778抓取user时发生错误2016-06-01 11:44:49 Error = list index out of range---
+ERROR:root: id=281826抓取user时发生错误2016-06-01 11:45:09 Error = list index out of range---
+ERROR:root: id=271675抓取user时发生错误2016-06-01 11:45:17 Error = list index out of range---
+ERROR:root: id=431645抓取user时发生错误2016-06-01 11:45:28 Error = list index out of range---
+ERROR:root: id=311581抓取user时发生错误2016-06-01 11:45:43 Error = list index out of range---
+ERROR:root: id=301942抓取user时发生错误2016-06-01 11:46:28 Error = list index out of range---
+ERROR:root: id=311600抓取user时发生错误2016-06-01 11:46:44 Error = list index out of range---
+ERROR:root: id=271707抓取user时发生错误2016-06-01 11:47:03 Error = list index out of range---
+ERROR:root: id=281856抓取user时发生错误2016-06-01 11:47:27 Error = list index out of range---
+ERROR:root: id=161198抓取user时发生错误2016-06-01 11:48:30 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=261628抓取user时发生错误2016-06-01 11:48:52 Error = list index out of range---
+ERROR:root: id=241225抓取user时发生错误2016-06-01 11:49:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=291818抓取user时发生错误2016-06-01 11:49:26 Error = list index out of range---
+ERROR:root: id=301996抓取user时发生错误2016-06-01 11:49:56 Error = list index out of range---
+ERROR:root: id=261665抓取user时发生错误2016-06-01 11:50:33 Error = list index out of range---
+ERROR:root: id=161201抓取user时发生错误2016-06-01 11:51:19 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=281890抓取user时发生错误2016-06-01 11:51:36 Error = list index out of range---
+ERROR:root: id=311665抓取user时发生错误2016-06-01 11:51:50 Error = list index out of range---
+ERROR:root: id=261693抓取user时发生错误2016-06-01 11:53:00 Error = list index out of range---
+ERROR:root: id=291842抓取user时发生错误2016-06-01 11:53:16 Error = list index out of range---
+ERROR:root: id=271750抓取user时发生错误2016-06-01 11:53:39 Error = list index out of range---
+ERROR:root: id=281924抓取user时发生错误2016-06-01 11:53:44 Error = list index out of range---
+ERROR:root: id=491526抓取user时发生错误2016-06-01 11:53:53 Error = 1292 (22007): Incorrect datetime value: '001000035271065135300' for column 'reply_time' at row 1---
+ERROR:root: id=60434抓取user时发生错误2016-06-01 11:54:57 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=311689抓取user时发生错误2016-06-01 11:55:00 Error = list index out of range---
+ERROR:root: id=381569抓取user时发生错误2016-06-01 11:55:06 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=291872抓取user时发生错误2016-06-01 11:55:25 Error = list index out of range---
+ERROR:root: id=261729抓取user时发生错误2016-06-01 11:55:28 Error = list index out of range---
+ERROR:root: id=302018抓取user时发生错误2016-06-01 11:56:06 Error = 1292 (22007): Incorrect datetime value: '010923003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=281964抓取user时发生错误2016-06-01 11:56:12 Error = list index out of range---
+ERROR:root: id=51268抓取user时发生错误2016-06-01 11:56:34 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=271773抓取user时发生错误2016-06-01 11:57:00 Error = list index out of range---
+ERROR:root: id=311702抓取user时发生错误2016-06-01 11:57:11 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=281982抓取user时发生错误2016-06-01 11:57:12 Error = list index out of range---
+ERROR:root: id=391528抓取user时发生错误2016-06-01 11:57:38 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=261764抓取user时发生错误2016-06-01 11:58:16 Error = list index out of range---
+ERROR:root: id=282018抓取user时发生错误2016-06-01 11:59:16 Error = list index out of range---
+ERROR:root: id=271810抓取user时发生错误2016-06-01 12:00:18 Error = list index out of range---
+ERROR:root: id=311730抓取user时发生错误2016-06-01 12:00:44 Error = list index out of range---
+ERROR:root: id=451240抓取user时发生错误2016-06-01 12:00:51 Error = list index out of range---
+ERROR:root: id=231236抓取user时发生错误2016-06-01 12:01:09 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=302070抓取user时发生错误2016-06-01 12:03:10 Error = list index out of range---
+ERROR:root: id=282055抓取user时发生错误2016-06-01 12:04:01 Error = list index out of range---
+ERROR:root: id=351741抓取user时发生错误2016-06-01 12:04:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=261798抓取user时发生错误2016-06-01 12:04:26 Error = list index out of range---
+ERROR:root: id=282089抓取user时发生错误2016-06-01 12:05:21 Error = list index out of range---
+ERROR:root: id=171488抓取user时发生错误2016-06-01 12:05:22 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=71407抓取user时发生错误2016-06-01 12:05:45 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=261829抓取user时发生错误2016-06-01 12:06:04 Error = list index out of range---
+ERROR:root: id=31559抓取user时发生错误2016-06-01 12:06:31 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=441487抓取user时发生错误2016-06-01 12:06:45 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=271883抓取user时发生错误2016-06-01 12:07:25 Error = list index out of range---
+ERROR:root: id=302126抓取user时发生错误2016-06-01 12:07:44 Error = list index out of range---
+ERROR:root: id=282144抓取user时发生错误2016-06-01 12:08:15 Error = list index out of range---
+ERROR:root: id=41311抓取user时发生错误2016-06-01 12:08:28 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=261872抓取user时发生错误2016-06-01 12:08:35 Error = list index out of range---
+ERROR:root: id=311752抓取user时发生错误2016-06-01 12:08:38 Error = list index out of range---
+ERROR:root: id=271919抓取user时发生错误2016-06-01 12:08:47 Error = list index out of range---
+ERROR:root: id=282172抓取user时发生错误2016-06-01 12:10:38 Error = list index out of range---
+ERROR:root: id=282188抓取user时发生错误2016-06-01 12:11:24 Error = list index out of range---
+ERROR:root: id=261911抓取user时发生错误2016-06-01 12:11:29 Error = list index out of range---
+ERROR:root: id=271947抓取user时发生错误2016-06-01 12:11:53 Error = list index out of range---
+ERROR:root: id=481998抓取user时发生错误2016-06-01 12:11:56 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=441585抓取user时发生错误2016-06-01 12:14:10 Error = 1292 (22007): Incorrect datetime value: '0018933111296012960000000403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=302211抓取user时发生错误2016-06-01 12:14:19 Error = list index out of range---
+ERROR:root: id=272001抓取user时发生错误2016-06-01 12:14:25 Error = list index out of range---
+ERROR:root: id=282226抓取user时发生错误2016-06-01 12:15:21 Error = list index out of range---
+ERROR:root: id=261952抓取user时发生错误2016-06-01 12:15:29 Error = list index out of range---
+ERROR:root: id=302221抓取user时发生错误2016-06-01 12:15:39 Error = list index out of range---
+ERROR:root: id=411938抓取user时发生错误2016-06-01 12:15:44 Error = 1292 (22007): Incorrect datetime value: '201605071816070100' for column 'reply_time' at row 1---
+ERROR:root: id=121682抓取user时发生错误2016-06-01 12:16:10 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=272039抓取user时发生错误2016-06-01 12:16:48 Error = list index out of range---
+ERROR:root: id=291964抓取user时发生错误2016-06-01 12:17:46 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=31618抓取user时发生错误2016-06-01 12:18:05 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=261991抓取user时发生错误2016-06-01 12:18:24 Error = list index out of range---
+ERROR:root: id=60599抓取user时发生错误2016-06-01 12:19:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=11606抓取user时发生错误2016-06-01 12:19:33 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=311790抓取user时发生错误2016-06-01 12:19:51 Error = list index out of range---
+ERROR:root: id=272075抓取user时发生错误2016-06-01 12:19:52 Error = list index out of range---
+ERROR:root: id=282273抓取user时发生错误2016-06-01 12:20:14 Error = list index out of range---
+ERROR:root: id=311817抓取user时发生错误2016-06-01 12:20:53 Error = list index out of range---
+ERROR:root: id=262034抓取user时发生错误2016-06-01 12:21:37 Error = list index out of range---
+ERROR:root: id=171622抓取user时发生错误2016-06-01 12:21:54 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=282314抓取user时发生错误2016-06-01 12:22:37 Error = list index out of range---
+ERROR:root: id=302280抓取user时发生错误2016-06-01 12:24:03 Error = list index out of range---
+ERROR:root: id=311840抓取user时发生错误2016-06-01 12:24:25 Error = list index out of range---
+ERROR:root: id=262068抓取user时发生错误2016-06-01 12:24:32 Error = list index out of range---
+ERROR:root: id=302301抓取user时发生错误2016-06-01 12:25:03 Error = list index out of range---
+ERROR:root: id=71494抓取user时发生错误2016-06-01 12:25:29 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=292052抓取user时发生错误2016-06-01 12:26:31 Error = list index out of range---
+ERROR:root: id=272106抓取user时发生错误2016-06-01 12:26:44 Error = list index out of range---
+ERROR:root: id=311857抓取user时发生错误2016-06-01 12:27:06 Error = list index out of range---
+ERROR:root: id=262111抓取user时发生错误2016-06-01 12:27:43 Error = list index out of range---
+ERROR:root: id=292076抓取user时发生错误2016-06-01 12:27:55 Error = list index out of range---
+ERROR:root: id=381987抓取user时发生错误2016-06-01 12:28:36 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=311880抓取user时发生错误2016-06-01 12:28:36 Error = list index out of range---
+ERROR:root: id=292092抓取user时发生错误2016-06-01 12:28:58 Error = list index out of range---
+ERROR:root: id=311892抓取user时发生错误2016-06-01 12:29:00 Error = list index out of range---
+ERROR:root: id=161446抓取user时发生错误2016-06-01 12:29:09 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=262145抓取user时发生错误2016-06-01 12:29:57 Error = list index out of range---
+ERROR:root: id=262177抓取user时发生错误2016-06-01 12:31:18 Error = list index out of range---
+ERROR:root: id=181615抓取user时发生错误2016-06-01 12:31:19 Error = list index out of range---
+ERROR:root: id=272160抓取user时发生错误2016-06-01 12:32:14 Error = list index out of range---
+ERROR:root: id=311922抓取user时发生错误2016-06-01 12:33:05 Error = list index out of range---
+ERROR:root: id=262210抓取user时发生错误2016-06-01 12:33:10 Error = list index out of range---
+ERROR:root: id=272191抓取user时发生错误2016-06-01 12:33:48 Error = list index out of range---
+ERROR:root: id=351932抓取user时发生错误2016-06-01 12:34:08 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=282382抓取user时发生错误2016-06-01 12:34:19 Error = list index out of range---
+ERROR:root: id=151640抓取user时发生错误2016-06-01 12:34:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=311935抓取user时发生错误2016-06-01 12:34:34 Error = list index out of range---
+ERROR:root: id=201136抓取user时发生错误2016-06-01 12:36:07 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=272223抓取user时发生错误2016-06-01 12:36:13 Error = list index out of range---
+ERROR:root: id=341978抓取user时发生错误2016-06-01 12:36:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=311957抓取user时发生错误2016-06-01 12:36:28 Error = list index out of range---
+ERROR:root: id=121790抓取user时发生错误2016-06-01 12:36:32 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=171700抓取user时发生错误2016-06-01 12:37:03 Error = 1292 (22007): Incorrect datetime value: '0000637552972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=382084抓取user时发生错误2016-06-01 12:37:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181670抓取user时发生错误2016-06-01 12:37:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=272254抓取user时发生错误2016-06-01 12:37:28 Error = list index out of range---
+ERROR:root: id=262242抓取user时发生错误2016-06-01 12:38:40 Error = list index out of range---
+ERROR:root: id=292201抓取user时发生错误2016-06-01 12:38:44 Error = list index out of range---
+ERROR:root: id=311973抓取user时发生错误2016-06-01 12:39:17 Error = list index out of range---
+ERROR:root: id=502114抓取user时发生错误2016-06-01 12:39:28 Error = 1292 (22007): Incorrect datetime value: '0109230018933111296012960000000403000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=211772抓取user时发生错误2016-06-01 12:39:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=311993抓取user时发生错误2016-06-01 12:40:27 Error = list index out of range---
+ERROR:root: id=272282抓取user时发生错误2016-06-01 12:40:35 Error = list index out of range---
+ERROR:root: id=292233抓取user时发生错误2016-06-01 12:40:45 Error = list index out of range---
+ERROR:root: id=382135抓取user时发生错误2016-06-01 12:41:06 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=312012抓取user时发生错误2016-06-01 12:41:27 Error = list index out of range---
+ERROR:root: id=282434抓取user时发生错误2016-06-01 12:41:41 Error = list index out of range---
+ERROR:root: id=272301抓取user时发生错误2016-06-01 12:42:32 Error = 1292 (22007): Incorrect datetime value: '201604102972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=272307抓取user时发生错误2016-06-01 12:42:57 Error = list index out of range---
+ERROR:root: id=262277抓取user时发生错误2016-06-01 12:43:04 Error = list index out of range---
+ERROR:root: id=292277抓取user时发生错误2016-06-01 12:43:22 Error = list index out of range---
+ERROR:root: id=312028抓取user时发生错误2016-06-01 12:43:32 Error = list index out of range---
+ERROR:root: id=282467抓取user时发生错误2016-06-01 12:43:40 Error = list index out of range---
+ERROR:root: id=502180抓取user时发生错误2016-06-01 12:43:44 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=60703抓取user时发生错误2016-06-01 12:43:46 Error = 1292 (22007): Incorrect datetime value: '20160311092520160412194300' for column 'reply_time' at row 1---
+ERROR:root: id=292301抓取user时发生错误2016-06-01 12:44:54 Error = list index out of range---
+ERROR:root: id=41546抓取user时发生错误2016-06-01 12:45:05 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=241393抓取user时发生错误2016-06-01 12:45:51 Error = 1292 (22007): Incorrect datetime value: '0000000637552972225722101750000' for column 'reply_time' at row 1---
+ERROR:root: id=282517抓取user时发生错误2016-06-01 12:46:14 Error = list index out of range---
+ERROR:root: id=81666抓取user时发生错误2016-06-01 12:46:21 Error = 1292 (22007): Incorrect datetime value: '20160523197900' for column 'reply_time' at row 1---
+ERROR:root: id=262310抓取user时发生错误2016-06-01 12:46:47 Error = list index out of range---
+ERROR:root: id=41572抓取user时发生错误2016-06-01 12:47:45 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=451551抓取user时发生错误2016-06-01 12:47:51 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=292315抓取user时发生错误2016-06-01 12:48:30 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=312100抓取user时发生错误2016-06-01 12:48:37 Error = list index out of range---
+ERROR:root: id=292324抓取user时发生错误2016-06-01 12:48:47 Error = list index out of range---
+ERROR:root: id=282558抓取user时发生错误2016-06-01 12:49:15 Error = list index out of range---
+ERROR:root: id=262320抓取user时发生错误2016-06-01 12:49:31 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=171728抓取user时发生错误2016-06-01 12:49:41 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=231556抓取user时发生错误2016-06-01 12:49:41 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=312119抓取user时发生错误2016-06-01 12:49:48 Error = list index out of range---
+ERROR:root: id=422294抓取user时发生错误2016-06-01 12:50:09 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=312137抓取user时发生错误2016-06-01 12:50:36 Error = list index out of range---
+ERROR:root: id=292366抓取user时发生错误2016-06-01 12:51:10 Error = list index out of range---
+ERROR:root: id=292391抓取user时发生错误2016-06-01 12:52:25 Error = list index out of range---
+ERROR:root: id=262342抓取user时发生错误2016-06-01 12:53:15 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=262343抓取user时发生错误2016-06-01 12:53:15 Error = list index out of range---
+ERROR:root: id=1727抓取user时发生错误2016-06-01 12:54:08 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=292425抓取user时发生错误2016-06-01 12:54:28 Error = list index out of range---
+ERROR:root: id=141667抓取user时发生错误2016-06-01 12:55:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=292448抓取user时发生错误2016-06-01 12:55:42 Error = list index out of range---
+ERROR:root: id=282653抓取user时发生错误2016-06-01 12:56:25 Error = list index out of range---
+ERROR:root: id=262384抓取user时发生错误2016-06-01 12:56:28 Error = list index out of range---
+ERROR:root: id=462239抓取user时发生错误2016-06-01 12:56:34 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=91508抓取user时发生错误2016-06-01 12:58:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=292471抓取user时发生错误2016-06-01 12:59:20 Error = list index out of range---
+ERROR:root: id=312237抓取user时发生错误2016-06-01 12:59:20 Error = list index out of range---
+ERROR:root: id=262418抓取user时发生错误2016-06-01 12:59:31 Error = list index out of range---
+ERROR:root: id=272454抓取user时发生错误2016-06-01 12:59:31 Error = list index out of range---
+ERROR:root: id=282681抓取user时发生错误2016-06-01 12:59:55 Error = list index out of range---
+ERROR:root: id=372367抓取user时发生错误2016-06-01 13:00:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=451735抓取user时发生错误2016-06-01 13:00:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=292508抓取user时发生错误2016-06-01 13:00:48 Error = list index out of range---
+ERROR:root: id=312260抓取user时发生错误2016-06-01 13:01:17 Error = list index out of range---
+ERROR:root: id=402504抓取user时发生错误2016-06-01 13:01:26 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=292532抓取user时发生错误2016-06-01 13:01:37 Error = list index out of range---
+ERROR:root: id=262457抓取user时发生错误2016-06-01 13:01:54 Error = list index out of range---
+ERROR:root: id=312273抓取user时发生错误2016-06-01 13:02:06 Error = list index out of range---
+ERROR:root: id=282716抓取user时发生错误2016-06-01 13:02:20 Error = list index out of range---
+ERROR:root: id=282746抓取user时发生错误2016-06-01 13:03:40 Error = list index out of range---
+ERROR:root: id=262487抓取user时发生错误2016-06-01 13:03:41 Error = list index out of range---
+ERROR:root: id=312294抓取user时发生错误2016-06-01 13:03:57 Error = list index out of range---
+ERROR:root: id=312304抓取user时发生错误2016-06-01 13:04:15 Error = list index out of range---
+ERROR:root: id=292559抓取user时发生错误2016-06-01 13:04:33 Error = list index out of range---
+ERROR:root: id=282763抓取user时发生错误2016-06-01 13:05:10 Error = list index out of range---
+ERROR:root: id=272558抓取user时发生错误2016-06-01 13:05:37 Error = list index out of range---
+ERROR:root: id=342295抓取user时发生错误2016-06-01 13:06:07 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=262529抓取user时发生错误2016-06-01 13:06:35 Error = list index out of range---
+ERROR:root: id=32019抓取user时发生错误2016-06-01 13:06:40 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=312334抓取user时发生错误2016-06-01 13:06:58 Error = list index out of range---
+ERROR:root: id=282785抓取user时发生错误2016-06-01 13:07:17 Error = list index out of range---
+ERROR:root: id=141696抓取user时发生错误2016-06-01 13:07:30 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=302417抓取user时发生错误2016-06-01 13:07:33 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=272600抓取user时发生错误2016-06-01 13:08:33 Error = list index out of range---
+ERROR:root: id=262558抓取user时发生错误2016-06-01 13:08:36 Error = list index out of range---
+ERROR:root: id=292595抓取user时发生错误2016-06-01 13:08:40 Error = list index out of range---
+ERROR:root: id=282828抓取user时发生错误2016-06-01 13:09:42 Error = list index out of range---
+ERROR:root: id=332520抓取user时发生错误2016-06-01 13:10:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=262599抓取user时发生错误2016-06-01 13:10:56 Error = list index out of range---
+ERROR:root: id=171860抓取user时发生错误2016-06-01 13:10:56 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=161688抓取user时发生错误2016-06-01 13:11:01 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=292624抓取user时发生错误2016-06-01 13:11:13 Error = list index out of range---
+ERROR:root: id=272634抓取user时发生错误2016-06-01 13:11:23 Error = list index out of range---
+ERROR:root: id=282865抓取user时发生错误2016-06-01 13:12:51 Error = list index out of range---
+ERROR:root: id=262633抓取user时发生错误2016-06-01 13:13:17 Error = list index out of range---
+ERROR:root: id=302493抓取user时发生错误2016-06-01 13:13:35 Error = list index out of range---
+ERROR:root: id=272665抓取user时发生错误2016-06-01 13:13:36 Error = list index out of range---
+ERROR:root: id=292652抓取user时发生错误2016-06-01 13:13:38 Error = list index out of range---
+ERROR:root: id=21853抓取user时发生错误2016-06-01 13:14:18 Error = 1292 (22007): Incorrect datetime value: '3000003290303000' for column 'reply_time' at row 1---
+ERROR:root: id=302504抓取user时发生错误2016-06-01 13:14:54 Error = list index out of range---
+ERROR:root: id=292675抓取user时发生错误2016-06-01 13:15:09 Error = list index out of range---
+ERROR:root: id=302521抓取user时发生错误2016-06-01 13:15:29 Error = list index out of range---
+ERROR:root: id=231684抓取user时发生错误2016-06-01 13:15:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=282903抓取user时发生错误2016-06-01 13:16:03 Error = list index out of range---
+ERROR:root: id=412588抓取user时发生错误2016-06-01 13:16:07 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1901抓取user时发生错误2016-06-01 13:16:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=302551抓取user时发生错误2016-06-01 13:16:46 Error = list index out of range---
+ERROR:root: id=272701抓取user时发生错误2016-06-01 13:17:25 Error = list index out of range---
+ERROR:root: id=302577抓取user时发生错误2016-06-01 13:17:47 Error = list index out of range---
+ERROR:root: id=282927抓取user时发生错误2016-06-01 13:17:51 Error = list index out of range---
+ERROR:root: id=272735抓取user时发生错误2016-06-01 13:18:53 Error = list index out of range---
+ERROR:root: id=312410抓取user时发生错误2016-06-01 13:20:19 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=262671抓取user时发生错误2016-06-01 13:20:19 Error = list index out of range---
+ERROR:root: id=71893抓取user时发生错误2016-06-01 13:20:35 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=432547抓取user时发生错误2016-06-01 13:20:38 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=51839抓取user时发生错误2016-06-01 13:21:20 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=272765抓取user时发生错误2016-06-01 13:21:23 Error = list index out of range---
+ERROR:root: id=302611抓取user时发生错误2016-06-01 13:21:24 Error = list index out of range---
+ERROR:root: id=81840抓取user时发生错误2016-06-01 13:21:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=282982抓取user时发生错误2016-06-01 13:21:39 Error = list index out of range---
+ERROR:root: id=312414抓取user时发生错误2016-06-01 13:22:10 Error = list index out of range---
+ERROR:root: id=342394抓取user时发生错误2016-06-01 13:22:11 Error = 1366 (HY000): Incorrect integer value: 'c' for column 'bbs_id' at row 1---
+ERROR:root: id=302635抓取user时发生错误2016-06-01 13:22:39 Error = list index out of range---
+ERROR:root: id=41715抓取user时发生错误2016-06-01 13:22:44 Error = list index out of range---
+ERROR:root: id=312431抓取user时发生错误2016-06-01 13:22:57 Error = list index out of range---
+ERROR:root: id=71907抓取user时发生错误2016-06-01 13:23:45 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=272801抓取user时发生错误2016-06-01 13:23:49 Error = list index out of range---
+ERROR:root: id=292798抓取user时发生错误2016-06-01 13:39:33 Error = list index out of range---
+ERROR:root: id=221995抓取user时发生错误2016-06-01 13:39:34 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=322508抓取user时发生错误2016-06-01 13:39:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=302654抓取user时发生错误2016-06-01 13:40:07 Error = list index out of range---
+ERROR:root: id=312454抓取user时发生错误2016-06-01 13:40:17 Error = list index out of range---
+ERROR:root: id=283029抓取user时发生错误2016-06-01 13:40:52 Error = list index out of range---
+ERROR:root: id=262710抓取user时发生错误2016-06-01 13:41:34 Error = list index out of range---
+ERROR:root: id=312497抓取user时发生错误2016-06-01 13:42:22 Error = list index out of range---
+ERROR:root: id=292830抓取user时发生错误2016-06-01 13:42:43 Error = list index out of range---
+ERROR:root: id=272840抓取user时发生错误2016-06-01 13:42:44 Error = list index out of range---
+ERROR:root: id=51891抓取user时发生错误2016-06-01 13:42:57 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=442365抓取user时发生错误2016-06-01 13:43:02 Error = 1366 (HY000): Incorrect integer value: 'o' for column 'bbs_id' at row 1---
+ERROR:root: id=352496抓取user时发生错误2016-06-01 13:43:44 Error = 'decimal' codec can't encode characters in position 0-2: invalid decimal Unicode string---
+ERROR:root: id=292849抓取user时发生错误2016-06-01 13:43:49 Error = list index out of range---
+ERROR:root: id=112065抓取user时发生错误2016-06-01 13:44:10 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=302682抓取user时发生错误2016-06-01 13:44:13 Error = list index out of range---
+ERROR:root: id=41799抓取user时发生错误2016-06-01 13:44:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=292883抓取user时发生错误2016-06-01 13:45:40 Error = list index out of range---
+ERROR:root: id=302688抓取user时发生错误2016-06-01 13:45:51 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=262746抓取user时发生错误2016-06-01 13:46:33 Error = list index out of range---
+ERROR:root: id=272880抓取user时发生错误2016-06-01 13:47:00 Error = list index out of range---
+ERROR:root: id=292912抓取user时发生错误2016-06-01 13:47:26 Error = list index out of range---
+ERROR:root: id=292920抓取user时发生错误2016-06-01 13:48:07 Error = 1292 (22007): Incorrect datetime value: '20160310235113550214088100' for column 'reply_time' at row 1---
+ERROR:root: id=312570抓取user时发生错误2016-06-01 13:48:10 Error = list index out of range---
+ERROR:root: id=362734抓取user时发生错误2016-06-01 13:49:08 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=272910抓取user时发生错误2016-06-01 14:52:00 Error = list index out of range---
+ERROR:root: id=283107抓取user时发生错误2016-06-01 14:52:12 Error = list index out of range---
+ERROR:root: id=262780抓取user时发生错误2016-06-01 14:52:24 Error = list index out of range---
+ERROR:root: id=302756抓取user时发生错误2016-06-01 14:53:00 Error = list index out of range---
+ERROR:root: id=2065抓取user时发生错误2016-06-01 14:53:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=132057抓取user时发生错误2016-06-01 14:53:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=72036抓取user时发生错误2016-06-01 14:54:34 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=262812抓取user时发生错误2016-06-01 14:54:56 Error = list index out of range---
+ERROR:root: id=283141抓取user时发生错误2016-06-01 14:55:33 Error = list index out of range---
+ERROR:root: id=312621抓取user时发生错误2016-06-01 14:56:07 Error = list index out of range---
+ERROR:root: id=272951抓取user时发生错误2016-06-01 14:56:14 Error = list index out of range---
+ERROR:root: id=292991抓取user时发生错误2016-06-01 14:56:43 Error = 1264 (22003): Out of range value for column 'to_floor' at row 1---
+ERROR:root: id=283160抓取user时发生错误2016-06-01 14:57:29 Error = list index out of range---
+ERROR:root: id=302785抓取user时发生错误2016-06-01 14:57:37 Error = list index out of range---
