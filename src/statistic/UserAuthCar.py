@@ -1,11 +1,13 @@
 # -*-coding:utf-8-*-
-import HtmlUtil
-import StringUtil
-import bs4
 import datetime
 import logging
-import mysql.connector
 import threading
+
+import bs4
+import mysql.connector
+
+import HtmlUtil
+import StringUtil
 
 config = {'host': 'localhost',
           'user': 'root',
@@ -76,7 +78,7 @@ def run(id):
             print uid
             # uid = 26959260
             result = getStatistic(uid)
-            print result
+            # print result
             cur.execute("UPDATE `refactor_crawler`.`user` SET `auth_cars` = %s WHERE `uid` = %s", [result, uid])
         except Exception, e:
             if str(e) == "timed out" or str(e) == "<urlopen error timed out>" or str(
