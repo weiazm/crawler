@@ -73,7 +73,6 @@ def run(id):
         except Exception, e:
             if str(e) == "timed out" or str(
                     e) == "<urlopen error timed out>" or str(
-                e) == "HTTP Error 404: Not Found" or str(
                 e) == "[Errno 10054] " or str(
                 e) == "<urlopen error [Errno 11001] getaddrinfo failed>" or str(
                 e) == "HTTP Error 500: Internal Server Error" or str(

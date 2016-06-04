@@ -126,7 +126,7 @@ def run(id):
             bbs_id = bbs[2]
             car_id = bbs[1]
             url = bbs[3]
-            url = 'http://club.autohome.com.cn/bbs/thread-c-333-53025433-1.html'
+            # url = 'http://club.autohome.com.cn/bbs/thread-c-333-53025433-1.html'
             print url
             html = HtmlCreator(url, timeout=3).getUrlRespHtml()
             soup = BeautifulSoup(html, "html5lib")
