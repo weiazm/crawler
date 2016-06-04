@@ -14,11 +14,11 @@ cur = conn.cursor()
 # 5617263	204
 i = 0
 id = 0
-while i <= 502208:
+while i <= 1759952:
     if i % 10000 == 0:
         id = id + 1
         print id
-        cur.execute('INSERT INTO refactor_crawler.count2(id,start,end) VALUES(%s,%s,%s);', [id, i, i + 10000])
+        cur.execute('INSERT INTO refactor_crawler.count3(id,start,end) VALUES(%s,%s,%s);', [id, i, i + 10000])
     i = i + 1
 
 conn.commit()

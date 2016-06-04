@@ -1579,3 +1579,1152 @@ ERROR:root: id=850433抓取user时发生错误2016-06-04 12:04:16 Error = 'NoneT
 ERROR:root: id=471625抓取user时发生错误2016-06-04 12:04:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
 ERROR:root: id=31352抓取user时发生错误2016-06-04 12:04:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
 ERROR:root: id=31353抓取user时发生错误2016-06-04 12:05:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860471抓取user时发生错误2016-06-04 12:05:29 Error = list index out of range---
+ERROR:root: id=381482抓取user时发生错误2016-06-04 12:05:58 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=261602抓取user时发生错误2016-06-04 12:06:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=960339抓取user时发生错误2016-06-04 12:06:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=471630抓取user时发生错误2016-06-04 12:06:32 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860475抓取user时发生错误2016-06-04 12:06:35 Error = list index out of range---
+ERROR:root: id=850443抓取user时发生错误2016-06-04 12:07:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31362抓取user时发生错误2016-06-04 12:07:26 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=860479抓取user时发生错误2016-06-04 12:07:30 Error = list index out of range---
+ERROR:root: id=31363抓取user时发生错误2016-06-04 12:07:41 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=900397抓取user时发生错误2016-06-04 12:07:57 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=31364抓取user时发生错误2016-06-04 12:07:58 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=161623抓取user时发生错误2016-06-04 12:08:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=471635抓取user时发生错误2016-06-04 12:08:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=830406抓取user时发生错误2016-06-04 12:08:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=381487抓取user时发生错误2016-06-04 12:08:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860483抓取user时发生错误2016-06-04 12:08:32 Error = list index out of range---
+ERROR:root: id=740390抓取user时发生错误2016-06-04 12:08:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860487抓取user时发生错误2016-06-04 12:09:11 Error = list index out of range---
+ERROR:root: id=850449抓取user时发生错误2016-06-04 12:09:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=471638抓取user时发生错误2016-06-04 12:09:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=271556抓取user时发生错误2016-06-04 12:09:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860490抓取user时发生错误2016-06-04 12:09:41 Error = list index out of range---
+ERROR:root: id=960353抓取user时发生错误2016-06-04 12:09:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221579抓取user时发生错误2016-06-04 12:10:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860494抓取user时发生错误2016-06-04 12:10:42 Error = list index out of range---
+ERROR:root: id=351678抓取user时发生错误2016-06-04 12:10:52 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=790359抓取user时发生错误2016-06-04 12:10:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=650439抓取user时发生错误2016-06-04 12:11:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850457抓取user时发生错误2016-06-04 12:11:19 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860499抓取user时发生错误2016-06-04 12:11:59 Error = list index out of range---
+ERROR:root: id=261617抓取user时发生错误2016-06-04 12:12:08 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331440抓取user时发生错误2016-06-04 12:12:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=261620抓取user时发生错误2016-06-04 12:13:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=471646抓取user时发生错误2016-06-04 12:13:21 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850465抓取user时发生错误2016-06-04 12:13:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860504抓取user时发生错误2016-06-04 12:13:34 Error = list index out of range---
+ERROR:root: id=331443抓取user时发生错误2016-06-04 12:13:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331444抓取user时发生错误2016-06-04 12:13:52 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850469抓取user时发生错误2016-06-04 12:14:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=21683抓取user时发生错误2016-06-04 12:14:14 Error = list index out of range---
+ERROR:root: id=850473抓取user时发生错误2016-06-04 12:14:52 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860509抓取user时发生错误2016-06-04 12:15:03 Error = list index out of range---
+ERROR:root: id=850476抓取user时发生错误2016-06-04 12:15:27 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=261630抓取user时发生错误2016-06-04 12:16:11 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860514抓取user时发生错误2016-06-04 12:16:27 Error = list index out of range---
+ERROR:root: id=111597抓取user时发生错误2016-06-04 12:16:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=760356抓取user时发生错误2016-06-04 12:17:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860519抓取user时发生错误2016-06-04 12:17:19 Error = list index out of range---
+ERROR:root: id=331452抓取user时发生错误2016-06-04 12:17:25 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850482抓取user时发生错误2016-06-04 12:17:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=640411抓取user时发生错误2016-06-04 12:17:53 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=620374抓取user时发生错误2016-06-04 12:17:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850484抓取user时发生错误2016-06-04 12:18:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=111601抓取user时发生错误2016-06-04 12:18:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=471659抓取user时发生错误2016-06-04 12:18:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=221600抓取user时发生错误2016-06-04 12:18:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860524抓取user时发生错误2016-06-04 12:18:43 Error = list index out of range---
+ERROR:root: id=640415抓取user时发生错误2016-06-04 12:19:10 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=770436抓取user时发生错误2016-06-04 12:19:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850488抓取user时发生错误2016-06-04 12:19:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860530抓取user时发生错误2016-06-04 12:19:57 Error = list index out of range---
+ERROR:root: id=980423抓取user时发生错误2016-06-04 12:20:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31414抓取user时发生错误2016-06-04 12:20:13 Error = list index out of range---
+ERROR:root: id=111611抓取user时发生错误2016-06-04 12:20:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850492抓取user时发生错误2016-06-04 12:20:28 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331461抓取user时发生错误2016-06-04 12:20:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860535抓取user时发生错误2016-06-04 12:20:51 Error = list index out of range---
+ERROR:root: id=111613抓取user时发生错误2016-06-04 12:20:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=261650抓取user时发生错误2016-06-04 12:21:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331465抓取user时发生错误2016-06-04 12:21:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=111615抓取user时发生错误2016-06-04 12:21:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850496抓取user时发生错误2016-06-04 12:21:31 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=371578抓取user时发生错误2016-06-04 12:21:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860539抓取user时发生错误2016-06-04 12:22:01 Error = list index out of range---
+ERROR:root: id=361626抓取user时发生错误2016-06-04 12:22:34 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860543抓取user时发生错误2016-06-04 12:23:13 Error = list index out of range---
+ERROR:root: id=31427抓取user时发生错误2016-06-04 12:23:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=261659抓取user时发生错误2016-06-04 12:23:55 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860547抓取user时发生错误2016-06-04 12:23:57 Error = list index out of range---
+ERROR:root: id=860551抓取user时发生错误2016-06-04 12:24:36 Error = list index out of range---
+ERROR:root: id=850506抓取user时发生错误2016-06-04 12:25:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=710398抓取user时发生错误2016-06-04 12:25:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850508抓取user时发生错误2016-06-04 12:25:23 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=660344抓取user时发生错误2016-06-04 12:25:36 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860555抓取user时发生错误2016-06-04 12:25:38 Error = list index out of range---
+ERROR:root: id=560423抓取user时发生错误2016-06-04 12:25:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860558抓取user时发生错误2016-06-04 12:25:59 Error = list index out of range---
+ERROR:root: id=850511抓取user时发生错误2016-06-04 12:25:59 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860561抓取user时发生错误2016-06-04 12:26:24 Error = list index out of range---
+ERROR:root: id=371593抓取user时发生错误2016-06-04 12:26:40 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=850516抓取user时发生错误2016-06-04 12:27:20 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860565抓取user时发生错误2016-06-04 12:27:21 Error = list index out of range---
+ERROR:root: id=860566抓取user时发生错误2016-06-04 12:27:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=371598抓取user时发生错误2016-06-04 12:27:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=710406抓取user时发生错误2016-06-04 12:28:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860570抓取user时发生错误2016-06-04 12:28:29 Error = list index out of range---
+ERROR:root: id=760391抓取user时发生错误2016-06-04 12:28:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860573抓取user时发生错误2016-06-04 12:29:02 Error = list index out of range---
+ERROR:root: id=770469抓取user时发生错误2016-06-04 12:29:12 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=281868抓取user时发生错误2016-06-04 12:29:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=940449抓取user时发生错误2016-06-04 12:29:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860576抓取user时发生错误2016-06-04 12:29:38 Error = list index out of range---
+ERROR:root: id=331483抓取user时发生错误2016-06-04 12:29:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=810481抓取user时发生错误2016-06-04 12:30:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=760397抓取user时发生错误2016-06-04 12:30:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860579抓取user时发生错误2016-06-04 12:30:33 Error = list index out of range---
+ERROR:root: id=850527抓取user时发生错误2016-06-04 12:30:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=451724抓取user时发生错误2016-06-04 12:30:41 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860581抓取user时发生错误2016-06-04 12:30:48 Error = list index out of range---
+ERROR:root: id=640461抓取user时发生错误2016-06-04 12:31:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=980461抓取user时发生错误2016-06-04 12:31:07 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=840463抓取user时发生错误2016-06-04 12:31:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860584抓取user时发生错误2016-06-04 12:31:20 Error = list index out of range---
+ERROR:root: id=111648抓取user时发生错误2016-06-04 12:31:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=570494抓取user时发生错误2016-06-04 12:31:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860587抓取user时发生错误2016-06-04 12:31:58 Error = list index out of range---
+ERROR:root: id=640464抓取user时发生错误2016-06-04 12:32:05 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860590抓取user时发生错误2016-06-04 12:32:38 Error = list index out of range---
+ERROR:root: id=860593抓取user时发生错误2016-06-04 12:33:06 Error = list index out of range---
+ERROR:root: id=630467抓取user时发生错误2016-06-04 12:33:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860596抓取user时发生错误2016-06-04 12:33:52 Error = list index out of range---
+ERROR:root: id=820484抓取user时发生错误2016-06-04 12:33:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560448抓取user时发生错误2016-06-04 12:34:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860598抓取user时发生错误2016-06-04 12:34:09 Error = list index out of range---
+ERROR:root: id=860599抓取user时发生错误2016-06-04 12:34:09 Error = list index out of range---
+ERROR:root: id=860600抓取user时发生错误2016-06-04 12:34:09 Error = list index out of range---
+ERROR:root: id=860601抓取user时发生错误2016-06-04 12:34:09 Error = list index out of range---
+ERROR:root: id=860602抓取user时发生错误2016-06-04 12:34:09 Error = list index out of range---
+ERROR:root: id=860603抓取user时发生错误2016-06-04 12:34:09 Error = list index out of range---
+ERROR:root: id=820486抓取user时发生错误2016-06-04 12:34:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=980473抓取user时发生错误2016-06-04 12:35:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=650520抓取user时发生错误2016-06-04 12:36:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=261701抓取user时发生错误2016-06-04 12:36:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=391541抓取user时发生错误2016-06-04 12:36:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=840484抓取user时发生错误2016-06-04 12:37:12 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850545抓取user时发生错误2016-06-04 12:37:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=131615抓取user时发生错误2016-06-04 12:37:55 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=560459抓取user时发生错误2016-06-04 12:38:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850551抓取user时发生错误2016-06-04 12:39:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850554抓取user时发生错误2016-06-04 12:40:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=391553抓取user时发生错误2016-06-04 12:41:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850562抓取user时发生错误2016-06-04 12:42:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31495抓取user时发生错误2016-06-04 12:42:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31497抓取user时发生错误2016-06-04 12:43:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=540383抓取user时发生错误2016-06-04 12:43:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=980494抓取user时发生错误2016-06-04 12:43:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=141700抓取user时发生错误2016-06-04 12:43:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=141702抓取user时发生错误2016-06-04 12:44:39 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=560483抓取user时发生错误2016-06-04 12:45:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=471753抓取user时发生错误2016-06-04 12:46:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=780532抓取user时发生错误2016-06-04 12:46:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=780533抓取user时发生错误2016-06-04 12:46:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=251610抓取user时发生错误2016-06-04 12:46:37 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=560489抓取user时发生错误2016-06-04 12:47:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850579抓取user时发生错误2016-06-04 12:47:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=391571抓取user时发生错误2016-06-04 12:47:30 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=161754抓取user时发生错误2016-06-04 12:47:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331530抓取user时发生错误2016-06-04 12:47:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560494抓取user时发生错误2016-06-04 12:47:52 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=570544抓取user时发生错误2016-06-04 12:47:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560499抓取user时发生错误2016-06-04 12:48:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=550565抓取user时发生错误2016-06-04 12:49:08 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=910522抓取user时发生错误2016-06-04 12:49:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=51856抓取user时发生错误2016-06-04 12:49:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=311374抓取user时发生错误2016-06-04 12:50:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=830553抓取user时发生错误2016-06-04 12:51:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=730533抓取user时发生错误2016-06-04 12:52:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=41854抓取user时发生错误2016-06-04 12:52:47 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=740529抓取user时发生错误2016-06-04 12:52:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331543抓取user时发生错误2016-06-04 12:53:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=211796抓取user时发生错误2016-06-04 12:53:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=41859抓取user时发生错误2016-06-04 12:53:32 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980521抓取user时发生错误2016-06-04 12:53:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=690492抓取user时发生错误2016-06-04 12:54:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850604抓取user时发生错误2016-06-04 12:54:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=61484抓取user时发生错误2016-06-04 12:55:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=301701抓取user时发生错误2016-06-04 12:55:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11803抓取user时发生错误2016-06-04 12:56:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560519抓取user时发生错误2016-06-04 12:56:20 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=481594抓取user时发生错误2016-06-04 12:56:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=510601抓取user时发生错误2016-06-04 12:57:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331553抓取user时发生错误2016-06-04 12:57:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331555抓取user时发生错误2016-06-04 12:57:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=141735抓取user时发生错误2016-06-04 12:57:59 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331556抓取user时发生错误2016-06-04 12:58:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221722抓取user时发生错误2016-06-04 12:58:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=910554抓取user时发生错误2016-06-04 12:58:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=690506抓取user时发生错误2016-06-04 12:58:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=690508抓取user时发生错误2016-06-04 12:59:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331559抓取user时发生错误2016-06-04 12:59:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=211819抓取user时发生错误2016-06-04 12:59:57 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=910558抓取user时发生错误2016-06-04 13:00:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221732抓取user时发生错误2016-06-04 13:00:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331562抓取user时发生错误2016-06-04 13:00:28 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860699抓取user时发生错误2016-06-04 13:00:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=910560抓取user时发生错误2016-06-04 13:00:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221734抓取user时发生错误2016-06-04 13:01:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221735抓取user时发生错误2016-06-04 13:01:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331566抓取user时发生错误2016-06-04 13:01:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=680564抓取user时发生错误2016-06-04 13:01:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=441834抓取user时发生错误2016-06-04 13:01:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=301719抓取user时发生错误2016-06-04 13:01:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=840561抓取user时发生错误2016-06-04 13:02:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=41906抓取user时发生错误2016-06-04 13:02:56 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=910568抓取user时发生错误2016-06-04 13:03:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=241696抓取user时发生错误2016-06-04 13:03:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560540抓取user时发生错误2016-06-04 13:04:07 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=670566抓取user时发生错误2016-06-04 13:04:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=451843抓取user时发生错误2016-06-04 13:04:50 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=211843抓取user时发生错误2016-06-04 13:04:52 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=730580抓取user时发生错误2016-06-04 13:05:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=351821抓取user时发生错误2016-06-04 13:05:27 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=870621抓取user时发生错误2016-06-04 13:05:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850644抓取user时发生错误2016-06-04 13:06:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=690532抓取user时发生错误2016-06-04 13:06:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=71593抓取user时发生错误2016-06-04 13:06:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=71594抓取user时发生错误2016-06-04 13:06:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=261814抓取user时发生错误2016-06-04 13:06:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560550抓取user时发生错误2016-06-04 13:07:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331579抓取user时发生错误2016-06-04 13:07:08 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=700548抓取user时发生错误2016-06-04 13:07:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331582抓取user时发生错误2016-06-04 13:07:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850650抓取user时发生错误2016-06-04 13:07:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=61515抓取user时发生错误2016-06-04 13:07:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=71606抓取user时发生错误2016-06-04 13:08:59 Error = HTTP Error 404: Not Found---
+ERROR:root: id=381638抓取user时发生错误2016-06-04 13:09:11 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=331590抓取user时发生错误2016-06-04 13:10:57 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=490719抓取user时发生错误2016-06-04 13:11:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850665抓取user时发生错误2016-06-04 13:12:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=560565抓取user时发生错误2016-06-04 13:12:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331593抓取user时发生错误2016-06-04 13:12:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850666抓取user时发生错误2016-06-04 13:12:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=750561抓取user时发生错误2016-06-04 13:12:37 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=490724抓取user时发生错误2016-06-04 13:13:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=401818抓取user时发生错误2016-06-04 13:13:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850671抓取user时发生错误2016-06-04 13:14:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=51967抓取user时发生错误2016-06-04 13:14:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560570抓取user时发生错误2016-06-04 13:14:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=401820抓取user时发生错误2016-06-04 13:14:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21906抓取user时发生错误2016-06-04 13:14:57 Error = list index out of range---
+ERROR:root: id=21907抓取user时发生错误2016-06-04 13:14:57 Error = list index out of range---
+ERROR:root: id=560575抓取user时发生错误2016-06-04 13:15:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=560579抓取user时发生错误2016-06-04 13:16:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401827抓取user时发生错误2016-06-04 13:16:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=530633抓取user时发生错误2016-06-04 13:16:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331601抓取user时发生错误2016-06-04 13:17:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=630619抓取user时发生错误2016-06-04 13:17:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=401830抓取user时发生错误2016-06-04 13:17:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=760553抓取user时发生错误2016-06-04 13:17:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=401832抓取user时发生错误2016-06-04 13:17:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=530638抓取user时发生错误2016-06-04 13:18:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=730629抓取user时发生错误2016-06-04 13:18:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=401835抓取user时发生错误2016-06-04 13:18:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=790591抓取user时发生错误2016-06-04 13:19:13 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=131725抓取user时发生错误2016-06-04 13:19:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=81456抓取user时发生错误2016-06-04 13:19:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=341758抓取user时发生错误2016-06-04 13:19:34 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=790594抓取user时发生错误2016-06-04 13:19:49 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=331608抓取user时发生错误2016-06-04 13:20:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=610534抓取user时发生错误2016-06-04 13:20:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331610抓取user时发生错误2016-06-04 13:20:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=241741抓取user时发生错误2016-06-04 13:20:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=31664抓取user时发生错误2016-06-04 13:20:21 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=401841抓取user时发生错误2016-06-04 13:20:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=830665抓取user时发生错误2016-06-04 13:20:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21925抓取user时发生错误2016-06-04 13:20:52 Error = list index out of range---
+ERROR:root: id=151808抓取user时发生错误2016-06-04 13:21:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=920648抓取user时发生错误2016-06-04 13:21:44 Error = HTTP Error 404: Not Found---
+ERROR:root: id=830668抓取user时发生错误2016-06-04 13:21:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221809抓取user时发生错误2016-06-04 13:22:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=840637抓取user时发生错误2016-06-04 13:22:36 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=131734抓取user时发生错误2016-06-04 13:22:46 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=650695抓取user时发生错误2016-06-04 13:24:13 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=251753抓取user时发生错误2016-06-04 13:24:15 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=560600抓取user时发生错误2016-06-04 13:24:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=361833抓取user时发生错误2016-06-04 13:24:23 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=800642抓取user时发生错误2016-06-04 13:25:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=121596抓取user时发生错误2016-06-04 13:25:08 Error = 1366 (HY000): Incorrect string value: '\xF0\x9F\x9A\x99' for column 'content' at row 1---
+ERROR:root: id=81475抓取user时发生错误2016-06-04 13:26:25 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=580603抓取user时发生错误2016-06-04 13:26:28 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=211930抓取user时发生错误2016-06-04 13:26:32 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=161899抓取user时发生错误2016-06-04 13:26:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=630658抓取user时发生错误2016-06-04 13:27:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=660517抓取user时发生错误2016-06-04 13:27:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=401869抓取user时发生错误2016-06-04 13:27:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=640629抓取user时发生错误2016-06-04 13:27:53 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=730659抓取user时发生错误2016-06-04 13:28:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560611抓取user时发生错误2016-06-04 13:28:13 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401871抓取user时发生错误2016-06-04 13:28:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331630抓取user时发生错误2016-06-04 13:28:24 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=590707抓取user时发生错误2016-06-04 13:29:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181789抓取user时发生错误2016-06-04 13:29:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331636抓取user时发生错误2016-06-04 13:29:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=490797抓取user时发生错误2016-06-04 13:29:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=590709抓取user时发生错误2016-06-04 13:30:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21956抓取user时发生错误2016-06-04 13:30:26 Error = list index out of range---
+ERROR:root: id=560617抓取user时发生错误2016-06-04 13:30:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850724抓取user时发生错误2016-06-04 13:30:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=560620抓取user时发生错误2016-06-04 13:30:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=11947抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11948抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11949抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11950抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11951抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11952抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11953抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11954抓取user时发生错误2016-06-04 13:31:46 Error = list index out of range---
+ERROR:root: id=11955抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11956抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11957抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11958抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11959抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11960抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11961抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11962抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11963抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11964抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11965抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11966抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11967抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11968抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11969抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11970抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11971抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11972抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11973抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11974抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11975抓取user时发生错误2016-06-04 13:31:47 Error = list index out of range---
+ERROR:root: id=11976抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11977抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11978抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11979抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11980抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11981抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11982抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11983抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11984抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11985抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11986抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11987抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11988抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11989抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11990抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11991抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11992抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11993抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11994抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11995抓取user时发生错误2016-06-04 13:31:48 Error = list index out of range---
+ERROR:root: id=11996抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=11997抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=11998抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=11999抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12000抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12001抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12002抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12003抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12004抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12005抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12006抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12007抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12008抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12009抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12010抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12011抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12012抓取user时发生错误2016-06-04 13:31:49 Error = list index out of range---
+ERROR:root: id=12013抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12014抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12015抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12016抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12017抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12018抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12019抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12020抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12021抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12022抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12023抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12024抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12025抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12026抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12027抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12028抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12029抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12030抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12031抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12032抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12033抓取user时发生错误2016-06-04 13:31:50 Error = list index out of range---
+ERROR:root: id=12034抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12035抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12036抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12037抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12038抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12039抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12040抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12041抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12042抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12043抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12044抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12045抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12046抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12047抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12048抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12049抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12050抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12051抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12052抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12053抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12054抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12055抓取user时发生错误2016-06-04 13:31:51 Error = list index out of range---
+ERROR:root: id=12056抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12057抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12058抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12059抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12060抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12061抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12062抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12063抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12064抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12065抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12066抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12067抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12068抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12069抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12070抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12071抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12072抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12073抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12074抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12075抓取user时发生错误2016-06-04 13:31:52 Error = list index out of range---
+ERROR:root: id=12076抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12077抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12078抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12079抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12080抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12081抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12082抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12083抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12084抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12085抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12086抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12087抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12088抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12089抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12090抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=560624抓取user时发生错误2016-06-04 13:31:53 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=12091抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12092抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12093抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12094抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12095抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12096抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12097抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12098抓取user时发生错误2016-06-04 13:31:53 Error = list index out of range---
+ERROR:root: id=12099抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12100抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12101抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12102抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12103抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12104抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12105抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12106抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12107抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12108抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12109抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12110抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12111抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12112抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12113抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12114抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12115抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12116抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12117抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12118抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12119抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12120抓取user时发生错误2016-06-04 13:31:54 Error = list index out of range---
+ERROR:root: id=12121抓取user时发生错误2016-06-04 13:31:55 Error = list index out of range---
+ERROR:root: id=12122抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12123抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12124抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12125抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12126抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12127抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12128抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12129抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12130抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12131抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12132抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12133抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12134抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12135抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12136抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12137抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12138抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12139抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12140抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12141抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12142抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12143抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12144抓取user时发生错误2016-06-04 13:31:56 Error = list index out of range---
+ERROR:root: id=12145抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12146抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12147抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12148抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12149抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12150抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12151抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12152抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12153抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12154抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12155抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12156抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12157抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12158抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12159抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12160抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12161抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12162抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12163抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12164抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12165抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12166抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12167抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12168抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12169抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12170抓取user时发生错误2016-06-04 13:31:57 Error = list index out of range---
+ERROR:root: id=12171抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12172抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12173抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12174抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12175抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12176抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12177抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12178抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12179抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12180抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12181抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12182抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12183抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12184抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12185抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12186抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12187抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12188抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12189抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12190抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12191抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12192抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12193抓取user时发生错误2016-06-04 13:31:58 Error = list index out of range---
+ERROR:root: id=12194抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12195抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12196抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12197抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12198抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12199抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12200抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12201抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12202抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12203抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12204抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12205抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12206抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12207抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12208抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12209抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12210抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12211抓取user时发生错误2016-06-04 13:31:59 Error = list index out of range---
+ERROR:root: id=12212抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12213抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12214抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12215抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12216抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12217抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12218抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12219抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12220抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12221抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12222抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12223抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12224抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12225抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12226抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12227抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12228抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12229抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12230抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12231抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12232抓取user时发生错误2016-06-04 13:32:00 Error = list index out of range---
+ERROR:root: id=12233抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12234抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12235抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12236抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12237抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12238抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12239抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12240抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12241抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12242抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12243抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12244抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12245抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12246抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12247抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12248抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12249抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12250抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12251抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12252抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12253抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12254抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12255抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12256抓取user时发生错误2016-06-04 13:32:01 Error = list index out of range---
+ERROR:root: id=12257抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12258抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12259抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12260抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12261抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12262抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12263抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12264抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12265抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12266抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12267抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12268抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12269抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12270抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12271抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12272抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12273抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12274抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12275抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12276抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12277抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12278抓取user时发生错误2016-06-04 13:32:02 Error = list index out of range---
+ERROR:root: id=12279抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12280抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12281抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12282抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12283抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12284抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12285抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12286抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12287抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12288抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12289抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12290抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12291抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12292抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12293抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12294抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12295抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12296抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12297抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12298抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12299抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12300抓取user时发生错误2016-06-04 13:32:03 Error = list index out of range---
+ERROR:root: id=12301抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12302抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12303抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12304抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12305抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12306抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12307抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12308抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12309抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12310抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12311抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12312抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12313抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12314抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12315抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12316抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12317抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12318抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12319抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12320抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12321抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12322抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12323抓取user时发生错误2016-06-04 13:32:04 Error = list index out of range---
+ERROR:root: id=12324抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12325抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12326抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12327抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12328抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12329抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12330抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12331抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12332抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12333抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12334抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12335抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12336抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12337抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12338抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12339抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12340抓取user时发生错误2016-06-04 13:32:05 Error = list index out of range---
+ERROR:root: id=12341抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12342抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12343抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12344抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12345抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12346抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12347抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12348抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12349抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12350抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12351抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12352抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12353抓取user时发生错误2016-06-04 13:32:06 Error = list index out of range---
+ERROR:root: id=12354抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12355抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12356抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12357抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12358抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=42023抓取user时发生错误2016-06-04 13:32:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=12359抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12360抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12361抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12362抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12363抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12364抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12365抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12366抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12367抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12368抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12369抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12370抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12371抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12372抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12373抓取user时发生错误2016-06-04 13:32:07 Error = list index out of range---
+ERROR:root: id=12374抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12375抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12376抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12377抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12378抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12379抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12380抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12381抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12382抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12383抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12384抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12385抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12386抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12387抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12388抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12389抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12390抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12391抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12392抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12393抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12394抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12395抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12396抓取user时发生错误2016-06-04 13:32:08 Error = list index out of range---
+ERROR:root: id=12397抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12398抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12399抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12400抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12401抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12402抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12403抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12404抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12405抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12406抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12407抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12408抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12409抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12410抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12411抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12412抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12413抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12414抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12415抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12416抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12417抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12418抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12419抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12420抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12421抓取user时发生错误2016-06-04 13:32:09 Error = list index out of range---
+ERROR:root: id=12422抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12423抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12424抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12425抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12426抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12427抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12428抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12429抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12430抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12431抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12432抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12433抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12434抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12435抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12436抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12437抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12438抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12439抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12440抓取user时发生错误2016-06-04 13:32:10 Error = list index out of range---
+ERROR:root: id=12441抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12442抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12443抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12444抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12445抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12446抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12447抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12448抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12449抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12450抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12451抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12452抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12453抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12454抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12455抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12456抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12457抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12458抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12459抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12460抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12461抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12462抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12463抓取user时发生错误2016-06-04 13:32:11 Error = list index out of range---
+ERROR:root: id=12464抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=12465抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=12466抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=12467抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=12468抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=12469抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=12470抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=12471抓取user时发生错误2016-06-04 13:32:12 Error = list index out of range---
+ERROR:root: id=560628抓取user时发生错误2016-06-04 13:32:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850730抓取user时发生错误2016-06-04 13:33:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=670661抓取user时发生错误2016-06-04 13:33:11 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=840679抓取user时发生错误2016-06-04 13:33:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=560632抓取user时发生错误2016-06-04 13:33:26 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401889抓取user时发生错误2016-06-04 13:33:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850734抓取user时发生错误2016-06-04 13:34:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=560636抓取user时发生错误2016-06-04 13:34:20 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=61589抓取user时发生错误2016-06-04 13:35:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331647抓取user时发生错误2016-06-04 13:35:23 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=830713抓取user时发生错误2016-06-04 13:35:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850738抓取user时发生错误2016-06-04 13:35:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401897抓取user时发生错误2016-06-04 13:35:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=131767抓取user时发生错误2016-06-04 13:36:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850742抓取user时发生错误2016-06-04 13:36:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=101966抓取user时发生错误2016-06-04 13:36:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=151860抓取user时发生错误2016-06-04 13:37:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560645抓取user时发生错误2016-06-04 13:37:31 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401906抓取user时发生错误2016-06-04 13:38:13 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560649抓取user时发生错误2016-06-04 13:38:30 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401911抓取user时发生错误2016-06-04 13:39:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560656抓取user时发生错误2016-06-04 13:40:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331660抓取user时发生错误2016-06-04 13:40:31 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=111880抓取user时发生错误2016-06-04 13:40:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=690679抓取user时发生错误2016-06-04 13:41:34 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=401919抓取user时发生错误2016-06-04 13:41:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331664抓取user时发生错误2016-06-04 13:42:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=71757抓取user时发生错误2016-06-04 13:43:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=151880抓取user时发生错误2016-06-04 13:43:03 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=71758抓取user时发生错误2016-06-04 13:43:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=71759抓取user时发生错误2016-06-04 13:43:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560664抓取user时发生错误2016-06-04 13:43:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=71760抓取user时发生错误2016-06-04 13:43:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=451994抓取user时发生错误2016-06-04 13:44:38 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=61618抓取user时发生错误2016-06-04 13:45:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560673抓取user时发生错误2016-06-04 13:46:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850774抓取user时发生错误2016-06-04 13:46:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=61619抓取user时发生错误2016-06-04 13:46:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850776抓取user时发生错误2016-06-04 13:46:34 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401941抓取user时发生错误2016-06-04 13:46:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560677抓取user时发生错误2016-06-04 13:46:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=560681抓取user时发生错误2016-06-04 13:47:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=930695抓取user时发生错误2016-06-04 13:47:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=870743抓取user时发生错误2016-06-04 13:48:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331680抓取user时发生错误2016-06-04 13:48:06 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=930696抓取user时发生错误2016-06-04 13:48:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=560684抓取user时发生错误2016-06-04 13:48:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331684抓取user时发生错误2016-06-04 13:49:10 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=282131抓取user时发生错误2016-06-04 13:49:18 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=1715抓取user时发生错误2016-06-04 13:49:22 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=481806抓取user时发生错误2016-06-04 13:50:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850793抓取user时发生错误2016-06-04 13:50:15 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=401956抓取user时发生错误2016-06-04 13:50:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=401960抓取user时发生错误2016-06-04 13:51:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560692抓取user时发生错误2016-06-04 13:51:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=151910抓取user时发生错误2016-06-04 13:51:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=461841抓取user时发生错误2016-06-04 13:51:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=670726抓取user时发生错误2016-06-04 13:51:53 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=401963抓取user时发生错误2016-06-04 13:51:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560695抓取user时发生错误2016-06-04 13:52:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=261999抓取user时发生错误2016-06-04 13:54:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=550766抓取user时发生错误2016-06-04 13:54:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=960728抓取user时发生错误2016-06-04 13:54:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=81601抓取user时发生错误2016-06-04 13:54:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331698抓取user时发生错误2016-06-04 13:55:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=950738抓取user时发生错误2016-06-04 13:55:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=151926抓取user时发生错误2016-06-04 13:55:25 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=201984抓取user时发生错误2016-06-04 13:56:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560707抓取user时发生错误2016-06-04 13:56:55 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331706抓取user时发生错误2016-06-04 13:57:37 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331710抓取user时发生错误2016-06-04 13:58:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=151941抓取user时发生错误2016-06-04 13:59:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560716抓取user时发生错误2016-06-04 13:59:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=301924抓取user时发生错误2016-06-04 13:59:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=71835抓取user时发生错误2016-06-04 13:59:45 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850821抓取user时发生错误2016-06-04 13:59:49 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=151944抓取user时发生错误2016-06-04 14:00:00 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=980760抓取user时发生错误2016-06-04 14:00:23 Error = list index out of range---
+ERROR:root: id=980763抓取user时发生错误2016-06-04 14:01:13 Error = list index out of range---
+ERROR:root: id=212057抓取user时发生错误2016-06-04 14:02:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980766抓取user时发生错误2016-06-04 14:02:05 Error = list index out of range---
+ERROR:root: id=352017抓取user时发生错误2016-06-04 14:02:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=580716抓取user时发生错误2016-06-04 14:02:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=800793抓取user时发生错误2016-06-04 14:02:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980770抓取user时发生错误2016-06-04 14:02:52 Error = list index out of range---
+ERROR:root: id=331718抓取user时发生错误2016-06-04 14:03:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=620719抓取user时发生错误2016-06-04 14:03:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=980774抓取user时发生错误2016-06-04 14:03:41 Error = list index out of range---
+ERROR:root: id=950769抓取user时发生错误2016-06-04 14:03:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=12602抓取user时发生错误2016-06-04 14:04:26 Error = list index out of range---
+ERROR:root: id=12603抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12604抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12605抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12606抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12607抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12608抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12609抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12610抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12611抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=12612抓取user时发生错误2016-06-04 14:04:27 Error = list index out of range---
+ERROR:root: id=980778抓取user时发生错误2016-06-04 14:04:39 Error = list index out of range---
+ERROR:root: id=980781抓取user时发生错误2016-06-04 14:05:18 Error = list index out of range---
+ERROR:root: id=560730抓取user时发生错误2016-06-04 14:05:27 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=12620抓取user时发生错误2016-06-04 14:05:33 Error = list index out of range---
+ERROR:root: id=12621抓取user时发生错误2016-06-04 14:05:33 Error = list index out of range---
+ERROR:root: id=12622抓取user时发生错误2016-06-04 14:05:33 Error = list index out of range---
+ERROR:root: id=12623抓取user时发生错误2016-06-04 14:05:33 Error = list index out of range---
+ERROR:root: id=12624抓取user时发生错误2016-06-04 14:05:33 Error = list index out of range---
+ERROR:root: id=12625抓取user时发生错误2016-06-04 14:05:33 Error = list index out of range---
+ERROR:root: id=12626抓取user时发生错误2016-06-04 14:05:33 Error = list index out of range---
+ERROR:root: id=12627抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12628抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12629抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12630抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12631抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12632抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12633抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12634抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12635抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12636抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12637抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12638抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12639抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12640抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12641抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12642抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12643抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12644抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12645抓取user时发生错误2016-06-04 14:05:34 Error = list index out of range---
+ERROR:root: id=12646抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12647抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12648抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12649抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12650抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12651抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12652抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12653抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12654抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12655抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12656抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12657抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12658抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12659抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12660抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=12661抓取user时发生错误2016-06-04 14:05:35 Error = list index out of range---
+ERROR:root: id=980784抓取user时发生错误2016-06-04 14:05:56 Error = list index out of range---
+ERROR:root: id=422134抓取user时发生错误2016-06-04 14:06:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=12666抓取user时发生错误2016-06-04 14:06:13 Error = list index out of range---
+ERROR:root: id=12667抓取user时发生错误2016-06-04 14:06:13 Error = list index out of range---
+ERROR:root: id=12668抓取user时发生错误2016-06-04 14:06:13 Error = list index out of range---
+ERROR:root: id=12669抓取user时发生错误2016-06-04 14:06:13 Error = list index out of range---
+ERROR:root: id=12670抓取user时发生错误2016-06-04 14:06:13 Error = list index out of range---
+ERROR:root: id=12671抓取user时发生错误2016-06-04 14:06:13 Error = list index out of range---
+ERROR:root: id=980787抓取user时发生错误2016-06-04 14:06:30 Error = list index out of range---
+ERROR:root: id=12674抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12675抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12676抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12677抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12678抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12679抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12680抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12681抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12682抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12683抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12684抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12685抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12686抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12687抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12688抓取user时发生错误2016-06-04 14:06:52 Error = list index out of range---
+ERROR:root: id=12689抓取user时发生错误2016-06-04 14:06:53 Error = list index out of range---
+ERROR:root: id=331724抓取user时发生错误2016-06-04 14:07:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=980791抓取user时发生错误2016-06-04 14:07:27 Error = list index out of range---
+ERROR:root: id=12694抓取user时发生错误2016-06-04 14:07:57 Error = list index out of range---
+ERROR:root: id=980794抓取user时发生错误2016-06-04 14:08:02 Error = list index out of range---
+ERROR:root: id=980797抓取user时发生错误2016-06-04 14:08:35 Error = list index out of range---
+ERROR:root: id=301954抓取user时发生错误2016-06-04 14:08:55 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=930766抓取user时发生错误2016-06-04 14:08:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=980799抓取user时发生错误2016-06-04 14:09:01 Error = list index out of range---
+ERROR:root: id=22122抓取user时发生错误2016-06-04 14:09:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980802抓取user时发生错误2016-06-04 14:09:25 Error = list index out of range---
+ERROR:root: id=12699抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12700抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12701抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12702抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12703抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12704抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12705抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12706抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12707抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12708抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12709抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12710抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12711抓取user时发生错误2016-06-04 14:09:26 Error = list index out of range---
+ERROR:root: id=12712抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=12713抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=12714抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=12715抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=12716抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=12717抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=12718抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=12719抓取user时发生错误2016-06-04 14:09:27 Error = list index out of range---
+ERROR:root: id=850858抓取user时发生错误2016-06-04 14:09:58 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=980805抓取user时发生错误2016-06-04 14:10:04 Error = list index out of range---
+ERROR:root: id=301958抓取user时发生错误2016-06-04 14:10:10 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980808抓取user时发生错误2016-06-04 14:10:29 Error = list index out of range---
+ERROR:root: id=980811抓取user时发生错误2016-06-04 14:11:06 Error = list index out of range---
+ERROR:root: id=151979抓取user时发生错误2016-06-04 14:11:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331733抓取user时发生错误2016-06-04 14:11:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=980814抓取user时发生错误2016-06-04 14:11:26 Error = list index out of range---
+ERROR:root: id=980817抓取user时发生错误2016-06-04 14:11:43 Error = list index out of range---
+ERROR:root: id=151981抓取user时发生错误2016-06-04 14:11:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=301963抓取user时发生错误2016-06-04 14:12:09 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980820抓取user时发生错误2016-06-04 14:12:15 Error = list index out of range---
+ERROR:root: id=800823抓取user时发生错误2016-06-04 14:12:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=151983抓取user时发生错误2016-06-04 14:12:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=980822抓取user时发生错误2016-06-04 14:12:39 Error = list index out of range---
+ERROR:root: id=870808抓取user时发生错误2016-06-04 14:12:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980825抓取user时发生错误2016-06-04 14:13:16 Error = list index out of range---
+ERROR:root: id=301967抓取user时发生错误2016-06-04 14:13:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=980828抓取user时发生错误2016-06-04 14:13:51 Error = list index out of range---
+ERROR:root: id=402045抓取user时发生错误2016-06-04 14:13:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=980831抓取user时发生错误2016-06-04 14:14:10 Error = list index out of range---
+ERROR:root: id=212105抓取user时发生错误2016-06-04 14:14:55 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=402048抓取user时发生错误2016-06-04 14:14:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=61690抓取user时发生错误2016-06-04 14:14:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=12738抓取user时发生错误2016-06-04 14:15:00 Error = list index out of range---
+ERROR:root: id=12739抓取user时发生错误2016-06-04 14:15:00 Error = list index out of range---
+ERROR:root: id=12740抓取user时发生错误2016-06-04 14:15:00 Error = list index out of range---
+ERROR:root: id=12741抓取user时发生错误2016-06-04 14:15:01 Error = list index out of range---
+ERROR:root: id=12742抓取user时发生错误2016-06-04 14:15:01 Error = list index out of range---
+ERROR:root: id=12743抓取user时发生错误2016-06-04 14:15:01 Error = list index out of range---
+ERROR:root: id=12744抓取user时发生错误2016-06-04 14:15:01 Error = list index out of range---
+ERROR:root: id=12745抓取user时发生错误2016-06-04 14:15:01 Error = list index out of range---
+ERROR:root: id=12746抓取user时发生错误2016-06-04 14:15:01 Error = list index out of range---
+ERROR:root: id=331741抓取user时发生错误2016-06-04 14:15:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=402049抓取user时发生错误2016-06-04 14:15:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402050抓取user时发生错误2016-06-04 14:15:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=600827抓取user时发生错误2016-06-04 14:15:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=131861抓取user时发生错误2016-06-04 14:16:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=12755抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12756抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12757抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12758抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12759抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12760抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12761抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12762抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12763抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12764抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12765抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12766抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=12767抓取user时发生错误2016-06-04 14:16:32 Error = list index out of range---
+ERROR:root: id=212110抓取user时发生错误2016-06-04 14:16:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=402053抓取user时发生错误2016-06-04 14:16:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402054抓取user时发生错误2016-06-04 14:17:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402056抓取user时发生错误2016-06-04 14:17:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=22156抓取user时发生错误2016-06-04 14:18:11 Error = list index out of range---
+ERROR:root: id=301981抓取user时发生错误2016-06-04 14:18:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=212114抓取user时发生错误2016-06-04 14:18:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=402057抓取user时发生错误2016-06-04 14:18:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402058抓取user时发生错误2016-06-04 14:18:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=442132抓取user时发生错误2016-06-04 14:19:22 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=301985抓取user时发生错误2016-06-04 14:19:38 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=22163抓取user时发生错误2016-06-04 14:19:44 Error = list index out of range---
+ERROR:root: id=22164抓取user时发生错误2016-06-04 14:19:44 Error = list index out of range---
+ERROR:root: id=12779抓取user时发生错误2016-06-04 14:19:47 Error = list index out of range---
+ERROR:root: id=780862抓取user时发生错误2016-06-04 14:20:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=301990抓取user时发生错误2016-06-04 14:21:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=402070抓取user时发生错误2016-06-04 14:21:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331756抓取user时发生错误2016-06-04 14:21:49 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=301994抓取user时发生错误2016-06-04 14:22:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=402074抓取user时发生错误2016-06-04 14:22:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=202078抓取user时发生错误2016-06-04 14:22:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=31915抓取user时发生错误2016-06-04 14:22:41 Error = list index out of range---
+ERROR:root: id=402076抓取user时发生错误2016-06-04 14:22:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=302000抓取user时发生错误2016-06-04 14:23:32 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=402080抓取user时发生错误2016-06-04 14:23:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331762抓取user时发生错误2016-06-04 14:23:39 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=12801抓取user时发生错误2016-06-04 14:23:56 Error = list index out of range---
+ERROR:root: id=12802抓取user时发生错误2016-06-04 14:23:56 Error = list index out of range---
+ERROR:root: id=12803抓取user时发生错误2016-06-04 14:23:56 Error = list index out of range---
+ERROR:root: id=12804抓取user时发生错误2016-06-04 14:23:56 Error = list index out of range---
+ERROR:root: id=12805抓取user时发生错误2016-06-04 14:23:56 Error = list index out of range---
+ERROR:root: id=402082抓取user时发生错误2016-06-04 14:24:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=12807抓取user时发生错误2016-06-04 14:24:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=12809抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12810抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12811抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12812抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12813抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12814抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12815抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12816抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12817抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12818抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12819抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12820抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=12821抓取user时发生错误2016-06-04 14:24:23 Error = list index out of range---
+ERROR:root: id=302005抓取user时发生错误2016-06-04 14:24:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331768抓取user时发生错误2016-06-04 14:24:55 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=402088抓取user时发生错误2016-06-04 14:25:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402089抓取user时发生错误2016-06-04 14:25:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331772抓取user时发生错误2016-06-04 14:25:58 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=402093抓取user时发生错误2016-06-04 14:26:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=12835抓取user时发生错误2016-06-04 14:26:27 Error = list index out of range---
+ERROR:root: id=12836抓取user时发生错误2016-06-04 14:26:27 Error = list index out of range---
+ERROR:root: id=402097抓取user时发生错误2016-06-04 14:26:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402099抓取user时发生错误2016-06-04 14:27:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=12847抓取user时发生错误2016-06-04 14:27:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=402101抓取user时发生错误2016-06-04 14:27:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402103抓取user时发生错误2016-06-04 14:27:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402106抓取user时发生错误2016-06-04 14:28:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=402107抓取user时发生错误2016-06-04 14:28:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=12865抓取user时发生错误2016-06-04 14:28:49 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=331784抓取user时发生错误2016-06-04 14:29:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=372026抓取user时发生错误2016-06-04 14:29:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=102160抓取user时发生错误2016-06-04 14:31:14 Error = 1366 (HY000): Incorrect string value: '\xF0\x9F\x92\x8B' for column 'content' at row 1---
+ERROR:root: id=432018抓取user时发生错误2016-06-04 14:31:22 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=61738抓取user时发生错误2016-06-04 14:31:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=202123抓取user时发生错误2016-06-04 14:32:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=412022抓取user时发生错误2016-06-04 14:33:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=192126抓取user时发生错误2016-06-04 14:33:36 Error = 1406 (22001): Data too long for column 'content' at row 1---

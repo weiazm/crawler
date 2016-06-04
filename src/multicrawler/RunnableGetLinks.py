@@ -1,20 +1,33 @@
 # -*-coding:utf-8-*-
-import mysql.connector
+
+from bs4 import BeautifulSoup
 
 from HtmlUtil import HtmlCreator
-from SoupUtil import SoupOperator
-from SqlUtil import MysqlOperator
-from StringUtil import LinkOperator
 
-conn = mysql.connector.connect(user='root', password='1234', database='refactor_crawler', use_unicode=True)
-carIdBrands = MysqlOperator(conn).selectCarIds()
-for car in carIdBrands:
-    print car[0], car[1], car[2], car[3]
-    link = LinkOperator.makeLinkByCarId(car[1])
-    print link
-    html = HtmlCreator(link).getUrlRespHtml()
-    pageNum = SoupOperator(html).getBBSPageNum()
-    result = LinkOperator.makeLinkByPageNum(link, pageNum)
-    for res in result:
-        print res
-    SoupOperator.getBBSLinksFromForumLink(result, conn)
+
+def getBBSLinkFromLink(link):
+    soup = BeautifulSoup(HtmlCreator(link).getUrlRespHtml(), 'html5lib')
+    soupChild = soup.find(class_="content").find(class_="carea").find(id="subcontent").find_all(class_="list_dl")
+    for s in soupChild:
+        try:
+            lang = s.get('lang')
+            if (lang != None):
+                langs = lang.split('|')
+                # print lang
+                _bbsId = unicode(langs[2])
+                tag = s.dt.span
+                print _bbsId, tag
+        except Exception, e:
+            pass
+
+
+link = "http://club.autohome.com.cn/bbs/forum-c-3582-1.html?orderby=dateline&qaType=-1#pvareaid=101061"
+print link
+getBBSLinkFromLink(link)
+# html = HtmlCreator(link).getUrlRespHtml()
+# soup = BeautifulSoup(html,'html5lib')
+# pageNum = soup.find(class_="pagearea").find(class_="fr").get_text()[1:][0:-1]
+# result = LinkOperator.makeLinkByPageNum(link, pageNum)
+# for res in result:
+#     print res
+#     __getBBSLinkFromLink(res)

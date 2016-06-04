@@ -1,0 +1,3 @@
+ERROR:root: id=1抓取user时发生错误2016-06-04 19:50:27 Error = local variable 'if_recommend' referenced before assignment---
+ERROR:root: id=2抓取user时发生错误2016-06-04 19:50:28 Error = local variable 'if_recommend' referenced before assignment---
+ERROR:root: id=3抓取user时发生错误2016-06-04 19:50:29 Error = local variable 'if_recommend' referenced before assignment---
