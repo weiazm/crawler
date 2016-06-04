@@ -2728,3 +2728,8 @@ ERROR:root: id=61738抓取user时发生错误2016-06-04 14:31:33 Error = 'NoneTy
 ERROR:root: id=202123抓取user时发生错误2016-06-04 14:32:30 Error = 'NoneType' object has no attribute 'get_text'---
 ERROR:root: id=412022抓取user时发生错误2016-06-04 14:33:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
 ERROR:root: id=192126抓取user时发生错误2016-06-04 14:33:36 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=81773抓取user时发生错误2016-06-04 20:10:55 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=12930抓取user时发生错误2016-06-04 20:10:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=22231抓取user时发生错误2016-06-04 20:13:29 Error = 1366 (HY000): Incorrect integer value: '' for column 'if_elite' at row 1---
+ERROR:root: id=31972抓取user时发生错误2016-06-04 20:15:40 Error = 1366 (HY000): Incorrect integer value: '' for column 'if_elite' at row 1---
+ERROR:root: id=12930抓取user时发生错误2016-06-04 20:15:41 Error = 1366 (HY000): Incorrect integer value: '' for column 'if_elite' at row 1---

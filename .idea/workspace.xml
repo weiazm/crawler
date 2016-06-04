@@ -4,12 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/src/statistic/SoupUtil.py" line="66" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6a75aaf-7de2-4dce-a07f-dbc1805404af" name="Default" comment="补用户手机认证 多个抓0F">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/EliteRecommend.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/EliteRecommend.py" />
+    <list default="true" id="a6a75aaf-7de2-4dce-a07f-dbc1805404af" name="Default" comment="补帖子是否精华 推荐">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multicrawler/RunnableGetLinks.py" afterPath="$PROJECT_DIR$/src/multicrawler/RunnableGetLinks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/LableBBS.py" afterPath="$PROJECT_DIR$/src/statistic/LableBBS.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/0User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/0User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/1User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/1User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/2User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/2User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/3User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/3User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/4User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/4User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/5User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/5User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/6User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/6User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/7User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/7User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/8User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/8User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/9User0FContent.py" afterPath="$PROJECT_DIR$/src/statistic/9User0FContent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/EliteRecommend.py" afterPath="$PROJECT_DIR$/src/statistic/EliteRecommend.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/logOFContent.log" afterPath="$PROJECT_DIR$/src/statistic/logOFContent.log" />
     </list>
     <ignored path="crawler.iws" />
@@ -31,21 +38,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EliteRecommend.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/statistic/EliteRecommend.py">
+      <file leaf-file-name="0User0FContent.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/statistic/0User0FContent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1813">
-              <caret line="106" column="9" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+            <state relative-caret-position="703">
+              <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddMedalAndPhone.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/statistic/AddMedalAndPhone.py">
+      <file leaf-file-name="1User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/1User0FContent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+            <state relative-caret-position="3078">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/2User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/3User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/4User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/5User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/6User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/7User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/8User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9User0FContent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/statistic/9User0FContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -71,15 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py" />
-        <option value="$PROJECT_DIR$/src/user/RunnableGetUid.py" />
-        <option value="$PROJECT_DIR$/src/user/log.log" />
-        <option value="$PROJECT_DIR$/src/user/RunnalbeGetUser.py" />
-        <option value="$PROJECT_DIR$/src/user/StringUtil.py" />
-        <option value="$PROJECT_DIR$/src/user/1RunnalbeGetUser.py" />
-        <option value="$PROJECT_DIR$/src/user/2RunnableGetUser.py" />
-        <option value="$PROJECT_DIR$/src/user/3RunnableGetUser.py" />
         <option value="$PROJECT_DIR$/src/user/4RunnableGetUser.py" />
         <option value="$PROJECT_DIR$/src/user/5RunnableGetUser.py" />
         <option value="$PROJECT_DIR$/src/user/6RunnableGetUser.py" />
@@ -121,6 +199,16 @@
         <option value="$PROJECT_DIR$/src/multicrawler/RunnableGetLinks.py" />
         <option value="$PROJECT_DIR$/src/statistic/LableBBS.py" />
         <option value="$PROJECT_DIR$/src/statistic/EliteRecommend.py" />
+        <option value="$PROJECT_DIR$/src/statistic/0User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/1User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/2User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/3User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/4User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/5User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/6User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/7User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/8User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/9User0FContent.py" />
       </list>
     </option>
   </component>
@@ -241,7 +329,7 @@
       <recent name="D:\workSpace\PycharmSpace\crawler\src\user" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.EliteRecommend">
+  <component name="RunManager" selected="Python.0User0FContent">
     <configuration default="false" name="LableBBS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,23 +343,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="crawler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/LableBBS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="User0FContent" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/User0FContent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -323,6 +394,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="crawler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/EliteRecommend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="0User0FContent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/0User0FContent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -463,18 +551,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.LableBBS" />
-      <item index="1" class="java.lang.String" itemvalue="Python.User0FContent" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AddMedalAndPhone" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RunnableGetLinks" />
-      <item index="4" class="java.lang.String" itemvalue="Python.EliteRecommend" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AddMedalAndPhone" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RunnableGetLinks" />
+      <item index="3" class="java.lang.String" itemvalue="Python.EliteRecommend" />
+      <item index="4" class="java.lang.String" itemvalue="Python.0User0FContent" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.EliteRecommend" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LableBBS" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RunnableGetLinks" />
-        <item index="3" class="java.lang.String" itemvalue="Python.AddMedalAndPhone" />
-        <item index="4" class="java.lang.String" itemvalue="Python.User0FContent" />
+        <item index="0" class="java.lang.String" itemvalue="Python.0User0FContent" />
+        <item index="1" class="java.lang.String" itemvalue="Python.EliteRecommend" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LableBBS" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RunnableGetLinks" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AddMedalAndPhone" />
       </list>
     </recent_temporary>
   </component>
@@ -618,7 +706,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465013124275</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="补帖子是否精华 推荐">
+      <created>1465041374640</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1465041374640</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -639,7 +734,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46141732" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36535433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -684,7 +779,8 @@
     <MESSAGE value="认证车辆" />
     <MESSAGE value="用户主贴 用户回复" />
     <MESSAGE value="补用户手机认证 多个抓0F" />
-    <option name="LAST_COMMIT_MESSAGE" value="补用户手机认证 多个抓0F" />
+    <MESSAGE value="补帖子是否精华 推荐" />
+    <option name="LAST_COMMIT_MESSAGE" value="补帖子是否精华 推荐" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -696,34 +792,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/user/11RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/12RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/13RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/14RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/15RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/1RunnalbeGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/Run.py" />
-    <entry file="file://C:/Python27/Lib/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/debug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/RunnableGetUid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/mysql/connector/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2166">
@@ -937,13 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/statistic/logOFContent.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1603">
-          <caret line="1464" column="98" selection-start-line="1464" selection-start-column="98" selection-end-line="1464" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/statistic/phoneAuth.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -955,9 +1016,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#22#51#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,8 +1070,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/statistic/EliteRecommend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1813">
-          <caret line="106" column="9" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+        <state relative-caret-position="261">
+          <caret line="68" column="36" selection-start-line="64" selection-start-column="12" selection-end-line="68" selection-end-column="36" />
+          <folding>
+            <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/logOFContent.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23903">
+          <caret line="1464" column="98" selection-start-line="1464" selection-start-column="98" selection-end-line="1464" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/1User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3078">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/2User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/3User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/4User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/5User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/6User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/7User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/8User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/9User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/0User0FContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
           <folding />
         </state>
       </provider>

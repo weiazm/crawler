@@ -98,7 +98,7 @@ def run(id):
 
 threads = []
 # 1, 177
-for i in xrange(1, 21):
+for i in xrange(1, 30):
     th = threading.Thread(target=run, args=(i,))
     threads.append(th)
 

@@ -33,9 +33,11 @@ class BBSContent(object):
         self.num_of_faces = ""
         self.device = ""
         self.if_in_twenty = ""
+        self.if_elite = 0
+        self.if_recommend = 0
 
     def printContent(self):
-        print self.bbs_id, self.uid, self.from_floor, self.to_floor, self.reply_time, self.content, self.num_of_links, self.num_of_words, self.num_of_pictures, self.num_of_faces, self.device, self.if_in_twenty
+        print self.bbs_id, self.uid, self.from_floor, self.to_floor, self.reply_time, self.content, self.num_of_links, self.num_of_words, self.num_of_pictures, self.num_of_faces, self.device, self.if_in_twenty, self.if_elite, self.if_recommend
 
 
 def getBBSClickNum(soup):
@@ -59,9 +61,23 @@ def findGifNum(lis):
 
 
 def getF0Content(soup, bbsId, carId):
-    soup = soup.find(
-        class_="clearfix contstxt outer-section")
     bb = BBSContent()
+    #########################
+    bb.elite = 0
+    bb.if_recommend = 0
+    soup2 = soup.find(id="topic_detail_main").find(class_="conmain").find(
+        class_="clearfix contstxt outer-section")
+    tag = soup2.find(id="seal")
+    if tag != None:
+        if str(tag) == '<span class="pngfix Jing" id="seal"> </span>':
+            bb.if_elite = 1
+        if str(tag) == '<span class="pngfix Jian" id="seal"> </span>':
+            bb.if_recommend = 1
+    #########################
+
+    soup = soup.find(id="topic_detail_main").find(class_="conmain").find(
+        id="maxwrap-maintopic").find(
+        class_="clearfix contstxt outer-section")
     bb.bbs_id = bbsId
     bb.uid = soup['uid']
     bb.from_floor = '0'
@@ -110,10 +126,10 @@ def run(id):
             bbs_id = bbs[2]
             car_id = bbs[1]
             url = bbs[3]
+            url = 'http://club.autohome.com.cn/bbs/thread-c-333-53025433-1.html'
             print url
-            html = HtmlCreator(url, timeout=2).getUrlRespHtml()
-            soup = BeautifulSoup(html, "html5lib").find(id="topic_detail_main").find(class_="conmain").find(
-                id="maxwrap-maintopic")
+            html = HtmlCreator(url, timeout=3).getUrlRespHtml()
+            soup = BeautifulSoup(html, "html5lib")
             html = None
             # 帖子点击数量
             clickNum = getBBSClickNum(soup)
@@ -126,11 +142,11 @@ def run(id):
             c = getF0Content(soup, bbs_id, car_id)
             soup = None
             # c.printContent()
-            print url
             cur.execute(
-                'insert into main_content_user(bbs_id, uid, from_floor, to_floor, reply_time, content, num_of_links, num_of_words, num_of_pictures, num_of_faces, device,if_in_twenty) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)',
+                'insert into main_content_user(bbs_id, uid, from_floor, to_floor, reply_time, content, num_of_links, num_of_words, num_of_pictures, num_of_faces, device,if_in_twenty,if_elite,if_recommend) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)',
                 [c.bbs_id, c.uid, c.from_floor, c.to_floor, c.reply_time, c.content, c.num_of_links,
-                 c.num_of_words, c.num_of_pictures, c.num_of_faces, c.device, c.if_in_twenty])
+                 c.num_of_words, c.num_of_pictures, c.num_of_faces, c.device, c.if_in_twenty, c.if_elite,
+                 c.if_recommend])
             c = None
         except Exception, e:
             if str(e) == "timed out" or str(
