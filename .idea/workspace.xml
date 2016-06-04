@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/statistic/SoupUtil.py" line="66" mnemonic="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a6a75aaf-7de2-4dce-a07f-dbc1805404af" name="Default" comment="用户主贴 用户回复">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/LableBBS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/0User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/1User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/2User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/3User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/4User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/5User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/6User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/7User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/8User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/9User0FContent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/AddMedalAndPhone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/Constant.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/SoupUtil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/SqlUtil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/logOFContent.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/statistic/phoneAuth.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/UserAuthCar.py" afterPath="$PROJECT_DIR$/src/statistic/UserAuthCar.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/log.log" afterPath="$PROJECT_DIR$/src/statistic/log.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/logUserMain.log" afterPath="$PROJECT_DIR$/src/statistic/logUserMain.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/logUserReply.log" afterPath="$PROJECT_DIR$/src/statistic/logUserReply.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/statistic/LableBBS.py" afterPath="$PROJECT_DIR$/src/statistic/LableBBS.py" />
     </list>
     <ignored path="crawler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,26 +43,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserReply.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/statistic/UserReply.py">
+      <file leaf-file-name="phoneAuth.log" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/statistic/phoneAuth.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2755">
-              <caret line="154" column="25" selection-start-line="154" selection-start-column="12" selection-end-line="154" selection-end-column="25" />
-              <folding>
-                <element signature="e#21#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LableBBS.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/statistic/LableBBS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="e#21#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,14 +114,19 @@
         <option value="$PROJECT_DIR$/src/statistic/logUserMain.log" />
         <option value="$PROJECT_DIR$/src/statistic/UserAuthCar.py" />
         <option value="$PROJECT_DIR$/src/statistic/log.log" />
+        <option value="$PROJECT_DIR$/src/statistic/SqlUtil.py" />
+        <option value="$PROJECT_DIR$/src/statistic/Constant.py" />
+        <option value="$PROJECT_DIR$/src/statistic/SoupUtil.py" />
         <option value="$PROJECT_DIR$/src/statistic/LableBBS.py" />
+        <option value="$PROJECT_DIR$/src/statistic/AddMedalAndPhone.py" />
+        <option value="$PROJECT_DIR$/src/statistic/User0FContent.py" />
+        <option value="$PROJECT_DIR$/src/statistic/logOFContent.log" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1370" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -148,6 +154,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,14 +202,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="window" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="statistic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,16 +268,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workSpace\PycharmSpace\crawler\src\statistic" />
-      <recent name="D:\workSpace\PycharmSpace\crawler\src\user" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workSpace\PycharmSpace\crawler\src\user" />
       <recent name="D:\workSpace\PycharmSpace\crawler\src\statistic" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workSpace\PycharmSpace\crawler\src\statistic" />
+      <recent name="D:\workSpace\PycharmSpace\crawler\src\user" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.LableBBS">
+  <component name="RunManager" selected="Python.AddMedalAndPhone">
     <configuration default="false" name="UserAuthCar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,57 +295,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="UserFanFollow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/UserFanFollow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="UserMainBBS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/UserMainBBS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="UserReply" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/UserReply.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="LableBBS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,6 +308,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="crawler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/LableBBS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="User0FContent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/User0FContent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SoupUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/SoupUtil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AddMedalAndPhone" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/statistic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/statistic/AddMedalAndPhone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -457,18 +499,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.UserAuthCar" />
-      <item index="1" class="java.lang.String" itemvalue="Python.UserFanFollow" />
-      <item index="2" class="java.lang.String" itemvalue="Python.UserMainBBS" />
-      <item index="3" class="java.lang.String" itemvalue="Python.UserReply" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LableBBS" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LableBBS" />
+      <item index="2" class="java.lang.String" itemvalue="Python.User0FContent" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SoupUtil" />
+      <item index="4" class="java.lang.String" itemvalue="Python.AddMedalAndPhone" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LableBBS" />
-        <item index="1" class="java.lang.String" itemvalue="Python.UserAuthCar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.UserReply" />
-        <item index="3" class="java.lang.String" itemvalue="Python.UserMainBBS" />
-        <item index="4" class="java.lang.String" itemvalue="Python.UserFanFollow" />
+        <item index="0" class="java.lang.String" itemvalue="Python.AddMedalAndPhone" />
+        <item index="1" class="java.lang.String" itemvalue="Python.User0FContent" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LableBBS" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SoupUtil" />
+        <item index="4" class="java.lang.String" itemvalue="Python.UserAuthCar" />
       </list>
     </recent_temporary>
   </component>
@@ -598,7 +640,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464764336148</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="用户主贴 用户回复">
+      <created>1464877264472</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1464877264472</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -611,10 +660,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="0" width="1370" height="754" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13323572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1816839" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -627,7 +676,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25776398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3121118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -675,39 +724,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crawler/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/persionalTest/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="213" column="69" selection-start-line="213" selection-start-column="60" selection-end-line="213" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="74" column="21" selection-start-line="73" selection-start-column="8" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/2RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/3RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/4RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/5RunnableGetUser.py" />
-    <entry file="file://$PROJECT_DIR$/src/user/6RunnableGetUser.py" />
     <entry file="file://$PROJECT_DIR$/src/user/7RunnableGetUser.py" />
     <entry file="file://$PROJECT_DIR$/src/user/8RunnableGetUser.py" />
     <entry file="file://$PROJECT_DIR$/src/user/9RunnableGetUser.py" />
@@ -761,24 +777,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/statistic/statistic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/window/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/statistic/HtmlUtil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -831,13 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/Constant.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="42" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/user/SqlUtil.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -873,13 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/statistic/UserMainBBS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="120" column="24" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/statistic/logUserReply.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33174">
@@ -891,13 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/SoupUtil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3280">
-          <caret line="245" column="81" selection-start-line="245" selection-start-column="81" selection-end-line="245" selection-end-column="81" />
         </state>
       </provider>
     </entry>
@@ -915,30 +896,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/Constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/HtmlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multicrawler/1RunnableGetContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/SoupUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="89" column="16" selection-start-line="84" selection-start-column="4" selection-end-line="89" selection-end-column="16" />
+          <folding>
+            <element signature="e#21#34#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/SoupUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="53" column="53" selection-start-line="52" selection-start-column="8" selection-end-line="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/statistic/logUserMain.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="4236" column="86" selection-start-line="1736" selection-start-column="60" selection-end-line="1736" selection-end-column="95" />
+        <state relative-caret-position="80218">
+          <caret line="4222" column="59" selection-start-line="4222" selection-start-column="59" selection-end-line="4222" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/SqlUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/UserMainBBS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="144" column="12" selection-start-line="135" selection-start-column="0" selection-end-line="144" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="1276" column="0" selection-start-line="1276" selection-start-column="0" selection-end-line="1276" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/statistic/UserReply.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2755">
-          <caret line="154" column="25" selection-start-line="154" selection-start-column="12" selection-end-line="154" selection-end-column="25" />
-          <folding>
-            <element signature="e#21#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="436">
+          <caret line="146" column="37" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/statistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/statistic/LableBBS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#21#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/User0FContent.py" />
+    <entry file="file://$PROJECT_DIR$/src/statistic/AddMedalAndPhone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/Constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/logOFContent.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1603">
+          <caret line="1464" column="98" selection-start-line="1464" selection-start-column="98" selection-end-line="1464" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statistic/phoneAuth.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

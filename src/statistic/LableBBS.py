@@ -11,13 +11,14 @@ config = {'host': 'localhost',
           }
 conn = mysql.connector.connect(**config)
 cur = conn.cursor()
-cur.execute('SELECT bbs_id from temp')
-i = 1
-for line in cur.fetchall():
-    bbs_id = line[0];
-    print i
-    cur.execute('UPDATE refactor_crawler.main_content SET auto_label = 0 WHERE bbs_id = %s', [bbs_id, ])
-    i += 1;
+# 5617263	204
+i = 0
+id = 0
+while i <= 502208:
+    if i % 10000 == 0:
+        id = id + 1
+        print id
+        cur.execute('INSERT INTO refactor_crawler.count2(id,start,end) VALUES(%s,%s,%s);', [id, i, i + 10000])
+    i = i + 1
 
-# cur.execute('SELECT uid FROM refactor_crawler.user where id = %s', [index, ])
 conn.commit()

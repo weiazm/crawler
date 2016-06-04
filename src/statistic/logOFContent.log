@@ -1,0 +1,1581 @@
+ERROR:root: id=200001抓取user时发生错误2016-06-03 17:52:38 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180002抓取user时发生错误2016-06-03 17:55:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130006抓取user时发生错误2016-06-03 18:04:29 Error = 'gbk' codec can't encode character u'\xa0' in position 3: illegal multibyte sequence---
+ERROR:root: id=590002抓取user时发生错误2016-06-03 18:04:39 Error = 'gbk' codec can't encode character u'\xa0' in position 33: illegal multibyte sequence---
+ERROR:root: id=220004抓取user时发生错误2016-06-03 18:04:51 Error = 'gbk' codec can't encode character u'\xa0' in position 191: illegal multibyte sequence---
+ERROR:root: id=30006抓取user时发生错误2016-06-03 18:05:01 Error = 'gbk' codec can't encode character u'\xa0' in position 14: illegal multibyte sequence---
+ERROR:root: id=930001抓取user时发生错误2016-06-03 18:05:05 Error = 'gbk' codec can't encode character u'\xa0' in position 91: illegal multibyte sequence---
+ERROR:root: id=70003抓取user时发生错误2016-06-03 18:05:05 Error = 'gbk' codec can't encode character u'\xa0' in position 13: illegal multibyte sequence---
+ERROR:root: id=180002抓取user时发生错误2016-06-03 18:05:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=50002抓取user时发生错误2016-06-03 18:05:20 Error = 'gbk' codec can't encode character u'\u30fb' in position 122: illegal multibyte sequence---
+ERROR:root: id=890001抓取user时发生错误2016-06-03 18:05:20 Error = 'gbk' codec can't encode character u'\u30fb' in position 6: illegal multibyte sequence---
+ERROR:root: id=40003抓取user时发生错误2016-06-03 18:05:23 Error = 'gbk' codec can't encode character u'\xa0' in position 194: illegal multibyte sequence---
+ERROR:root: id=120003抓取user时发生错误2016-06-03 18:05:25 Error = 'gbk' codec can't encode character u'\xa0' in position 10: illegal multibyte sequence---
+ERROR:root: id=130008抓取user时发生错误2016-06-03 18:05:31 Error = 'gbk' codec can't encode character u'\xa0' in position 7: illegal multibyte sequence---
+ERROR:root: id=370002抓取user时发生错误2016-06-03 18:05:31 Error = 'gbk' codec can't encode character u'\xa0' in position 208: illegal multibyte sequence---
+ERROR:root: id=910002抓取user时发生错误2016-06-03 18:05:32 Error = 'gbk' codec can't encode character u'\xa0' in position 13: illegal multibyte sequence---
+ERROR:root: id=940000抓取user时发生错误2016-06-03 18:05:38 Error = 'gbk' codec can't encode character u'\xa0' in position 16: illegal multibyte sequence---
+ERROR:root: id=310002抓取user时发生错误2016-06-03 18:05:46 Error = 'gbk' codec can't encode character u'\xa0' in position 508: illegal multibyte sequence---
+ERROR:root: id=610001抓取user时发生错误2016-06-03 18:05:50 Error = 'gbk' codec can't encode character u'\u30fb' in position 806: illegal multibyte sequence---
+ERROR:root: id=200001抓取user时发生错误2016-06-03 18:05:50 Error = 'gbk' codec can't encode character u'\xa0' in position 18: illegal multibyte sequence---
+ERROR:root: id=600001抓取user时发生错误2016-06-03 18:05:53 Error = 'gbk' codec can't encode character u'\xa0' in position 53: illegal multibyte sequence---
+ERROR:root: id=680000抓取user时发生错误2016-06-03 18:05:53 Error = 'gbk' codec can't encode character u'\xa0' in position 2: illegal multibyte sequence---
+ERROR:root: id=150003抓取user时发生错误2016-06-03 18:05:54 Error = 'gbk' codec can't encode character u'\xa0' in position 173: illegal multibyte sequence---
+ERROR:root: id=480002抓取user时发生错误2016-06-03 18:05:57 Error = 'gbk' codec can't encode character u'\xa0' in position 53: illegal multibyte sequence---
+ERROR:root: id=830000抓取user时发生错误2016-06-03 18:06:18 Error = 'gbk' codec can't encode character u'\xa0' in position 88: illegal multibyte sequence---
+ERROR:root: id=900001抓取user时发生错误2016-06-03 18:06:24 Error = 'gbk' codec can't encode character u'\xa0' in position 112: illegal multibyte sequence---
+ERROR:root: id=310003抓取user时发生错误2016-06-03 18:06:33 Error = 'gbk' codec can't encode character u'\xa0' in position 26: illegal multibyte sequence---
+ERROR:root: id=10004抓取user时发生错误2016-06-03 18:06:35 Error = 'gbk' codec can't encode character u'\xa0' in position 78: illegal multibyte sequence---
+ERROR:root: id=670003抓取user时发生错误2016-06-03 18:06:37 Error = 'gbk' codec can't encode character u'\xa0' in position 172: illegal multibyte sequence---
+ERROR:root: id=930002抓取user时发生错误2016-06-03 18:06:40 Error = 'gbk' codec can't encode character u'\xa0' in position 137: illegal multibyte sequence---
+ERROR:root: id=290002抓取user时发生错误2016-06-03 18:06:42 Error = 'gbk' codec can't encode character u'\xa0' in position 17: illegal multibyte sequence---
+ERROR:root: id=40004抓取user时发生错误2016-06-03 18:07:00 Error = 'gbk' codec can't encode character u'\xa0' in position 80: illegal multibyte sequence---
+ERROR:root: id=610002抓取user时发生错误2016-06-03 18:07:00 Error = 'gbk' codec can't encode character u'\xa0' in position 3: illegal multibyte sequence---
+ERROR:root: id=420006抓取user时发生错误2016-06-03 18:07:00 Error = 'gbk' codec can't encode character u'\xa0' in position 55: illegal multibyte sequence---
+ERROR:root: id=70004抓取user时发生错误2016-06-03 18:07:03 Error = 'gbk' codec can't encode character u'\xa0' in position 136: illegal multibyte sequence---
+ERROR:root: id=130010抓取user时发生错误2016-06-03 18:07:25 Error = 'gbk' codec can't encode character u'\xa0' in position 8: illegal multibyte sequence---
+ERROR:root: id=850002抓取user时发生错误2016-06-03 18:07:26 Error = 'gbk' codec can't encode character u'\xa0' in position 75: illegal multibyte sequence---
+ERROR:root: id=890003抓取user时发生错误2016-06-03 18:07:27 Error = 'gbk' codec can't encode character u'\u30fb' in position 0: illegal multibyte sequence---
+ERROR:root: id=200002抓取user时发生错误2016-06-03 18:07:30 Error = 'gbk' codec can't encode character u'\xa0' in position 65: illegal multibyte sequence---
+ERROR:root: id=940001抓取user时发生错误2016-06-03 18:07:35 Error = 'gbk' codec can't encode character u'\xa0' in position 200: illegal multibyte sequence---
+ERROR:root: id=110005抓取user时发生错误2016-06-03 18:07:44 Error = 'gbk' codec can't encode character u'\xa0' in position 144: illegal multibyte sequence---
+ERROR:root: id=710003抓取user时发生错误2016-06-03 18:07:46 Error = 'gbk' codec can't encode character u'\xa0' in position 11: illegal multibyte sequence---
+ERROR:root: id=170003抓取user时发生错误2016-06-03 18:07:49 Error = 'gbk' codec can't encode character u'\xa0' in position 12: illegal multibyte sequence---
+ERROR:root: id=920003抓取user时发生错误2016-06-03 18:08:19 Error = 'gbk' codec can't encode character u'\xa0' in position 107: illegal multibyte sequence---
+ERROR:root: id=640006抓取user时发生错误2016-06-03 18:08:25 Error = 'gbk' codec can't encode character u'\xa0' in position 19: illegal multibyte sequence---
+ERROR:root: id=910005抓取user时发生错误2016-06-03 18:08:32 Error = 'gbk' codec can't encode character u'\xa0' in position 102: illegal multibyte sequence---
+ERROR:root: id=720004抓取user时发生错误2016-06-03 18:08:38 Error = 'gbk' codec can't encode character u'\xa0' in position 453: illegal multibyte sequence---
+ERROR:root: id=930004抓取user时发生错误2016-06-03 18:08:38 Error = 'gbk' codec can't encode character u'\xa0' in position 24: illegal multibyte sequence---
+ERROR:root: id=30010抓取user时发生错误2016-06-03 18:08:45 Error = 'gbk' codec can't encode character u'\xa0' in position 8: illegal multibyte sequence---
+ERROR:root: id=940002抓取user时发生错误2016-06-03 18:08:48 Error = 'gbk' codec can't encode character u'\xa0' in position 139: illegal multibyte sequence---
+ERROR:root: id=110006抓取user时发生错误2016-06-03 18:08:49 Error = 'gbk' codec can't encode character u'\xa0' in position 13: illegal multibyte sequence---
+ERROR:root: id=70005抓取user时发生错误2016-06-03 18:09:03 Error = 'gbk' codec can't encode character u'\xa0' in position 32: illegal multibyte sequence---
+ERROR:root: id=600004抓取user时发生错误2016-06-03 18:09:15 Error = 'gbk' codec can't encode character u'\xa0' in position 157: illegal multibyte sequence---
+ERROR:root: id=660003抓取user时发生错误2016-06-03 18:09:28 Error = 'gbk' codec can't encode character u'\xa0' in position 843: illegal multibyte sequence---
+ERROR:root: id=890004抓取user时发生错误2016-06-03 18:09:28 Error = 'gbk' codec can't encode character u'\u30fb' in position 0: illegal multibyte sequence---
+ERROR:root: id=200003抓取user时发生错误2016-06-03 18:09:36 Error = 'gbk' codec can't encode character u'\xa0' in position 39: illegal multibyte sequence---
+ERROR:root: id=30011抓取user时发生错误2016-06-03 18:09:43 Error = 'gbk' codec can't encode character u'\xa0' in position 10: illegal multibyte sequence---
+ERROR:root: id=10006抓取user时发生错误2016-06-03 18:09:50 Error = 'gbk' codec can't encode character u'\xa0' in position 12: illegal multibyte sequence---
+
+
+ERROR:root: id=550007抓取user时发生错误2016-06-03 18:12:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180005抓取user时发生错误2016-06-03 18:13:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=200001抓取user时发生错误2016-06-03 18:13:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180008抓取user时发生错误2016-06-03 18:16:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=520008抓取user时发生错误2016-06-03 18:18:16 Error = [Errno 22] Invalid argument---
+ERROR:root: id=30017抓取user时发生错误2016-06-03 18:18:19 Error = [Errno 22] Invalid argument---
+ERROR:root: id=460010抓取user时发生错误2016-06-03 18:18:20 Error = [Errno 22] Invalid argument---
+ERROR:root: id=660007抓取user时发生错误2016-06-03 18:18:20 Error = [Errno 22] Invalid argument---
+ERROR:root: id=330008抓取user时发生错误2016-06-03 18:18:21 Error = [Errno 22] Invalid argument---
+ERROR:root: id=410013抓取user时发生错误2016-06-03 18:18:21 Error = [Errno 22] Invalid argument---
+ERROR:root: id=510010抓取user时发生错误2016-06-03 18:18:21 Error = [Errno 22] Invalid argument---
+ERROR:root: id=560015抓取user时发生错误2016-06-03 18:18:23 Error = [Errno 22] Invalid argument---
+ERROR:root: id=630009抓取user时发生错误2016-06-03 18:18:23 Error = [Errno 22] Invalid argument---
+ERROR:root: id=620007抓取user时发生错误2016-06-03 18:18:23 Error = [Errno 22] Invalid argument---
+ERROR:root: id=140010抓取user时发生错误2016-06-03 18:18:24 Error = [Errno 22] Invalid argument---
+ERROR:root: id=280014抓取user时发生错误2016-06-03 18:18:25 Error = [Errno 22] Invalid argument---
+ERROR:root: id=110012抓取user时发生错误2016-06-03 18:18:25 Error = [Errno 22] Invalid argument---
+ERROR:root: id=540012抓取user时发生错误2016-06-03 18:18:26 Error = [Errno 22] Invalid argument---
+ERROR:root: id=340008抓取user时发生错误2016-06-03 18:18:26 Error = [Errno 22] Invalid argument---
+ERROR:root: id=150012抓取user时发生错误2016-06-03 18:18:27 Error = [Errno 22] Invalid argument---
+ERROR:root: id=360017抓取user时发生错误2016-06-03 18:18:28 Error = [Errno 22] Invalid argument---
+ERROR:root: id=610007抓取user时发生错误2016-06-03 18:18:29 Error = [Errno 22] Invalid argument---
+ERROR:root: id=310011抓取user时发生错误2016-06-03 18:18:29 Error = [Errno 22] Invalid argument---
+ERROR:root: id=500005抓取user时发生错误2016-06-03 18:18:31 Error = [Errno 22] Invalid argument---
+ERROR:root: id=600011抓取user时发生错误2016-06-03 18:18:32 Error = [Errno 22] Invalid argument---
+ERROR:root: id=390010抓取user时发生错误2016-06-03 18:18:33 Error = [Errno 22] Invalid argument---
+ERROR:root: id=480007抓取user时发生错误2016-06-03 18:18:34 Error = [Errno 22] Invalid argument---
+ERROR:root: id=120012抓取user时发生错误2016-06-03 18:18:35 Error = [Errno 22] Invalid argument---
+ERROR:root: id=160011抓取user时发生错误2016-06-03 18:18:35 Error = [Errno 22] Invalid argument---
+ERROR:root: id=90014抓取user时发生错误2016-06-03 18:18:36 Error = [Errno 22] Invalid argument---
+ERROR:root: id=650010抓取user时发生错误2016-06-03 18:18:37 Error = [Errno 22] Invalid argument---
+ERROR:root: id=370011抓取user时发生错误2016-06-03 18:18:37 Error = [Errno 22] Invalid argument---
+ERROR:root: id=210010抓取user时发生错误2016-06-03 18:18:38 Error = [Errno 22] Invalid argument---
+ERROR:root: id=170005抓取user时发生错误2016-06-03 18:18:38 Error = [Errno 22] Invalid argument---
+ERROR:root: id=640014抓取user时发生错误2016-06-03 18:18:39 Error = [Errno 22] Invalid argument---
+ERROR:root: id=450008抓取user时发生错误2016-06-03 18:18:41 Error = [Errno 22] Invalid argument---
+ERROR:root: id=590011抓取user时发生错误2016-06-03 18:18:41 Error = [Errno 22] Invalid argument---
+ERROR:root: id=530009抓取user时发生错误2016-06-03 18:18:41 Error = [Errno 22] Invalid argument---
+ERROR:root: id=80013抓取user时发生错误2016-06-03 18:18:42 Error = [Errno 22] Invalid argument---
+ERROR:root: id=670010抓取user时发生错误2016-06-03 18:18:42 Error = [Errno 22] Invalid argument---
+ERROR:root: id=350014抓取user时发生错误2016-06-03 18:18:43 Error = [Errno 22] Invalid argument---
+ERROR:root: id=580009抓取user时发生错误2016-06-03 18:18:48 Error = [Errno 22] Invalid argument---
+ERROR:root: id=230013抓取user时发生错误2016-06-03 18:18:48 Error = [Errno 22] Invalid argument---
+ERROR:root: id=290008抓取user时发生错误2016-06-03 18:18:48 Error = [Errno 22] Invalid argument---
+ERROR:root: id=380011抓取user时发生错误2016-06-03 18:18:49 Error = [Errno 22] Invalid argument---
+ERROR:root: id=250014抓取user时发生错误2016-06-03 18:18:49 Error = [Errno 22] Invalid argument---
+ERROR:root: id=180009抓取user时发生错误2016-06-03 18:18:50 Error = [Errno 22] Invalid argument---
+ERROR:root: id=240015抓取user时发生错误2016-06-03 18:18:50 Error = [Errno 22] Invalid argument---
+ERROR:root: id=220011抓取user时发生错误2016-06-03 18:18:52 Error = [Errno 22] Invalid argument---
+ERROR:root: id=570010抓取user时发生错误2016-06-03 18:18:52 Error = [Errno 22] Invalid argument---
+ERROR:root: id=50010抓取user时发生错误2016-06-03 18:18:52 Error = [Errno 22] Invalid argument---
+ERROR:root: id=490010抓取user时发生错误2016-06-03 18:18:52 Error = [Errno 22] Invalid argument---
+ERROR:root: id=440006抓取user时发生错误2016-06-03 18:18:52 Error = [Errno 22] Invalid argument---
+ERROR:root: id=430014抓取user时发生错误2016-06-03 18:18:53 Error = [Errno 22] Invalid argument---
+ERROR:root: id=190013抓取user时发生错误2016-06-03 18:18:53 Error = [Errno 22] Invalid argument---
+ERROR:root: id=130019抓取user时发生错误2016-06-03 18:18:53 Error = [Errno 22] Invalid argument---
+ERROR:root: id=40010抓取user时发生错误2016-06-03 18:18:54 Error = [Errno 22] Invalid argument---
+ERROR:root: id=60007抓取user时发生错误2016-06-03 18:18:56 Error = [Errno 22] Invalid argument---
+ERROR:root: id=20012抓取user时发生错误2016-06-03 18:18:56 Error = [Errno 22] Invalid argument---
+ERROR:root: id=420014抓取user时发生错误2016-06-03 18:18:57 Error = [Errno 22] Invalid argument---
+ERROR:root: id=300012抓取user时发生错误2016-06-03 18:18:58 Error = [Errno 22] Invalid argument---
+ERROR:root: id=100012抓取user时发生错误2016-06-03 18:18:58 Error = [Errno 22] Invalid argument---
+ERROR:root: id=10011抓取user时发生错误2016-06-03 18:18:58 Error = [Errno 22] Invalid argument---
+ERROR:root: id=550013抓取user时发生错误2016-06-03 18:18:58 Error = [Errno 22] Invalid argument---
+ERROR:root: id=200005抓取user时发生错误2016-06-03 18:18:58 Error = [Errno 22] Invalid argument---
+ERROR:root: id=400014抓取user时发生错误2016-06-03 18:18:59 Error = [Errno 22] Invalid argument---
+ERROR:root: id=223抓取user时发生错误2016-06-03 18:18:59 Error = [Errno 22] Invalid argument---
+ERROR:root: id=320010抓取user时发生错误2016-06-03 18:18:59 Error = [Errno 22] Invalid argument---
+ERROR:root: id=70007抓取user时发生错误2016-06-03 18:18:59 Error = [Errno 22] Invalid argument---
+ERROR:root: id=680009抓取user时发生错误2016-06-03 18:18:59 Error = [Errno 22] Invalid argument---
+ERROR:root: id=260007抓取user时发生错误2016-06-03 18:19:00 Error = [Errno 22] Invalid argument---
+ERROR:root: id=270010抓取user时发生错误2016-06-03 18:19:00 Error = [Errno 22] Invalid argument---
+ERROR:root: id=470010抓取user时发生错误2016-06-03 18:19:00 Error = [Errno 22] Invalid argument---
+ERROR:root: id=180008抓取user时发生错误2016-06-03 18:24:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180011抓取user时发生错误2016-06-03 18:28:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170008抓取user时发生错误2016-06-03 18:30:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180014抓取user时发生错误2016-06-03 18:31:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180017抓取user时发生错误2016-06-03 18:35:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180020抓取user时发生错误2016-06-03 18:38:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180023抓取user时发生错误2016-06-03 18:42:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480024抓取user时发生错误2016-06-03 18:42:15 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180026抓取user时发生错误2016-06-03 18:43:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180029抓取user时发生错误2016-06-03 18:46:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=460033抓取user时发生错误2016-06-03 18:48:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=460033抓取user时发生错误2016-06-03 18:50:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180032抓取user时发生错误2016-06-03 18:51:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=340028抓取user时发生错误2016-06-03 18:51:08 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180035抓取user时发生错误2016-06-03 18:53:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180039抓取user时发生错误2016-06-03 19:03:32 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180039抓取user时发生错误2016-06-03 19:04:18 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=270039抓取user时发生错误2016-06-03 19:05:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180043抓取user时发生错误2016-06-03 19:06:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480036抓取user时发生错误2016-06-03 19:07:24 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=30061抓取user时发生错误2016-06-03 19:08:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180046抓取user时发生错误2016-06-03 19:08:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=30061抓取user时发生错误2016-06-03 19:10:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180046抓取user时发生错误2016-06-03 19:10:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130067抓取user时发生错误2016-06-03 19:12:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180050抓取user时发生错误2016-06-03 19:12:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=20033抓取user时发生错误2016-06-03 19:13:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180053抓取user时发生错误2016-06-03 19:14:21 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=480044抓取user时发生错误2016-06-03 19:14:47 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=210059抓取user时发生错误2016-06-03 19:15:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170038抓取user时发生错误2016-06-03 19:16:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180056抓取user时发生错误2016-06-03 19:16:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480047抓取user时发生错误2016-06-03 19:16:52 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=210063抓取user时发生错误2016-06-03 19:17:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180060抓取user时发生错误2016-06-03 19:18:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=90079抓取user时发生错误2016-06-03 19:18:38 Error = 1062 (23000): Duplicate entry '51039924' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=340049抓取user时发生错误2016-06-03 19:19:23 Error = 1062 (23000): Duplicate entry '34946487' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=90080抓取user时发生错误2016-06-03 19:19:29 Error = 1062 (23000): Duplicate entry '45295124' for key 'bbs_id_UNIQUE'---
+ERROR:root: id=180064抓取user时发生错误2016-06-03 19:22:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180067抓取user时发生错误2016-06-03 19:23:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=20041抓取user时发生错误2016-06-03 19:25:05 Error = 'NoneType' object has no attribute 'next_element'---
+
+
+ERROR:root: id=20041抓取user时发生错误2016-06-03 19:39:09 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180073抓取user时发生错误2016-06-03 19:39:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=420076抓取user时发生错误2016-06-03 19:40:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180078抓取user时发生错误2016-06-03 19:41:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170057抓取user时发生错误2016-06-03 19:42:41 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170061抓取user时发生错误2016-06-03 19:43:46 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180082抓取user时发生错误2016-06-03 19:44:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400094抓取user时发生错误2016-06-03 19:46:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180085抓取user时发生错误2016-06-03 19:46:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330093抓取user时发生错误2016-06-03 19:47:56 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=330094抓取user时发生错误2016-06-03 19:48:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=390102抓取user时发生错误2016-06-03 19:49:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180089抓取user时发生错误2016-06-03 19:49:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170074抓取user时发生错误2016-06-03 19:51:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=480076抓取user时发生错误2016-06-03 19:52:58 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180093抓取user时发生错误2016-06-03 19:54:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=90108抓取user时发生错误2016-06-03 19:54:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=250112抓取user时发生错误2016-06-03 19:54:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400104抓取user时发生错误2016-06-03 19:56:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=20055抓取user时发生错误2016-06-03 19:56:05 Error = list index out of range---
+ERROR:root: id=100113抓取user时发生错误2016-06-03 19:57:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400105抓取user时发生错误2016-06-03 19:57:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180097抓取user时发生错误2016-06-03 19:58:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=200088抓取user时发生错误2016-06-03 19:59:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=90114抓取user时发生错误2016-06-03 20:02:24 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180101抓取user时发生错误2016-06-03 20:02:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=40116抓取user时发生错误2016-06-03 20:04:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180105抓取user时发生错误2016-06-03 20:06:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=50118抓取user时发生错误2016-06-03 20:06:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=400104抓取user时发生错误2016-06-03 20:06:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=200088抓取user时发生错误2016-06-03 20:06:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=40116抓取user时发生错误2016-06-03 20:06:58 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=400105抓取user时发生错误2016-06-03 20:07:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400106抓取user时发生错误2016-06-03 20:08:56 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=250121抓取user时发生错误2016-06-03 20:10:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400107抓取user时发生错误2016-06-03 20:10:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180110抓取user时发生错误2016-06-03 20:11:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=150112抓取user时发生错误2016-06-03 20:13:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=400110抓取user时发生错误2016-06-03 20:14:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180115抓取user时发生错误2016-06-03 20:15:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=20086抓取user时发生错误2016-06-03 20:17:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400118抓取user时发生错误2016-06-03 20:18:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180119抓取user时发生错误2016-06-03 20:18:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400120抓取user时发生错误2016-06-03 20:20:11 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180123抓取user时发生错误2016-06-03 20:20:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400122抓取user时发生错误2016-06-03 20:21:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=120122抓取user时发生错误2016-06-03 20:23:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180126抓取user时发生错误2016-06-03 20:23:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=470113抓取user时发生错误2016-06-03 20:24:47 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=250143抓取user时发生错误2016-06-03 20:25:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180129抓取user时发生错误2016-06-03 20:26:09 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180132抓取user时发生错误2016-06-03 20:28:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180134抓取user时发生错误2016-06-03 20:29:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480112抓取user时发生错误2016-06-03 20:30:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180138抓取user时发生错误2016-06-03 20:32:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180140抓取user时发生错误2016-06-03 20:33:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170113抓取user时发生错误2016-06-03 20:34:43 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=330145抓取user时发生错误2016-06-03 20:35:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180144抓取user时发生错误2016-06-03 20:35:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=210127抓取user时发生错误2016-06-03 20:36:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170116抓取user时发生错误2016-06-03 20:36:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=190151抓取user时发生错误2016-06-03 20:37:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=130173抓取user时发生错误2016-06-03 20:39:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180148抓取user时发生错误2016-06-03 20:39:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170119抓取user时发生错误2016-06-03 20:40:53 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180151抓取user时发生错误2016-06-03 20:41:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180154抓取user时发生错误2016-06-03 20:43:47 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=170121抓取user时发生错误2016-06-03 20:43:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170123抓取user时发生错误2016-06-03 20:44:05 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180156抓取user时发生错误2016-06-03 20:45:20 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=170127抓取user时发生错误2016-06-03 20:46:47 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180158抓取user时发生错误2016-06-03 20:46:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180160抓取user时发生错误2016-06-03 20:48:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=210142抓取user时发生错误2016-06-03 20:49:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=20147抓取user时发生错误2016-06-03 20:50:08 Error = list index out of range---
+ERROR:root: id=180162抓取user时发生错误2016-06-03 20:50:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180164抓取user时发生错误2016-06-03 20:51:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180166抓取user时发生错误2016-06-03 20:53:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180168抓取user时发生错误2016-06-03 20:54:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=200155抓取user时发生错误2016-06-03 20:55:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180171抓取user时发生错误2016-06-03 20:56:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180174抓取user时发生错误2016-06-03 20:58:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310185抓取user时发生错误2016-06-03 20:59:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180177抓取user时发生错误2016-06-03 21:00:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480162抓取user时发生错误2016-06-03 21:00:34 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180180抓取user时发生错误2016-06-03 21:02:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400189抓取user时发生错误2016-06-03 21:02:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120188抓取user时发生错误2016-06-03 21:03:04 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=400190抓取user时发生错误2016-06-03 21:03:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310190抓取user时发生错误2016-06-03 21:03:55 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180184抓取user时发生错误2016-06-03 21:04:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=210162抓取user时发生错误2016-06-03 21:04:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=210165抓取user时发生错误2016-06-03 21:06:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180188抓取user时发生错误2016-06-03 21:07:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480174抓取user时发生错误2016-06-03 21:07:40 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310195抓取user时发生错误2016-06-03 21:08:25 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=480179抓取user时发生错误2016-06-03 21:09:35 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=380182抓取user时发生错误2016-06-03 21:10:10 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180193抓取user时发生错误2016-06-03 21:10:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330197抓取user时发生错误2016-06-03 21:10:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=100230抓取user时发生错误2016-06-03 21:11:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310200抓取user时发生错误2016-06-03 21:12:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=150178抓取user时发生错误2016-06-03 21:13:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180198抓取user时发生错误2016-06-03 21:13:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310205抓取user时发生错误2016-06-03 21:14:54 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180202抓取user时发生错误2016-06-03 21:16:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410239抓取user时发生错误2016-06-03 21:17:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180206抓取user时发生错误2016-06-03 21:18:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330210抓取user时发生错误2016-06-03 21:21:12 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180210抓取user时发生错误2016-06-03 21:21:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180210抓取user时发生错误2016-06-03 21:24:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480200抓取user时发生错误2016-06-03 21:24:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=330213抓取user时发生错误2016-06-03 21:25:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310220抓取user时发生错误2016-06-03 21:25:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=130241抓取user时发生错误2016-06-03 21:25:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170169抓取user时发生错误2016-06-03 21:26:10 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170171抓取user时发生错误2016-06-03 21:27:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180215抓取user时发生错误2016-06-03 21:27:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480206抓取user时发生错误2016-06-03 21:27:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=20226抓取user时发生错误2016-06-03 21:28:16 Error = list index out of range---
+ERROR:root: id=480207抓取user时发生错误2016-06-03 21:29:20 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=480209抓取user时发生错误2016-06-03 21:30:13 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310230抓取user时发生错误2016-06-03 21:30:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180219抓取user时发生错误2016-06-03 21:30:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=300264抓取user时发生错误2016-06-03 21:31:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=150194抓取user时发生错误2016-06-03 21:32:52 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180223抓取user时发生错误2016-06-03 21:33:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480212抓取user时发生错误2016-06-03 21:34:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=480213抓取user时发生错误2016-06-03 21:34:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170180抓取user时发生错误2016-06-03 21:35:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170183抓取user时发生错误2016-06-03 21:36:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180227抓取user时发生错误2016-06-03 21:36:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=150199抓取user时发生错误2016-06-03 21:37:41 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180231抓取user时发生错误2016-06-03 21:39:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170189抓取user时发生错误2016-06-03 21:39:43 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=480220抓取user时发生错误2016-06-03 21:40:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170192抓取user时发生错误2016-06-03 21:40:27 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=460209抓取user时发生错误2016-06-03 21:40:41 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=150203抓取user时发生错误2016-06-03 21:40:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=150205抓取user时发生错误2016-06-03 21:41:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180235抓取user时发生错误2016-06-03 21:41:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130262抓取user时发生错误2016-06-03 21:41:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180239抓取user时发生错误2016-06-03 21:43:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=460214抓取user时发生错误2016-06-03 21:46:42 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180245抓取user时发生错误2016-06-03 21:47:16 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=400251抓取user时发生错误2016-06-03 21:47:32 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=330232抓取user时发生错误2016-06-03 21:48:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180250抓取user时发生错误2016-06-03 21:51:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170202抓取user时发生错误2016-06-03 21:51:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170205抓取user时发生错误2016-06-03 21:52:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=330236抓取user时发生错误2016-06-03 21:52:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170208抓取user时发生错误2016-06-03 21:54:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180255抓取user时发生错误2016-06-03 21:54:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330239抓取user时发生错误2016-06-03 21:55:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310259抓取user时发生错误2016-06-03 21:57:20 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310260抓取user时发生错误2016-06-03 21:57:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=300305抓取user时发生错误2016-06-03 21:57:27 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180260抓取user时发生错误2016-06-03 21:57:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310262抓取user时发生错误2016-06-03 21:58:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=330243抓取user时发生错误2016-06-03 22:00:47 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180266抓取user时发生错误2016-06-03 22:02:09 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=310266抓取user时发生错误2016-06-03 22:02:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=430292抓取user时发生错误2016-06-03 22:02:57 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180269抓取user时发生错误2016-06-03 22:03:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180273抓取user时发生错误2016-06-03 22:06:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=547抓取user时发生错误2016-06-03 22:06:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330249抓取user时发生错误2016-06-03 22:08:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170222抓取user时发生错误2016-06-03 22:09:20 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180278抓取user时发生错误2016-06-03 22:10:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330251抓取user时发生错误2016-06-03 22:11:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=470267抓取user时发生错误2016-06-03 22:11:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170226抓取user时发生错误2016-06-03 22:12:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180283抓取user时发生错误2016-06-03 22:12:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180289抓取user时发生错误2016-06-03 22:15:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=350344抓取user时发生错误2016-06-03 22:17:20 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=80303抓取user时发生错误2016-06-03 22:18:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180294抓取user时发生错误2016-06-03 22:19:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180298抓取user时发生错误2016-06-03 22:22:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310290抓取user时发生错误2016-06-03 22:24:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180302抓取user时发生错误2016-06-03 22:24:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180306抓取user时发生错误2016-06-03 22:26:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330268抓取user时发生错误2016-06-03 22:29:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180311抓取user时发生错误2016-06-03 22:29:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180314抓取user时发生错误2016-06-03 22:31:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180319抓取user时发生错误2016-06-03 22:33:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10303抓取user时发生错误2016-06-03 22:35:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=150263抓取user时发生错误2016-06-03 22:35:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=240337抓取user时发生错误2016-06-03 22:35:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10306抓取user时发生错误2016-06-03 22:36:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10307抓取user时发生错误2016-06-03 22:36:15 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180325抓取user时发生错误2016-06-03 22:37:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310305抓取user时发生错误2016-06-03 22:37:54 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10310抓取user时发生错误2016-06-03 22:38:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180329抓取user时发生错误2016-06-03 22:40:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10313抓取user时发生错误2016-06-03 22:41:34 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10314抓取user时发生错误2016-06-03 22:41:34 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10316抓取user时发生错误2016-06-03 22:42:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180334抓取user时发生错误2016-06-03 22:43:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180340抓取user时发生错误2016-06-03 22:46:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10323抓取user时发生错误2016-06-03 22:49:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180344抓取user时发生错误2016-06-03 22:49:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330292抓取user时发生错误2016-06-03 22:49:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180347抓取user时发生错误2016-06-03 22:50:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=110352抓取user时发生错误2016-06-03 22:51:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=30381抓取user时发生错误2016-06-03 22:52:30 Error = list index out of range---
+ERROR:root: id=180351抓取user时发生错误2016-06-03 22:52:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310326抓取user时发生错误2016-06-03 22:53:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10328抓取user时发生错误2016-06-03 22:53:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10329抓取user时发生错误2016-06-03 22:53:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=330296抓取user时发生错误2016-06-03 22:53:31 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=10331抓取user时发生错误2016-06-03 22:53:57 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=130361抓取user时发生错误2016-06-03 22:54:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10333抓取user时发生错误2016-06-03 22:54:35 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10334抓取user时发生错误2016-06-03 22:54:35 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180354抓取user时发生错误2016-06-03 22:54:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310330抓取user时发生错误2016-06-03 22:54:55 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10336抓取user时发生错误2016-06-03 22:55:11 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180357抓取user时发生错误2016-06-03 22:56:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10338抓取user时发生错误2016-06-03 22:56:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10339抓取user时发生错误2016-06-03 22:56:57 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10340抓取user时发生错误2016-06-03 22:56:57 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10341抓取user时发生错误2016-06-03 22:56:57 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180360抓取user时发生错误2016-06-03 22:58:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=290319抓取user时发生错误2016-06-03 22:58:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10345抓取user时发生错误2016-06-03 23:00:06 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10346抓取user时发生错误2016-06-03 23:00:06 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10347抓取user时发生错误2016-06-03 23:00:07 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180364抓取user时发生错误2016-06-03 23:01:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80363抓取user时发生错误2016-06-03 23:01:39 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10351抓取user时发生错误2016-06-03 23:02:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310342抓取user时发生错误2016-06-03 23:02:35 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10353抓取user时发生错误2016-06-03 23:02:42 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180366抓取user时发生错误2016-06-03 23:02:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10355抓取user时发生错误2016-06-03 23:04:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310346抓取user时发生错误2016-06-03 23:04:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=110366抓取user时发生错误2016-06-03 23:04:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180369抓取user时发生错误2016-06-03 23:04:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10357抓取user时发生错误2016-06-03 23:05:46 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10358抓取user时发生错误2016-06-03 23:05:46 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10359抓取user时发生错误2016-06-03 23:05:47 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=90413抓取user时发生错误2016-06-03 23:06:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10361抓取user时发生错误2016-06-03 23:06:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10362抓取user时发生错误2016-06-03 23:06:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180373抓取user时发生错误2016-06-03 23:08:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310356抓取user时发生错误2016-06-03 23:08:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=330315抓取user时发生错误2016-06-03 23:08:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180374抓取user时发生错误2016-06-03 23:09:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=653抓取user时发生错误2016-06-03 23:09:44 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10365抓取user时发生错误2016-06-03 23:10:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10366抓取user时发生错误2016-06-03 23:10:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10367抓取user时发生错误2016-06-03 23:10:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10368抓取user时发生错误2016-06-03 23:10:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10369抓取user时发生错误2016-06-03 23:10:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310360抓取user时发生错误2016-06-03 23:10:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180376抓取user时发生错误2016-06-03 23:11:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=350434抓取user时发生错误2016-06-03 23:11:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10371抓取user时发生错误2016-06-03 23:11:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=420355抓取user时发生错误2016-06-03 23:11:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10373抓取user时发生错误2016-06-03 23:12:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10374抓取user时发生错误2016-06-03 23:12:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170274抓取user时发生错误2016-06-03 23:12:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180378抓取user时发生错误2016-06-03 23:12:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10376抓取user时发生错误2016-06-03 23:13:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170276抓取user时发生错误2016-06-03 23:13:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180380抓取user时发生错误2016-06-03 23:15:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10380抓取user时发生错误2016-06-03 23:16:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180382抓取user时发生错误2016-06-03 23:16:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10382抓取user时发生错误2016-06-03 23:17:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10383抓取user时发生错误2016-06-03 23:17:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180384抓取user时发生错误2016-06-03 23:17:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180386抓取user时发生错误2016-06-03 23:18:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10386抓取user时发生错误2016-06-03 23:19:27 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180388抓取user时发生错误2016-06-03 23:20:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10389抓取user时发生错误2016-06-03 23:21:46 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=360427抓取user时发生错误2016-06-03 23:21:52 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180390抓取user时发生错误2016-06-03 23:22:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170284抓取user时发生错误2016-06-03 23:22:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180392抓取user时发生错误2016-06-03 23:23:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=360429抓取user时发生错误2016-06-03 23:24:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310381抓取user时发生错误2016-06-03 23:25:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180394抓取user时发生错误2016-06-03 23:25:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10394抓取user时发生错误2016-06-03 23:26:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180396抓取user时发生错误2016-06-03 23:27:27 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=260387抓取user时发生错误2016-06-03 23:27:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=70388抓取user时发生错误2016-06-03 23:27:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=360433抓取user时发生错误2016-06-03 23:28:11 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10396抓取user时发生错误2016-06-03 23:28:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10397抓取user时发生错误2016-06-03 23:28:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10398抓取user时发生错误2016-06-03 23:28:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310386抓取user时发生错误2016-06-03 23:28:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180398抓取user时发生错误2016-06-03 23:29:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=60341抓取user时发生错误2016-06-03 23:30:54 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180400抓取user时发生错误2016-06-03 23:31:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10402抓取user时发生错误2016-06-03 23:32:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10403抓取user时发生错误2016-06-03 23:32:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180402抓取user时发生错误2016-06-03 23:32:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180404抓取user时发生错误2016-06-03 23:34:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10406抓取user时发生错误2016-06-03 23:34:59 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180406抓取user时发生错误2016-06-03 23:36:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180408抓取user时发生错误2016-06-03 23:37:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330347抓取user时发生错误2016-06-03 23:37:40 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180410抓取user时发生错误2016-06-03 23:39:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=360449抓取user时发生错误2016-06-03 23:39:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=140435抓取user时发生错误2016-06-03 23:40:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=140435抓取user时发生错误2016-06-03 23:41:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10411抓取user时发生错误2016-06-03 23:42:13 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180412抓取user时发生错误2016-06-03 23:43:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330358抓取user时发生错误2016-06-03 23:43:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=470415抓取user时发生错误2016-06-03 23:44:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=350483抓取user时发生错误2016-06-03 23:44:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180414抓取user时发生错误2016-06-03 23:44:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330361抓取user时发生错误2016-06-03 23:45:51 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180416抓取user时发生错误2016-06-03 23:45:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=210383抓取user时发生错误2016-06-03 23:46:04 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180418抓取user时发生错误2016-06-03 23:47:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180420抓取user时发生错误2016-06-03 23:48:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180422抓取user时发生错误2016-06-03 23:49:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10418抓取user时发生错误2016-06-03 23:50:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10419抓取user时发生错误2016-06-03 23:50:30 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10420抓取user时发生错误2016-06-03 23:50:30 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=10421抓取user时发生错误2016-06-03 23:50:31 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=110436抓取user时发生错误2016-06-03 23:50:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180424抓取user时发生错误2016-06-03 23:51:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=390408抓取user时发生错误2016-06-03 23:52:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180426抓取user时发生错误2016-06-03 23:52:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10425抓取user时发生错误2016-06-03 23:53:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180429抓取user时发生错误2016-06-03 23:54:41 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=450445抓取user时发生错误2016-06-03 23:55:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180432抓取user时发生错误2016-06-03 23:56:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400442抓取user时发生错误2016-06-03 23:56:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180435抓取user时发生错误2016-06-03 23:57:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=380415抓取user时发生错误2016-06-03 23:59:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180438抓取user时发生错误2016-06-03 23:59:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130456抓取user时发生错误2016-06-03 23:59:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180441抓取user时发生错误2016-06-04 00:01:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180444抓取user时发生错误2016-06-04 00:03:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180446抓取user时发生错误2016-06-04 00:05:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330392抓取user时发生错误2016-06-04 00:05:31 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=480360抓取user时发生错误2016-06-04 00:06:19 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180448抓取user时发生错误2016-06-04 00:06:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=220458抓取user时发生错误2016-06-04 00:07:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180450抓取user时发生错误2016-06-04 00:08:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330400抓取user时发生错误2016-06-04 00:09:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180452抓取user时发生错误2016-06-04 00:10:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480365抓取user时发生错误2016-06-04 00:10:11 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180454抓取user时发生错误2016-06-04 00:11:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180456抓取user时发生错误2016-06-04 00:12:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10440抓取user时发生错误2016-06-04 00:14:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310444抓取user时发生错误2016-06-04 00:14:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180458抓取user时发生错误2016-06-04 00:14:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180460抓取user时发生错误2016-06-04 00:16:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180463抓取user时发生错误2016-06-04 00:17:55 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180465抓取user时发生错误2016-06-04 00:19:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310454抓取user时发生错误2016-06-04 00:20:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180467抓取user时发生错误2016-06-04 00:20:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180469抓取user时发生错误2016-06-04 00:22:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310459抓取user时发生错误2016-06-04 00:23:28 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180472抓取user时发生错误2016-06-04 00:24:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180473抓取user时发生错误2016-06-04 00:25:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=450498抓取user时发生错误2016-06-04 00:26:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180476抓取user时发生错误2016-06-04 00:27:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130493抓取user时发生错误2016-06-04 00:28:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=50457抓取user时发生错误2016-06-04 00:28:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180479抓取user时发生错误2016-06-04 00:29:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180482抓取user时发生错误2016-06-04 00:31:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=50458抓取user时发生错误2016-06-04 00:31:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=30514抓取user时发生错误2016-06-04 00:31:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170337抓取user时发生错误2016-06-04 00:32:45 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=380445抓取user时发生错误2016-06-04 00:33:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180486抓取user时发生错误2016-06-04 00:33:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=380446抓取user时发生错误2016-06-04 00:34:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310471抓取user时发生错误2016-06-04 00:34:05 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310473抓取user时发生错误2016-06-04 00:34:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180488抓取user时发生错误2016-06-04 00:34:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120503抓取user时发生错误2016-06-04 00:35:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180491抓取user时发生错误2016-06-04 00:36:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310477抓取user时发生错误2016-06-04 00:37:24 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=50461抓取user时发生错误2016-06-04 00:37:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180494抓取user时发生错误2016-06-04 00:39:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330445抓取user时发生错误2016-06-04 00:40:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180497抓取user时发生错误2016-06-04 00:41:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=50464抓取user时发生错误2016-06-04 00:41:39 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310483抓取user时发生错误2016-06-04 00:41:54 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180500抓取user时发生错误2016-06-04 00:43:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=20527抓取user时发生错误2016-06-04 00:44:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180503抓取user时发生错误2016-06-04 00:46:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310491抓取user时发生错误2016-06-04 00:47:19 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=190533抓取user时发生错误2016-06-04 00:47:24 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=50467抓取user时发生错误2016-06-04 00:47:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=420482抓取user时发生错误2016-06-04 00:48:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180506抓取user时发生错误2016-06-04 00:48:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180509抓取user时发生错误2016-06-04 00:50:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10481抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10482抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10483抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10484抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10485抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10486抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10487抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10488抓取user时发生错误2016-06-04 00:51:30 Error = list index out of range---
+ERROR:root: id=10489抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10490抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10491抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10492抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10493抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10494抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10495抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10496抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10497抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10498抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10499抓取user时发生错误2016-06-04 00:51:31 Error = list index out of range---
+ERROR:root: id=10500抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10501抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10502抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10503抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10504抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10505抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10506抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10507抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10508抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10509抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10510抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10511抓取user时发生错误2016-06-04 00:51:32 Error = list index out of range---
+ERROR:root: id=10512抓取user时发生错误2016-06-04 00:51:33 Error = list index out of range---
+ERROR:root: id=10513抓取user时发生错误2016-06-04 00:51:33 Error = list index out of range---
+ERROR:root: id=10514抓取user时发生错误2016-06-04 00:51:33 Error = list index out of range---
+ERROR:root: id=10515抓取user时发生错误2016-06-04 00:51:33 Error = list index out of range---
+ERROR:root: id=10516抓取user时发生错误2016-06-04 00:51:33 Error = list index out of range---
+ERROR:root: id=10517抓取user时发生错误2016-06-04 00:51:33 Error = list index out of range---
+ERROR:root: id=10518抓取user时发生错误2016-06-04 00:51:33 Error = list index out of range---
+ERROR:root: id=10519抓取user时发生错误2016-06-04 00:51:34 Error = list index out of range---
+ERROR:root: id=10520抓取user时发生错误2016-06-04 00:51:34 Error = list index out of range---
+ERROR:root: id=180511抓取user时发生错误2016-06-04 00:52:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=60462抓取user时发生错误2016-06-04 00:52:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180514抓取user时发生错误2016-06-04 00:54:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480410抓取user时发生错误2016-06-04 00:55:25 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=170359抓取user时发生错误2016-06-04 00:57:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180517抓取user时发生错误2016-06-04 00:57:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80526抓取user时发生错误2016-06-04 00:57:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180520抓取user时发生错误2016-06-04 00:59:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400534抓取user时发生错误2016-06-04 01:02:12 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180523抓取user时发生错误2016-06-04 01:02:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180526抓取user时发生错误2016-06-04 01:04:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180529抓取user时发生错误2016-06-04 01:07:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=20563抓取user时发生错误2016-06-04 01:09:32 Error = list index out of range---
+ERROR:root: id=180532抓取user时发生错误2016-06-04 01:09:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310519抓取user时发生错误2016-06-04 01:10:09 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180534抓取user时发生错误2016-06-04 01:10:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170369抓取user时发生错误2016-06-04 01:11:46 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180536抓取user时发生错误2016-06-04 01:12:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180538抓取user时发生错误2016-06-04 01:13:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310525抓取user时发生错误2016-06-04 01:14:31 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180540抓取user时发生错误2016-06-04 01:14:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180542抓取user时发生错误2016-06-04 01:16:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310529抓取user时发生错误2016-06-04 01:16:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310531抓取user时发生错误2016-06-04 01:17:42 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180544抓取user时发生错误2016-06-04 01:17:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180546抓取user时发生错误2016-06-04 01:19:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180549抓取user时发生错误2016-06-04 01:21:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310535抓取user时发生错误2016-06-04 01:21:44 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=480432抓取user时发生错误2016-06-04 01:21:55 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=310537抓取user时发生错误2016-06-04 01:22:10 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310538抓取user时发生错误2016-06-04 01:22:11 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=480433抓取user时发生错误2016-06-04 01:22:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180552抓取user时发生错误2016-06-04 01:23:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310541抓取user时发生错误2016-06-04 01:24:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=110573抓取user时发生错误2016-06-04 01:24:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480435抓取user时发生错误2016-06-04 01:25:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310545抓取user时发生错误2016-06-04 01:25:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180555抓取user时发生错误2016-06-04 01:26:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=360601抓取user时发生错误2016-06-04 01:27:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310548抓取user时发生错误2016-06-04 01:27:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310549抓取user时发生错误2016-06-04 01:27:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310550抓取user时发生错误2016-06-04 01:27:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310551抓取user时发生错误2016-06-04 01:27:19 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310552抓取user时发生错误2016-06-04 01:27:19 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=150515抓取user时发生错误2016-06-04 01:27:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=380525抓取user时发生错误2016-06-04 01:28:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310554抓取user时发生错误2016-06-04 01:28:59 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310555抓取user时发生错误2016-06-04 01:29:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310556抓取user时发生错误2016-06-04 01:29:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310557抓取user时发生错误2016-06-04 01:29:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180558抓取user时发生错误2016-06-04 01:29:03 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=220582抓取user时发生错误2016-06-04 01:29:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180561抓取user时发生错误2016-06-04 01:31:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170385抓取user时发生错误2016-06-04 01:32:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310560抓取user时发生错误2016-06-04 01:32:27 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180563抓取user时发生错误2016-06-04 01:33:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180565抓取user时发生错误2016-06-04 01:35:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310562抓取user时发生错误2016-06-04 01:35:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310563抓取user时发生错误2016-06-04 01:35:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180567抓取user时发生错误2016-06-04 01:36:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10599抓取user时发生错误2016-06-04 01:37:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180568抓取user时发生错误2016-06-04 01:37:30 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180569抓取user时发生错误2016-06-04 01:38:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310567抓取user时发生错误2016-06-04 01:38:43 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180570抓取user时发生错误2016-06-04 01:39:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180571抓取user时发生错误2016-06-04 01:40:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180572抓取user时发生错误2016-06-04 01:40:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310569抓取user时发生错误2016-06-04 01:40:59 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180573抓取user时发生错误2016-06-04 01:41:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180574抓取user时发生错误2016-06-04 01:42:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180576抓取user时发生错误2016-06-04 01:43:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=160632抓取user时发生错误2016-06-04 01:43:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180577抓取user时发生错误2016-06-04 01:44:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480459抓取user时发生错误2016-06-04 01:44:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10609抓取user时发生错误2016-06-04 01:44:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180578抓取user时发生错误2016-06-04 01:45:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10610抓取user时发生错误2016-06-04 01:45:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310573抓取user时发生错误2016-06-04 01:46:13 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180580抓取user时发生错误2016-06-04 01:46:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180583抓取user时发生错误2016-06-04 01:48:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310576抓取user时发生错误2016-06-04 01:49:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310578抓取user时发生错误2016-06-04 01:50:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310579抓取user时发生错误2016-06-04 01:50:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310580抓取user时发生错误2016-06-04 01:50:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180587抓取user时发生错误2016-06-04 01:51:13 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180592抓取user时发生错误2016-06-04 01:54:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310586抓取user时发生错误2016-06-04 01:57:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180597抓取user时发生错误2016-06-04 01:58:32 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180599抓取user时发生错误2016-06-04 02:00:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=90722抓取user时发生错误2016-06-04 02:00:33 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310589抓取user时发生错误2016-06-04 02:00:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180601抓取user时发生错误2016-06-04 02:01:13 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180604抓取user时发生错误2016-06-04 02:03:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=110628抓取user时发生错误2016-06-04 02:04:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180608抓取user时发生错误2016-06-04 02:05:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310596抓取user时发生错误2016-06-04 02:07:47 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180613抓取user时发生错误2016-06-04 02:08:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310598抓取user时发生错误2016-06-04 02:09:10 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180617抓取user时发生错误2016-06-04 02:10:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180620抓取user时发生错误2016-06-04 02:12:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310602抓取user时发生错误2016-06-04 02:12:35 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180623抓取user时发生错误2016-06-04 02:14:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=110644抓取user时发生错误2016-06-04 02:15:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=250597抓取user时发生错误2016-06-04 02:15:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180626抓取user时发生错误2016-06-04 02:17:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180630抓取user时发生错误2016-06-04 02:20:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130646抓取user时发生错误2016-06-04 02:22:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180633抓取user时发生错误2016-06-04 02:22:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180635抓取user时发生错误2016-06-04 02:24:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180637抓取user时发生错误2016-06-04 02:25:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180638抓取user时发生错误2016-06-04 02:26:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180640抓取user时发生错误2016-06-04 02:27:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80628抓取user时发生错误2016-06-04 02:28:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170440抓取user时发生错误2016-06-04 02:28:31 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=390609抓取user时发生错误2016-06-04 02:29:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180642抓取user时发生错误2016-06-04 02:29:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180643抓取user时发生错误2016-06-04 02:30:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180644抓取user时发生错误2016-06-04 02:31:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180645抓取user时发生错误2016-06-04 02:31:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180646抓取user时发生错误2016-06-04 02:32:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180647抓取user时发生错误2016-06-04 02:33:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180648抓取user时发生错误2016-06-04 02:34:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180649抓取user时发生错误2016-06-04 02:35:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180650抓取user时发生错误2016-06-04 02:36:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180652抓取user时发生错误2016-06-04 02:37:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330593抓取user时发生错误2016-06-04 02:38:14 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180654抓取user时发生错误2016-06-04 02:39:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400677抓取user时发生错误2016-06-04 02:40:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=400678抓取user时发生错误2016-06-04 02:41:08 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180657抓取user时发生错误2016-06-04 02:41:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400679抓取user时发生错误2016-06-04 02:41:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=400681抓取user时发生错误2016-06-04 02:42:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180659抓取user时发生错误2016-06-04 02:42:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=400683抓取user时发生错误2016-06-04 02:43:44 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180662抓取user时发生错误2016-06-04 02:44:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180664抓取user时发生错误2016-06-04 02:46:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120646抓取user时发生错误2016-06-04 02:47:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180666抓取user时发生错误2016-06-04 02:48:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180667抓取user时发生错误2016-06-04 02:49:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=300698抓取user时发生错误2016-06-04 02:49:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10696抓取user时发生错误2016-06-04 02:49:31 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180670抓取user时发生错误2016-06-04 02:50:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80653抓取user时发生错误2016-06-04 02:51:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80654抓取user时发生错误2016-06-04 02:52:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80655抓取user时发生错误2016-06-04 02:53:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=300702抓取user时发生错误2016-06-04 02:53:56 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310644抓取user时发生错误2016-06-04 02:53:59 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180674抓取user时发生错误2016-06-04 02:54:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=10706抓取user时发生错误2016-06-04 02:56:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180677抓取user时发生错误2016-06-04 02:56:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180680抓取user时发生错误2016-06-04 02:58:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180685抓取user时发生错误2016-06-04 03:01:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180688抓取user时发生错误2016-06-04 03:04:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=30737抓取user时发生错误2016-06-04 03:04:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180690抓取user时发生错误2016-06-04 03:05:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180692抓取user时发生错误2016-06-04 03:07:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180694抓取user时发生错误2016-06-04 03:08:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=320688抓取user时发生错误2016-06-04 03:09:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180696抓取user时发生错误2016-06-04 03:10:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=290675抓取user时发生错误2016-06-04 03:10:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=110718抓取user时发生错误2016-06-04 03:11:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180698抓取user时发生错误2016-06-04 03:11:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=270689抓取user时发生错误2016-06-04 03:13:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180701抓取user时发生错误2016-06-04 03:14:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=430733抓取user时发生错误2016-06-04 03:15:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=100765抓取user时发生错误2016-06-04 03:16:23 Error = list index out of range---
+ERROR:root: id=100766抓取user时发生错误2016-06-04 03:16:23 Error = list index out of range---
+ERROR:root: id=100767抓取user时发生错误2016-06-04 03:16:23 Error = list index out of range---
+ERROR:root: id=100768抓取user时发生错误2016-06-04 03:16:23 Error = list index out of range---
+ERROR:root: id=100769抓取user时发生错误2016-06-04 03:16:23 Error = list index out of range---
+ERROR:root: id=180704抓取user时发生错误2016-06-04 03:16:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=430735抓取user时发生错误2016-06-04 03:17:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170494抓取user时发生错误2016-06-04 03:18:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180707抓取user时发生错误2016-06-04 03:18:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=290688抓取user时发生错误2016-06-04 03:19:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180710抓取user时发生错误2016-06-04 03:21:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=420723抓取user时发生错误2016-06-04 03:22:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180712抓取user时发生错误2016-06-04 03:22:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130714抓取user时发生错误2016-06-04 03:22:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120676抓取user时发生错误2016-06-04 03:23:11 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=120679抓取user时发生错误2016-06-04 03:24:48 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180715抓取user时发生错误2016-06-04 03:24:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180718抓取user时发生错误2016-06-04 03:26:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170504抓取user时发生错误2016-06-04 03:26:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=10746抓取user时发生错误2016-06-04 03:26:58 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170507抓取user时发生错误2016-06-04 03:29:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180722抓取user时发生错误2016-06-04 03:29:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170510抓取user时发生错误2016-06-04 03:30:23 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180726抓取user时发生错误2016-06-04 03:34:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180730抓取user时发生错误2016-06-04 03:36:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180733抓取user时发生错误2016-06-04 03:39:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180736抓取user时发生错误2016-06-04 03:42:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170524抓取user时发生错误2016-06-04 03:43:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180739抓取user时发生错误2016-06-04 03:43:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180742抓取user时发生错误2016-06-04 03:45:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180745抓取user时发生错误2016-06-04 03:47:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410766抓取user时发生错误2016-06-04 03:49:37 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180748抓取user时发生错误2016-06-04 03:50:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120699抓取user时发生错误2016-06-04 03:51:23 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180751抓取user时发生错误2016-06-04 03:52:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180754抓取user时发生错误2016-06-04 03:54:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120705抓取user时发生错误2016-06-04 03:55:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180756抓取user时发生错误2016-06-04 03:56:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330687抓取user时发生错误2016-06-04 03:56:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=120708抓取user时发生错误2016-06-04 03:56:44 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180759抓取user时发生错误2016-06-04 03:58:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410776抓取user时发生错误2016-06-04 03:59:28 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=290743抓取user时发生错误2016-06-04 03:59:59 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180762抓取user时发生错误2016-06-04 04:00:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=90881抓取user时发生错误2016-06-04 04:00:23 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310713抓取user时发生错误2016-06-04 04:00:41 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=410781抓取user时发生错误2016-06-04 04:03:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170546抓取user时发生错误2016-06-04 04:03:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180767抓取user时发生错误2016-06-04 04:03:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180771抓取user时发生错误2016-06-04 04:06:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=90889抓取user时发生错误2016-06-04 04:08:03 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=170548抓取user时发生错误2016-06-04 04:09:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180776抓取user时发生错误2016-06-04 04:09:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=480647抓取user时发生错误2016-06-04 04:11:49 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180780抓取user时发生错误2016-06-04 04:11:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330713抓取user时发生错误2016-06-04 04:14:58 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180785抓取user时发生错误2016-06-04 04:15:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=370844抓取user时发生错误2016-06-04 04:15:21 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=210833抓取user时发生错误2016-06-04 04:16:33 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=160859抓取user时发生错误2016-06-04 04:17:26 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180789抓取user时发生错误2016-06-04 04:17:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=340731抓取user时发生错误2016-06-04 04:17:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=30843抓取user时发生错误2016-06-04 04:18:08 Error = list index out of range---
+ERROR:root: id=30844抓取user时发生错误2016-06-04 04:18:08 Error = list index out of range---
+ERROR:root: id=30845抓取user时发生错误2016-06-04 04:18:08 Error = list index out of range---
+ERROR:root: id=170560抓取user时发生错误2016-06-04 04:19:45 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180792抓取user时发生错误2016-06-04 04:20:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170562抓取user时发生错误2016-06-04 04:22:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=250774抓取user时发生错误2016-06-04 04:23:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180797抓取user时发生错误2016-06-04 04:24:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=290774抓取user时发生错误2016-06-04 04:25:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180800抓取user时发生错误2016-06-04 04:27:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=110818抓取user时发生错误2016-06-04 04:28:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170572抓取user时发生错误2016-06-04 04:28:43 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180804抓取user时发生错误2016-06-04 04:31:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=260814抓取user时发生错误2016-06-04 04:31:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170576抓取user时发生错误2016-06-04 04:32:07 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=200838抓取user时发生错误2016-06-04 04:33:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170579抓取user时发生错误2016-06-04 04:33:37 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170580抓取user时发生错误2016-06-04 04:33:37 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180810抓取user时发生错误2016-06-04 04:35:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170581抓取user时发生错误2016-06-04 04:35:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170584抓取user时发生错误2016-06-04 04:36:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170586抓取user时发生错误2016-06-04 04:36:53 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170588抓取user时发生错误2016-06-04 04:37:20 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170590抓取user时发生错误2016-06-04 04:37:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180814抓取user时发生错误2016-06-04 04:37:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170593抓取user时发生错误2016-06-04 04:38:23 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=60752抓取user时发生错误2016-06-04 04:39:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180818抓取user时发生错误2016-06-04 04:40:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170599抓取user时发生错误2016-06-04 04:42:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180822抓取user时发生错误2016-06-04 04:43:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330752抓取user时发生错误2016-06-04 04:45:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180826抓取user时发生错误2016-06-04 04:46:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410832抓取user时发生错误2016-06-04 04:47:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170608抓取user时发生错误2016-06-04 04:48:28 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180829抓取user时发生错误2016-06-04 04:48:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180833抓取user时发生错误2016-06-04 04:51:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330759抓取user时发生错误2016-06-04 04:52:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170614抓取user时发生错误2016-06-04 04:52:15 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170616抓取user时发生错误2016-06-04 04:52:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170619抓取user时发生错误2016-06-04 04:53:41 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180838抓取user时发生错误2016-06-04 04:55:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410842抓取user时发生错误2016-06-04 04:56:28 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180841抓取user时发生错误2016-06-04 04:57:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170628抓取user时发生错误2016-06-04 04:59:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=480699抓取user时发生错误2016-06-04 04:59:23 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=170631抓取user时发生错误2016-06-04 05:00:05 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180847抓取user时发生错误2016-06-04 05:01:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410848抓取user时发生错误2016-06-04 05:01:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170635抓取user时发生错误2016-06-04 05:02:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=80853抓取user时发生错误2016-06-04 05:02:22 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=430847抓取user时发生错误2016-06-04 05:02:27 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170637抓取user时发生错误2016-06-04 05:02:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170638抓取user时发生错误2016-06-04 05:02:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170640抓取user时发生错误2016-06-04 05:03:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180852抓取user时发生错误2016-06-04 05:04:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410856抓取user时发生错误2016-06-04 05:08:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180859抓取user时发生错误2016-06-04 05:10:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170646抓取user时发生错误2016-06-04 05:10:39 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=170648抓取user时发生错误2016-06-04 05:11:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=320889抓取user时发生错误2016-06-04 05:12:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=320890抓取user时发生错误2016-06-04 05:12:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180864抓取user时发生错误2016-06-04 05:13:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=40927抓取user时发生错误2016-06-04 05:14:07 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180868抓取user时发生错误2016-06-04 05:15:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410865抓取user时发生错误2016-06-04 05:16:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=430861抓取user时发生错误2016-06-04 05:16:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170656抓取user时发生错误2016-06-04 05:18:43 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180873抓取user时发生错误2016-06-04 05:18:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170658抓取user时发生错误2016-06-04 05:19:00 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170660抓取user时发生错误2016-06-04 05:19:41 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=170662抓取user时发生错误2016-06-04 05:20:38 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=410873抓取user时发生错误2016-06-04 05:22:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180878抓取user时发生错误2016-06-04 05:23:11 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=170666抓取user时发生错误2016-06-04 05:23:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180881抓取user时发生错误2016-06-04 05:25:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170669抓取user时发生错误2016-06-04 05:25:14 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=370943抓取user时发生错误2016-06-04 05:27:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180884抓取user时发生错误2016-06-04 05:27:26 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180887抓取user时发生错误2016-06-04 05:30:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=300889抓取user时发生错误2016-06-04 05:30:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180890抓取user时发生错误2016-06-04 05:31:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=100988抓取user时发生错误2016-06-04 05:31:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410887抓取user时发生错误2016-06-04 05:32:37 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=410889抓取user时发生错误2016-06-04 05:33:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180893抓取user时发生错误2016-06-04 05:33:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=300895抓取user时发生错误2016-06-04 05:35:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410894抓取user时发生错误2016-06-04 05:36:45 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180897抓取user时发生错误2016-06-04 05:37:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=420938抓取user时发生错误2016-06-04 05:39:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180901抓取user时发生错误2016-06-04 05:39:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130887抓取user时发生错误2016-06-04 05:40:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180905抓取user时发生错误2016-06-04 05:42:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330831抓取user时发生错误2016-06-04 05:43:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180909抓取user时发生错误2016-06-04 05:44:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=200952抓取user时发生错误2016-06-04 05:44:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180913抓取user时发生错误2016-06-04 05:45:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180919抓取user时发生错误2016-06-04 05:48:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=410913抓取user时发生错误2016-06-04 05:50:40 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180922抓取user时发生错误2016-06-04 05:51:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=20959抓取user时发生错误2016-06-04 05:52:56 Error = list index out of range---
+ERROR:root: id=180925抓取user时发生错误2016-06-04 05:53:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=41003抓取user时发生错误2016-06-04 05:54:50 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180928抓取user时发生错误2016-06-04 05:56:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180930抓取user时发生错误2016-06-04 05:58:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=450995抓取user时发生错误2016-06-04 05:58:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=101024抓取user时发生错误2016-06-04 05:59:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180932抓取user时发生错误2016-06-04 05:59:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=450997抓取user时发生错误2016-06-04 06:00:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180934抓取user时发生错误2016-06-04 06:01:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=450999抓取user时发生错误2016-06-04 06:02:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180936抓取user时发生错误2016-06-04 06:02:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180939抓取user时发生错误2016-06-04 06:04:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=340884抓取user时发生错误2016-06-04 06:05:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=330866抓取user时发生错误2016-06-04 06:06:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180942抓取user时发生错误2016-06-04 06:07:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180945抓取user时发生错误2016-06-04 06:09:17 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=420980抓取user时发生错误2016-06-04 06:09:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=420981抓取user时发生错误2016-06-04 06:10:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180949抓取user时发生错误2016-06-04 06:11:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180953抓取user时发生错误2016-06-04 06:15:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=130933抓取user时发生错误2016-06-04 06:15:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180955抓取user时发生错误2016-06-04 06:16:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180957抓取user时发生错误2016-06-04 06:17:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=380937抓取user时发生错误2016-06-04 06:18:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180961抓取user时发生错误2016-06-04 06:21:02 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=101051抓取user时发生错误2016-06-04 06:21:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180964抓取user时发生错误2016-06-04 06:23:25 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180967抓取user时发生错误2016-06-04 06:26:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=430944抓取user时发生错误2016-06-04 06:28:16 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=180971抓取user时发生错误2016-06-04 06:28:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330901抓取user时发生错误2016-06-04 06:28:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=91106抓取user时发生错误2016-06-04 06:29:08 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=230996抓取user时发生错误2016-06-04 06:29:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180975抓取user时发生错误2016-06-04 06:30:44 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=101060抓取user时发生错误2016-06-04 06:31:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11028抓取user时发生错误2016-06-04 06:31:07 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=11030抓取user时发生错误2016-06-04 06:32:40 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180979抓取user时发生错误2016-06-04 06:33:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11035抓取user时发生错误2016-06-04 06:36:10 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=101067抓取user时发生错误2016-06-04 06:36:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=180983抓取user时发生错误2016-06-04 06:36:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11037抓取user时发生错误2016-06-04 06:37:24 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=11038抓取user时发生错误2016-06-04 06:37:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=11040抓取user时发生错误2016-06-04 06:38:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180987抓取user时发生错误2016-06-04 06:39:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=191018抓取user时发生错误2016-06-04 06:39:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11044抓取user时发生错误2016-06-04 06:41:52 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180991抓取user时发生错误2016-06-04 06:41:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=471014抓取user时发生错误2016-06-04 06:43:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=180995抓取user时发生错误2016-06-04 06:43:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11047抓取user时发生错误2016-06-04 06:44:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=180999抓取user时发生错误2016-06-04 06:46:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=201047抓取user时发生错误2016-06-04 06:48:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=430974抓取user时发生错误2016-06-04 06:48:58 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=120838抓取user时发生错误2016-06-04 06:49:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11053抓取user时发生错误2016-06-04 06:49:11 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181003抓取user时发生错误2016-06-04 06:49:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11055抓取user时发生错误2016-06-04 06:50:05 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181007抓取user时发生错误2016-06-04 06:53:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11060抓取user时发生错误2016-06-04 06:54:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=330941抓取user时发生错误2016-06-04 06:54:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=261025抓取user时发生错误2016-06-04 06:55:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181011抓取user时发生错误2016-06-04 06:55:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11065抓取user时发生错误2016-06-04 06:57:47 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181015抓取user时发生错误2016-06-04 06:58:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11069抓取user时发生错误2016-06-04 07:00:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=11070抓取user时发生错误2016-06-04 07:00:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181019抓取user时发生错误2016-06-04 07:00:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181023抓取user时发生错误2016-06-04 07:03:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=111029抓取user时发生错误2016-06-04 07:05:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=31039抓取user时发生错误2016-06-04 07:06:11 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=101116抓取user时发生错误2016-06-04 07:06:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181029抓取user时发生错误2016-06-04 07:06:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31041抓取user时发生错误2016-06-04 07:07:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=141118抓取user时发生错误2016-06-04 07:10:07 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=411015抓取user时发生错误2016-06-04 07:10:44 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181035抓取user时发生错误2016-06-04 07:10:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=101125抓取user时发生错误2016-06-04 07:12:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181038抓取user时发生错误2016-06-04 07:12:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21072抓取user时发生错误2016-06-04 07:13:04 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=241041抓取user时发生错误2016-06-04 07:13:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181041抓取user时发生错误2016-06-04 07:14:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310895抓取user时发生错误2016-06-04 07:15:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181043抓取user时发生错误2016-06-04 07:15:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181045抓取user时发生错误2016-06-04 07:17:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=101137抓取user时发生错误2016-06-04 07:17:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181048抓取user时发生错误2016-06-04 07:19:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310899抓取user时发生错误2016-06-04 07:19:49 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=480895抓取user时发生错误2016-06-04 07:19:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181051抓取user时发生错误2016-06-04 07:21:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21083抓取user时发生错误2016-06-04 07:22:02 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181053抓取user时发生错误2016-06-04 07:22:24 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310903抓取user时发生错误2016-06-04 07:24:09 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181056抓取user时发生错误2016-06-04 07:24:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181059抓取user时发生错误2016-06-04 07:26:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310907抓取user时发生错误2016-06-04 07:28:17 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181063抓取user时发生错误2016-06-04 07:28:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181066抓取user时发生错误2016-06-04 07:30:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181069抓取user时发生错误2016-06-04 07:32:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310911抓取user时发生错误2016-06-04 07:32:33 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=161150抓取user时发生错误2016-06-04 07:32:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=241071抓取user时发生错误2016-06-04 07:34:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181072抓取user时发生错误2016-06-04 07:35:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310915抓取user时发生错误2016-06-04 07:36:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181075抓取user时发生错误2016-06-04 07:37:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21103抓取user时发生错误2016-06-04 07:37:34 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=241076抓取user时发生错误2016-06-04 07:37:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=381045抓取user时发生错误2016-06-04 07:38:21 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181077抓取user时发生错误2016-06-04 07:38:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310919抓取user时发生错误2016-06-04 07:39:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181079抓取user时发生错误2016-06-04 07:40:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181081抓取user时发生错误2016-06-04 07:42:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310923抓取user时发生错误2016-06-04 07:43:47 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181083抓取user时发生错误2016-06-04 07:44:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=101177抓取user时发生错误2016-06-04 07:44:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181086抓取user时发生错误2016-06-04 07:47:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310927抓取user时发生错误2016-06-04 07:47:12 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181089抓取user时发生错误2016-06-04 07:49:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181092抓取user时发生错误2016-06-04 07:50:48 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310931抓取user时发生错误2016-06-04 07:51:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181095抓取user时发生错误2016-06-04 07:53:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310935抓取user时发生错误2016-06-04 07:54:49 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181098抓取user时发生错误2016-06-04 07:55:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181100抓取user时发生错误2016-06-04 07:57:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120904抓取user时发生错误2016-06-04 07:58:11 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=21132抓取user时发生错误2016-06-04 07:58:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=310939抓取user时发生错误2016-06-04 07:58:55 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=471130抓取user时发生错误2016-06-04 07:59:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181103抓取user时发生错误2016-06-04 08:00:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310942抓取user时发生错误2016-06-04 08:01:55 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=151093抓取user时发生错误2016-06-04 08:02:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181106抓取user时发生错误2016-06-04 08:02:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170847抓取user时发生错误2016-06-04 08:04:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=451177抓取user时发生错误2016-06-04 08:05:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=170848抓取user时发生错误2016-06-04 08:05:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310945抓取user时发生错误2016-06-04 08:05:59 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=31075抓取user时发生错误2016-06-04 08:07:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181109抓取user时发生错误2016-06-04 08:07:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310948抓取user时发生错误2016-06-04 08:08:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181112抓取user时发生错误2016-06-04 08:10:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310951抓取user时发生错误2016-06-04 08:11:50 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181115抓取user时发生错误2016-06-04 08:12:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310954抓取user时发生错误2016-06-04 08:13:09 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=301126抓取user时发生错误2016-06-04 08:13:27 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181119抓取user时发生错误2016-06-04 08:15:22 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=451194抓取user时发生错误2016-06-04 08:15:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181121抓取user时发生错误2016-06-04 08:16:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31081抓取user时发生错误2016-06-04 08:16:56 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=310958抓取user时发生错误2016-06-04 08:18:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=251083抓取user时发生错误2016-06-04 08:18:30 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=51191抓取user时发生错误2016-06-04 08:19:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181124抓取user时发生错误2016-06-04 08:19:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181127抓取user时发生错误2016-06-04 08:21:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=441232抓取user时发生错误2016-06-04 08:21:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310960抓取user时发生错误2016-06-04 08:22:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181130抓取user时发生错误2016-06-04 08:22:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310963抓取user时发生错误2016-06-04 08:24:25 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181133抓取user时发生错误2016-06-04 08:25:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181136抓取user时发生错误2016-06-04 08:26:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181138抓取user时发生错误2016-06-04 08:27:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310967抓取user时发生错误2016-06-04 08:28:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181140抓取user时发生错误2016-06-04 08:29:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11198抓取user时发生错误2016-06-04 08:29:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=351259抓取user时发生错误2016-06-04 08:29:44 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181142抓取user时发生错误2016-06-04 08:30:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181144抓取user时发生错误2016-06-04 08:32:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331079抓取user时发生错误2016-06-04 08:33:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181146抓取user时发生错误2016-06-04 08:33:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331084抓取user时发生错误2016-06-04 08:35:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181150抓取user时发生错误2016-06-04 08:36:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181153抓取user时发生错误2016-06-04 08:38:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=120943抓取user时发生错误2016-06-04 08:38:39 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=221175抓取user时发生错误2016-06-04 08:39:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181156抓取user时发生错误2016-06-04 08:40:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181158抓取user时发生错误2016-06-04 08:42:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331092抓取user时发生错误2016-06-04 08:43:49 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181160抓取user时发生错误2016-06-04 08:43:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221182抓取user时发生错误2016-06-04 08:44:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=381128抓取user时发生错误2016-06-04 08:44:57 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181162抓取user时发生错误2016-06-04 08:45:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181164抓取user时发生错误2016-06-04 08:47:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181166抓取user时发生错误2016-06-04 08:49:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181168抓取user时发生错误2016-06-04 08:50:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181170抓取user时发生错误2016-06-04 08:52:13 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80865抓取user时发生错误2016-06-04 08:55:12 Error = HTTP Error 404: Not Found---
+ERROR:root: id=866抓取user时发生错误2016-06-04 08:55:12 Error = HTTP Error 404: Not Found---
+ERROR:root: id=181172抓取user时发生错误2016-06-04 08:55:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181174抓取user时发生错误2016-06-04 08:58:43 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181176抓取user时发生错误2016-06-04 09:02:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=310988抓取user时发生错误2016-06-04 09:04:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181178抓取user时发生错误2016-06-04 09:04:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181180抓取user时发生错误2016-06-04 09:08:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181182抓取user时发生错误2016-06-04 09:10:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181183抓取user时发生错误2016-06-04 09:12:14 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=740018抓取user时发生错误2016-06-04 09:12:47 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=710009抓取user时发生错误2016-06-04 09:12:52 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181184抓取user时发生错误2016-06-04 09:14:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331114抓取user时发生错误2016-06-04 09:15:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80875抓取user时发生错误2016-06-04 09:16:44 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181186抓取user时发生错误2016-06-04 09:17:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=710012抓取user时发生错误2016-06-04 09:19:22 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=221208抓取user时发生错误2016-06-04 09:20:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181188抓取user时发生错误2016-06-04 09:21:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=231214抓取user时发生错误2016-06-04 09:22:56 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181190抓取user时发生错误2016-06-04 09:25:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=231217抓取user时发生错误2016-06-04 09:27:32 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=231218抓取user时发生错误2016-06-04 09:28:07 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181192抓取user时发生错误2016-06-04 09:28:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181194抓取user时发生错误2016-06-04 09:32:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=810028抓取user时发生错误2016-06-04 09:34:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181196抓取user时发生错误2016-06-04 09:35:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850034抓取user时发生错误2016-06-04 09:36:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181198抓取user时发生错误2016-06-04 09:39:28 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=41332抓取user时发生错误2016-06-04 09:42:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181200抓取user时发生错误2016-06-04 09:43:35 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=890037抓取user时发生错误2016-06-04 09:43:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181202抓取user时发生错误2016-06-04 09:46:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=411172抓取user时发生错误2016-06-04 09:47:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181204抓取user时发生错误2016-06-04 09:48:32 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181207抓取user时发生错误2016-06-04 09:53:31 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=241215抓取user时发生错误2016-06-04 09:57:13 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181210抓取user时发生错误2016-06-04 09:58:11 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21228抓取user时发生错误2016-06-04 10:00:06 Error = list index out of range---
+ERROR:root: id=21229抓取user时发生错误2016-06-04 10:00:06 Error = list index out of range---
+ERROR:root: id=850053抓取user时发生错误2016-06-04 10:01:07 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181212抓取user时发生错误2016-06-04 10:01:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331143抓取user时发生错误2016-06-04 10:01:30 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=913抓取user时发生错误2016-06-04 10:15:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21255抓取user时发生错误2016-06-04 10:30:08 Error = list index out of range---
+ERROR:root: id=181214抓取user时发生错误2016-06-04 10:30:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181216抓取user时发生错误2016-06-04 10:30:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11308抓取user时发生错误2016-06-04 10:31:05 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181218抓取user时发生错误2016-06-04 10:31:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181220抓取user时发生错误2016-06-04 10:31:36 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=61142抓取user时发生错误2016-06-04 10:31:42 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=381181抓取user时发生错误2016-06-04 10:31:51 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=51317抓取user时发生错误2016-06-04 10:31:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181223抓取user时发生错误2016-06-04 10:32:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31145抓取user时发生错误2016-06-04 10:32:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31147抓取user时发生错误2016-06-04 10:32:47 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181226抓取user时发生错误2016-06-04 10:33:03 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31153抓取user时发生错误2016-06-04 10:33:28 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31154抓取user时发生错误2016-06-04 10:33:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=890061抓取user时发生错误2016-06-04 10:34:00 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=301260抓取user时发生错误2016-06-04 10:34:07 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181229抓取user时发生错误2016-06-04 10:34:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331160抓取user时发生错误2016-06-04 10:34:09 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=261289抓取user时发生错误2016-06-04 10:34:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=221254抓取user时发生错误2016-06-04 10:34:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=890064抓取user时发生错误2016-06-04 10:34:40 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=451318抓取user时发生错误2016-06-04 10:34:49 Error = 1366 (HY000): Incorrect string value: '\xF0\xA1\xBF\xA8\xE5\xB8...' for column 'content' at row 1---
+ERROR:root: id=850064抓取user时发生错误2016-06-04 10:34:52 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181232抓取user时发生错误2016-06-04 10:34:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181235抓取user时发生错误2016-06-04 10:35:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=750063抓取user时发生错误2016-06-04 10:36:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181238抓取user时发生错误2016-06-04 10:36:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=451325抓取user时发生错误2016-06-04 10:36:55 Error = 1366 (HY000): Incorrect string value: '\xF0\xA0\x82\x86\xE5\xAE...' for column 'content' at row 1---
+ERROR:root: id=850073抓取user时发生错误2016-06-04 10:37:22 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=750066抓取user时发生错误2016-06-04 10:37:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=670078抓取user时发生错误2016-06-04 10:37:30 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=451327抓取user时发生错误2016-06-04 10:37:35 Error = 1366 (HY000): Incorrect string value: '\xF0\xA0\x82\x86\xE5\xAE...' for column 'content' at row 1---
+ERROR:root: id=540072抓取user时发生错误2016-06-04 10:37:48 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181242抓取user时发生错误2016-06-04 10:38:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181246抓取user时发生错误2016-06-04 10:39:26 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=411205抓取user时发生错误2016-06-04 10:39:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=301280抓取user时发生错误2016-06-04 10:39:31 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850083抓取user时发生错误2016-06-04 10:39:45 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=710056抓取user时发生错误2016-06-04 10:39:55 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=550100抓取user时发生错误2016-06-04 10:39:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21279抓取user时发生错误2016-06-04 10:40:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=740086抓取user时发生错误2016-06-04 10:40:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181250抓取user时发生错误2016-06-04 10:40:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331188抓取user时发生错误2016-06-04 10:41:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181253抓取user时发生错误2016-06-04 10:41:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850092抓取user时发生错误2016-06-04 10:42:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=21286抓取user时发生错误2016-06-04 10:42:37 Error = list index out of range---
+ERROR:root: id=221285抓取user时发生错误2016-06-04 10:42:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181256抓取user时发生错误2016-06-04 10:43:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=281464抓取user时发生错误2016-06-04 10:43:21 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=261324抓取user时发生错误2016-06-04 10:43:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=490101抓取user时发生错误2016-06-04 10:43:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181259抓取user时发生错误2016-06-04 10:44:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=990抓取user时发生错误2016-06-04 10:44:20 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=281468抓取user时发生错误2016-06-04 10:44:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=770099抓取user时发生错误2016-06-04 10:44:32 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181262抓取user时发生错误2016-06-04 10:44:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181265抓取user时发生错误2016-06-04 10:45:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=301304抓取user时发生错误2016-06-04 10:46:10 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181268抓取user时发生错误2016-06-04 10:46:38 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181271抓取user时发生错误2016-06-04 10:47:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=580117抓取user时发生错误2016-06-04 10:47:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=161368抓取user时发生错误2016-06-04 10:48:16 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181274抓取user时发生错误2016-06-04 10:48:37 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=890123抓取user时发生错误2016-06-04 10:49:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181278抓取user时发生错误2016-06-04 10:49:47 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21308抓取user时发生错误2016-06-04 10:49:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181281抓取user时发生错误2016-06-04 10:50:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181284抓取user时发生错误2016-06-04 10:52:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850129抓取user时发生错误2016-06-04 10:52:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181287抓取user时发生错误2016-06-04 10:53:10 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=640125抓取user时发生错误2016-06-04 10:53:27 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=740127抓取user时发生错误2016-06-04 10:53:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=421416抓取user时发生错误2016-06-04 10:53:50 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=970142抓取user时发生错误2016-06-04 10:53:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=580138抓取user时发生错误2016-06-04 10:53:58 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181290抓取user时发生错误2016-06-04 10:54:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=580140抓取user时发生错误2016-06-04 10:54:27 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=580142抓取user时发生错误2016-06-04 10:54:39 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331230抓取user时发生错误2016-06-04 10:55:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181294抓取user时发生错误2016-06-04 10:55:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=371343抓取user时发生错误2016-06-04 10:56:12 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181298抓取user时发生错误2016-06-04 10:56:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331233抓取user时发生错误2016-06-04 10:56:45 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850148抓取user时发生错误2016-06-04 10:56:57 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181302抓取user时发生错误2016-06-04 10:57:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=610153抓取user时发生错误2016-06-04 10:58:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=610154抓取user时发生错误2016-06-04 10:58:46 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=610155抓取user时发生错误2016-06-04 10:58:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=21348抓取user时发生错误2016-06-04 10:59:00 Error = list index out of range---
+ERROR:root: id=181306抓取user时发生错误2016-06-04 10:59:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=780154抓取user时发生错误2016-06-04 10:59:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=910141抓取user时发生错误2016-06-04 10:59:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=890164抓取user时发生错误2016-06-04 10:59:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11423抓取user时发生错误2016-06-04 11:00:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181310抓取user时发生错误2016-06-04 11:00:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11424抓取user时发生错误2016-06-04 11:00:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181312抓取user时发生错误2016-06-04 11:00:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=870188抓取user时发生错误2016-06-04 11:01:45 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181316抓取user时发生错误2016-06-04 11:01:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850165抓取user时发生错误2016-06-04 11:02:01 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=960126抓取user时发生错误2016-06-04 11:02:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=441456抓取user时发生错误2016-06-04 11:02:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=211439抓取user时发生错误2016-06-04 11:02:26 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=690126抓取user时发生错误2016-06-04 11:02:28 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=211441抓取user时发生错误2016-06-04 11:02:53 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=650170抓取user时发生错误2016-06-04 11:03:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181320抓取user时发生错误2016-06-04 11:03:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=600173抓取user时发生错误2016-06-04 11:03:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=690129抓取user时发生错误2016-06-04 11:03:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11437抓取user时发生错误2016-06-04 11:03:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181323抓取user时发生错误2016-06-04 11:03:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181326抓取user时发生错误2016-06-04 11:04:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=80998抓取user时发生错误2016-06-04 11:04:43 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=760135抓取user时发生错误2016-06-04 11:04:45 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=1052抓取user时发生错误2016-06-04 11:05:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1053抓取user时发生错误2016-06-04 11:05:49 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181330抓取user时发生错误2016-06-04 11:05:56 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=1054抓取user时发生错误2016-06-04 11:06:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1055抓取user时发生错误2016-06-04 11:06:12 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=81004抓取user时发生错误2016-06-04 11:06:20 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=1056抓取user时发生错误2016-06-04 11:06:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1057抓取user时发生错误2016-06-04 11:06:36 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1058抓取user时发生错误2016-06-04 11:06:47 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181334抓取user时发生错误2016-06-04 11:06:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=1059抓取user时发生错误2016-06-04 11:07:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1060抓取user时发生错误2016-06-04 11:07:13 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=261415抓取user时发生错误2016-06-04 11:07:20 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1062抓取user时发生错误2016-06-04 11:07:33 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1064抓取user时发生错误2016-06-04 11:07:50 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181338抓取user时发生错误2016-06-04 11:07:58 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=1067抓取user时发生错误2016-06-04 11:08:50 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181342抓取user时发生错误2016-06-04 11:09:18 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=770186抓取user时发生错误2016-06-04 11:09:21 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=1070抓取user时发生错误2016-06-04 11:09:41 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=271361抓取user时发生错误2016-06-04 11:10:09 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181345抓取user时发生错误2016-06-04 11:10:20 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=1073抓取user时发生错误2016-06-04 11:10:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1076抓取user时发生错误2016-06-04 11:11:02 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=81020抓取user时发生错误2016-06-04 11:11:04 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=530208抓取user时发生错误2016-06-04 11:11:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=481199抓取user时发生错误2016-06-04 11:11:42 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=1079抓取user时发生错误2016-06-04 11:11:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=610208抓取user时发生错误2016-06-04 11:12:02 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=481201抓取user时发生错误2016-06-04 11:12:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181350抓取user时发生错误2016-06-04 11:12:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=221389抓取user时发生错误2016-06-04 11:12:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11466抓取user时发生错误2016-06-04 11:12:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=1082抓取user时发生错误2016-06-04 11:12:58 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=11467抓取user时发生错误2016-06-04 11:13:12 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181355抓取user时发生错误2016-06-04 11:13:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=620173抓取user时发生错误2016-06-04 11:14:41 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860206抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860207抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860208抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860209抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860210抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860211抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860212抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860213抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860214抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860215抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=860216抓取user时发生错误2016-06-04 11:15:49 Error = list index out of range---
+ERROR:root: id=620177抓取user时发生错误2016-06-04 11:15:55 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860218抓取user时发生错误2016-06-04 11:16:14 Error = list index out of range---
+ERROR:root: id=181363抓取user时发生错误2016-06-04 11:16:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860220抓取user时发生错误2016-06-04 11:16:22 Error = list index out of range---
+ERROR:root: id=860223抓取user时发生错误2016-06-04 11:16:39 Error = list index out of range---
+ERROR:root: id=860226抓取user时发生错误2016-06-04 11:16:57 Error = list index out of range---
+ERROR:root: id=271383抓取user时发生错误2016-06-04 11:17:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860229抓取user时发生错误2016-06-04 11:17:27 Error = list index out of range---
+ERROR:root: id=850239抓取user时发生错误2016-06-04 11:17:34 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=1097抓取user时发生错误2016-06-04 11:17:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860232抓取user时发生错误2016-06-04 11:17:57 Error = list index out of range---
+ERROR:root: id=181369抓取user时发生错误2016-06-04 11:18:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850243抓取user时发生错误2016-06-04 11:18:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860235抓取user时发生错误2016-06-04 11:18:45 Error = list index out of range---
+ERROR:root: id=560267抓取user时发生错误2016-06-04 11:18:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=520247抓取user时发生错误2016-06-04 11:19:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860238抓取user时发生错误2016-06-04 11:19:12 Error = list index out of range---
+ERROR:root: id=181373抓取user时发生错误2016-06-04 11:19:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860241抓取user时发生错误2016-06-04 11:19:32 Error = list index out of range---
+ERROR:root: id=860244抓取user时发生错误2016-06-04 11:20:03 Error = list index out of range---
+ERROR:root: id=850253抓取user时发生错误2016-06-04 11:20:13 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860247抓取user时发生错误2016-06-04 11:20:33 Error = list index out of range---
+ERROR:root: id=560272抓取user时发生错误2016-06-04 11:20:40 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860249抓取user时发生错误2016-06-04 11:20:41 Error = list index out of range---
+ERROR:root: id=31241抓取user时发生错误2016-06-04 11:20:43 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181378抓取user时发生错误2016-06-04 11:20:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860252抓取user时发生错误2016-06-04 11:21:00 Error = list index out of range---
+ERROR:root: id=331318抓取user时发生错误2016-06-04 11:21:06 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331321抓取user时发生错误2016-06-04 11:21:36 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860256抓取user时发生错误2016-06-04 11:21:45 Error = list index out of range---
+ERROR:root: id=860258抓取user时发生错误2016-06-04 11:21:57 Error = list index out of range---
+ERROR:root: id=331324抓取user时发生错误2016-06-04 11:22:04 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181382抓取user时发生错误2016-06-04 11:22:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=391304抓取user时发生错误2016-06-04 11:22:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850265抓取user时发生错误2016-06-04 11:22:08 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=11491抓取user时发生错误2016-06-04 11:22:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860262抓取user时发生错误2016-06-04 11:22:33 Error = list index out of range---
+ERROR:root: id=41560抓取user时发生错误2016-06-04 11:23:04 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=940216抓取user时发生错误2016-06-04 11:23:08 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181385抓取user时发生错误2016-06-04 11:23:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860266抓取user时发生错误2016-06-04 11:23:21 Error = list index out of range---
+ERROR:root: id=850271抓取user时发生错误2016-06-04 11:23:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=560278抓取user时发生错误2016-06-04 11:23:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=640233抓取user时发生错误2016-06-04 11:23:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181388抓取user时发生错误2016-06-04 11:24:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860270抓取user时发生错误2016-06-04 11:24:15 Error = list index out of range---
+ERROR:root: id=860273抓取user时发生错误2016-06-04 11:24:49 Error = list index out of range---
+ERROR:root: id=371424抓取user时发生错误2016-06-04 11:25:01 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=181391抓取user时发生错误2016-06-04 11:25:07 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=471491抓取user时发生错误2016-06-04 11:25:26 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=860277抓取user时发生错误2016-06-04 11:25:40 Error = list index out of range---
+ERROR:root: id=181393抓取user时发生错误2016-06-04 11:25:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=201489抓取user时发生错误2016-06-04 11:26:06 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=331333抓取user时发生错误2016-06-04 11:26:24 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860281抓取user时发生错误2016-06-04 11:26:29 Error = list index out of range---
+ERROR:root: id=11503抓取user时发生错误2016-06-04 11:26:49 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=560288抓取user时发生错误2016-06-04 11:26:57 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181396抓取user时发生错误2016-06-04 11:27:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860286抓取user时发生错误2016-06-04 11:27:28 Error = list index out of range---
+ERROR:root: id=181399抓取user时发生错误2016-06-04 11:28:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860290抓取user时发生错误2016-06-04 11:28:07 Error = list index out of range---
+ERROR:root: id=860293抓取user时发生错误2016-06-04 11:28:30 Error = list index out of range---
+ERROR:root: id=860295抓取user时发生错误2016-06-04 11:28:39 Error = list index out of range---
+ERROR:root: id=181402抓取user时发生错误2016-06-04 11:28:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860298抓取user时发生错误2016-06-04 11:29:25 Error = list index out of range---
+ERROR:root: id=11511抓取user时发生错误2016-06-04 11:29:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=351564抓取user时发生错误2016-06-04 11:29:36 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=331341抓取user时发生错误2016-06-04 11:29:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181405抓取user时发生错误2016-06-04 11:30:06 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=361458抓取user时发生错误2016-06-04 11:30:10 Error = HTTP Error 404: Not Found---
+ERROR:root: id=361459抓取user时发生错误2016-06-04 11:30:10 Error = HTTP Error 404: Not Found---
+ERROR:root: id=860301抓取user时发生错误2016-06-04 11:30:14 Error = list index out of range---
+ERROR:root: id=820257抓取user时发生错误2016-06-04 11:30:21 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=351568抓取user时发生错误2016-06-04 11:30:57 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860304抓取user时发生错误2016-06-04 11:30:59 Error = list index out of range---
+ERROR:root: id=331344抓取user时发生错误2016-06-04 11:31:02 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181408抓取user时发生错误2016-06-04 11:31:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=900271抓取user时发生错误2016-06-04 11:31:29 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860308抓取user时发生错误2016-06-04 11:32:01 Error = list index out of range---
+ERROR:root: id=710224抓取user时发生错误2016-06-04 11:32:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=11517抓取user时发生错误2016-06-04 11:32:15 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181412抓取user时发生错误2016-06-04 11:32:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=900273抓取user时发生错误2016-06-04 11:32:34 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860311抓取user时发生错误2016-06-04 11:32:54 Error = list index out of range---
+ERROR:root: id=111466抓取user时发生错误2016-06-04 11:33:16 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=181415抓取user时发生错误2016-06-04 11:33:39 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860313抓取user时发生错误2016-06-04 11:33:46 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860314抓取user时发生错误2016-06-04 11:33:46 Error = list index out of range---
+ERROR:root: id=900276抓取user时发生错误2016-06-04 11:33:54 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=81083抓取user时发生错误2016-06-04 11:34:14 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860317抓取user时发生错误2016-06-04 11:34:19 Error = list index out of range---
+ERROR:root: id=181418抓取user时发生错误2016-06-04 11:34:33 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=81084抓取user时发生错误2016-06-04 11:34:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=331350抓取user时发生错误2016-06-04 11:34:44 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=81085抓取user时发生错误2016-06-04 11:34:53 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31276抓取user时发生错误2016-06-04 11:34:55 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860320抓取user时发生错误2016-06-04 11:34:58 Error = list index out of range---
+ERROR:root: id=181420抓取user时发生错误2016-06-04 11:35:08 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=1149抓取user时发生错误2016-06-04 11:35:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860322抓取user时发生错误2016-06-04 11:35:20 Error = list index out of range---
+ERROR:root: id=351585抓取user时发生错误2016-06-04 11:35:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=161518抓取user时发生错误2016-06-04 11:35:41 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860324抓取user时发生错误2016-06-04 11:35:45 Error = list index out of range---
+ERROR:root: id=231493抓取user时发生错误2016-06-04 11:35:55 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860326抓取user时发生错误2016-06-04 11:35:58 Error = list index out of range---
+ERROR:root: id=201522抓取user时发生错误2016-06-04 11:36:04 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=181422抓取user时发生错误2016-06-04 11:36:09 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860328抓取user时发生错误2016-06-04 11:36:10 Error = list index out of range---
+ERROR:root: id=860330抓取user时发生错误2016-06-04 11:36:32 Error = list index out of range---
+ERROR:root: id=860332抓取user时发生错误2016-06-04 11:36:46 Error = list index out of range---
+ERROR:root: id=181424抓取user时发生错误2016-06-04 11:36:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=161521抓取user时发生错误2016-06-04 11:36:52 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860334抓取user时发生错误2016-06-04 11:36:56 Error = list index out of range---
+ERROR:root: id=860336抓取user时发生错误2016-06-04 11:37:19 Error = list index out of range---
+ERROR:root: id=331362抓取user时发生错误2016-06-04 11:37:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=181426抓取user时发生错误2016-06-04 11:37:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860338抓取user时发生错误2016-06-04 11:37:43 Error = list index out of range---
+ERROR:root: id=860341抓取user时发生错误2016-06-04 11:38:29 Error = list index out of range---
+ERROR:root: id=181428抓取user时发生错误2016-06-04 11:38:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860344抓取user时发生错误2016-06-04 11:38:56 Error = list index out of range---
+ERROR:root: id=860347抓取user时发生错误2016-06-04 11:39:35 Error = list index out of range---
+ERROR:root: id=830296抓取user时发生错误2016-06-04 11:39:51 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31287抓取user时发生错误2016-06-04 11:40:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860350抓取user时发生错误2016-06-04 11:40:27 Error = list index out of range---
+ERROR:root: id=301469抓取user时发生错误2016-06-04 11:41:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=830303抓取user时发生错误2016-06-04 11:41:05 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=211574抓取user时发生错误2016-06-04 11:41:23 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860354抓取user时发生错误2016-06-04 11:41:28 Error = list index out of range---
+ERROR:root: id=371462抓取user时发生错误2016-06-04 11:41:30 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850355抓取user时发生错误2016-06-04 11:42:03 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=381427抓取user时发生错误2016-06-04 11:42:27 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=510332抓取user时发生错误2016-06-04 11:42:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850358抓取user时发生错误2016-06-04 11:42:33 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=830311抓取user时发生错误2016-06-04 11:42:34 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860359抓取user时发生错误2016-06-04 11:42:55 Error = list index out of range---
+ERROR:root: id=830315抓取user时发生错误2016-06-04 11:43:19 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31295抓取user时发生错误2016-06-04 11:43:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=800302抓取user时发生错误2016-06-04 11:43:41 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860363抓取user时发生错误2016-06-04 11:43:52 Error = list index out of range---
+ERROR:root: id=860364抓取user时发生错误2016-06-04 11:43:52 Error = list index out of range---
+ERROR:root: id=441592抓取user时发生错误2016-06-04 11:44:04 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=850367抓取user时发生错误2016-06-04 11:44:32 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=850369抓取user时发生错误2016-06-04 11:44:45 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860367抓取user时发生错误2016-06-04 11:44:54 Error = list index out of range---
+ERROR:root: id=920322抓取user时发生错误2016-06-04 11:45:01 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850373抓取user时发生错误2016-06-04 11:45:27 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=321534抓取user时发生错误2016-06-04 11:45:32 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=700281抓取user时发生错误2016-06-04 11:45:37 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=580304抓取user时发生错误2016-06-04 11:45:40 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=860370抓取user时发生错误2016-06-04 11:45:48 Error = list index out of range---
+ERROR:root: id=860372抓取user时发生错误2016-06-04 11:46:02 Error = list index out of range---
+ERROR:root: id=560328抓取user时发生错误2016-06-04 11:46:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860374抓取user时发生错误2016-06-04 11:46:13 Error = list index out of range---
+ERROR:root: id=860376抓取user时发生错误2016-06-04 11:46:29 Error = list index out of range---
+ERROR:root: id=860378抓取user时发生错误2016-06-04 11:46:42 Error = list index out of range---
+ERROR:root: id=860380抓取user时发生错误2016-06-04 11:47:01 Error = list index out of range---
+ERROR:root: id=490409抓取user时发生错误2016-06-04 11:47:09 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=71292抓取user时发生错误2016-06-04 11:47:14 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=770321抓取user时发生错误2016-06-04 11:47:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850381抓取user时发生错误2016-06-04 11:47:21 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860382抓取user时发生错误2016-06-04 11:47:27 Error = list index out of range---
+ERROR:root: id=860384抓取user时发生错误2016-06-04 11:47:35 Error = list index out of range---
+ERROR:root: id=860386抓取user时发生错误2016-06-04 11:47:45 Error = list index out of range---
+ERROR:root: id=31304抓取user时发生错误2016-06-04 11:47:49 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=331389抓取user时发生错误2016-06-04 11:47:53 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=770325抓取user时发生错误2016-06-04 11:48:03 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860388抓取user时发生错误2016-06-04 11:48:15 Error = list index out of range---
+ERROR:root: id=321542抓取user时发生错误2016-06-04 11:48:22 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860390抓取user时发生错误2016-06-04 11:48:26 Error = list index out of range---
+ERROR:root: id=850385抓取user时发生错误2016-06-04 11:48:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860392抓取user时发生错误2016-06-04 11:48:40 Error = list index out of range---
+ERROR:root: id=560337抓取user时发生错误2016-06-04 11:48:41 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=770329抓取user时发生错误2016-06-04 11:48:45 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850387抓取user时发生错误2016-06-04 11:48:51 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860394抓取user时发生错误2016-06-04 11:49:04 Error = list index out of range---
+ERROR:root: id=950298抓取user时发生错误2016-06-04 11:49:05 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=321544抓取user时发生错误2016-06-04 11:49:05 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=770331抓取user时发生错误2016-06-04 11:49:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=850389抓取user时发生错误2016-06-04 11:49:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860396抓取user时发生错误2016-06-04 11:49:28 Error = list index out of range---
+ERROR:root: id=860398抓取user时发生错误2016-06-04 11:49:36 Error = list index out of range---
+ERROR:root: id=860400抓取user时发生错误2016-06-04 11:49:50 Error = list index out of range---
+ERROR:root: id=61332抓取user时发生错误2016-06-04 11:49:52 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=61333抓取user时发生错误2016-06-04 11:50:01 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860402抓取user时发生错误2016-06-04 11:50:08 Error = list index out of range---
+ERROR:root: id=770333抓取user时发生错误2016-06-04 11:50:21 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860404抓取user时发生错误2016-06-04 11:50:44 Error = list index out of range---
+ERROR:root: id=441610抓取user时发生错误2016-06-04 11:51:06 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860406抓取user时发生错误2016-06-04 11:51:12 Error = list index out of range---
+ERROR:root: id=451587抓取user时发生错误2016-06-04 11:51:17 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860408抓取user时发生错误2016-06-04 11:51:27 Error = list index out of range---
+ERROR:root: id=321552抓取user时发生错误2016-06-04 11:51:35 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860411抓取user时发生错误2016-06-04 11:51:42 Error = list index out of range---
+ERROR:root: id=860415抓取user时发生错误2016-06-04 11:52:32 Error = list index out of range---
+ERROR:root: id=860418抓取user时发生错误2016-06-04 11:52:58 Error = list index out of range---
+ERROR:root: id=441617抓取user时发生错误2016-06-04 11:53:13 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=690295抓取user时发生错误2016-06-04 11:53:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=451595抓取user时发生错误2016-06-04 11:53:25 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860420抓取user时发生错误2016-06-04 11:53:26 Error = list index out of range---
+ERROR:root: id=21609抓取user时发生错误2016-06-04 11:54:00 Error = list index out of range---
+ERROR:root: id=860423抓取user时发生错误2016-06-04 11:54:07 Error = list index out of range---
+ERROR:root: id=21611抓取user时发生错误2016-06-04 11:54:17 Error = list index out of range---
+ERROR:root: id=31317抓取user时发生错误2016-06-04 11:54:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31318抓取user时发生错误2016-06-04 11:54:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31319抓取user时发生错误2016-06-04 11:54:17 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31320抓取user时发生错误2016-06-04 11:54:18 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860425抓取user时发生错误2016-06-04 11:54:23 Error = list index out of range---
+ERROR:root: id=860427抓取user时发生错误2016-06-04 11:54:32 Error = list index out of range---
+ERROR:root: id=860428抓取user时发生错误2016-06-04 11:54:32 Error = list index out of range---
+ERROR:root: id=860430抓取user时发生错误2016-06-04 11:54:58 Error = list index out of range---
+ERROR:root: id=451601抓取user时发生错误2016-06-04 11:54:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860432抓取user时发生错误2016-06-04 11:55:11 Error = list index out of range---
+ERROR:root: id=860435抓取user时发生错误2016-06-04 11:55:58 Error = list index out of range---
+ERROR:root: id=860438抓取user时发生错误2016-06-04 11:56:28 Error = list index out of range---
+ERROR:root: id=860442抓取user时发生错误2016-06-04 11:57:40 Error = list index out of range---
+ERROR:root: id=540254抓取user时发生错误2016-06-04 11:57:54 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=670372抓取user时发生错误2016-06-04 11:57:59 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=860445抓取user时发生错误2016-06-04 11:58:10 Error = list index out of range---
+ERROR:root: id=850418抓取user时发生错误2016-06-04 11:58:43 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=91748抓取user时发生错误2016-06-04 11:59:13 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=381466抓取user时发生错误2016-06-04 11:59:25 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=830377抓取user时发生错误2016-06-04 11:59:32 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=201602抓取user时发生错误2016-06-04 11:59:32 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860449抓取user时发生错误2016-06-04 11:59:33 Error = list index out of range---
+ERROR:root: id=31332抓取user时发生错误2016-06-04 11:59:50 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860451抓取user时发生错误2016-06-04 12:00:00 Error = list index out of range---
+ERROR:root: id=31334抓取user时发生错误2016-06-04 12:00:11 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31335抓取user时发生错误2016-06-04 12:00:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31336抓取user时发生错误2016-06-04 12:00:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31337抓取user时发生错误2016-06-04 12:00:12 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=31338抓取user时发生错误2016-06-04 12:00:13 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=830380抓取user时发生错误2016-06-04 12:00:27 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=31340抓取user时发生错误2016-06-04 12:00:49 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=860455抓取user时发生错误2016-06-04 12:00:53 Error = list index out of range---
+ERROR:root: id=21628抓取user时发生错误2016-06-04 12:00:53 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=471620抓取user时发生错误2016-06-04 12:01:19 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=790337抓取user时发生错误2016-06-04 12:01:21 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=351659抓取user时发生错误2016-06-04 12:01:28 Error = 'NoneType' object has no attribute 'next_element'---
+ERROR:root: id=31342抓取user时发生错误2016-06-04 12:01:29 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=311251抓取user时发生错误2016-06-04 12:01:29 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=680361抓取user时发生错误2016-06-04 12:01:59 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=860459抓取user时发生错误2016-06-04 12:02:01 Error = list index out of range---
+ERROR:root: id=790339抓取user时发生错误2016-06-04 12:02:18 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=471622抓取user时发生错误2016-06-04 12:02:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=31347抓取user时发生错误2016-06-04 12:03:00 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860463抓取user时发生错误2016-06-04 12:03:13 Error = list index out of range---
+ERROR:root: id=131530抓取user时发生错误2016-06-04 12:03:24 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=381476抓取user时发生错误2016-06-04 12:03:44 Error = 'NoneType' object has no attribute 'get_text'---
+ERROR:root: id=590412抓取user时发生错误2016-06-04 12:03:50 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=860467抓取user时发生错误2016-06-04 12:04:10 Error = list index out of range---
+ERROR:root: id=850433抓取user时发生错误2016-06-04 12:04:16 Error = 'NoneType' object has no attribute 'find'---
+ERROR:root: id=471625抓取user时发生错误2016-06-04 12:04:42 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=31352抓取user时发生错误2016-06-04 12:04:43 Error = 1406 (22001): Data too long for column 'content' at row 1---
+ERROR:root: id=31353抓取user时发生错误2016-06-04 12:05:15 Error = 1406 (22001): Data too long for column 'content' at row 1---
