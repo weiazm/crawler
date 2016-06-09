@@ -18,7 +18,7 @@ while i <= 1759952:
     if i % 10000 == 0:
         id = id + 1
         print id
-        cur.execute('INSERT INTO refactor_crawler.count3(id,start,end) VALUES(%s,%s,%s);', [id, i, i + 10000])
+        cur.execute('INSERT INTO refactor_crawler.count_jieba(id,start,end) VALUES(%s,%s,%s);', [id, i, i + 10000])
     i = i + 1
 
 conn.commit()
